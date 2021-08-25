@@ -1,0 +1,14 @@
+"Platform"
+{
+	"Menu"
+	{
+		"Servers"
+		{
+			"dll"		"ServerBrowser.dll"
+			"dll_osx"	"ServerBrowser.dylib"
+			"dll_linux"	"ServerBrowser.so"
+			"interface"	"VGuiModuleServerBrowser001"
+			"MenuName"	"Servers"
+		}
+	}
+}
