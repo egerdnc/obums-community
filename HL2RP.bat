@@ -1,1 +1,0 @@
-start "SRCDS" /B srcds.exe -game garrysmod -conlog -port 27015 -console -conclearlog -condebug -tvdisable -maxplayers 52 +gamemode ixhl2rp +r_hunkalloclightmaps 0 +map rp_city2_v4_finalb -tickrate 23 +fps_max 30 +host_workshop_collection 2579826545 +hostport 27015
