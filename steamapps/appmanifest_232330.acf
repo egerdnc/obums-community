@@ -1,0 +1,37 @@
+"AppState"
+{
+	"appid"		"232330"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\monst\\Desktop\\steamcmd\\steamcmd.exe"
+	"name"		"Counter-Strike: Source Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Counter-Strike Source Dedicated Server"
+	"LastUpdated"		"1629437905"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"2322425351"
+	"buildid"		"6953255"
+	"LastOwner"		"76561200557265201"
+	"BytesToDownload"		"1126012800"
+	"BytesDownloaded"		"1126012800"
+	"BytesToStage"		"2322425351"
+	"BytesStaged"		"2322425351"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"232330"
+		{
+			"manifest"		"2613653526845220043"
+			"size"		"2229493575"
+		}
+		"232335"
+		{
+			"manifest"		"2005180106795533146"
+			"size"		"92931776"
+		}
+	}
+	"UserConfig"
+	{
+	}
+}
