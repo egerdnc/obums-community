@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in....
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Czars Castle IXHL2RP' (13 items)
@@ -34,6 +34,7 @@ Processing addon 2: Half-Life 2 Beta Weapons Pack V2 (254077907)...
 Processing addon 1: Ultimate Workshop Downloader (2214712098)...
    Mounted!
 WS: Finished!
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\aml'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longsword'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longswordbetaweapons'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard'
@@ -198,19 +199,19 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. fn - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/ulib/shared/hook.lua:109
 
-[22:05][ServerGuard] [mysql] Connected to the database!
+[22:51][ServerGuard] [mysql] Connected to the database!
 Making workshop map available for client download
 Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0826028.log
-L 08/26/2021 - 22:05:47: Log file started (file "logs\L0826028.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0826034.log
+L 08/26/2021 - 22:51:06: Log file started (file "logs\L0826034.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Writing cfg/banned_user.cfg.
-[22:05][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[22:51][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
@@ -221,138 +222,32 @@ Loaded (45) for Hamood
 Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: malformed number near '0i'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: malformed number near '0i'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-[LOG] Dex Mcgugget has lost 15 Tokens.
-[LOG] Dex Mcgugget ran 'take' on item 'Breen's Water' (#151)
-[LOG] Dex Mcgugget has gained a 'Breen's Water' #151.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 45 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 2 damage from worldspawn.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
 [LOG] Dex Mcgugget entered observer.
@@ -375,12 +270,31 @@ Refusing to load ix_vendingmachine because it is missing Type and Base keys!
 [LOG] Dex Mcgugget exited observer at their location.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget has removed area "Interrogation room - 1".
-[LOG] Dex Mcgugget has added area "Interrogation Room".
-[LOG] Dex Mcgugget used command '/AreaEdit'.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
-Dropped Hamood from server (Disconnect by user.)
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 3 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 31 damage from worldspawn.

@@ -1,0 +1,6 @@
+{
+"title"	: "Ah! My Leg!",
+"type" : "gamemode",
+"tags" : [ "fun", "realism" ],
+"ignore" : [ "*.psd", "*.vcproj", "*.svn*" ]
+}

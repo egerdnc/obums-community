@@ -40,7 +40,7 @@ if CLIENT then
 
     Derma_Query("Choose tpye", "ATM", "Withdraw", function()
       LocalPlayer():EmitSound("buttons/blip1.wav")
-      Derma_StringRequest("ATM", "Please input how much you wish to withdraw\n" .. "You currently have: " .. ply:GetCharacter():GetStoredMoney() .. " " .. ix.currency.plural, "", function(text)
+      Derma_StringRequest("ATM", "Please input how much you wish to withdraw\n" .. "Account Balance: " .. ply:GetCharacter():GetStoredMoney() .. " " .. ix.currency.plural, "", function(text)
         local textToNum = tonumber(text, 10)
         LocalPlayer():EmitSound("buttons/button14.wav")
         if isnumber(textToNum) then
@@ -59,7 +59,7 @@ if CLIENT then
     end,
     "Deposit", function()
       LocalPlayer():EmitSound("buttons/blip1.wav")
-      Derma_StringRequest("ATM", "Please input how much you wish to deposit\n" .. "You currently have: " .. ply:GetCharacter():GetStoredMoney() .. " " .. ix.currency.plural, "", function(text)
+      Derma_StringRequest("ATM", "Please input how much you wish to deposit\n" .. "Account Balance: " .. ply:GetCharacter():GetStoredMoney() .. " " .. ix.currency.plural, "", function(text)
         local textToNum = tonumber(text, 10)
         LocalPlayer():EmitSound("buttons/button14.wav")
         if isnumber(textToNum) then

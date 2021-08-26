@@ -347,3 +347,60 @@
 [22:10:09] Dex Mcgugget: /areaedit
 [22:10:33] Dex Mcgugget: /areaedit
 [22:11:42] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:12:18] New map: rp_city2_v4_finalb
+[22:12:32] Client "Hamood" connected.
+[22:14:13] Dropped "Hamood" from server<STEAM_0:0:420247449>
+[22:14:15] Client "Hamood" connected.
+[22:14:52] Dropped "Hamood" from server<STEAM_0:0:420247449>
+
+
+
+[22:15:08] New map: rp_city2_v4_finalb
+[22:15:14] Client "Hamood" connected.
+[22:15:33] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
+[22:15:46] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:18:35] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:18:52] New map: rp_city2_v4_finalb
+[22:19:02] Client "Hamood" connected.
+[22:19:23] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[22:20:11] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:22:43] Dex Mcgugget: /AdminSpawnMenu
+[22:22:45] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:23:02] New map: rp_city2_v4_finalb
+[22:23:03] Client "Hamood" connected.
+[22:23:23] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 20 seconds).
+[22:23:36] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:23:46] Dex Mcgugget: /AdminSpawnMenu
+[22:23:49] Dex Mcgugget: /AdminSpawnMenu
+[22:23:52] Dex Mcgugget: /adminspawnmenu
+[22:23:54] Dex Mcgugget: /adminspawnmenu test
+[22:24:58] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_atm
+[22:27:35] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:27:52] New map: rp_city2_v4_finalb
+[22:27:53] Client "Hamood" connected.
+[22:28:14] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[22:28:32] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:28:36] Dex Mcgugget: /adminspawnmenu
+[22:28:46] Dex Mcgugget: /AdminSpawnMenu
+[22:28:58] Dex Mcgugget: /event test
+[22:42:59] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_atm
+[22:50:38] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:51:06] New map: rp_city2_v4_finalb
+[22:51:08] Client "Hamood" connected.
+[22:51:50] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 42 seconds).
+[22:52:03] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
