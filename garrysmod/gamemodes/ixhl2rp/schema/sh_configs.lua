@@ -12,7 +12,7 @@ ix.config.Add("rationTokens", 30, "The amount of tokens that a person will get f
 	category = "economy"
 })
 
-ix.config.Add("rationInterval", 300, "How long a person needs to wait in seconds to get their next ration", nil, {
+ix.config.Add("rationInterval", 3600, "How long a person needs to wait in seconds to get their next ration", nil, {
 	data = {min = 0, max = 86400},
 	category = "economy"
 })

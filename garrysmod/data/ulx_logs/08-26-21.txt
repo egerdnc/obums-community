@@ -166,3 +166,4 @@
 [09:44:48] Client "Hamood" connected.
 [09:45:07] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
 [09:45:29] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[10:21:48] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
