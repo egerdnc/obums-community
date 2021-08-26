@@ -5,3 +5,16 @@
 [04:24:08]	Dex Mcgugget has gained a 'Citizen ID' #146.
 [04:24:08]	Hamood loaded the character 'Dex Mcgugget'
 [04:28:31]	Hamood (STEAM_0:0:420247449) has disconnected.
+[04:30:01]	Hamood has connected.
+[04:30:15]	Hamood loaded the character 'Dex Mcgugget'
+[04:31:37]	Hamood (STEAM_0:0:420247449) has disconnected.
+[04:33:11]	Hamood has connected.
+[04:34:14]	Hamood loaded the character 'Dex Mcgugget'
+[04:35:36]	Hamood (STEAM_0:0:420247449) has disconnected.
+[04:36:44]	Hamood has connected.
+[04:38:10]	Hamood loaded the character 'Dex Mcgugget'
+[04:41:32]	[OOC] Dex Mcgugget: test
+[04:42:27]	Hamood (STEAM_0:0:420247449) has disconnected.
+[04:43:21]	Hamood has connected.
+[04:44:45]	Hamood loaded the character 'Dex Mcgugget'
+[04:47:33]	[OOC] Dex Mcgugget: test

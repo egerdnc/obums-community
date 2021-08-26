@@ -1,7 +1,7 @@
 
 Schema.name = "HL2 RP"
 Schema.author = "nebulous.cloud"
-Schema.description = "A schema based on Half-Life 2."
+Schema.description = "Half-Life 2 Roleplay"
 
 -- Include netstream
 ix.util.Include("libs/thirdparty/sh_netstream2.lua")

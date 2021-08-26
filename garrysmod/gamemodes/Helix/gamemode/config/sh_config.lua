@@ -15,7 +15,7 @@ ix.config.Add("maxCharacters", 5, "The maximum number of characters a player can
 	data = {min = 1, max = 50},
 	category = "characters"
 })
-ix.config.Add("color", Color(75, 119, 190, 255), "The main color theme for the framework.", function(oldValue, newValue)
+ix.config.Add("color", Color(255, 111, 0, 255), "The main color theme for the framework.", function(oldValue, newValue)
 	if (newValue.a != 255) then
 		ix.config.Set("color", ColorAlpha(newValue, 255))
 		return
@@ -48,7 +48,7 @@ ix.config.Add("chatRange", 280, "The maximum distance a person's IC chat message
 	data = {min = 10, max = 5000, decimals = 1},
 	category = "chat"
 })
-ix.config.Add("chatMax", 256, "The maximum amount of characters that can be sent in chat.", nil, {
+ix.config.Add("chatMax", 64, "The maximum amount of characters that can be sent in chat.", nil, {
 	data = {min = 32, max = 1024},
 	category = "chat"
 })
@@ -56,7 +56,7 @@ ix.config.Add("chatColor", Color(255, 255, 150), "The default color for IC chat.
 ix.config.Add("chatListenColor", Color(175, 255, 150), "The color for IC chat if you are looking at the speaker.", nil, {
 	category = "chat"
 })
-ix.config.Add("oocDelay", 10, "The delay before a player can use OOC chat again in seconds.", nil, {
+ix.config.Add("oocDelay", 5, "The delay before a player can use OOC chat again in seconds.", nil, {
 	data = {min = 0, max = 10000},
 	category = "chat"
 })
@@ -67,15 +67,15 @@ ix.config.Add("loocDelay", 0, "The delay before a player can use LOOC chat again
 	data = {min = 0, max = 10000},
 	category = "chat"
 })
-ix.config.Add("spawnTime", 5, "The time it takes to respawn.", nil, {
+ix.config.Add("spawnTime", 30, "The time it takes to respawn.", nil, {
 	data = {min = 0, max = 10000},
 	category = "characters"
 })
-ix.config.Add("inventoryWidth", 6, "How many slots in a row there is in a default inventory.", nil, {
+ix.config.Add("inventoryWidth", 7, "How many slots in a row there is in a default inventory.", nil, {
 	data = {min = 0, max = 20},
 	category = "characters"
 })
-ix.config.Add("inventoryHeight", 4, "How many slots in a column there is in a default inventory.", nil, {
+ix.config.Add("inventoryHeight", 5, "How many slots in a column there is in a default inventory.", nil, {
 	data = {min = 0, max = 20},
 	category = "characters"
 })
@@ -103,7 +103,7 @@ end, {
 	data = {min = 75, max = 500},
 	category = "characters"
 })
-ix.config.Add("runSpeed", 190, "How fast a player normally runs.", function(oldValue, newValue)
+ix.config.Add("runSpeed", 150, "How fast a player normally runs.", function(oldValue, newValue)
 	for _, v in ipairs(player.GetAll())	do
 		v:SetRunSpeed(newValue)
 	end

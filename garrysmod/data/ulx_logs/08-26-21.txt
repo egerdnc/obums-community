@@ -3,3 +3,39 @@
 [04:23:23] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 97 seconds).
 [04:24:09] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
 [04:28:31] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[04:29:22] New map: rp_city2_v4_finalb
+[04:29:34] Client "Hamood" connected.
+[04:30:01] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 27 seconds).
+[04:30:15] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[04:31:37] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[04:31:55] New map: rp_city2_v4_finalb
+[04:32:52] Client "Hamood" connected.
+[04:33:11] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
+[04:34:15] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[04:35:36] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[04:35:53] New map: rp_city2_v4_finalb
+[04:36:26] Client "Hamood" connected.
+[04:36:44] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
+[04:38:10] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[04:40:53] Dex Mcgugget: asd
+[04:41:32] Dex Mcgugget: // test
+[04:42:27] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[04:42:58] New map: rp_city2_v4_finalb
+[04:43:02] Client "Hamood" connected.
+[04:43:21] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
+[04:44:45] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[04:47:33] Dex Mcgugget: // test
+[04:47:34] Dex Mcgugget: // test
+[04:47:35] Dex Mcgugget: // test
