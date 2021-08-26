@@ -130,3 +130,14 @@
 [07:13:45] Dex Mcgugget was killed by func_movelinear
 [07:15:09] Dex Mcgugget was killed by func_movelinear
 [07:19:09] Dex Mcgugget was killed by func_movelinear
+[08:00:15] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[08:00:30] New map: rp_city2_v4_finalb
+
+
+
+[08:01:54] New map: rp_city2_v4_finalb
+[08:01:59] Client "Hamood" connected.
+[08:02:18] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
