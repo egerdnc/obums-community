@@ -1,4 +1,4 @@
-CLASS.name = "i4"
+CLASS.name = "UNION i4"
 CLASS.faction = FACTION_MPF
 CLASS.isDefault = true
 
@@ -6,15 +6,9 @@ function CLASS:CanSwitchTo(client)
 	return Schema:IsCombineRank(client:Name(), "i4")
 end
 
-function FACTION:OnNameChanged(client, oldValue, value)
+function CLASS:OnSet(client)
   local character = client:GetCharacter()
-	if (!Schema:IsCombineRank(oldValue, "GRID") and Schema:IsCombineRank(value, "GRID")) then
-		 character:SetModel("models/dpfilms/metropolice/hl2concept.mdl")
-  elseif (!Schema:IsCombineRank(oldValue, "JURY") and Schema:IsCombineRank(value, "JURY")) then
-		 character:SetModel("models/dpfilms/metropolice/policetrench.mdl")
-  elseif (!Schema:IsCombineRank(oldValue, "UNION") and Schema:IsCombineRank(value, "UNION")) then
-		 character:SetModel("models/dpfilms/metropolice/hdpolice.mdl")
-  end
+	character:SetModel("models/dpfilms/metropolice/hdpolice.mdl")
 end
 
 CLASS_I4 = CLASS.index
