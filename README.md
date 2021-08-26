@@ -11,7 +11,7 @@ Mix the files using **instructions**.
 Once you downloaded the files from github repo and extra files **unzip the garrysmod.rar**\
 Put everything in garrysmod.rar into **garrysmod folder that located in root folder**.\
 Don't forget to import **Counter Strike: Source** to your localhost.\
-Don't forget to import **Half Life 2 with Episodes** to your localhost\
+Don't forget to import **Half Life 2 with Episodes** to your localhost
 
 ## Commits and Remotes
 Dont make any other origin except master and origin.\
