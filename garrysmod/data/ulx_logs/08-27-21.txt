@@ -192,3 +192,22 @@
 [01:56:38] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
 [01:57:30] Dex Mcgugget: /apply
 [01:58:25] Dex Mcgugget<STEAM_0:0:420247449> spawned sent item_ammo_357_large
+[02:02:35] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_atm
+
+
+
+[02:17:54] New map: rp_city2_v4_finalb
+[02:17:57] Client "Hamood" connected.
+[02:18:19] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 22 seconds).
+[02:18:37] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[02:21:42] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[02:22:06] New map: rp_city2_v4_finalb
+[02:22:59] Client "Hamood" connected.
+[02:23:31] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 32 seconds).
+[02:23:45] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[02:28:34] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
+[02:29:15] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
+[02:33:29] Dex Mcgugget was killed by prop_physics

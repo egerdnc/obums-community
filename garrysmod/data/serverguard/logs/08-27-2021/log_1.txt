@@ -207,3 +207,23 @@
 [Fri Aug 27 01:57:30 2021] <STEAM_0:0:420247449> Dex Mcgugget: /apply
 [Fri Aug 27 01:58:25 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [120][item_ammo_357_large]"
 [Fri Aug 27 01:59:43 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:02:35 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [91][ix_atm]"
+[Fri Aug 27 02:07:37 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "light"
+[Fri Aug 27 02:07:41 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "light"
+[Fri Aug 27 02:11:08 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:08 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:09 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:09 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:09 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:09 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:09 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:10 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:11:10 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
+[Fri Aug 27 02:17:57 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 02:18:19 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 02:21:42 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 02:22:59 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 02:23:31 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 02:28:34 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [115][ix_scanner]"
+[Fri Aug 27 02:29:15 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [115][ix_scanner]"
+[Fri Aug 27 02:33:29 2021] prop_physics has killed Dex Mcgugget.

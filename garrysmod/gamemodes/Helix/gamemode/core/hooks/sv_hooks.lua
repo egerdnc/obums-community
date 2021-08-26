@@ -252,25 +252,25 @@ function GM:PlayerLoadedCharacter(client, character, lastChar)
 		client.ixRagdoll:Remove()
 	end
 
-	local faction = ix.faction.indices[character:GetFaction()]
-	local uniqueID = "ixSalary" .. client:UniqueID()
+	--local faction = ix.faction.indices[character:GetFaction()]
+	-- local uniqueID = "ixSalary" .. client:UniqueID()
 
-	if (faction and faction.pay and faction.pay > 0) then
-		timer.Create(uniqueID, faction.payTime or 300, 0, function()
-			if (IsValid(client)) then
-				if (hook.Run("CanPlayerEarnSalary", client, faction) != false) then
-					local pay = hook.Run("GetSalaryAmount", client, faction) or faction.pay
+	-- if (faction and faction.pay and faction.pay > 0) then
+	-- 	timer.Create(uniqueID, faction.payTime or 300, 0, function()
+	-- 		if (IsValid(client)) then
+	-- 			if (hook.Run("CanPlayerEarnSalary", client, faction) != false) then
+	-- 				local pay = hook.Run("GetSalaryAmount", client, faction) or faction.pay
 
-					character:GiveMoney(pay)
-					client:NotifyLocalized("salary", ix.currency.Get(pay))
-				end
-			else
-				timer.Remove(uniqueID)
-			end
-		end)
-	elseif (timer.Exists(uniqueID)) then
-		timer.Remove(uniqueID)
-	end
+	-- 				character:GiveMoney(pay)
+	-- 				client:NotifyLocalized("salary", ix.currency.Get(pay))
+	-- 			end
+	-- 		else
+	-- 			timer.Remove(uniqueID)
+	-- 		end
+	-- 	end)
+	-- elseif (timer.Exists(uniqueID)) then
+	-- 	timer.Remove(uniqueID)
+	-- end
 
 	hook.Run("PlayerLoadout", client)
 end
