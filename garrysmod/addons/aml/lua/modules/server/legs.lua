@@ -1,11 +1,29 @@
+BrokenLegs = {}
+
+-- @ply | Player object that Gmod gives us
+--@attacker | Attacker's player object that gmod gives us
+-- returns void
 function FallLegs(ply, attacker)
-	if ply:IsPlayer() and attacker:GetClass() == "worldspawn" and r_falllegs == true then
+	local runSpeed = ply:GetRunSpeed()
+	local walkSpeed = ply:GetWalkSpeed()
+
+	if ply:IsPlayer() and attacker:GetClass() == "worldspawn" then
 		if ply:GetWalkSpeed() > r_walkspeed then
 			ply:EmitSound( "vo/npc/male01/myleg01.wav" )
 			ply:SetWalkSpeed( r_walkspeed )
 			ply:SetRunSpeed( r_runspeed )
 			ply:ChatPrint("You broke your legs!")
+			BrokenLegs[ply] = true
+			
+			timer.Simple(300, function()
+				ply:SetRunSpeed(240)
+				ply:SetWalkSpeed(124)
+				ply:ChatPrint("Your legs is good again!")
+				BrokenLegs[ply] = false
+			end)
 		end
 	end
 end
+
+-- Hooks and Network Messages
 hook.Add("PlayerHurt", "FallLegs", FallLegs)

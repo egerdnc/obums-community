@@ -404,3 +404,94 @@
 [22:51:08] Client "Hamood" connected.
 [22:51:50] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 42 seconds).
 [22:52:03] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:02:19] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+[23:02:19] Client "Hamood" connected.
+[23:02:39] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 20 seconds).
+[23:02:59] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:03:39] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:04:49] New map: rp_city2_v4_finalb
+[23:04:49] Client "Hamood" connected.
+[23:05:10] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[23:05:28] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:10:43] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:11:03] New map: rp_city2_v4_finalb
+[23:11:06] Client "Hamood" connected.
+[23:11:27] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[23:11:59] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:12:40] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:12:59] New map: rp_city2_v4_finalb
+[23:13:03] Client "Hamood" connected.
+[23:13:23] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 20 seconds).
+[23:13:41] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:15:32] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:15:52] New map: rp_city2_v4_finalb
+[23:15:57] Client "Hamood" connected.
+[23:16:17] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 20 seconds).
+[23:16:29] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:22:34] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:23:34] New map: rp_city2_v4_finalb
+[23:23:44] Client "Hamood" connected.
+[23:24:05] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[23:24:19] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:24:43] Dex Mcgugget: /chargiveitem Hamood Notepad 1
+[23:24:47] Dex Mcgugget: /chargiveitem Dex Notepad 1
+[23:25:01] Dex Mcgugget: /chargiveitem Dex Notepad 1
+[23:26:14] Dex Mcgugget<STEAM_0:0:420247449> spawned model models/props_c17/furniturecupboard001a.mdl
+[23:26:20] Dex Mcgugget<STEAM_0:0:420247449> spawned model models/props_c17/furnituredrawer001a.mdl
+[23:26:23] Dex Mcgugget<STEAM_0:0:420247449> spawned model models/props_c17/furnituredrawer001a.mdl
+[23:26:24] Dex Mcgugget<STEAM_0:0:420247449> spawned model models/props_c17/furnituredrawer001a.mdl
+[23:33:40] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:34:04] New map: rp_city2_v4_finalb
+[23:34:48] Client "Hamood" connected.
+[23:35:10] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 22 seconds).
+[23:35:29] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:37:59] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:38:18] New map: rp_city2_v4_finalb
+[23:38:19] Client "Hamood" connected.
+[23:38:39] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 20 seconds).
+[23:38:52] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:42:26] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:42:47] New map: rp_city2_v4_finalb
+[23:42:57] Client "Hamood" connected.
+[23:43:18] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[23:43:50] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:48:35] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[23:49:29] New map: rp_city2_v4_finalb
+[23:49:32] Client "Hamood" connected.
+[23:49:53] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[23:50:19] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[23:51:25] Dex Mcgugget: /plywhitelist Hamood biotic
+[23:51:29] Dex Mcgugget: /plywhitelist Dex biotic
+[23:52:49] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_dog
+[23:52:50] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_dog
+[23:53:16] Dex Mcgugget: /plytransfer Dex biotic
+[23:59:06] Dex Mcgugget: /plytransfer Dex biotic
+[23:59:25] Dex Mcgugget: /plytransfer Dex biotic
+<Logging continued in "data/ulx_logs/08-27-21.txt">

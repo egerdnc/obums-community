@@ -159,3 +159,49 @@
 [Thu Aug 26 22:50:38 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
 [Thu Aug 26 22:51:08 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
 [Thu Aug 26 22:51:50 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:02:19 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:02:19 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:02:39 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:03:39 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:04:49 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:05:10 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:05:32 2021] worldspawn has killed Dex Mcgugget.
+[Thu Aug 26 23:10:43 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:11:06 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:11:27 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:12:04 2021] worldspawn has killed Dex Mcgugget.
+[Thu Aug 26 23:12:40 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:13:03 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:13:23 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:15:32 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:15:57 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:16:17 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:22:34 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:23:44 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:24:05 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:24:43 2021] <STEAM_0:0:420247449> Dex Mcgugget: /chargiveitem Hamood Notepad 1
+[Thu Aug 26 23:24:47 2021] <STEAM_0:0:420247449> Dex Mcgugget: /chargiveitem Dex Notepad 1
+[Thu Aug 26 23:25:01 2021] <STEAM_0:0:420247449> Dex Mcgugget: /chargiveitem Dex Notepad 1
+[Thu Aug 26 23:26:14 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned prop "Entity [111][prop_physics] (models/props_c17/FurnitureCupboard001a.mdl)"
+[Thu Aug 26 23:26:20 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned prop "Entity [111][prop_physics] (models/props_c17/FurnitureDrawer001a.mdl)"
+[Thu Aug 26 23:26:23 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned prop "Entity [113][prop_physics] (models/props_c17/FurnitureDrawer001a.mdl)"
+[Thu Aug 26 23:26:24 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned prop "Entity [111][prop_physics] (models/props_c17/FurnitureDrawer001a.mdl)"
+[Thu Aug 26 23:33:40 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:34:48 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:35:10 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:37:59 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:38:19 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:38:39 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:42:26 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:42:57 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:43:18 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:48:35 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 23:49:32 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 23:49:53 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 23:51:25 2021] <STEAM_0:0:420247449> Dex Mcgugget: /plywhitelist Hamood biotic
+[Thu Aug 26 23:51:29 2021] <STEAM_0:0:420247449> Dex Mcgugget: /plywhitelist Dex biotic
+[Thu Aug 26 23:52:49 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_dog]"
+[Thu Aug 26 23:52:50 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [104][npc_dog]"
+[Thu Aug 26 23:53:16 2021] <STEAM_0:0:420247449> Dex Mcgugget: /plytransfer Dex biotic
+[Thu Aug 26 23:59:06 2021] <STEAM_0:0:420247449> Dex Mcgugget: /plytransfer Dex biotic
+[Thu Aug 26 23:59:25 2021] <STEAM_0:0:420247449> Dex Mcgugget: /plytransfer Dex biotic

@@ -4300,3 +4300,215 @@ Hamood|2|STEAM_0:0:420247449
 Refusing to load ix_vendingmachine because it is missing Type and Base keys!
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:17: unexpected symbol near ')'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:17: unexpected symbol near ')'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:17: unexpected symbol near ')'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:16: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - addons/aml/lua/modules/client/sounds.lua:16
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:16: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - addons/aml/lua/modules/client/sounds.lua:16
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:16: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - addons/aml/lua/modules/client/sounds.lua:16
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[aml] addons/aml/lua/modules/client/sounds.lua:16: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - addons/aml/lua/modules/client/sounds.lua:16
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_vortigaunt.lua:19: '(' expected near '='
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_vortigaunt.lua:26: '<name>' expected near 'function'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_vortigaunt.lua:26: '(' expected near 'function'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_vortigaunt.lua:2: '=' expected near 'FACTION'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_vortigaunt.lua:2: unexpected symbol near '='
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:14: unexpected symbol near ')'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:40: function arguments expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:40: function arguments expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:40: function arguments expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+

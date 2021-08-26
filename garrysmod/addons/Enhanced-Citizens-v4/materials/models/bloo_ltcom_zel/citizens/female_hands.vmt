@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\bloo_ltcom_zel\citizens\female_hands"
+    "$bumpmap" "models\bloo_ltcom_zel\citizens\female_hands_n"
+	"$halflambert" 1
+	"$nocull" 1
+
+    "$phong" "1"
+	"$phongexponent" "2.5"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+}

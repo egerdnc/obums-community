@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\bloo_ltcom_zel\citizens\citizen_rebel"
+    "$bumpmap" "models\bloo_ltcom_zel\citizens\citizen_rebel_n"
+	"$halflambert" 1
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "0.3"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "30"							
+	"$rimlightboost" "0.1"
+}

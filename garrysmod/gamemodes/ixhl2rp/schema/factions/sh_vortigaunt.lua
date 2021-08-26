@@ -1,4 +1,4 @@
-
+VORTIGAUNT_MODEL = "models/vortigaunt.mdl"
 FACTION.name = "Vortigaunt"
 FACTION.description = ""
 FACTION.color = Color(0, 150, 0)
@@ -8,10 +8,23 @@ FACTION.isDefault = false
 FACTION.isGloballyRecognized = false
 FACTION.runSounds = {[0] = "npc/vort/vort_foot1.wav", [1] = "npc/vort/vort_foot2.wav"}
 
-function FACTION:OnTransfered(client)
+-- Hooked faction functions below there
+function FACTION:OnTransfered(character)
+	initVortigaunt(character)
+end
+
+function FACTION:OnSpawn(client)
 	local character = client:GetCharacter()
 
-	character:SetModel(self.models[1])
+	initVortigaunt(character)
+end
+
+function FACTION:OnTransferred(character)
+	initVortigaunt(character)
+end
+
+function initVortigaunt(ply)
+	ply:SetModel(VORTIGAUNT_MODEL)
 end
 
 FACTION_VORTIGAUNT = FACTION.index

@@ -1,3 +1,59 @@
+<<<<<<< Updated upstream
 [00:33:26]	Dex Mcgugget has spawned a 'Entity [104][ix_rationdispenser]'.
 [00:36:13]	Dex Mcgugget has gained 5 Tokens.
 [00:36:58]	Hamood (STEAM_0:0:420247449) has disconnected.
+=======
+[00:01:30]	Dex Mcgugget used command '/PlyWhitelist dex vortigaunt'.
+[00:01:45]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:01:53]	Dex Mcgugget entered observer.
+[00:03:19]	Dex Mcgugget exited observer at their location.
+[00:03:22]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:03:27]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:04:09]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:04:33]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:05:56]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:05:58]	Dex Mcgugget used command '/PlyTransfer dex vortigaunt'.
+[00:06:11]	Dex Mcgugget used command '/PlyTransfer dex citizen'.
+[00:10:12]	Dex Mcgugget used command '/PlyTransfer dex vortigaunt'.
+[00:10:23]	Hamood (STEAM_0:0:420247449) deleted character 'Dex Mcgugget'
+[00:10:56]	Hamood created the character 'Dex Mcgugget'
+[00:10:56]	Dex Mcgugget has gained a 'Suitcase' #151.
+[00:10:56]	Dex Mcgugget has gained a 'Flashlight' #152.
+[00:10:56]	Dex Mcgugget has gained a 'Citizen ID' #153.
+[00:10:56]	Hamood loaded the character 'Dex Mcgugget'
+[00:11:11]	Dex Mcgugget used command '/PlyTransfer dex vortigaunt'.
+[00:12:02]	Hamood (STEAM_0:0:420247449) has disconnected.
+[00:12:56]	Hamood has connected.
+[00:13:15]	Hamood (STEAM_0:0:420247449) deleted character 'Dex Mcgugget'
+[00:13:24]	Hamood (STEAM_0:0:420247449) has disconnected.
+[00:15:45]	Hamood has connected.
+[00:17:45]	Hamood (STEAM_0:0:420247449) has disconnected.
+[00:18:37]	Hamood has connected.
+[00:20:33]	Hamood has connected.
+[00:20:57]	Hamood (STEAM_0:0:420247449) has disconnected.
+[00:26:48]	Hamood has connected.
+[00:28:40]	Hamood created the character 'Dex Mcgugget'
+[00:28:40]	Dex Mcgugget has gained a 'Suitcase' #151.
+[00:28:40]	Dex Mcgugget has gained a 'Flashlight' #152.
+[00:28:40]	Dex Mcgugget has gained a 'Citizen ID' #153.
+[00:28:40]	Hamood loaded the character 'Dex Mcgugget'
+[00:30:07]	Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
+[00:30:10]	Dex Mcgugget has spawned a 'NPC [102][npc_metropolice]'.
+[00:30:11]	Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
+[00:30:12]	Dex Mcgugget has spawned a 'NPC [102][npc_metropolice]'.
+[00:30:14]	Dex Mcgugget has taken 10 damage from npc_metropolice.
+[00:30:17]	Dex Mcgugget has taken 10 damage from npc_metropolice.
+[00:30:19]	Dex Mcgugget has taken 10 damage from npc_metropolice.
+[00:30:21]	Dex Mcgugget has taken 10 damage from npc_metropolice.
+[00:31:37]	Dex Mcgugget entered observer.
+[00:31:42]	Dex Mcgugget exited observer at their location.
+[00:31:43]	Dex Mcgugget entered observer.
+[00:31:46]	Dex Mcgugget exited observer at their location.
+[00:31:50]	Dex Mcgugget has spawned a 'Entity [101][ix_rationdispenser]'.
+[00:32:21]	Dex Mcgugget ran 'Open' on item 'Ration' (#154)
+[00:32:21]	Dex Mcgugget has gained a 'Supplements' #155.
+[00:32:21]	Dex Mcgugget has gained a 'Breen's Water' #156.
+[00:32:21]	Dex Mcgugget has gained 30 Tokens.
+[00:32:25]	Dex Mcgugget ran 'Eat' on item 'Supplements' (#155)
+[00:32:26]	Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#156)
+>>>>>>> Stashed changes
