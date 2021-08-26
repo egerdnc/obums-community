@@ -1,0 +1,125 @@
+// Choreo version 1
+actor "Fisherman"
+{
+  channel "Audio"
+  {
+    event speak "fish_crabpot01"
+    {
+      time 0.020833 3.087409
+      param "lostcoast.fish_crabpot02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "look player"
+    {
+      time 0.020833 3.500000
+      param "!player"
+      event_ramp
+      {
+        0.3600 0.7020
+        3.1000 0.7686
+      }
+    }
+  }
+  channel "move to"
+  {
+  }
+  channel "face to"
+  {
+  }
+  channel "Postures"
+  {
+  }
+  channel "Gestures"
+  {
+    event gesture "NULL"
+    {
+      time 0.000000 0.946970
+      param ""
+      sequenceduration -1.000000
+    }
+    event gesture "1"
+    {
+      time 0.257576 2.178787
+      param "g_shrug"
+      event_ramp
+      {
+        0.2553 0.7333
+        1.5836 0.7020
+      }
+      absolutetags playback_time
+      {
+        "apex" 0.159088
+        "accent" 0.300852
+        "loop" 0.629520
+        "end" 0.743468
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.187392
+        "accent" 0.353800
+        "loop" 0.624640
+        "end" 0.770308
+      }
+      sequenceduration 1.633333
+    }
+  }
+  channel "body gesture"
+  {
+  }
+  channel "Head flex"
+  {
+    event gesture "NULL"
+    {
+      time 0.000000 0.687500
+      param ""
+      sequenceduration -1.000000
+    }
+    event gesture "1"
+    {
+      time 0.272727 1.906061
+      param "HG_tiltright"
+      event_ramp
+      {
+        0.2383 0.8667
+        1.3085 0.8078
+      }
+      absolutetags playback_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.791048
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.791048
+      }
+      sequenceduration 1.633333
+    }
+  }
+  channel "Flex Facial"
+  {
+  }
+  channel "Trigger"
+  {
+  }
+}
+mapname "maps\d2_lostcoast.bsp"
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,235 @@
+L 08/22/2021 - 18:12:06: Log file started (file "logs\L0822003.log") (game "C:\Users\monst\Desktop\HL2Server\garrysmod") (version "8283")
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_noclip" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxprops" "150"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxragdolls" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxnpcs" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxballoons" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxeffects" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxdynamite" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxlamps" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxthrusters" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxwheels" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxhoverballs" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxvehicles" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxbuttons" "0"
+L 08/22/2021 - 18:12:06: server_cvar: "sbox_maxemitters" "0"
+L 08/22/2021 - 18:12:07: Connection to Steam servers successful.
+L 08/22/2021 - 18:12:07:    Public IP is 75.157.60.132.
+L 08/22/2021 - 18:12:07: Assigned anonymous gameserver Steam ID [A-1:2921657351(18295)].
+L 08/22/2021 - 18:12:07: VAC secure mode is activated.
+L 08/22/2021 - 18:12:25: "Optical<2><STEAM_0:0:460042086><>" connected, address "89.168.60.110:27005"
+L 08/22/2021 - 18:12:26: "Optical<2><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/22/2021 - 18:12:35: "Tzar<3><STEAM_0:0:140210729><>" connected, address "192.168.1.71:27006"
+L 08/22/2021 - 18:12:36: "Tzar<3><STEAM_0:0:140210729><>" STEAM USERID validated
+L 08/22/2021 - 18:12:45: "Optical<2><STEAM_0:0:460042086><>" entered the game
+L 08/22/2021 - 18:13:02: "Tzar<3><STEAM_0:0:140210729><>" entered the game
+L 08/22/2021 - 18:17:55: "adsin15<4><STEAM_0:0:35761453><>" connected, address "68.118.235.7:27005"
+L 08/22/2021 - 18:17:55: "adsin15<4><STEAM_0:0:35761453><>" STEAM USERID validated
+L 08/22/2021 - 18:18:06: "Toorusty<5><STEAM_0:0:67125359><>" connected, address "73.240.121.48:27005"
+L 08/22/2021 - 18:18:06: "Toorusty<5><STEAM_0:0:67125359><>" STEAM USERID validated
+L 08/22/2021 - 18:18:22: "Toorusty<5><STEAM_0:0:67125359><>" entered the game
+L 08/22/2021 - 18:18:38: "adsin15<4><STEAM_0:0:35761453><>" entered the game
+L 08/22/2021 - 18:18:59: [ULX] GMan granted access "helix - bypass ooc timer" to group Moderator
+L 08/22/2021 - 18:19:12: [ULX] GMan granted access "helix - event" to group Moderator
+L 08/22/2021 - 18:19:13: [ULX] GMan revoked access "helix - event" to group Moderator
+L 08/22/2021 - 18:19:42: [ULX] GMan revoked access "ulx votemap" to group user
+L 08/22/2021 - 18:19:53: [ULX] GMan granted access "ulx kick" to group Moderator
+L 08/22/2021 - 18:19:57: [ULX] GMan granted access "ulx ban" to group Moderator
+L 08/22/2021 - 18:20:00: [ULX] GMan granted access "ulx noclip" to group Moderator
+L 08/22/2021 - 18:20:02: [ULX] GMan granted access "ulx spectate" to group Moderator
+L 08/22/2021 - 18:20:03: [ULX] GMan granted access "ulx unban" to group Moderator
+L 08/22/2021 - 18:20:17: [ULX] GMan granted access "ulx goto" to group Moderator
+L 08/22/2021 - 18:20:17: [ULX] GMan granted access "ulx bring" to group Moderator
+L 08/22/2021 - 18:20:18: [ULX] GMan granted access "ulx return" to group Moderator
+L 08/22/2021 - 18:20:19: [ULX] GMan granted access "ulx teleport" to group Moderator
+L 08/22/2021 - 18:20:20: [ULX] GMan revoked access "ulx teleport" to group Moderator
+L 08/22/2021 - 18:20:32: [ULX] GMan granted access "ulx freeze" to group Moderator
+L 08/22/2021 - 18:20:49: [ULX] GMan granted access "ulx unfreeze" to group Moderator
+L 08/22/2021 - 18:20:54: [ULX] GMan granted access "ulx mute" to group Moderator
+L 08/22/2021 - 18:22:32: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/interior_fence002d.mdl
+L 08/22/2021 - 18:24:07: [ULX] Jake Esposito teleported to James Sinclair
+L 08/22/2021 - 18:25:21: [ULX] GMan removed all access rights from Vixie Cubic
+L 08/22/2021 - 18:25:23: [ULX] GMan removed all access rights from Optical
+L 08/22/2021 - 18:25:26: [ULX] GMan removed all access rights from Toorusty
+L 08/22/2021 - 18:25:28: [ULX] GMan removed all access rights from James Charles
+L 08/22/2021 - 18:25:44: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster01a.mdl
+L 08/22/2021 - 18:25:51: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:25:54: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 08/22/2021 - 18:26:35: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:26:35: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:26:36: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:26:40: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/interior_fence002d.mdl
+L 08/22/2021 - 18:27:02: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/interior_fence002d.mdl
+L 08/22/2021 - 18:27:41: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:28:09: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/22/2021 - 18:28:11: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/22/2021 - 18:28:16: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/22/2021 - 18:28:22: [ULX] GMan added James Williams to group Moderator
+L 08/22/2021 - 18:28:23: [ULX] GMan added Jake Esposito to group Moderator
+L 08/22/2021 - 18:28:26: [ULX] GMan added James Sinclair to group Moderator
+L 08/22/2021 - 18:30:38: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metal_paintcan001a.mdl
+L 08/22/2021 - 18:30:51: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metal_paintcan001a.mdl
+L 08/22/2021 - 18:31:08: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metal_paintcan001a.mdl
+L 08/22/2021 - 18:31:20: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001b.mdl
+L 08/22/2021 - 18:32:38: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metalbucket01a.mdl
+L 08/22/2021 - 18:33:21: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:34:36: "Optical<2><STEAM_0:0:460042086><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 18:35:05: [ULX] James Sinclair brought Jake Esposito
+L 08/22/2021 - 18:35:18: "Rubbishh26<6><STEAM_0:0:193899136><>" connected, address "73.254.47.16:27005"
+L 08/22/2021 - 18:35:18: "Rubbishh26<6><STEAM_0:0:193899136><>" STEAM USERID validated
+L 08/22/2021 - 18:35:20: [ULX] James Sinclair brought Jake Esposito
+L 08/22/2021 - 18:35:30: [ULX] James Sinclair brought Jake Esposito
+L 08/22/2021 - 18:35:40: [ULX] James Sinclair brought Jake Esposito
+L 08/22/2021 - 18:35:51: [ULX] James Sinclair brought Jake Esposito
+L 08/22/2021 - 18:35:56: "Rubbishh26<6><STEAM_0:0:193899136><>" entered the game
+L 08/22/2021 - 18:37:46: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/buoy01.mdl
+L 08/22/2021 - 18:38:04: [ULX] James Sinclair brought Rubbishh
+L 08/22/2021 - 18:39:33: [ULX] James Sinclair brought Rubbishh
+L 08/22/2021 - 18:39:59: [ULX] James Sinclair brought Rubbishh
+L 08/22/2021 - 18:40:25: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:40:26: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+L 08/22/2021 - 18:41:49: [ULX] James Sinclair brought Rubbishh
+L 08/22/2021 - 18:44:31: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+L 08/22/2021 - 18:45:04: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:09: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:11: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:13: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:14: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:15: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:16: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:19: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:20: [ULX] James Sinclair teleported to GMan
+L 08/22/2021 - 18:45:42: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+L 08/22/2021 - 18:45:49: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_vehicles/tire001b_truck.mdl
+L 08/22/2021 - 18:45:54: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/cafeteria_table001a.mdl
+L 08/22/2021 - 18:45:59: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001a.mdl
+L 08/22/2021 - 18:46:00: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/popcan01a.mdl
+L 08/22/2021 - 18:46:02: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+L 08/22/2021 - 18:46:06: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:47:29: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trafficcone001a.mdl
+L 08/22/2021 - 18:47:30: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/22/2021 - 18:48:16: "Rubbishh26<6><STEAM_0:0:193899136><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 18:48:36: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+L 08/22/2021 - 18:49:33: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+L 08/22/2021 - 18:49:44: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+L 08/22/2021 - 18:50:24: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/trappropeller_blade.mdl
+L 08/22/2021 - 18:50:28: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/watermelon01.mdl
+L 08/22/2021 - 18:50:33: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/glassbottle01a.mdl
+L 08/22/2021 - 18:50:36: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/watermelon01.mdl
+L 08/22/2021 - 18:50:39: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/jar01a.mdl
+L 08/22/2021 - 18:50:41: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/watermelon01.mdl
+L 08/22/2021 - 18:51:52: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trafficcone001a.mdl
+L 08/22/2021 - 18:51:56: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/trappropeller_blade.mdl
+L 08/22/2021 - 18:51:58: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/harpoon002a.mdl
+L 08/22/2021 - 18:53:06: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:53:19: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:22: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:28: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metalbucket01a.mdl
+L 08/22/2021 - 18:53:43: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:44: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:44: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:45: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:46: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:53:47: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:53:48: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:53:49: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:53:50: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:53:59: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:00: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:01: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:02: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:03: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:03: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:04: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:54:13: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/lockerdoorleft.mdl
+L 08/22/2021 - 18:54:28: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturestove001a.mdl
+L 08/22/2021 - 18:55:02: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturecouch001a.mdl
+L 08/22/2021 - 18:55:52: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:55:54: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturecouch001a.mdl
+L 08/22/2021 - 18:56:04: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_trainstation/benchoutdoor01a.mdl
+L 08/22/2021 - 18:56:08: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:56:16: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:56:18: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:56:27: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:56:29: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:56:31: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:07: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturecouch002a.mdl
+L 08/22/2021 - 18:57:16: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:30: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:31: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:32: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:32: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:33: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:34: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:35: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:36: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:37: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:38: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:39: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:40: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:41: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:42: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:42: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:43: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:44: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:45: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:46: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:47: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:57:49: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:51: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:52: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:57:53: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:57:57: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:57:58: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+L 08/22/2021 - 18:58:00: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/kennel_physics.mdl
+L 08/22/2021 - 18:58:01: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 18:58:09: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+L 08/22/2021 - 18:58:32: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+L 08/22/2021 - 18:58:36: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+L 08/22/2021 - 18:58:39: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+L 08/22/2021 - 18:59:01: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_interiors/bathtub01a.mdl
+L 08/22/2021 - 18:59:10: [ULX] James Sinclair<STEAM_0:0:35761453> spawned model models/props_interiors/pot02a.mdl
+L 08/22/2021 - 19:00:45: "adsin15<4><STEAM_0:0:35761453><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 19:05:12: [ULX] GMan<STEAM_0:0:140210729> spawned model models/props_c17/furnituredrawer001a.mdl
+L 08/22/2021 - 19:13:26: "Squire_c<7><STEAM_0:0:107695957><>" connected, address "104.56.242.60:27005"
+L 08/22/2021 - 19:13:33: "Squire_c<7><STEAM_0:0:107695957><>" STEAM USERID validated
+L 08/22/2021 - 19:15:39: "Squire_c<7><STEAM_0:0:107695957><>" entered the game
+L 08/22/2021 - 19:19:04: [ULX] GMan brought Jake Esposito
+L 08/22/2021 - 19:19:24: [ULX] GMan granted access "helix - observer" to group Moderator
+L 08/22/2021 - 19:19:30: [ULX] GMan granted access "helix - textadd" to group Moderator
+L 08/22/2021 - 19:19:30: [ULX] GMan granted access "helix - textremove" to group Moderator
+L 08/22/2021 - 19:20:37: [ULX] Jake Esposito teleported to Joey Jonderson
+L 08/22/2021 - 19:20:45: [ULX] Jake Esposito teleported to Joey Jonderson
+L 08/22/2021 - 19:20:50: [ULX] Jake Esposito teleported to Joey Jonderson
+L 08/22/2021 - 19:20:52: [ULX] GMan granted god mode upon Joey Jonderson
+L 08/22/2021 - 19:21:03: "Optical<8><STEAM_0:0:460042086><>" connected, address "89.168.60.110:27005"
+L 08/22/2021 - 19:21:03: "Optical<8><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/22/2021 - 19:21:27: "Optical<8><STEAM_0:0:460042086><>" entered the game
+L 08/22/2021 - 19:22:38: [ULX] GMan<STEAM_0:0:140210729> spawned sent item_ammo_357_large
+L 08/22/2021 - 19:22:40: [ULX] GMan<STEAM_0:0:140210729> spawned sent item_box_buckshot
+L 08/22/2021 - 19:22:59: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/22/2021 - 19:23:02: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:23:28: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:23:48: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/22/2021 - 19:23:49: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:24:02: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:24:12: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+L 08/22/2021 - 19:24:14: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:24:18: [ULX] GMan granted god mode upon Jake Esposito
+L 08/22/2021 - 19:25:20: [ULX] GMan slayed Joey Jonderson
+L 08/22/2021 - 19:26:12: [ULX] GMan brought Joey Jonderson
+L 08/22/2021 - 19:26:20: [ULX] Jake Esposito teleported to GMan
+L 08/22/2021 - 19:26:42: [ULX] Jake Esposito teleported to Joey Jonderson
+L 08/22/2021 - 19:26:46: [ULX] GMan brought Joey Jonderson
+L 08/22/2021 - 19:26:54: [ULX] Jake Esposito teleported to Joey Jonderson
+L 08/22/2021 - 19:27:19: "Peppermint<9><STEAM_0:1:115933392><>" connected, address "142.197.53.228:27005"
+L 08/22/2021 - 19:27:19: "Peppermint<9><STEAM_0:1:115933392><>" STEAM USERID validated
+L 08/22/2021 - 19:27:38: "Squire_c<7><STEAM_0:0:107695957><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 19:27:44: "Squire_c<10><STEAM_0:0:107695957><>" connected, address "104.56.242.60:27005"
+L 08/22/2021 - 19:27:44: "Squire_c<10><STEAM_0:0:107695957><>" STEAM USERID validated
+L 08/22/2021 - 19:28:04: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 19:28:07: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:28:14: "Squire_c<10><STEAM_0:0:107695957><>" entered the game
+L 08/22/2021 - 19:28:35: [ULX] GMan granted god mode upon Themself
+L 08/22/2021 - 19:29:00: [ULX] GMan changed the map to rp_city2_v4_finalb
+L 08/22/2021 - 19:29:00: Log file closed.

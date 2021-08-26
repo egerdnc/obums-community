@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\tfa_ins2\mp5\weapon_mp5k_dm"
+	"$bumpmap" 			"models\weapons\tfa_ins2\mp5\weapon_mp5k_nm"
+        "$color"			"[1.4 1.4 1.4]"
+
+	"$phong"                        "1"
+	"$phongalbedotint"              "1"
+	"$phongtint"                    "[.6 .8 1]"
+
+	"$phongboost"                   "1.1"
+	"$phongexponent"                "50"
+	"$phongfresnelranges"           "[1.5 2.5 7]"
+
+//	"$phongexponenttexture"         "models\weapons\tfa_ins2\mp5\weapon_mp5k_exp"
+
+	"$envmap"                       "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"                   "[0.035 0.035 0.035]"
+
+}

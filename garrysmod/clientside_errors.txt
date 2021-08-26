@@ -1,0 +1,3712 @@
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:360: attempt to index local 'faction' (a nil value)
+  1. OnPostSetup - gamemodes/helix/gamemode/core/libs/sh_character.lua:360
+   2. Populate - gamemodes/helix/gamemode/core/derma/cl_charcreate.lua:433
+    3. OnSlideUp - gamemodes/helix/gamemode/core/derma/cl_charcreate.lua:260
+     4. SlideUp - gamemodes/helix/gamemode/core/derma/cl_subpanel.lua:269
+      5. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:250
+       6. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Tzar|2|STEAM_0:0:140210729
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Optical|8|STEAM_0:0:460042086
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+The Apex Typhon|4|STEAM_0:1:74180635
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+The Apex Typhon|4|STEAM_0:1:74180635
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+The Apex Typhon|4|STEAM_0:1:74180635
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+The Apex Typhon|4|STEAM_0:1:74180635
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetVelocity - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetVelocity - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetVelocity - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Grimmy|19|STEAM_0:0:39779823
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Squire_c|21|STEAM_0:0:107695957
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Squire_c|21|STEAM_0:0:107695957
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Revectane|24|STEAM_0:0:199691641
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Grimmy|19|STEAM_0:0:39779823
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+The Apex Typhon|9|STEAM_0:1:74180635
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+The Apex Typhon|9|STEAM_0:1:74180635
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+william_g|18|STEAM_0:0:193471001
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+william_g|18|STEAM_0:0:193471001
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+william_g|18|STEAM_0:0:193471001
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Minty|23|STEAM_0:1:513516857
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Minty|23|STEAM_0:1:513516857
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Minty|23|STEAM_0:1:513516857
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Revectane|24|STEAM_0:0:199691641
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Revectane|24|STEAM_0:0:199691641
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Revectane|24|STEAM_0:0:199691641
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Stan The Logical Man|20|STEAM_0:0:29370040
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Squire_c|21|STEAM_0:0:107695957
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Squire_c|21|STEAM_0:0:107695957
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Grimmy|19|STEAM_0:0:39779823
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Grimmy|19|STEAM_0:0:39779823
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Grimmy|19|STEAM_0:0:39779823
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Minty|23|STEAM_0:1:513516857
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Minty|23|STEAM_0:1:513516857
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DOOM ETERNAL is a good game|13|STEAM_0:1:175760128
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+The Apex Typhon|9|STEAM_0:1:74180635
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+The Apex Typhon|9|STEAM_0:1:74180635
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+The Apex Typhon|9|STEAM_0:1:74180635
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+DrSouls|12|STEAM_0:0:83876580
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+william_g|18|STEAM_0:0:193471001
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+william_g|18|STEAM_0:0:193471001
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Tzar|4|STEAM_0:0:140210729
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toorusty|10|STEAM_0:0:67125359
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Pepsiman (Engaged)|11|STEAM_0:1:63799470
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Grimmy|19|STEAM_0:0:39779823
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Optical|26|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Azio|3|STEAM_0:1:89342027
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+TadeusSlovak|16|STEAM_0:1:84322488
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Revectane|24|STEAM_0:0:199691641
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Bilack|8|STEAM_0:0:12479815
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Toast|15|STEAM_0:1:91153138
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Fawful™|6|STEAM_0:0:226903802
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+Two idiots|5|STEAM_0:0:189813992
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+william_g|18|STEAM_0:0:193471001
+
+[ERROR] lua/effects/bp_flamepuffs/init.lua:17: Tried to use a NULL entity!
+  1. GetOwner - [C]:-1
+   2. unknown - lua/effects/bp_flamepuffs/init.lua:17
+
+
+
+man|14|STEAM_0:0:483057931
+
+[ERROR] lua/weapons/weapon_bp_hmg1/shared.lua:136: Tried to use a NULL entity!
+  1. EmitSound - [C]:-1
+   2. unknown - lua/weapons/weapon_bp_hmg1/shared.lua:136
+
+
+
+Kilszot|25|STEAM_0:1:148774529
+
+[ERROR] gamemodes/helix/plugins/recognition.lua:86: attempt to index local 'client' (a nil value)
+  1. v - gamemodes/helix/plugins/recognition.lua:86
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+    3. OnChatAdd - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:75
+     4. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:268
+      5. func - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:292
+       6. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+Toorusty|6|STEAM_0:0:67125359
+
+[ERROR] lua/weapons/weapon_bp_irifle/shared.lua:103: attempt to call field 'Create' (a nil value)
+  1. LaunchFlare - lua/weapons/weapon_bp_irifle/shared.lua:103
+   2. unknown - lua/weapons/weapon_bp_irifle/shared.lua:84
+
+
+
+TadeusSlovak|3|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|3|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|3|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|3|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+TadeusSlovak|3|STEAM_0:1:84322488
+
+[longsword-1.21] addons/longsword-1.21/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword-1.21/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword-1.21/lua/weapons/ls_base.lua:589
+
+
+
+Optical|5|STEAM_0:0:460042086
+
+[ERROR] lua/effects/bp_guardgun_charge/init.lua:35: attempt to index local 'Muzzle' (a nil value)
+  1. unknown - lua/effects/bp_guardgun_charge/init.lua:35
+
+
+
+The Apex Typhon|4|STEAM_0:1:74180635
+
+[Half-Life 2 Beta Weapons Pack V2] lua/effects/bp_guardgun_charge/init.lua:35: attempt to index local 'Muzzle' (a nil value)
+  1. unknown - lua/effects/bp_guardgun_charge/init.lua:35
+
+
+

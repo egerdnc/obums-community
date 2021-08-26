@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	$basetexture 			"models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse"
+	$bumpmap 			"models/weapons/tfa_ins2/spas12_bri/shotgun_normal"
+	
+	
+		$nocull "1"
+
+	// PHONG SHADING
+	$phong					  	1
+	$phongboost					.5
+	$phongfresnelranges			"[2 4 6]"
+	$phongtint 			"[0.6 0.8 1]"
+	$phoneexponenttexture		"models/weapons/tfa_ins2/spas12_bri/shotgun_gloss"
+	$phongalbedotint				1
+	$phongalbedoboost		   	48
+	$normalmapalphaphongmask		1
+
+	// ENVIRONMENT REFLECTION
+	$envmaptint 			"[0.1 0.1 0.1]"
+	 	$normalmapalphaenvmapmask 	1
+	 	$envmapfresnel 		"0.7"
+}

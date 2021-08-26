@@ -1,0 +1,363 @@
+L 08/22/2021 - 19:29:09: Log file started (file "logs\L0822005.log") (game "C:\Users\monst\Desktop\HL2Server\garrysmod") (version "8283")
+L 08/22/2021 - 19:29:31: "Toorusty<5><STEAM_0:0:67125359><>" entered the game
+L 08/22/2021 - 19:29:37: "Tzar<3><STEAM_0:0:140210729><>" entered the game
+L 08/22/2021 - 19:29:41: "Optical<8><STEAM_0:0:460042086><>" entered the game
+L 08/22/2021 - 19:29:54: "Squire_c<10><STEAM_0:0:107695957><>" entered the game
+L 08/22/2021 - 19:30:19: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:526
+    3. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+     4. Spawn - [C]:-1
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+       6. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/22/2021 - 19:30:19: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:526
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+     4. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+      5. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/22/2021 - 19:30:27: "Squire_c<10><STEAM_0:0:107695957><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 19:30:27: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840
+   2. Save - gamemodes/helix/gamemode/core/meta/sh_character.lua:68
+    3. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:684
+
+
+L 08/22/2021 - 19:30:29: "Squire_c<11><STEAM_0:0:107695957><>" connected, address "104.56.242.60:27005"
+L 08/22/2021 - 19:30:30: "Squire_c<11><STEAM_0:0:107695957><>" STEAM USERID validated
+L 08/22/2021 - 19:30:51: [ULX] GMan granted god mode upon Themself
+L 08/22/2021 - 19:30:54: "Squire_c<11><STEAM_0:0:107695957><>" entered the game
+L 08/22/2021 - 19:31:11: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:526
+    3. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+     4. Spawn - [C]:-1
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+       6. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/22/2021 - 19:31:11: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:526
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+     4. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+      5. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/22/2021 - 19:31:28: "Squire_c<11><STEAM_0:0:107695957><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 19:31:28: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840
+   2. Save - gamemodes/helix/gamemode/core/meta/sh_character.lua:68
+    3. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:684
+
+
+L 08/22/2021 - 19:32:23: "Peppermint<9><STEAM_0:1:115933392><>" entered the game
+L 08/22/2021 - 19:34:54: "Squire_c<12><STEAM_0:0:107695957><>" connected, address "104.56.242.60:27005"
+L 08/22/2021 - 19:34:54: "Squire_c<12><STEAM_0:0:107695957><>" STEAM USERID validated
+L 08/22/2021 - 19:35:21: "Squire_c<12><STEAM_0:0:107695957><>" entered the game
+L 08/22/2021 - 19:36:24: "BigSimpBryan<13><STEAM_0:1:180941085><>" connected, address "99.109.94.62:27005"
+L 08/22/2021 - 19:36:24: "BigSimpBryan<13><STEAM_0:1:180941085><>" STEAM USERID validated
+L 08/22/2021 - 19:37:45: "BigSimpBryan<13><STEAM_0:1:180941085><>" entered the game
+L 08/22/2021 - 19:39:54: "Peppermint<9><STEAM_0:1:115933392><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 19:40:26: [ULX] Heavy granted god mode upon Themself
+L 08/22/2021 - 19:40:29: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 19:40:31: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:40:55: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+L 08/22/2021 - 19:41:09: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:41:27: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+L 08/22/2021 - 19:41:29: [ULX] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/furniturecupboard001a.mdl
+L 08/22/2021 - 19:43:15: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:16: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:16: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:16: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:27: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:27: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:28: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:28: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:28: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:28: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:28: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:29: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:29: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:29: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:43:29: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:44:36: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 19:44:39: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+L 08/22/2021 - 19:44:40: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 19:44:57: [ULX] Heavy brought Jake Esposito,James Williams,Joey Jonderson,hoe ass bitch
+L 08/22/2021 - 19:45:13: [ULX] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/display_cooler01a.mdl
+L 08/22/2021 - 19:45:16: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 19:45:17: [ULX] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/fence01a.mdl
+L 08/22/2021 - 19:45:23: [ULX] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/fence01a.mdl
+L 08/22/2021 - 19:45:28: [ULX] Heavy brought Jake Esposito,James Williams,Joey Jonderson,hoe ass bitch
+L 08/22/2021 - 19:46:07: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/22/2021 - 19:46:08: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+L 08/22/2021 - 19:46:14: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/metalgascan.mdl
+L 08/22/2021 - 19:46:57: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:57: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:58: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:58: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:58: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:58: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:58: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:58: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:59: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:59: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:59: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:59: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:59: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:46:59: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:00: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:00: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:00: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:00: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:01: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:01: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:01: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:01: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:01: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:01: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:02: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:02: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:02: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:02: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:02: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:02: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:03: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:03: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:03: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:03: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:03: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:03: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:04: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:04: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:04: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:47:04: [ULX] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+L 08/22/2021 - 19:49:49: [ULX] Jake Esposito teleported to James Williams
+L 08/22/2021 - 19:50:16: "Counterfox Gaming<14><STEAM_0:0:541150892><>" connected, address "98.200.122.33:27005"
+L 08/22/2021 - 19:50:17: "Counterfox Gaming<14><STEAM_0:0:541150892><>" STEAM USERID validated
+L 08/22/2021 - 19:50:28: [ULX] James Williams teleported to Jake Esposito
+L 08/22/2021 - 19:50:55: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 19:50:58: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+L 08/22/2021 - 19:51:11: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+L 08/22/2021 - 19:51:13: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/kitchen_counter001a.mdl
+L 08/22/2021 - 19:51:18: "Counterfox Gaming<14><STEAM_0:0:541150892><>" entered the game
+L 08/22/2021 - 19:51:23: [ULX] Demoman granted access "ulx physgunplayer" to group Moderator
+L 08/22/2021 - 19:51:42: [ULX] Demoman granted access "helix - permitgive" to group Moderator
+L 08/22/2021 - 19:51:44: [ULX] Demoman granted access "helix - permittake" to group Moderator
+L 08/22/2021 - 19:52:12: [ULX] Demoman granted access "helix - manage character flags" to group Moderator
+L 08/22/2021 - 19:52:21: [ULX] Demoman granted access "helix - manage character flags" to group admin
+L 08/22/2021 - 19:55:13: "BigSimpBryan<13><STEAM_0:1:180941085><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 19:57:13: [ULX] Demoman granted access "helix - charsetmodel" to group Moderator
+L 08/22/2021 - 19:57:14: [ULX] Demoman granted access "helix - charsetname" to group Moderator
+L 08/22/2021 - 19:57:14: [ULX] Demoman granted access "helix - charsettokens" to group Moderator
+L 08/22/2021 - 19:57:15: [ULX] Demoman revoked access "helix - charsettokens" to group Moderator
+L 08/22/2021 - 19:57:23: [ULX] Demoman granted access "helix - event" to group Moderator
+L 08/22/2021 - 19:57:32: [ULX] Demoman granted access "helix - manage doors" to group Moderator
+L 08/22/2021 - 19:57:42: [ULX] Demoman granted access "helix - chargiveitem" to group Moderator
+L 08/22/2021 - 19:57:45: [ULX] Demoman granted access "helix - charsetbodygroup" to group Moderator
+L 08/22/2021 - 19:57:52: [ULX] Demoman granted access "ulx god" to group Moderator
+L 08/22/2021 - 19:58:10: [ULX] Demoman granted access "ulx cloak" to group Moderator
+L 08/22/2021 - 19:58:11: [ULX] Demoman granted access "ulx uncloak" to group Moderator
+L 08/22/2021 - 19:58:14: [ULX] Demoman granted access "ulx ungod" to group Moderator
+L 08/22/2021 - 19:58:47: [ULX] Demoman removed all access rights from Toorusty
+L 08/22/2021 - 19:58:49: [ULX] Demoman removed all access rights from Optical
+L 08/22/2021 - 19:58:51: [ULX] Demoman removed all access rights from James Sinclair
+L 08/22/2021 - 19:58:55: [ULX] Demoman added James Williams to group Moderator
+L 08/22/2021 - 19:59:14: [ULX] Demoman added Jake Esposito to group Moderator
+L 08/22/2021 - 20:00:14: [ULX] Demoman granted god mode upon Themself
+L 08/22/2021 - 20:00:22: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:22: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:22: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:22: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:23: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:23: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:23: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:23: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:23: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:24: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:24: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:24: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:24: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:24: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:24: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:25: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:25: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:25: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:25: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:25: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:25: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:26: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:26: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:26: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:26: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:26: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:27: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:27: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:27: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:27: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:28: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:28: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+L 08/22/2021 - 20:00:29: [ULX] Demoman<STEAM_0:0:140210729> spawned sent combine_mine
+L 08/22/2021 - 20:00:29: [ULX] Demoman<STEAM_0:0:140210729> spawned sent combine_mine
+L 08/22/2021 - 20:00:29: [ULX] Demoman<STEAM_0:0:140210729> spawned sent combine_mine
+L 08/22/2021 - 20:00:47: "Optical<8><STEAM_0:0:460042086><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 20:01:25: "Optical<15><STEAM_0:0:460042086><>" connected, address "89.168.60.110:27005"
+L 08/22/2021 - 20:01:25: "Optical<15><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/22/2021 - 20:01:44: "Optical<15><STEAM_0:0:460042086><>" entered the game
+L 08/22/2021 - 20:02:27: [ULX] Demoman brought Jake Esposito,Jerry Fox,Joey Jonderson
+L 08/22/2021 - 20:02:43: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:43: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:44: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:44: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:44: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:44: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:44: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:44: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:45: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:45: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:45: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:45: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:45: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:46: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:46: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:46: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:47: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:02:47: [ULX] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+L 08/22/2021 - 20:04:05: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/plasticbucket001a.mdl
+L 08/22/2021 - 20:04:55: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 20:06:02: [ULX] Demoman teleported to Jerry Fox
+L 08/22/2021 - 20:06:22: [ULX] Demoman<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:06:32: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_combine/breenchair.mdl
+L 08/22/2021 - 20:06:44: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+L 08/22/2021 - 20:07:00: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/shelfunit01a.mdl
+L 08/22/2021 - 20:07:01: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+L 08/22/2021 - 20:08:17: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/lockers001a.mdl
+L 08/22/2021 - 20:08:43: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 08/22/2021 - 20:08:47: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate002a.mdl
+L 08/22/2021 - 20:08:50: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a.mdl
+L 08/22/2021 - 20:08:55: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 08/22/2021 - 20:09:00: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+L 08/22/2021 - 20:09:11: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/gravestone004a.mdl
+L 08/22/2021 - 20:10:14: [ULX] Czar Maxim granted god mode upon Everyone
+L 08/22/2021 - 20:10:22: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/gate_door02a.mdl
+L 08/22/2021 - 20:10:30: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/lampshade001a.mdl
+L 08/22/2021 - 20:10:36: "Optical<15><STEAM_0:0:460042086><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 20:11:12: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_wasteland/controlroom_desk001b.mdl
+L 08/22/2021 - 20:11:14: [ULX] Czar Maxim mauled Jerry Fox
+L 08/22/2021 - 20:11:20: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel01a.mdl
+L 08/22/2021 - 20:11:24: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel02a.mdl
+L 08/22/2021 - 20:11:30: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel02a.mdl
+L 08/22/2021 - 20:12:09: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel02a.mdl
+L 08/22/2021 - 20:12:19: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel01a.mdl
+L 08/22/2021 - 20:12:23: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_doors/door03_slotted_left.mdl
+L 08/22/2021 - 20:12:30: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+L 08/22/2021 - 20:12:37: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/lockers001a.mdl
+L 08/22/2021 - 20:12:41: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/furnituredrawer003a.mdl
+L 08/22/2021 - 20:12:56: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/22/2021 - 20:13:00: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/22/2021 - 20:14:33: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+L 08/22/2021 - 20:14:48: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent ix_vendingmachine
+L 08/22/2021 - 20:14:57: "Counterfox Gaming<14><STEAM_0:0:541150892><>" changed name to "Jerry Fox"
+L 08/22/2021 - 20:15:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent ix_combinelock
+L 08/22/2021 - 20:15:48: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent ix_vendor
+L 08/22/2021 - 20:16:08: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/furniturebed001a.mdl
+L 08/22/2021 - 20:16:32: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_docks/dock01_pole01a_128.mdl
+L 08/22/2021 - 20:16:36: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/ravenholmsign.mdl
+L 08/22/2021 - 20:16:45: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/oildrum001.mdl
+L 08/22/2021 - 20:16:50: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/oildrum001.mdl
+L 08/22/2021 - 20:16:53: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 08/22/2021 - 20:16:59: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 08/22/2021 - 20:17:00: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 08/22/2021 - 20:17:16: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate002a.mdl
+L 08/22/2021 - 20:18:42: "Cabbage9341™<16><STEAM_0:0:227773634><>" connected, address "174.3.22.96:27005"
+L 08/22/2021 - 20:18:43: "Cabbage9341™<16><STEAM_0:0:227773634><>" STEAM USERID validated
+L 08/22/2021 - 20:19:08: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_alyx_gun.mdl
+L 08/22/2021 - 20:19:18: "Cabbage9341™<16><STEAM_0:0:227773634><>" entered the game
+L 08/22/2021 - 20:19:50: "Cabbage9341™<16><STEAM_0:0:227773634><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 20:19:51: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate002a.mdl
+L 08/22/2021 - 20:20:24: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_smg1.mdl
+L 08/22/2021 - 20:20:44: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_pistol.mdl
+L 08/22/2021 - 20:21:08: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_rocket_launcher.mdl
+L 08/22/2021 - 20:22:18: [ULX] Czar Maxim kicked Jerry Fox
+L 08/22/2021 - 20:22:18: "Jerry Fox<14><STEAM_0:0:541150892><>" disconnected (reason "Kicked by Czar Maxim(STEAM_0:0:140210729)")
+L 08/22/2021 - 20:23:10: "Cabbage9341™<17><STEAM_0:0:227773634><>" connected, address "174.3.22.96:27005"
+L 08/22/2021 - 20:23:10: "Cabbage9341™<17><STEAM_0:0:227773634><>" STEAM USERID validated
+L 08/22/2021 - 20:23:57: "Cabbage9341™<17><STEAM_0:0:227773634><>" entered the game
+L 08/22/2021 - 20:24:07: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:07: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:07: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:07: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:07: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:07: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:08: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:08: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:08: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:08: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:08: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:09: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:09: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:09: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:09: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:09: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:10: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:10: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:10: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:10: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:10: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:10: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:11: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:11: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:11: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:11: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:11: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:11: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:12: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:12: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:12: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:12: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:12: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:12: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:13: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:13: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:13: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:13: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:13: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:13: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:14: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:15: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:15: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:15: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:15: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:15: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:15: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:16: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:16: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:16: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:16: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:17: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:17: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:17: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:17: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:17: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:19: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/22/2021 - 20:24:36: "Cabbage9341™<17><STEAM_0:0:227773634><>" disconnected (reason "Disconnect by user.")
+L 08/22/2021 - 20:25:05: [ULX] Czar Maxim revoked god mode from Jake Esposito
+L 08/22/2021 - 20:25:35: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_phx/rocket1.mdl
+L 08/22/2021 - 20:25:35: [ULX] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/trailer001a.mdl
+L 08/22/2021 - 20:25:44: [ULX] Joey Jonderson<STEAM_0:0:107695957> spawned model mod

@@ -1,0 +1,37 @@
+L 08/24/2021 - 14:58:34: Log file started (file "logs\L0824008.log") (game "C:\Users\monst\Desktop\HL2Server\garrysmod") (version "8283")
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_noclip" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxprops" "150"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxragdolls" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxnpcs" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxballoons" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxeffects" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxdynamite" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxlamps" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxthrusters" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxwheels" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxhoverballs" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxvehicles" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxbuttons" "0"
+L 08/24/2021 - 14:58:34: server_cvar: "sbox_maxemitters" "0"
+L 08/24/2021 - 14:58:35: Connection to Steam servers successful.
+L 08/24/2021 - 14:58:35:    Public IP is 75.157.60.132.
+L 08/24/2021 - 14:58:35: Assigned anonymous gameserver Steam ID [A-1:2536083467(18307)].
+L 08/24/2021 - 14:58:35: VAC secure mode is activated.
+L 08/24/2021 - 14:58:55: "Tzar<2><STEAM_0:0:140210729><>" connected, address "192.168.1.71:27006"
+L 08/24/2021 - 15:00:23: "Tzar<2><STEAM_0:0:140210729><>" STEAM USERID validated
+L 08/24/2021 - 15:01:07: "Tzar<2><STEAM_0:0:140210729><>" entered the game
+L 08/24/2021 - 15:01:21: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/richards_pills.lua:31: attempt to index global 'pk_pills' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/richards_pills.lua:31
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+    3. Setup - gamemodes/helix/gamemode/core/meta/sh_character.lua:182
+     4. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:899
+      5. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/24/2021 - 15:02:43: "Optical<3><STEAM_0:0:460042086><>" connected, address "89.168.5.2:27005"
+L 08/24/2021 - 15:02:43: "Optical<3><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/24/2021 - 15:03:13: "Optical<3><STEAM_0:0:460042086><>" disconnected (reason "Server shutting down")
+L 08/24/2021 - 15:03:13: "Tzar<2><STEAM_0:0:140210729><>" disconnected (reason "Server shutting down")
+L 08/24/2021 - 15:03:13: server_message: "quit"
+L 08/24/2021 - 15:03:13: Log file closed.

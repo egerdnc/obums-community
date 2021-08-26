@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_ar2/eyepiece_cyl"
+//	"$bumpmap" "models/Weapons/V_ar2/ar2_sidez_normal"
+//	"$envmap" "Environment Maps/specular"
+//	"$envmaptint" "[.2 .2 .2]"
+//	"$envmap" "env_cubemap"
+}
