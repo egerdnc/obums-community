@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in.....
+WS: Waiting for Steam to log us in....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Czars Castle IXHL2RP' (13 items)
@@ -198,19 +198,19 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. fn - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/ulib/shared/hook.lua:109
 
-[20:22][ServerGuard] [mysql] Connected to the database!
+[22:05][ServerGuard] [mysql] Connected to the database!
 Making workshop map available for client download
 Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0826022.log
-L 08/26/2021 - 20:22:34: Log file started (file "logs\L0826022.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0826028.log
+L 08/26/2021 - 22:05:47: Log file started (file "logs\L0826028.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Writing cfg/banned_user.cfg.
-[20:24][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[22:05][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
@@ -219,472 +219,140 @@ duplicate column name: member
 Loaded (45) for Hamood
 [LOG] Hamood loaded the character 'Dex Mcgugget'
 Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-Unknown command "serverguard"
-Can't find any player with that identifier.
-Can't find any player with that identifier.
-Can't find any player with that identifier.
-[20:28][ServerGuard] Console has set (Hamood) Dex Mcgugget's rank to Founder.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget used command '/DoorSetFaction'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction FACTION_MPF'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction MPF'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[20:30][ServerGuard] (Hamood) Dex Mcgugget has toggled noclip for Dex Mcgugget.
-[20:30][ServerGuard] (Hamood) Dex Mcgugget ran command "noclip Dex Mcgugget"
-[20:30][ServerGuard] (Hamood) Dex Mcgugget has toggled noclip for Dex Mcgugget.
-[20:30][ServerGuard] (Hamood) Dex Mcgugget ran command "noclip Dex Mcgugget"
-[20:30][ServerGuard] (Hamood) Dex Mcgugget has toggled noclip for Dex Mcgugget.
-[20:30][ServerGuard] (Hamood) Dex Mcgugget ran command "noclip Dex Mcgugget"
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget used command '/DoorSetOwnable'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropol'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'Entity [101][ix_rationdispenser]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_rationdispenser
-Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_rationdispenser
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget ran 'Open' on item 'Ration' (#147)
-[LOG] Dex Mcgugget has gained a 'Supplements' #148.
-[LOG] Dex Mcgugget has gained a 'Breen's Water' #149.
-[LOG] Dex Mcgugget has gained 30 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'Entity [113][ix_scanner]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
-Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'Entity [106][ix_vendingmachine]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_vendingmachine
-Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_vendingmachine
-[LOG] Dex Mcgugget has lost 15 Tokens.
-[LOG] Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#150)
-[LOG] Dex Mcgugget has gained 5 Tokens.
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: malformed number near '0i'
+
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: malformed number near '0i'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
 [LOG] Dex Mcgugget has lost 15 Tokens.
 [LOG] Dex Mcgugget ran 'take' on item 'Breen's Water' (#151)
 [LOG] Dex Mcgugget has gained a 'Breen's Water' #151.
-[LOG] Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#149)
-[LOG] Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#151)
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:207: unexpected symbol near '-'
-
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:207: unexpected symbol near '-'
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-Refusing to load ix_vendingmachine because it is missing Type and Base keys!
-
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[LOG] Hamood (STEAM_0:0:420247449) has disconnected (timed out).
-Dropped Hamood from server (Hamood timed out)
-[20:51][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27006).
-[LOG] Hamood has connected.
-Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'Dex Mcgugget'
-Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[Hamood|3|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|3|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|3|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[Hamood|3|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[LOG] Dex Mcgugget exited observer at their location.
-[Hamood|3|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
-  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
-
-
-[LOG] Hamood (STEAM_0:0:420247449) has disconnected (timed out).
-Dropped Hamood from server (Hamood timed out)
-[20:52][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27006).
-[LOG] Hamood has connected.
-Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'Dex Mcgugget'
-Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[Hamood|4|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
-  1. DrawCircle - [C]:-1
-   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
-
-
-[Hamood|4|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
-  1. DrawCircle - [C]:-1
-   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
-
-
-[Hamood|4|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
-  1. DrawCircle - [C]:-1
-   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
-
-
-[Hamood|4|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
-  1. DrawCircle - [C]:-1
-   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
-
-
-[Hamood|4|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
-  1. DrawCircle - [C]:-1
-   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
-
-
-[LOG] Hamood (STEAM_0:0:420247449) has disconnected (timed out).
-Dropped Hamood from server (Hamood timed out)
-[20:57][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27006).
-[LOG] Hamood has connected.
-Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'Dex Mcgugget'
-Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget set maxCharacters to '1'.
-[LOG] Dex Mcgugget set runSpeed to '201'.
-[LOG] Dex Mcgugget set runSpeed to '200'.
-[LOG] Dex Mcgugget set runSpeed to '240'.
-[LOG] Dex Mcgugget set doorSellRatio to '0.5'.
-[LOG] Dex Mcgugget set rationInterval to '72675'.
-[LOG] Dex Mcgugget set rationInterval to '3605'.
-[LOG] Dex Mcgugget set rationTokens to '51'.
-[LOG] Dex Mcgugget set rationTokens to '51'.
-[LOG] Dex Mcgugget set rationTokens to '48'.
-[LOG] Dex Mcgugget set rationTokens to '51'.
-[LOG] Dex Mcgugget set rationTokens to '30'.
-Giving Dex Mcgugget a weapon_bp_alyxgun
-Giving Dex Mcgugget a ls_m24
-Giving Dex Mcgugget a ls_mp5k
-Giving Dex Mcgugget a ls_ar2
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/DoorSetFaction Metropolice'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 13 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
 [LOG] Dex Mcgugget entered observer.
@@ -708,417 +376,11 @@ Giving Dex Mcgugget a ls_ar2
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
 [LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget has added area "Plaza".
-[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has removed area "Interrogation room - 1".
+[LOG] Dex Mcgugget has added area "Interrogation Room".
 [LOG] Dex Mcgugget used command '/AreaEdit'.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget has removed area "Plaza".
-[LOG] Dex Mcgugget has added area "Plaza".
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 5 damage from worldspawn.
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget has added area "Nexus".
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget has removed area "Nexus".
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has added area "Nexus lobby".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has removed area "Nexus lobby".
-[LOG] Dex Mcgugget has added area "Nexus Lobby".
 [LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has added area "Ration Distribution Center".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget has added area "Prison".
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/AreaEdit'.
-[LOG] Dex Mcgugget has removed area "Prison".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget has added area "Detainment Area".
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has added area "Interrogation room - 1".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has added area "Armory".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has added area "The Cafeteria".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has removed area "The Cafeteria".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has added area "KFC Texas - 1".
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] [LOOC] Dex Mcgugget: test
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget used command '/Event YOUR MOM STFU'.
-[LOG] Dex Mcgugget exited observer at their location.
-Giving Dex Mcgugget a ix_stunstick
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-Giving Dex Mcgugget a ls_astunstick
-[LOG] Dex Mcgugget has spawned a 'NPC [288][npc_monk]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_monk
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_monk
-[LOG] Dex Mcgugget has spawned a 'NPC [288][npc_breen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 33 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_gman]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_gman
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_gman
-NPC npc_gman stuck in wall--level design error at (-1640.52 75.41 420.03)
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 17 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 90 damage from worldspawn.
-[LOG] worldspawn has killed Dex Mcgugget.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'NPC [112][npc_dog]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_dog
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_dog
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_vortigaunt]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_vortigaunt
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_vortigaunt
-[LOG] Dex Mcgugget has spawned a 'NPC [111][npc_vortigaunt]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_vortigaunt
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_vortigaunt
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_breen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-[LOG] Dex Mcgugget has spawned a 'NPC [114][npc_barney]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_barney
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_barney
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_kleiner]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_kleiner
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_kleiner
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_alyx]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_alyx
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_alyx
-[LOG] Dex Mcgugget has spawned a 'NPC [111][npc_mossman]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_mossman
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_mossman
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_eli]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_eli
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_eli
-[LOG] Dex Mcgugget has spawned a 'NPC [111][npc_gman]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_gman
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_gman
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-[LOG] Dex Mcgugget has spawned a 'NPC [111][npc_citizen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_breen]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_combine_s]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-[LOG] Dex Mcgugget has taken 2 damage from npc_combine_s.
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_combine_s]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_combinegunship]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combinegunship
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combinegunship
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_combine_s]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [111][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [111][npc_combine_s]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
-[LOG] Dex Mcgugget has taken 3 damage from npc_combine_s.
-[LOG] Dex Mcgugget has taken 10 damage from npc_metropolice.
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_rollermine]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_rollermine
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_rollermine
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_antlion]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_antlion
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_antlion
-[LOG] Dex Mcgugget has taken 5 damage from npc_antlion.
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_poisonzombie]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_poisonzombie
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_poisonzombie
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-Giving Dex Mcgugget a ls_ar2
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)

@@ -296,3 +296,54 @@
 [21:47:20] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
 [21:47:23] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_antlion
 [21:47:42] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_poisonzombie
+[21:50:36] Dex Mcgugget<STEAM_0:0:420247449> spawned sent bp_junk_ammo
+[21:50:48] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[21:51:15] New map: rp_city2_v4_finalb
+[21:51:21] Client "Hamood" connected.
+[21:51:43] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 22 seconds).
+[21:52:02] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[21:52:13] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_vendingmachine
+
+
+
+[21:54:53] New map: rp_city2_v4_finalb
+[21:55:13] Client "Hamood" connected.
+[21:55:42] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 29 seconds).
+[21:55:55] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+
+
+
+[21:57:17] New map: rp_city2_v4_finalb
+[21:57:48] Client "Hamood" connected.
+[21:58:18] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 30 seconds).
+[21:58:32] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[21:58:49] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_atm
+
+
+
+[22:00:37] New map: rp_city2_v4_finalb
+[22:00:48] Client "Hamood" connected.
+[22:01:16] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 28 seconds).
+[22:01:29] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:02:31] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:03:26] New map: rp_city2_v4_finalb
+[22:03:41] Client "Hamood" connected.
+[22:04:11] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 30 seconds).
+[22:04:24] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:04:42] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[22:05:47] New map: rp_city2_v4_finalb
+[22:05:55] Client "Hamood" connected.
+[22:06:25] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 30 seconds).
+[22:06:38] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[22:10:09] Dex Mcgugget: /areaedit
+[22:10:33] Dex Mcgugget: /areaedit
+[22:11:42] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
