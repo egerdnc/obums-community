@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BioshockInfinite/Hext/Bread_Loaf_DIFF"
+	"$bumpmap" "BioshockInfinite/Hext/Bread_Loaf_NORM"
+	"$surfaceprop" "Default"
+}

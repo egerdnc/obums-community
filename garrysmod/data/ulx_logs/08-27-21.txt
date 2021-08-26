@@ -123,3 +123,19 @@
 [01:20:41] Dex Mcgugget: /me test
 [01:22:17] Dex Mcgugget: /apply
 [01:22:31] Dex Mcgugget: /apply
+[01:23:43] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_cscanner
+[01:24:08] Dex Mcgugget: /chargiveflag dex n
+[01:24:29] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:24:36] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_turret_ceiling
+[01:24:53] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:24:57] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:25:16] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:25:45] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:26:29] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:27:17] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:27:20] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:28:38] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:28:43] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:29:00] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:29:10] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
+[01:30:48] Dex Mcgugget: /dropmoney 5

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BioshockInfinite/Hext/Coffee_Mug_DIFF"
+	"$bumpmap" "BioshockInfinite/Hext/Coffee_Mug_NORM"
+	"$surfaceprop" "Default"
+}

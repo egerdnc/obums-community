@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BioshockInfinite/Hext/Bag_Of_Chips_DIFF"
+	"$bumpmap" "BioshockInfinite/Hext/Bag_Of_Chips_NORM"
+	"$surfaceprop" "Default"
+}
