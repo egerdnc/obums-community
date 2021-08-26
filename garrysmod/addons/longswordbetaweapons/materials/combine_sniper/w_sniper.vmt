@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"combine_sniper/w_sniper"
+	"$bumpmap"	"combine_sniper/w_sniper_normal"
+	"$phongexponenttexture" "combine_sniper/w_sniper_phong2"
+	$selfillum 1
+	"$nocull" "1"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[3 6 12]"
+	"$phongalbedotint" "1"
+
+
+}
