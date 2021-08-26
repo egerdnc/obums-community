@@ -1,0 +1,38 @@
+"AppState"
+{
+	"appid"		"4020"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\monst\\Desktop\\steamcmd\\steamcmd.exe"
+	"name"		"Garry's Mod Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"GarrysModDS"
+	"LastUpdated"		"1629436946"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"3930049658"
+	"buildid"		"7016893"
+	"LastOwner"		"76561199780006925"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"4021"
+		{
+			"manifest"		"4376213334070797404"
+			"size"		"3704041913"
+		}
+		"4022"
+		{
+			"manifest"		"810384402049481195"
+			"size"		"226007745"
+		}
+	}
+	"UserConfig"
+	{
+		"betakey"		""
+	}
+}

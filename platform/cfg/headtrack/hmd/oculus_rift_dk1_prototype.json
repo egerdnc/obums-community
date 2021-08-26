@@ -1,0 +1,87 @@
+{
+   "camera_from_imu" : [ 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0 ],
+   "device" : {
+      "eye_target_height_in_pixels" : 800,
+      "eye_target_width_in_pixels" : 640,
+      "first_eye" : "eEYE_LEFT",
+      "flip_y" : false,
+      "horizontal_FOV_degrees" : 90.0,
+      "last_eye" : "eEYE_RIGHT",
+      "latency_scan_out_to_display_max" : 0.0,
+      "latency_scan_out_to_display_min" : 0.0,
+      "num_windows" : 1,
+      "persistence" : 0.01666666753590107,
+      "physical_aspect_x_over_y" : 1.600000023841858
+   },
+   "tracking_camera_intrinsics" : "ids_ui_1221le_m__sunex_ds2311a__4002874197",
+   "tracking_camera_unique_id" : 0,
+   "tracking_type" : "oculus",
+   "tracking_to_eye_transform" : [
+      {
+         "distortion" : {
+            "center_x" : 0.01956225582904263,
+            "center_y" : 0.02379817256591241,
+            "coeffs" : [
+               -0.3575273579598416,
+               0.3191591057762037,
+               -0.1916286055693242,
+               0.0,
+               0.0
+            ],
+            "type" : "DISTORT_DPOLY3"
+         },
+         "extrinsics" : [
+            [
+               1, 0, 0, 
+               0.08281977474689484
+            ],
+            [
+               0, 1, 0, 
+               -0.02879098057746887
+            ],
+            [
+               0, 0, 1, 
+               -0.1034173443913460
+            ]
+         ],
+         "intrinsics" : [
+            [ 1.377632260322571, 0.0, 0.003405924420803785 ],
+            [ 0.0, 1.081879019737244, 0.02834289707243443 ],
+            [ 0.0, 0.0, -1.0 ]
+         ]
+      },
+      {
+         "distortion" : {
+            "center_x" : 0.05204625800251961,
+            "center_y" : 0.02917777746915817,
+            "coeffs" : [
+               -0.2967446446418762,
+               0.1830884814262390,
+               -0.1137754246592522,
+               0.0,
+               0.0
+            ],
+            "type" : "DISTORT_DPOLY3"
+         },
+         "extrinsics" : [
+            [
+               1, 0, 0, 
+               0.02346612885594368
+            ],
+            [
+               0, 1, 0, 
+               -0.03223383054137230
+            ],
+            [
+               0, 0, 1, 
+               -0.1044099256396294
+            ]
+         ],
+         "intrinsics" : [
+            [ 1.386523962020874, 0.0, -0.05549523234367371 ],
+            [ 0.0, 1.086173295974731, 0.02637766115367413 ],
+            [ 0.0, 0.0, -1.0 ]
+         ]
+      }
+   ]
+}
