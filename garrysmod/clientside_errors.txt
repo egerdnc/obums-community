@@ -4557,3 +4557,13 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_money.lua:23: unexpected symbol near ')'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_money because it is missing Type and Base keys!
+
+

@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in......
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Czars Castle IXHL2RP' (13 items)
@@ -44,6 +44,7 @@ Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\precision-tool'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard-content'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\unstuck'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\uu-branded-prop-pack'
 Changing gamemode to HL2 RP (ixhl2rp)
 Network: IP 192.168.1.2, mode MP, dedicated Yes, ports 27015 SV / 27005 CL
 Error loading cfg/trusted_keys_base.txt
@@ -203,7 +204,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. fn - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/ulib/shared/hook.lua:109
 
-[01:18][ServerGuard] [mysql] Connected to the database!
+[01:44][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -214,13 +215,13 @@ Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0827009.log
-L 08/27/2021 - 01:18:04: Log file started (file "logs\L0827009.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0827013.log
+L 08/27/2021 - 01:44:41: Log file started (file "logs\L0827013.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Writing cfg/banned_user.cfg.
-[01:19][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[01:45][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
@@ -229,11 +230,18 @@ duplicate column name: member
 Loaded (45) for Hamood
 [LOG] Hamood loaded the character 'Dex Mcgugget'
 Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[LOG] Dex Mcgugget has lost 5 Tokens.
+[LOG] Dex Mcgugget used command '/DropTokens 5'.
+[LOG] Dex Mcgugget has gained 5 Tokens.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget used command '/Apply'.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] [ME] Dex Mcgugget: test
-[LOG] Dex Mcgugget used command '/Apply'.
-[LOG] Dex Mcgugget used command '/Apply'.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 148 damage from worldspawn.
+[LOG] worldspawn has killed Dex Mcgugget.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)

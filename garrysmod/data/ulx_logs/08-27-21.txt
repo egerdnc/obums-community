@@ -139,3 +139,43 @@
 [01:29:00] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
 [01:29:10] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_camera
 [01:30:48] Dex Mcgugget: /dropmoney 5
+[01:36:04] Dex Mcgugget: /dropmoney 5
+[01:36:06] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[01:36:32] New map: rp_city2_v4_finalb
+[01:36:45] Client "Hamood" connected.
+[01:37:07] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 22 seconds).
+[01:37:33] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[01:37:35] Dex Mcgugget: /dropmoney 5
+[01:39:07] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[01:39:32] New map: rp_city2_v4_finalb
+[01:40:51] Client "Hamood" connected.
+[01:41:13] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 22 seconds).
+[01:41:35] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[01:41:41] Dex Mcgugget: /dropmoney 5
+[01:41:55] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[01:42:17] New map: rp_city2_v4_finalb
+[01:42:18] Client "Hamood" connected.
+[01:42:39] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[01:43:19] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[01:43:27] Dex Mcgugget: /dropmoney 5
+[01:43:35] Dex Mcgugget: /dropmoney 5
+[01:44:10] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[01:44:41] New map: rp_city2_v4_finalb
+[01:45:18] Client "Hamood" connected.
+[01:45:39] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 21 seconds).
+[01:46:06] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[01:46:11] Dex Mcgugget: /dropmoney 
+[01:46:12] Dex Mcgugget: /dropmoney 5
+[01:50:28] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
