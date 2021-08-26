@@ -4512,3 +4512,48 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[longsword] addons/longsword/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword/lua/weapons/ls_base.lua:589
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[longsword] addons/longsword/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword/lua/weapons/ls_base.lua:589
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[longsword] addons/longsword/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword/lua/weapons/ls_base.lua:589
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[longsword] addons/longsword/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword/lua/weapons/ls_base.lua:589
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[longsword] addons/longsword/lua/weapons/ls_base.lua:580: bad argument #3 to 'LerpAngle' (Angle expected, got userdata)
+  1. LerpAngle - [C]:-1
+   2. OffsetThink - addons/longsword/lua/weapons/ls_base.lua:580
+    3. unknown - addons/longsword/lua/weapons/ls_base.lua:589
+
+
+

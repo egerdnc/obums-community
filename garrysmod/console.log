@@ -34,10 +34,12 @@ Processing addon 2: Half-Life 2 Beta Weapons Pack V2 (254077907)...
 Processing addon 1: Ultimate Workshop Downloader (2214712098)...
    Mounted!
 WS: Finished!
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\advanced-duplicator-2'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\aml'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\enhanced-citizens-v4'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longsword'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longswordbetaweapons'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\new-door-stool'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\precision-tool'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard-content'
@@ -201,135 +203,75 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. fn - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/ulib/shared/hook.lua:109
 
-<<<<<<< Updated upstream
-[00:37][ServerGuard] [mysql] Connected to the database!
-=======
-[00:25][ServerGuard] [mysql] Connected to the database!
+[01:08][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 Error! Flag "$halflambert" is multiply defined in material "models/bloo_ltcom_zel/citizens/female_hands"!
->>>>>>> Stashed changes
 Making workshop map available for client download
 Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-<<<<<<< Updated upstream
-Server logging data to file logs\L0827006.log
-L 08/27/2021 - 00:37:30: Log file started (file "logs\L0827006.log") (game "C:\brock-community\garrysmod") (version "8283")
-=======
-Server logging data to file logs\L0827005.log
-L 08/27/2021 - 00:25:54: Log file started (file "logs\L0827005.log") (game "C:\brock-community\garrysmod") (version "8283")
->>>>>>> Stashed changes
+Server logging data to file logs\L0827008.log
+L 08/27/2021 - 01:08:27: Log file started (file "logs\L0827008.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Writing cfg/banned_user.cfg.
-<<<<<<< Updated upstream
-=======
-[00:26][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[01:08][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
 duplicate column name: member
 [DOWNLOADER ]Failed to send track data: unsuccessful
 [LOG] Hamood has connected.
-Loaded () for Hamood
-Created character '45' for Hamood.
-[LOG] Hamood created the character 'Dex Mcgugget'
-[LOG] Dex Mcgugget has gained a 'Suitcase' #151.
-[LOG] Dex Mcgugget has gained a 'Flashlight' #152.
-[LOG] Dex Mcgugget has gained a 'Citizen ID' #153.
+Loaded (45) for Hamood
 [LOG] Hamood loaded the character 'Dex Mcgugget'
-
-[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:59: attempt to call method 'getData' (a nil value)
-  1. initCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:59
-   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:51
-    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:494
-     4. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
-      5. Spawn - [C]:-1
-       6. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
-        7. unknown - lua/includes/extensions/net.lua:32
-
-
-[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:59: attempt to call method 'getData' (a nil value)
-  1. initCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:59
-   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:51
-    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:494
-     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
-      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
-       6. unknown - lua/includes/extensions/net.lua:32
-
 Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
-  1. GetTitle - [C]:-1
-   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
-    3. unknown - lua/vgui/dframe.lua:203
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
-  1. GetTitle - [C]:-1
-   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
-    3. unknown - lua/vgui/dframe.lua:203
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
-  1. GetTitle - [C]:-1
-   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
-    3. unknown - lua/vgui/dframe.lua:203
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
-  1. GetTitle - [C]:-1
-   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
-    3. unknown - lua/vgui/dframe.lua:203
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
-  1. GetTitle - [C]:-1
-   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
-    3. unknown - lua/vgui/dframe.lua:203
-
-
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [102][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has spawned a 'NPC [102][npc_metropolice]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
-[LOG] Dex Mcgugget has taken 10 damage from npc_metropolice.
-[LOG] Dex Mcgugget has taken 10 damage from npc_metropolice.
-[LOG] Dex Mcgugget has taken 10 damage from npc_metropolice.
-[LOG] Dex Mcgugget has taken 10 damage from npc_metropolice.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'Entity [101][ix_rationdispenser]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_rationdispenser
-Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_rationdispenser
-[LOG] Dex Mcgugget ran 'Open' on item 'Ration' (#154)
-[LOG] Dex Mcgugget has gained a 'Supplements' #155.
-[LOG] Dex Mcgugget has gained a 'Breen's Water' #156.
-[LOG] Dex Mcgugget has gained 30 Tokens.
-[LOG] Dex Mcgugget ran 'Eat' on item 'Supplements' (#155)
-[LOG] Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#156)
->>>>>>> Stashed changes
+Giving Dex Mcgugget a ls_m24
+Giving Dex Mcgugget a ls_csniper
+Giving Dex Mcgugget a ls_oicw
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+STEAMAUTH: Client Hamood received failure code 6
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Client left game (Steam auth ticket has been canceled)
+)

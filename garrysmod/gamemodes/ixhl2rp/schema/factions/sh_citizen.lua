@@ -31,8 +31,7 @@ function FACTION:OnCharacterCreated(client, character)
 	local inventory = character:GetInventory()
 
 	character:SetData("cid", id)
-	character:SetData("citizen-model", character:GetModel())
-
+	
 	inventory:Add("suitcase", 1)
 	inventory:Add("flashlight", 1)
 	inventory:Add("cid", 1, {
@@ -41,23 +40,23 @@ function FACTION:OnCharacterCreated(client, character)
 	})
 end
 
-function FACTION:OnTransfered(character)
-	initCitizen(character)
-end
+-- function FACTION:OnTransfered(character)
+-- 	initCitizen(character)
+-- end
 
-function FACTION:OnSpawn(client)
-	local character = client:GetCharacter()
+-- function FACTION:OnSpawn(client)
+-- 	local character = client:GetCharacter()
 
-	initCitizen(character)
-end
+-- 	initCitizen(character)
+-- end
 
-function FACTION:OnTransferred(character)
-	initCitizen(character)
-end
+-- function FACTION:OnTransferred(character)
+-- 	initCitizen(character)
+-- end
 
-function initCitizen(char)
-	local model = char:getData("citizen-model")
-	char:SetModel(model)
-end
+-- function initCitizen(char)
+-- 	local model = char:getData("citizen-model", nil)
+-- 	char:SetModel(model)
+-- end
 
 FACTION_CITIZEN = FACTION.index

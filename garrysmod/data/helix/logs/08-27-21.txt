@@ -57,3 +57,222 @@
 [00:32:25]	Dex Mcgugget ran 'Eat' on item 'Supplements' (#155)
 [00:32:26]	Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#156)
 >>>>>>> Stashed changes
+[00:51:29]	Hamood has connected.
+[00:51:41]	Hamood loaded the character 'Dex Mcgugget'
+[00:53:33]	Dex Mcgugget entered observer.
+[00:53:43]	Dex Mcgugget exited observer at their location.
+[00:53:45]	Dex Mcgugget entered observer.
+[00:53:48]	Dex Mcgugget exited observer at their location.
+[00:53:52]	Dex Mcgugget entered observer.
+[00:53:54]	Dex Mcgugget exited observer at their location.
+[00:54:00]	Dex Mcgugget entered observer.
+[00:54:00]	Dex Mcgugget exited observer at their location.
+[00:54:01]	Dex Mcgugget entered observer.
+[00:54:02]	Dex Mcgugget exited observer at their location.
+[00:54:10]	Dex Mcgugget entered observer.
+[00:54:11]	Dex Mcgugget exited observer at their location.
+[00:54:19]	Dex Mcgugget entered observer.
+[00:54:22]	Dex Mcgugget exited observer at their location.
+[00:54:31]	Dex Mcgugget entered observer.
+[00:54:31]	Dex Mcgugget exited observer at their location.
+[00:54:32]	Dex Mcgugget entered observer.
+[00:54:50]	Dex Mcgugget exited observer at their location.
+[00:54:50]	Dex Mcgugget entered observer.
+[00:54:50]	Dex Mcgugget exited observer at their location.
+[00:54:51]	Dex Mcgugget entered observer.
+[00:54:55]	Dex Mcgugget exited observer at their location.
+[00:55:00]	Dex Mcgugget has spawned a 'Entity [105][ix_atm]'.
+[00:55:02]	Dex Mcgugget has spawned a 'Entity [106][ix_atm]'.
+[00:55:06]	Dex Mcgugget has spawned a 'Entity [109][ix_vendor]'.
+[00:55:07]	Dex Mcgugget has spawned a 'Entity [110][ix_station_workbench]'.
+[00:55:09]	Dex Mcgugget has spawned a 'Entity [109][ix_station_workbench]'.
+[00:55:14]	Dex Mcgugget has spawned a 'Entity [110][ix_atm]'.
+[00:56:08]	Dex Mcgugget entered observer.
+[00:56:09]	Dex Mcgugget exited observer at their location.
+[00:56:12]	Dex Mcgugget entered observer.
+[00:56:12]	Dex Mcgugget exited observer at their location.
+[00:56:14]	Dex Mcgugget entered observer.
+[00:56:15]	Dex Mcgugget exited observer at their location.
+[00:56:17]	Dex Mcgugget entered observer.
+[00:56:17]	Dex Mcgugget exited observer at their location.
+[00:56:19]	Dex Mcgugget entered observer.
+[00:56:22]	Dex Mcgugget exited observer at their location.
+[00:56:26]	Dex Mcgugget has spawned a 'Entity [104][ix_atm]'.
+[00:56:29]	Dex Mcgugget has spawned a 'Entity [109][ix_atm]'.
+[00:56:31]	Dex Mcgugget has spawned a 'Entity [104][ix_atm]'.
+[00:56:52]	Dex Mcgugget entered observer.
+[00:56:53]	Dex Mcgugget exited observer at their location.
+[00:57:05]	Dex Mcgugget entered observer.
+[00:57:06]	Dex Mcgugget exited observer at their location.
+[00:57:08]	Dex Mcgugget has spawned a 'Entity [104][ix_atm]'.
+[00:57:10]	Dex Mcgugget has spawned a 'Entity [104][ix_atm]'.
+[00:57:11]	Dex Mcgugget has spawned a 'Entity [109][ix_atm]'.
+[00:57:12]	Dex Mcgugget has spawned a 'Entity [104][ix_atm]'.
+[00:57:19]	Dex Mcgugget entered observer.
+[00:57:19]	Dex Mcgugget exited observer at their location.
+[00:57:20]	Dex Mcgugget entered observer.
+[00:57:24]	Dex Mcgugget exited observer at their location.
+[00:57:26]	Dex Mcgugget entered observer.
+[00:57:26]	Dex Mcgugget exited observer at their location.
+[00:57:28]	Dex Mcgugget has taken 6 damage from worldspawn.
+[00:57:29]	Dex Mcgugget entered observer.
+[00:57:30]	Dex Mcgugget exited observer at their location.
+[00:57:30]	Dex Mcgugget entered observer.
+[00:57:32]	Dex Mcgugget exited observer at their location.
+[00:57:33]	Dex Mcgugget entered observer.
+[00:57:34]	Dex Mcgugget has gained 5 Tokens.
+[00:57:35]	Dex Mcgugget exited observer at their location.
+[00:57:42]	Dex Mcgugget entered observer.
+[00:57:55]	Dex Mcgugget exited observer at their location.
+[00:57:58]	Dex Mcgugget entered observer.
+[00:57:58]	Dex Mcgugget exited observer at their location.
+[00:58:00]	Dex Mcgugget entered observer.
+[00:58:00]	Dex Mcgugget exited observer at their location.
+[00:58:01]	Dex Mcgugget entered observer.
+[00:58:01]	Dex Mcgugget exited observer at their location.
+[00:58:01]	Dex Mcgugget entered observer.
+[00:58:01]	Dex Mcgugget exited observer at their location.
+[00:58:01]	Dex Mcgugget entered observer.
+[00:58:02]	Dex Mcgugget exited observer at their location.
+[00:58:03]	Dex Mcgugget entered observer.
+[00:58:04]	Dex Mcgugget exited observer at their location.
+[00:58:07]	Dex Mcgugget entered observer.
+[00:58:10]	Dex Mcgugget exited observer at their location.
+[00:58:12]	Dex Mcgugget entered observer.
+[00:58:27]	Dex Mcgugget exited observer at their location.
+[00:58:29]	Dex Mcgugget entered observer.
+[00:58:36]	Dex Mcgugget exited observer at their location.
+[00:59:06]	Dex Mcgugget entered observer.
+[00:59:15]	Dex Mcgugget exited observer at their location.
+[00:59:16]	Dex Mcgugget entered observer.
+[00:59:17]	Dex Mcgugget exited observer at their location.
+[00:59:22]	Dex Mcgugget has taken 9999999 damage from Elevator_1.
+[00:59:22]	Elevator_1 has killed Dex Mcgugget.
+[01:00:51]	Dex Mcgugget entered observer.
+[01:00:54]	Dex Mcgugget exited observer at their location.
+[01:00:55]	Dex Mcgugget entered observer.
+[01:00:55]	Dex Mcgugget exited observer at their location.
+[01:00:55]	Dex Mcgugget entered observer.
+[01:00:59]	Dex Mcgugget exited observer at their location.
+[01:01:06]	Dex Mcgugget entered observer.
+[01:01:07]	Dex Mcgugget exited observer at their location.
+[01:01:08]	Dex Mcgugget entered observer.
+[01:01:09]	Dex Mcgugget exited observer at their location.
+[01:01:10]	Dex Mcgugget entered observer.
+[01:01:11]	Dex Mcgugget exited observer at their location.
+[01:01:12]	Dex Mcgugget entered observer.
+[01:01:12]	Dex Mcgugget exited observer at their location.
+[01:01:13]	Dex Mcgugget entered observer.
+[01:01:13]	Dex Mcgugget exited observer at their location.
+[01:01:14]	Dex Mcgugget entered observer.
+[01:01:14]	Dex Mcgugget exited observer at their location.
+[01:01:15]	Dex Mcgugget entered observer.
+[01:01:15]	Dex Mcgugget exited observer at their location.
+[01:01:16]	Dex Mcgugget entered observer.
+[01:01:16]	Dex Mcgugget exited observer at their location.
+[01:01:18]	Dex Mcgugget has taken 2 damage from worldspawn.
+[01:01:19]	Dex Mcgugget entered observer.
+[01:01:22]	Dex Mcgugget exited observer at their location.
+[01:01:22]	Dex Mcgugget entered observer.
+[01:01:27]	Dex Mcgugget exited observer at their location.
+[01:01:27]	Dex Mcgugget entered observer.
+[01:01:28]	Dex Mcgugget exited observer at their location.
+[01:01:32]	Dex Mcgugget entered observer.
+[01:01:34]	Dex Mcgugget exited observer at their location.
+[01:01:35]	Dex Mcgugget entered observer.
+[01:01:50]	Dex Mcgugget exited observer at their location.
+[01:01:55]	Dex Mcgugget entered observer.
+[01:02:01]	Dex Mcgugget exited observer at their location.
+[01:02:04]	Dex Mcgugget entered observer.
+[01:02:10]	Dex Mcgugget exited observer at their location.
+[01:02:15]	Dex Mcgugget has spawned a 'NPC [111][npc_citizen]'.
+[01:02:16]	Dex Mcgugget has spawned a 'NPC [117][npc_citizen]'.
+[01:02:16]	Dex Mcgugget has spawned a 'NPC [119][npc_citizen]'.
+[01:02:17]	Dex Mcgugget has spawned a 'NPC [122][npc_citizen]'.
+[01:02:18]	Dex Mcgugget has spawned a 'NPC [132][npc_citizen]'.
+[01:02:18]	Dex Mcgugget has spawned a 'NPC [283][npc_citizen]'.
+[01:02:19]	Dex Mcgugget has spawned a 'NPC [288][npc_citizen]'.
+[01:02:37]	Dex Mcgugget entered observer.
+[01:02:41]	Dex Mcgugget exited observer at their location.
+[01:02:45]	Dex Mcgugget entered observer.
+[01:02:52]	Dex Mcgugget exited observer at their location.
+[01:02:59]	Dex Mcgugget entered observer.
+[01:03:00]	Dex Mcgugget exited observer at their location.
+[01:03:02]	Dex Mcgugget entered observer.
+[01:03:04]	Dex Mcgugget exited observer at their location.
+[01:03:04]	Dex Mcgugget has taken 9999999 damage from Elevator_1.
+[01:03:04]	Elevator_1 has killed Dex Mcgugget.
+[01:04:05]	Dex Mcgugget entered observer.
+[01:04:08]	Dex Mcgugget exited observer at their location.
+[01:04:14]	Dex Mcgugget entered observer.
+[01:04:16]	Dex Mcgugget exited observer at their location.
+[01:04:16]	Dex Mcgugget entered observer.
+[01:04:17]	Dex Mcgugget exited observer at their location.
+[01:04:19]	Dex Mcgugget entered observer.
+[01:04:24]	Dex Mcgugget exited observer at their location.
+[01:04:24]	Dex Mcgugget entered observer.
+[01:04:27]	Dex Mcgugget exited observer at their location.
+[01:04:30]	Dex Mcgugget entered observer.
+[01:04:36]	Dex Mcgugget exited observer at their location.
+[01:04:37]	Dex Mcgugget entered observer.
+[01:04:37]	Dex Mcgugget exited observer at their location.
+[01:04:38]	Dex Mcgugget entered observer.
+[01:04:39]	Dex Mcgugget exited observer at their location.
+[01:04:39]	Dex Mcgugget entered observer.
+[01:04:40]	Dex Mcgugget exited observer at their location.
+[01:04:47]	Dex Mcgugget entered observer.
+[01:04:47]	Dex Mcgugget exited observer at their location.
+[01:04:50]	Dex Mcgugget entered observer.
+[01:04:51]	Dex Mcgugget exited observer at their location.
+[01:04:53]	Dex Mcgugget entered observer.
+[01:04:54]	Dex Mcgugget exited observer at their location.
+[01:04:59]	Dex Mcgugget entered observer.
+[01:04:59]	Dex Mcgugget exited observer at their location.
+[01:05:00]	Dex Mcgugget entered observer.
+[01:05:06]	Dex Mcgugget exited observer at their location.
+[01:05:12]	Dex Mcgugget entered observer.
+[01:05:12]	Dex Mcgugget exited observer at their location.
+[01:05:54]	Dex Mcgugget entered observer.
+[01:05:55]	Dex Mcgugget exited observer at their location.
+[01:08:04]	Hamood (STEAM_0:0:420247449) has disconnected.
+[01:09:22]	Hamood has connected.
+[01:09:36]	Hamood loaded the character 'Dex Mcgugget'
+[01:09:39]	Dex Mcgugget entered observer.
+[01:09:43]	Dex Mcgugget exited observer at their location.
+[01:09:44]	Dex Mcgugget entered observer.
+[01:09:44]	Dex Mcgugget exited observer at their location.
+[01:10:14]	Dex Mcgugget entered observer.
+[01:10:21]	Dex Mcgugget exited observer at their location.
+[01:10:22]	Dex Mcgugget entered observer.
+[01:10:23]	Dex Mcgugget exited observer at their location.
+[01:10:24]	Dex Mcgugget entered observer.
+[01:10:24]	Dex Mcgugget exited observer at their location.
+[01:10:25]	Dex Mcgugget entered observer.
+[01:10:25]	Dex Mcgugget exited observer at their location.
+[01:10:27]	Dex Mcgugget entered observer.
+[01:10:29]	Dex Mcgugget exited observer at their location.
+[01:10:31]	Dex Mcgugget entered observer.
+[01:10:35]	Dex Mcgugget exited observer at their location.
+[01:10:37]	Dex Mcgugget entered observer.
+[01:10:38]	Dex Mcgugget exited observer at their location.
+[01:10:39]	Dex Mcgugget entered observer.
+[01:10:41]	Dex Mcgugget exited observer at their location.
+[01:10:46]	Dex Mcgugget entered observer.
+[01:10:47]	Dex Mcgugget exited observer at their location.
+[01:10:48]	Dex Mcgugget entered observer.
+[01:10:48]	Dex Mcgugget exited observer at their location.
+[01:10:48]	Dex Mcgugget entered observer.
+[01:10:48]	Dex Mcgugget exited observer at their location.
+[01:10:49]	Dex Mcgugget entered observer.
+[01:10:49]	Dex Mcgugget exited observer at their location.
+[01:10:49]	Dex Mcgugget entered observer.
+[01:10:49]	Dex Mcgugget exited observer at their location.
+[01:10:50]	Dex Mcgugget entered observer.
+[01:10:50]	Dex Mcgugget exited observer at their location.
+[01:10:50]	Dex Mcgugget entered observer.
+[01:10:50]	Dex Mcgugget exited observer at their location.
+[01:10:55]	Dex Mcgugget entered observer.
+[01:10:57]	Dex Mcgugget exited observer at their location.
+[01:11:01]	Dex Mcgugget entered observer.
+[01:11:04]	Dex Mcgugget exited observer at their location.
+[01:13:27]	Hamood (STEAM_0:0:420247449) has disconnected.

@@ -4,8 +4,8 @@ SWEP.Base = "ls_base"
 
 SWEP.PrintName = "Overwatch Sniper Rifle"
 SWEP.Category = "Longsword Beta Pack"
-SWEP.Spawnable = true
-SWEP.AdminOnly = false
+SWEP.Spawnable = false
+SWEP.AdminOnly = true
 
 SWEP.HoldType = "ar2"
 
