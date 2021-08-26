@@ -67,3 +67,20 @@
 [06:48:59]	Hamood has connected.
 [06:49:11]	Hamood loaded the character 'Dex Mcgugget'
 [06:54:11]	Dex Mcgugget has gained 5 Tokens.
+[06:59:11]	Dex Mcgugget has gained 5 Tokens.
+[07:04:11]	Dex Mcgugget has gained 5 Tokens.
+[07:09:11]	Dex Mcgugget has gained 5 Tokens.
+[07:13:45]	Dex Mcgugget has taken 9999999 damage from Elevator_1.
+[07:13:45]	Elevator_1 has killed Dex Mcgugget.
+[07:14:11]	Dex Mcgugget has gained 5 Tokens.
+[07:15:09]	Dex Mcgugget has taken 9999999 damage from Elevator_1.
+[07:15:09]	Elevator_1 has killed Dex Mcgugget.
+[07:19:09]	Dex Mcgugget has taken 9999999 damage from Elevator_1.
+[07:19:09]	Elevator_1 has killed Dex Mcgugget.
+[07:19:11]	Dex Mcgugget has gained 5 Tokens.
+[07:24:11]	Dex Mcgugget has gained 5 Tokens.
+[07:29:11]	Dex Mcgugget has gained 5 Tokens.
+[07:34:11]	Dex Mcgugget has gained 5 Tokens.
+[07:39:11]	Dex Mcgugget has gained 5 Tokens.
+[07:44:11]	Dex Mcgugget has gained 5 Tokens.
+[07:49:11]	Dex Mcgugget has gained 5 Tokens.

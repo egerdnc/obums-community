@@ -127,3 +127,6 @@
 [06:48:41] Client "Hamood" connected.
 [06:48:59] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
 [06:49:11] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[07:13:45] Dex Mcgugget was killed by func_movelinear
+[07:15:09] Dex Mcgugget was killed by func_movelinear
+[07:19:09] Dex Mcgugget was killed by func_movelinear
