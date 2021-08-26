@@ -12,6 +12,7 @@ function FACTION:OnCharacterCreated(client, character)
 	local inventory = character:GetInventory()
 	
 	inventory:Add("flashlight", 1)
+	inventory:Add("stunstick", 1)
 end
 
 function FACTION:GetDefaultName(client)
