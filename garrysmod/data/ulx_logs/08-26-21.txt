@@ -39,3 +39,52 @@
 [04:47:33] Dex Mcgugget: // test
 [04:47:34] Dex Mcgugget: // test
 [04:47:35] Dex Mcgugget: // test
+[04:50:59] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[04:51:15] New map: rp_city2_v4_finalb
+[04:52:41] Client "Hamood" connected.
+[04:52:59] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
+[04:53:52] Dropped "Hamood" from server<STEAM_0:0:420247449>
+[04:56:47] Client "Hamood" connected.
+[04:57:05] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
+[04:57:22] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[04:59:24] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[04:59:43] New map: rp_city2_v4_finalb
+[04:59:51] Client "Hamood" connected.
+[05:00:09] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
+[05:00:34] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[05:02:41] Dex Mcgugget: /roll
+[05:02:44] Dex Mcgugget: /event
+[05:11:44] Dex Mcgugget: /CharGiveFlag
+[05:13:11] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[05:13:26] New map: rp_city2_v4_finalb
+[05:13:31] Client "Hamood" connected.
+[05:13:50] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
+[05:15:42] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[05:18:40] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[05:19:05] New map: rp_city2_v4_finalb
+[05:19:22] Client "Hamood" connected.
+[05:19:40] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
+[05:19:55] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[05:22:01] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[05:22:23] New map: rp_city2_v4_finalb
+[05:22:26] Client "Hamood" connected.
+[05:22:45] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
+[05:23:09] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[05:27:35] Dex Mcgugget: !ulx
+[05:27:38] Dex Mcgugget: !menu
+[05:34:43] Dex Mcgugget: /doorsetownable
