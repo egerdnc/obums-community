@@ -88,3 +88,47 @@
 [07:59:11]	Dex Mcgugget has gained 5 Tokens.
 [08:00:15]	Hamood (STEAM_0:0:420247449) has disconnected.
 [08:02:18]	Hamood has connected.
+[08:02:35]	Hamood loaded the character 'Dex Mcgugget'
+[08:07:35]	Dex Mcgugget has gained 5 Tokens.
+[08:12:35]	Dex Mcgugget has gained 5 Tokens.
+[08:17:35]	Dex Mcgugget has gained 5 Tokens.
+[08:19:30]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:19:50]	Hamood has connected.
+[08:20:15]	Hamood loaded the character 'Dex Mcgugget'
+[08:25:14]	Dex Mcgugget has gained 5 Tokens.
+[08:30:14]	Dex Mcgugget has gained 5 Tokens.
+[08:35:14]	Dex Mcgugget has gained 5 Tokens.
+[08:40:16]	Dex Mcgugget has gained 5 Tokens.
+[08:45:16]	Dex Mcgugget has gained 5 Tokens.
+[08:50:16]	Dex Mcgugget has gained 5 Tokens.
+[08:55:16]	Dex Mcgugget has gained 5 Tokens.
+[09:00:16]	Dex Mcgugget has gained 5 Tokens.
+[09:05:16]	Dex Mcgugget has gained 5 Tokens.
+[09:10:16]	Dex Mcgugget has gained 5 Tokens.
+[09:14:55]	Dex Mcgugget used command '/Radio'.
+[09:15:16]	Dex Mcgugget has gained 5 Tokens.
+[09:20:16]	Dex Mcgugget has gained 5 Tokens.
+[09:25:16]	Dex Mcgugget has gained 5 Tokens.
+[09:30:16]	Dex Mcgugget has gained 5 Tokens.
+[09:35:16]	Dex Mcgugget has gained 5 Tokens.
+[09:37:55]	Dex Mcgugget has lost 5 Tokens.
+[09:37:55]	Dex Mcgugget used command '/DropTokens 5'.
+[09:37:59]	Dex Mcgugget has gained 5 Tokens.
+[09:40:16]	Dex Mcgugget has gained 5 Tokens.
+[09:41:12]	Hamood (STEAM_0:0:420247449) has disconnected.
+[09:42:56]	Hamood has connected.
+[09:43:18]	Hamood loaded the character 'Dex Mcgugget'
+[09:44:28]	Hamood (STEAM_0:0:420247449) has disconnected.
+[09:45:07]	Hamood has connected.
+[09:45:28]	Hamood loaded the character 'Dex Mcgugget'
+[09:50:28]	Dex Mcgugget has gained 5 Tokens.
+[09:55:28]	Dex Mcgugget has gained 5 Tokens.
+[10:00:28]	Dex Mcgugget has gained 5 Tokens.
+[10:05:28]	Dex Mcgugget has gained 5 Tokens.
+[10:09:05]	Dex Mcgugget ran 'drop' on item 'Suitcase' (#144)
+[10:09:05]	Dex Mcgugget has lost a 'Suitcase' #144.
+[10:09:07]	Dex Mcgugget ran 'take' on item 'Suitcase' (#144)
+[10:09:07]	Dex Mcgugget has gained a 'Suitcase' #144.
+[10:10:28]	Dex Mcgugget has gained 5 Tokens.
+[10:15:28]	Dex Mcgugget has gained 5 Tokens.
+[10:20:28]	Dex Mcgugget has gained 5 Tokens.

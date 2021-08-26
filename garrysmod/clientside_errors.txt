@@ -3710,3 +3710,123 @@ The Apex Typhon|4|STEAM_0:1:74180635
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/weapon-select.lua:75: attempt to call method 'utf8upper' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/weapon-select.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
