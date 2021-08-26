@@ -16,6 +16,6 @@ Don't forget to import **Half Life 2 with Episodes** to your localhost\
 ## Commits and Remotes
 Dont make any other origin except master and origin.\
 Dont push the cache files.\
-Before commiting something **don't forget to double check your code / asset**.\
+Before commiting something **don't forget to double check your code / asset**.
 ##
 [Extra files (garrysmod.rar)](https://mega.nz/file/STJCkRRQ#RuCvv3tvISNHfviSqVrmL50a_5xz77cwfVQ65PBpcMA)
