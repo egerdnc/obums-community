@@ -1,0 +1,22 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/w_packate/packate_shiit"
+	"$bumpmap" "models/weapons/w_packate/packati_n"
+	"$model" "1"
+
+
+	"$phong"     "1"
+	"$phongexponent"  "15"
+	"$phongboost"   "0.5"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "30"
+	"$rimlightboost" "0.5"
+	
+	
+
+
+}

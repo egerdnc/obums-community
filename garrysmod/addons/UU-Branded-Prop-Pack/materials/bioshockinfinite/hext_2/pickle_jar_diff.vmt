@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BioshockInfinite/Hext_2/Pickle_Jar_DIFF"
+	"$bumpmap" "BioshockInfinite/Hext_2/Pickle_Jar_NORM"
+	"$surfaceprop" "Glass"
+}

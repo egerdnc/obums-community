@@ -1,0 +1,22 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_plops\pg_food/pg_tortellinar"
+	"$bumpmap" "models\PG_plops\pg_food/pg_tortellinar_bump"
+	"$model" "1"
+
+
+	"$phong"     "1"
+	"$phongexponent"  "15"
+	"$phongboost"   "0.5"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "30"
+	"$rimlightboost" "0.5"
+	
+	
+
+
+}

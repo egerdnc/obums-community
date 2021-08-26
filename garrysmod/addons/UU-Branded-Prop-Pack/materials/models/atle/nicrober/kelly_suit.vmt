@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\atle\nicrober\suit_brown"
+"$bumpmap" "models\atle\nicrober\suit_brown_n"
+}
