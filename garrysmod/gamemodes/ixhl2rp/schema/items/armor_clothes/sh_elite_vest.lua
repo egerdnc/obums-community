@@ -24,10 +24,6 @@ function ITEM:OnUnequipped()
 	self.player:SetArmor(0)
 end
 
-function ITEM:Repair(amount)
-	self:SetData("armor", math.Clamp(self:GetData("armor") + amount, 0, self.maxArmor))
-end
-
 function ITEM:OnLoadout()
 	if (self:GetData("equip")) then
 		self.player:SetArmor(self:GetData("armor", self.maxArmor))
