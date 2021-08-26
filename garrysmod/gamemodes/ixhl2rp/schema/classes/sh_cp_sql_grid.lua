@@ -7,8 +7,15 @@ function CLASS:CanSwitchTo(client)
 end
 
 function CLASS:OnSet(client)
-  local character = client:GetCharacter()
-	character:SetModel("models/dpfilms/metropolice/hl2concept.mdl")
+  	local character = client:GetCharacter()
+		character:SetModel("models/dpfilms/metropolice/hl2concept.mdl")
+	local inventory = character:GetInventory()
+	local item = inventory:HasItem("mp7")
+	if (item) then
+		return
+	else
+		inventory:Add("mp7", 1)
+	end
 end
 
 CLASS_GRIDSQL = CLASS.index
