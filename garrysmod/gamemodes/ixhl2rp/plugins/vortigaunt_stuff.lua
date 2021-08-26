@@ -7,7 +7,7 @@ ix.config.Add("VortHealMin", 5, "Minimum health value that can be healed by vort
 	category = "Vortigaunt Healing Swep"
 })
 
-ix.config.Add("VortHealMax", 20, "Maximum health value that can be healed by vortigaunt" , nil, {
+ix.config.Add("VortHealMax", 50, "Maximum health value that can be healed by vortigaunt" , nil, {
 	data = {min = 1, max = 100},
 	category = "Vortigaunt Healing Swep"
 })
