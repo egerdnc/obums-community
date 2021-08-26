@@ -88,3 +88,18 @@
 [05:27:35] Dex Mcgugget: !ulx
 [05:27:38] Dex Mcgugget: !menu
 [05:34:43] Dex Mcgugget: /doorsetownable
+[06:26:12] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[06:26:37] New map: rp_city2_v4_finalb
+[06:26:51] Client "Hamood" connected.
+[06:27:10] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 19 seconds).
+[06:27:26] Dropped "Hamood" from server<STEAM_0:0:420247449>
+
+
+
+[06:27:59] New map: rp_city2_v4_finalb
+[06:28:09] Client "Hamood" connected.
+[06:28:27] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 18 seconds).
+[06:28:44] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
