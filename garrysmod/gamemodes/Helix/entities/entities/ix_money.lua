@@ -20,6 +20,7 @@ if (SERVER) then
 		self:SetSolid(SOLID_VPHYSICS)
 		self:PhysicsInit(SOLID_VPHYSICS)
 		self:SetUseType(SIMPLE_USE)
+		self:SetModelScale( self:GetModelScale() * 2, 0.01 )
 
 		local physObj = self:GetPhysicsObject()
 
