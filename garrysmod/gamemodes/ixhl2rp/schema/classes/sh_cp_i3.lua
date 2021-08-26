@@ -3,7 +3,7 @@ CLASS.faction = FACTION_MPF
 CLASS.isDefault = false
 
 function CLASS:CanSwitchTo(client)
-	return Schema:IsCombineRank(client:Name(), "i3")
+	return Schema:IsCombineRank(client:Name(), "UNION-i3")
 end
 
 function CLASS:OnSet(client)

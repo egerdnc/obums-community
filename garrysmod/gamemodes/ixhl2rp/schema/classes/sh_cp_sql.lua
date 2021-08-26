@@ -1,9 +1,9 @@
-CLASS.name = "UNION i4"
+CLASS.name = "UNION SqL"
 CLASS.faction = FACTION_MPF
-CLASS.isDefault = true
+CLASS.isDefault = false
 
 function CLASS:CanSwitchTo(client)
-	return Schema:IsCombineRank(client:Name(), "UNION-i4")
+	return Schema:IsCombineRank(client:Name(), "UNION-SqL")
 end
 
 function CLASS:OnSet(client)
@@ -11,4 +11,4 @@ function CLASS:OnSet(client)
 	character:SetModel("models/dpfilms/metropolice/hdpolice.mdl")
 end
 
-CLASS_I4 = CLASS.index
+CLASS_SQL = CLASS.index

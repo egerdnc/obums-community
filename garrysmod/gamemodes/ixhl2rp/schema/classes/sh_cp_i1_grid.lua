@@ -1,9 +1,9 @@
-CLASS.name = "GRID OfC"
+CLASS.name = "GRID i1"
 CLASS.faction = FACTION_MPF
 CLASS.isDefault = false
 
 function CLASS:CanSwitchTo(client)
-	return Schema:IsCombineRank(client:Name(), "OfC")
+	return Schema:IsCombineRank(client:Name(), "GRID-i1")
 end
 
 function CLASS:OnSet(client)
@@ -11,4 +11,4 @@ function CLASS:OnSet(client)
 	character:SetModel("models/dpfilms/metropolice/hl2concept.mdl")
 end
 
-CLASS_OFCGRID = CLASS.index
+CLASS_I1GRID = CLASS.index
