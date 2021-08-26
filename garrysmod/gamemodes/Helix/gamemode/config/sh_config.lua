@@ -103,7 +103,7 @@ end, {
 	data = {min = 75, max = 500},
 	category = "characters"
 })
-ix.config.Add("runSpeed", 235, "How fast a player normally runs.", function(oldValue, newValue)
+ix.config.Add("runSpeed", 190, "How fast a player normally runs.", function(oldValue, newValue)
 	for _, v in ipairs(player.GetAll())	do
 		v:SetRunSpeed(newValue)
 	end
