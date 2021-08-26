@@ -10,7 +10,15 @@ local hatedWeapons = {
 	["weapon_rpg"] = true,
 	["weapon_slam"] = true,
 	["weapon_shotgun"] = true,
-	["weapon_smg1"] = true
+	["weapon_smg1"] = true,
+	["ls_uspmatch"] = true,
+	["ls_csniper"] = true,
+	["ls_spas12"] = true,
+	["ls_m24"] = true,
+	["ls_oicw"] = true,
+	["ls_mp5k"] = true,
+	["ls_mp7"] = true,
+	["ls_357"] = true
 }
 
 function PLUGIN:GetCameraRelationship(client)
