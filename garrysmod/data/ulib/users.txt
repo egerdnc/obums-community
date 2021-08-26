@@ -1,43 +1,43 @@
 "STEAM_0:0:140210729"	
 {
-	"name"	"Tzar"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Tzar"
 	"group"	"superadmin"
 }
 "STEAM_0:1:84322488"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Martin Dalox"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"admin"
 }
 "STEAM_0:1:175760128"	
 {
-	"name"	"Sir Poopenfarten"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Sir Poopenfarten"
 	"group"	"superadmin"
 }
 "STEAM_0:1:74180635"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Based Man"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"admin"
@@ -55,22 +55,22 @@
 }
 "STEAM_0:0:460042086"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Optical"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"admin"
 }
 "STEAM_0:0:67125359"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Toorusty"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"admin"

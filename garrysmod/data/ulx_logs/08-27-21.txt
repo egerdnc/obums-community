@@ -179,3 +179,16 @@
 [01:46:11] Dex Mcgugget: /dropmoney 
 [01:46:12] Dex Mcgugget: /dropmoney 5
 [01:50:28] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[01:55:11] New map: rp_city2_v4_finalb
+
+
+
+[01:55:58] New map: rp_city2_v4_finalb
+[01:56:03] Client "Hamood" connected.
+[01:56:25] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 22 seconds).
+[01:56:38] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[01:57:30] Dex Mcgugget: /apply
+[01:58:25] Dex Mcgugget<STEAM_0:0:420247449> spawned sent item_ammo_357_large

@@ -202,3 +202,8 @@
 [Fri Aug 27 01:46:12 2021] <STEAM_0:0:420247449> Dex Mcgugget: /dropmoney 5
 [Fri Aug 27 01:46:58 2021] worldspawn has killed Dex Mcgugget.
 [Fri Aug 27 01:50:28 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 01:56:03 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 01:56:25 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 01:57:30 2021] <STEAM_0:0:420247449> Dex Mcgugget: /apply
+[Fri Aug 27 01:58:25 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [120][item_ammo_357_large]"
+[Fri Aug 27 01:59:43 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
