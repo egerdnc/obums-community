@@ -1060,3 +1060,4 @@
 [02:33:44]	Dex Mcgugget has gained 5 Tokens.
 [02:34:02]	Dex Mcgugget entered observer.
 [02:34:03]	Dex Mcgugget exited observer at their location.
+[02:40:25]	Dex Mcgugget has gained 5 Tokens.
