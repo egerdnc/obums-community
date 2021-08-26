@@ -37,6 +37,7 @@ WS: Finished!
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\aml'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longsword'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longswordbetaweapons'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\precision-tool'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard-content'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\unstuck'
@@ -199,102 +200,15 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. fn - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/ulib/shared/hook.lua:109
 
-[22:51][ServerGuard] [mysql] Connected to the database!
+[00:37][ServerGuard] [mysql] Connected to the database!
 Making workshop map available for client download
 Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0826034.log
-L 08/26/2021 - 22:51:06: Log file started (file "logs\L0826034.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0827006.log
+L 08/27/2021 - 00:37:30: Log file started (file "logs\L0827006.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Writing cfg/banned_user.cfg.
-[22:51][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27006).
-[mysql] SQL Query Error!
-Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
-duplicate column name: member
-[LOG] Hamood has connected.
-Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'Dex Mcgugget'
-Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 45 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 2 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 3 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 31 damage from worldspawn.

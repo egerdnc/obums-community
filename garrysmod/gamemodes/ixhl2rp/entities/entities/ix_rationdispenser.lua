@@ -124,7 +124,7 @@ if (SERVER) then
 		self.canUse = false
 
 		timer.Simple(length, function()
-			self:SetDisplay(1)
+			--self:SetDisplay(1)
 			self.canUse = true
 		end)
 	end
@@ -187,30 +187,30 @@ else
 		antialias = false
 	})
 
-	function ENT:Draw()
-		local position, angles = self:GetPos(), self:GetAngles()
-		local display = self:GetEnabled() and self.Displays[self:GetDisplay()] or self.Displays[6]
+	-- function ENT:Draw()
+	-- 	local position, angles = self:GetPos(), self:GetAngles()
+	-- 	local display = self:GetEnabled() and self.Displays[self:GetDisplay()] or self.Displays[6]
 
-		angles:RotateAroundAxis(angles:Forward(), 90)
-		angles:RotateAroundAxis(angles:Right(), 270)
+	-- 	angles:RotateAroundAxis(angles:Forward(), 90)
+	-- 	angles:RotateAroundAxis(angles:Right(), 270)
 
-		cam.Start3D2D(position + self:GetForward() * 7.6 + self:GetRight()*  8.5 + self:GetUp() * 3, angles, 0.1)
-			render.PushFilterMin(TEXFILTER.NONE)
-			render.PushFilterMag(TEXFILTER.NONE)
+	-- 	cam.Start3D2D(position + self:GetForward() * 7.6 + self:GetRight()*  8.5 + self:GetUp() * 3, angles, 0.1)
+	-- 		render.PushFilterMin(TEXFILTER.NONE)
+	-- 		render.PushFilterMag(TEXFILTER.NONE)
 
-			surface.SetDrawColor(color_black)
-			surface.DrawRect(10, 16, 153, 40)
+	-- 		surface.SetDrawColor(color_black)
+	-- 		surface.DrawRect(10, 16, 153, 40)
 
-			surface.SetDrawColor(60, 60, 60)
-			surface.DrawOutlinedRect(9, 16, 155, 40)
+	-- 		surface.SetDrawColor(60, 60, 60)
+	-- 		surface.DrawOutlinedRect(9, 16, 155, 40)
 
-			local alpha = display[3] and 255 or math.abs(math.cos(RealTime() * 2) * 255)
-			local color = ColorAlpha(display[2], alpha)
+	-- 		local alpha = display[3] and 255 or math.abs(math.cos(RealTime() * 2) * 255)
+	-- 		local color = ColorAlpha(display[2], alpha)
 
-			draw.SimpleText(display[1], "ixRationDispenser", 86, 36, color, TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+	-- 		draw.SimpleText(display[1], "ixRationDispenser", 86, 36, color, TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
 
-			render.PopFilterMin()
-			render.PopFilterMag()
-		cam.End3D2D()
-	end
+	-- 		render.PopFilterMin()
+	-- 		render.PopFilterMag()
+	-- 	cam.End3D2D()
+	-- end
 end
