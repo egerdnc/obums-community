@@ -189,8 +189,8 @@ Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0826011.log
-L 08/26/2021 - 06:27:59: Log file started (file "logs\L0826011.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0826014.log
+L 08/26/2021 - 06:48:17: Log file started (file "logs\L0826014.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.

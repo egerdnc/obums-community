@@ -187,9 +187,9 @@ function PLUGIN:CanPlayerAccessDoor(client, door, access)
 	end
 end
 
-function PLUGIN:PostPlayerLoadout(client)
-	client:Give("ix_keys")
-end
+-- function PLUGIN:PostPlayerLoadout(client)
+-- 	client:Give("ix_keys")
+-- end
 
 function PLUGIN:ShowTeam(client)
 	local data = {}

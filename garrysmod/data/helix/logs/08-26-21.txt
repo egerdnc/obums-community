@@ -56,3 +56,13 @@
 [06:28:27]	Hamood has connected.
 [06:28:43]	Hamood loaded the character 'Dex Mcgugget'
 [06:33:43]	Dex Mcgugget has gained 5 Tokens.
+[06:35:45]	Hamood (STEAM_0:0:420247449) has disconnected.
+[06:36:39]	Hamood has connected.
+[06:37:06]	Hamood loaded the character 'Dex Mcgugget'
+[06:42:06]	Dex Mcgugget has gained 5 Tokens.
+[06:45:56]	Hamood (STEAM_0:0:420247449) has disconnected.
+[06:46:32]	Hamood has connected.
+[06:46:55]	Hamood loaded the character 'Dex Mcgugget'
+[06:48:03]	Hamood (STEAM_0:0:420247449) has disconnected.
+[06:48:59]	Hamood has connected.
+[06:49:11]	Hamood loaded the character 'Dex Mcgugget'
