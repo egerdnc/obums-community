@@ -1,6 +1,6 @@
 CLASS.name = "i3"
 CLASS.faction = FACTION_MPF
-CLASS.isDefault = true
+CLASS.isDefault = false
 
 function CLASS:CanSwitchTo(client)
 	return Schema:IsCombineRank(client:Name(), "i3")
