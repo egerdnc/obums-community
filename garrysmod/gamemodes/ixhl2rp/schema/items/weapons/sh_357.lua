@@ -1,10 +1,8 @@
-ITEM.name = "357"
+ITEM.name = "357. Revolver"
 ITEM.description = "A sidearm utilising .357 Caliber ammunition."
 ITEM.model = "models/weapons/w_357.mdl"
-ITEM.class = "weapon_357"
+ITEM.class = "ls_357"
 ITEM.weaponCategory = "sidearm"
-ITEM.classes = {CLASS_EOW}
-ITEM.flag = "V"
 ITEM.width = 2
 ITEM.height = 1
 ITEM.iconCam = {
