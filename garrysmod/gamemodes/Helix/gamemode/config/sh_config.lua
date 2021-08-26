@@ -11,7 +11,7 @@ ix.config.language = "english"
 	Use the menu to change the variables, not this file.
 --]]
 
-ix.config.Add("maxCharacters", 5, "The maximum number of characters a player can have.", nil, {
+ix.config.Add("maxCharacters", 1, "The maximum number of characters a player can have.", nil, {
 	data = {min = 1, max = 50},
 	category = "characters"
 })

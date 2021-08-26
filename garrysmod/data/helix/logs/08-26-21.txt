@@ -146,3 +146,699 @@
 [11:21:40]	Dex Mcgugget has taken 5 damage from trigger_hurt.
 [11:21:41]	Dex Mcgugget has taken 5 damage from trigger_hurt.
 [11:25:07]	Hamood (STEAM_0:0:420247449) has disconnected.
+[20:25:42]	Hamood has connected.
+[20:27:05]	Hamood loaded the character 'Dex Mcgugget'
+[20:28:39]	Dex Mcgugget entered observer.
+[20:28:44]	Dex Mcgugget exited observer.
+[20:28:46]	Dex Mcgugget entered observer.
+[20:28:49]	Dex Mcgugget exited observer.
+[20:28:50]	Dex Mcgugget entered observer.
+[20:28:50]	Dex Mcgugget exited observer.
+[20:29:12]	Dex Mcgugget used command '/DoorSetFaction'.
+[20:29:31]	Dex Mcgugget used command '/DoorSetFaction FACTION_MPF'.
+[20:29:38]	Dex Mcgugget used command '/DoorSetFaction MPF'.
+[20:29:41]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[20:29:42]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[20:29:47]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[20:29:48]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[20:29:50]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[20:29:54]	Dex Mcgugget entered observer.
+[20:29:55]	Dex Mcgugget exited observer.
+[20:29:59]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[20:30:18]	Dex Mcgugget entered observer.
+[20:30:19]	Dex Mcgugget exited observer.
+[20:30:19]	Dex Mcgugget entered observer.
+[20:30:19]	Dex Mcgugget exited observer.
+[20:30:20]	Dex Mcgugget entered observer.
+[20:30:20]	Dex Mcgugget exited observer.
+[20:30:20]	Dex Mcgugget entered observer.
+[20:30:21]	Dex Mcgugget exited observer.
+[20:30:22]	Dex Mcgugget entered observer.
+[20:30:22]	Dex Mcgugget exited observer.
+[20:30:23]	Dex Mcgugget entered observer.
+[20:30:24]	Dex Mcgugget exited observer.
+[20:30:48]	Dex Mcgugget entered observer.
+[20:30:48]	Dex Mcgugget exited observer.
+[20:30:50]	Dex Mcgugget entered observer.
+[20:30:50]	Dex Mcgugget exited observer.
+[20:30:51]	Dex Mcgugget entered observer.
+[20:30:51]	Dex Mcgugget exited observer.
+[20:30:52]	Dex Mcgugget entered observer.
+[20:30:52]	Dex Mcgugget exited observer.
+[20:31:21]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:31:24]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:31:28]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:31:37]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:31:40]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:31:43]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:32:03]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:32:05]	Dex Mcgugget has gained 5 Tokens.
+[20:32:52]	Dex Mcgugget used command '/DoorSetOwnable'.
+[20:33:34]	Dex Mcgugget entered observer.
+[20:33:34]	Dex Mcgugget exited observer.
+[20:33:34]	Dex Mcgugget entered observer.
+[20:33:35]	Dex Mcgugget exited observer.
+[20:33:35]	Dex Mcgugget entered observer.
+[20:33:35]	Dex Mcgugget exited observer.
+[20:34:03]	Dex Mcgugget entered observer.
+[20:34:03]	Dex Mcgugget exited observer at their location.
+[20:34:04]	Dex Mcgugget entered observer.
+[20:34:04]	Dex Mcgugget exited observer at their location.
+[20:34:04]	Dex Mcgugget entered observer.
+[20:34:05]	Dex Mcgugget exited observer at their location.
+[20:34:05]	Dex Mcgugget entered observer.
+[20:34:09]	Dex Mcgugget exited observer at their location.
+[20:34:12]	Dex Mcgugget entered observer.
+[20:34:14]	Dex Mcgugget exited observer at their location.
+[20:34:20]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:22]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:25]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:31]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:33]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:35]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:37]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:39]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:41]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:49]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:52]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:56]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:34:58]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:04]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:08]	Dex Mcgugget entered observer.
+[20:35:11]	Dex Mcgugget exited observer at their location.
+[20:35:14]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:14]	Dex Mcgugget entered observer.
+[20:35:19]	Dex Mcgugget exited observer at their location.
+[20:35:20]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:24]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:24]	Dex Mcgugget entered observer.
+[20:35:27]	Dex Mcgugget exited observer at their location.
+[20:35:27]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:28]	Dex Mcgugget entered observer.
+[20:35:30]	Dex Mcgugget exited observer at their location.
+[20:35:34]	Dex Mcgugget entered observer.
+[20:35:37]	Dex Mcgugget exited observer at their location.
+[20:35:38]	Dex Mcgugget entered observer.
+[20:35:40]	Dex Mcgugget exited observer at their location.
+[20:35:41]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:41]	Dex Mcgugget entered observer.
+[20:35:43]	Dex Mcgugget exited observer at their location.
+[20:35:45]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:35:53]	Dex Mcgugget entered observer.
+[20:35:59]	Dex Mcgugget exited observer at their location.
+[20:36:03]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:36:04]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:36:04]	Dex Mcgugget entered observer.
+[20:36:05]	Dex Mcgugget exited observer at their location.
+[20:36:08]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:36:09]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:36:14]	Dex Mcgugget used command '/DoorSetFaction Metropol'.
+[20:36:16]	Dex Mcgugget entered observer.
+[20:36:16]	Dex Mcgugget exited observer at their location.
+[20:36:17]	Dex Mcgugget entered observer.
+[20:36:19]	Dex Mcgugget exited observer at their location.
+[20:36:22]	Dex Mcgugget entered observer.
+[20:36:23]	Dex Mcgugget exited observer at their location.
+[20:36:33]	Dex Mcgugget entered observer.
+[20:36:33]	Dex Mcgugget exited observer at their location.
+[20:36:45]	Dex Mcgugget entered observer.
+[20:36:45]	Dex Mcgugget exited observer at their location.
+[20:36:45]	Dex Mcgugget entered observer.
+[20:36:51]	Dex Mcgugget exited observer at their location.
+[20:36:54]	Dex Mcgugget entered observer.
+[20:36:54]	Dex Mcgugget exited observer at their location.
+[20:36:55]	Dex Mcgugget entered observer.
+[20:37:05]	Dex Mcgugget has gained 5 Tokens.
+[20:37:21]	Dex Mcgugget exited observer at their location.
+[20:37:22]	Dex Mcgugget entered observer.
+[20:37:24]	Dex Mcgugget exited observer at their location.
+[20:37:40]	Dex Mcgugget entered observer.
+[20:37:40]	Dex Mcgugget exited observer at their location.
+[20:37:41]	Dex Mcgugget entered observer.
+[20:37:43]	Dex Mcgugget exited observer at their location.
+[20:37:44]	Dex Mcgugget entered observer.
+[20:37:51]	Dex Mcgugget exited observer at their location.
+[20:38:08]	Dex Mcgugget has spawned a 'Entity [101][ix_rationdispenser]'.
+[20:38:44]	Dex Mcgugget entered observer.
+[20:38:46]	Dex Mcgugget exited observer at their location.
+[20:38:47]	Dex Mcgugget entered observer.
+[20:38:48]	Dex Mcgugget exited observer at their location.
+[20:38:50]	Dex Mcgugget entered observer.
+[20:38:50]	Dex Mcgugget exited observer at their location.
+[20:39:54]	Dex Mcgugget entered observer.
+[20:39:57]	Dex Mcgugget exited observer at their location.
+[20:40:14]	Dex Mcgugget ran 'Open' on item 'Ration' (#147)
+[20:40:14]	Dex Mcgugget has gained a 'Supplements' #148.
+[20:40:14]	Dex Mcgugget has gained a 'Breen's Water' #149.
+[20:40:14]	Dex Mcgugget has gained 30 Tokens.
+[20:40:27]	Dex Mcgugget entered observer.
+[20:40:36]	Dex Mcgugget exited observer at their location.
+[20:40:42]	Dex Mcgugget entered observer.
+[20:40:51]	Dex Mcgugget exited observer at their location.
+[20:40:54]	Dex Mcgugget has spawned a 'Entity [113][ix_scanner]'.
+[20:41:29]	Dex Mcgugget entered observer.
+[20:41:35]	Dex Mcgugget exited observer at their location.
+[20:41:37]	Dex Mcgugget has spawned a 'Entity [106][ix_vendingmachine]'.
+[20:41:39]	Dex Mcgugget has lost 15 Tokens.
+[20:41:42]	Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#150)
+[20:42:05]	Dex Mcgugget has gained 5 Tokens.
+[20:43:04]	Dex Mcgugget has lost 15 Tokens.
+[20:43:19]	Dex Mcgugget ran 'take' on item 'Breen's Water' (#151)
+[20:43:19]	Dex Mcgugget has gained a 'Breen's Water' #151.
+[20:43:22]	Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#149)
+[20:43:23]	Dex Mcgugget ran 'Drink' on item 'Breen's Water' (#151)
+[20:43:24]	Dex Mcgugget entered observer.
+[20:43:25]	Dex Mcgugget exited observer at their location.
+[20:43:26]	Dex Mcgugget entered observer.
+[20:43:26]	Dex Mcgugget exited observer at their location.
+[20:43:26]	Dex Mcgugget entered observer.
+[20:43:27]	Dex Mcgugget exited observer at their location.
+[20:43:28]	Dex Mcgugget entered observer.
+[20:43:28]	Dex Mcgugget exited observer at their location.
+[20:43:29]	Dex Mcgugget entered observer.
+[20:43:30]	Dex Mcgugget exited observer at their location.
+[20:43:31]	Dex Mcgugget entered observer.
+[20:43:31]	Dex Mcgugget exited observer at their location.
+[20:43:32]	Dex Mcgugget entered observer.
+[20:43:32]	Dex Mcgugget exited observer at their location.
+[20:44:11]	Dex Mcgugget entered observer.
+[20:44:11]	Dex Mcgugget exited observer at their location.
+[20:44:12]	Dex Mcgugget entered observer.
+[20:44:13]	Dex Mcgugget exited observer at their location.
+[20:44:13]	Dex Mcgugget entered observer.
+[20:44:13]	Dex Mcgugget exited observer at their location.
+[20:44:14]	Dex Mcgugget entered observer.
+[20:44:14]	Dex Mcgugget exited observer at their location.
+[20:44:15]	Dex Mcgugget entered observer.
+[20:44:15]	Dex Mcgugget exited observer at their location.
+[20:44:16]	Dex Mcgugget entered observer.
+[20:44:16]	Dex Mcgugget exited observer at their location.
+[20:44:17]	Dex Mcgugget entered observer.
+[20:44:17]	Dex Mcgugget exited observer at their location.
+[20:44:18]	Dex Mcgugget entered observer.
+[20:44:18]	Dex Mcgugget exited observer at their location.
+[20:44:19]	Dex Mcgugget entered observer.
+[20:44:19]	Dex Mcgugget exited observer at their location.
+[20:44:43]	Dex Mcgugget entered observer.
+[20:45:18]	Dex Mcgugget exited observer at their location.
+[20:47:05]	Dex Mcgugget has gained 5 Tokens.
+[20:48:22]	Dex Mcgugget entered observer.
+[20:48:24]	Dex Mcgugget exited observer at their location.
+[20:48:24]	Dex Mcgugget entered observer.
+[20:48:25]	Dex Mcgugget exited observer at their location.
+[20:48:26]	Dex Mcgugget entered observer.
+[20:48:26]	Dex Mcgugget exited observer at their location.
+[20:48:31]	Dex Mcgugget entered observer.
+[20:48:33]	Dex Mcgugget exited observer at their location.
+[20:48:43]	Dex Mcgugget entered observer.
+[20:48:47]	Dex Mcgugget exited observer at their location.
+[20:48:49]	Dex Mcgugget entered observer.
+[20:49:15]	Dex Mcgugget exited observer at their location.
+[20:49:17]	Dex Mcgugget entered observer.
+[20:49:23]	Dex Mcgugget exited observer at their location.
+[20:49:32]	Dex Mcgugget entered observer.
+[20:49:49]	Dex Mcgugget exited observer at their location.
+[20:49:50]	Dex Mcgugget entered observer.
+[20:49:51]	Dex Mcgugget exited observer at their location.
+[20:49:57]	Dex Mcgugget entered observer.
+[20:49:59]	Dex Mcgugget exited observer at their location.
+[20:50:18]	Dex Mcgugget entered observer.
+[20:50:21]	Dex Mcgugget exited observer at their location.
+[20:50:23]	Dex Mcgugget entered observer.
+[20:50:25]	Dex Mcgugget exited observer at their location.
+[20:50:26]	Dex Mcgugget entered observer.
+[20:50:26]	Dex Mcgugget exited observer at their location.
+[20:50:55]	Hamood (STEAM_0:0:420247449) has disconnected (timed out).
+[20:51:40]	Hamood has connected.
+[20:51:53]	Hamood loaded the character 'Dex Mcgugget'
+[20:51:56]	Dex Mcgugget entered observer.
+[20:51:56]	Dex Mcgugget exited observer at their location.
+[20:51:58]	Dex Mcgugget entered observer.
+[20:51:58]	Dex Mcgugget exited observer at their location.
+[20:52:04]	Dex Mcgugget entered observer.
+[20:52:07]	Dex Mcgugget exited observer at their location.
+[20:52:14]	Hamood (STEAM_0:0:420247449) has disconnected (timed out).
+[20:53:30]	Hamood has connected.
+[20:53:43]	Hamood loaded the character 'Dex Mcgugget'
+[20:53:44]	Dex Mcgugget entered observer.
+[20:53:49]	Dex Mcgugget exited observer at their location.
+[20:56:56]	Hamood (STEAM_0:0:420247449) has disconnected (timed out).
+[20:57:47]	Hamood has connected.
+[20:57:59]	Hamood loaded the character 'Dex Mcgugget'
+[20:58:00]	Dex Mcgugget entered observer.
+[20:58:04]	Dex Mcgugget exited observer at their location.
+[21:01:25]	Dex Mcgugget entered observer.
+[21:01:27]	Dex Mcgugget exited observer at their location.
+[21:02:59]	Dex Mcgugget has gained 5 Tokens.
+[21:05:58]	Dex Mcgugget entered observer.
+[21:05:58]	Dex Mcgugget exited observer at their location.
+[21:06:02]	Dex Mcgugget entered observer.
+[21:06:04]	Dex Mcgugget exited observer at their location.
+[21:06:22]	Dex Mcgugget entered observer.
+[21:06:23]	Dex Mcgugget exited observer at their location.
+[21:06:23]	Dex Mcgugget entered observer.
+[21:06:24]	Dex Mcgugget exited observer at their location.
+[21:06:26]	Dex Mcgugget entered observer.
+[21:06:27]	Dex Mcgugget exited observer at their location.
+[21:06:34]	Dex Mcgugget entered observer.
+[21:06:35]	Dex Mcgugget exited observer at their location.
+[21:06:40]	Dex Mcgugget entered observer.
+[21:06:41]	Dex Mcgugget exited observer at their location.
+[21:06:41]	Dex Mcgugget entered observer.
+[21:06:41]	Dex Mcgugget exited observer at their location.
+[21:06:42]	Dex Mcgugget entered observer.
+[21:06:46]	Dex Mcgugget exited observer at their location.
+[21:06:48]	Dex Mcgugget entered observer.
+[21:06:49]	Dex Mcgugget exited observer at their location.
+[21:08:06]	Dex Mcgugget set maxCharacters to '1'.
+[21:08:19]	Dex Mcgugget set runSpeed to '201'.
+[21:08:20]	Dex Mcgugget set runSpeed to '200'.
+[21:08:29]	Dex Mcgugget set runSpeed to '240'.
+[21:09:29]	Dex Mcgugget set doorSellRatio to '0.5'.
+[21:09:38]	Dex Mcgugget set rationInterval to '72675'.
+[21:09:50]	Dex Mcgugget set rationInterval to '3605'.
+[21:10:10]	Dex Mcgugget set rationTokens to '51'.
+[21:10:10]	Dex Mcgugget set rationTokens to '51'.
+[21:10:14]	Dex Mcgugget set rationTokens to '48'.
+[21:10:18]	Dex Mcgugget set rationTokens to '51'.
+[21:10:19]	Dex Mcgugget set rationTokens to '30'.
+[21:11:48]	Dex Mcgugget entered observer.
+[21:11:56]	Dex Mcgugget exited observer at their location.
+[21:12:03]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:07]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:13]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:21]	Dex Mcgugget entered observer.
+[21:12:21]	Dex Mcgugget exited observer at their location.
+[21:12:26]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:28]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:31]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:31]	Dex Mcgugget entered observer.
+[21:12:33]	Dex Mcgugget exited observer at their location.
+[21:12:34]	Dex Mcgugget used command '/DoorSetFaction Metropolice'.
+[21:12:42]	Dex Mcgugget entered observer.
+[21:12:42]	Dex Mcgugget exited observer at their location.
+[21:12:45]	Dex Mcgugget has taken 13 damage from worldspawn.
+[21:12:49]	Dex Mcgugget entered observer.
+[21:12:51]	Dex Mcgugget exited observer at their location.
+[21:12:51]	Dex Mcgugget entered observer.
+[21:12:52]	Dex Mcgugget exited observer at their location.
+[21:12:56]	Dex Mcgugget has gained 5 Tokens.
+[21:13:18]	Dex Mcgugget entered observer.
+[21:13:19]	Dex Mcgugget exited observer at their location.
+[21:13:26]	Dex Mcgugget entered observer.
+[21:13:26]	Dex Mcgugget exited observer at their location.
+[21:13:36]	Dex Mcgugget entered observer.
+[21:13:37]	Dex Mcgugget exited observer at their location.
+[21:13:37]	Dex Mcgugget entered observer.
+[21:13:37]	Dex Mcgugget exited observer at their location.
+[21:14:32]	Dex Mcgugget entered observer.
+[21:14:32]	Dex Mcgugget exited observer at their location.
+[21:14:33]	Dex Mcgugget entered observer.
+[21:14:35]	Dex Mcgugget exited observer at their location.
+[21:14:54]	Dex Mcgugget entered observer.
+[21:14:58]	Dex Mcgugget exited observer at their location.
+[21:15:00]	Dex Mcgugget entered observer.
+[21:15:00]	Dex Mcgugget exited observer at their location.
+[21:15:02]	Dex Mcgugget entered observer.
+[21:15:03]	Dex Mcgugget exited observer at their location.
+[21:15:04]	Dex Mcgugget entered observer.
+[21:15:15]	Dex Mcgugget exited observer at their location.
+[21:15:16]	Dex Mcgugget entered observer.
+[21:15:16]	Dex Mcgugget exited observer at their location.
+[21:15:17]	Dex Mcgugget entered observer.
+[21:15:17]	Dex Mcgugget exited observer at their location.
+[21:15:20]	Dex Mcgugget entered observer.
+[21:15:20]	Dex Mcgugget exited observer at their location.
+[21:15:26]	Dex Mcgugget entered observer.
+[21:15:27]	Dex Mcgugget exited observer at their location.
+[21:15:43]	Dex Mcgugget entered observer.
+[21:16:00]	Dex Mcgugget exited observer at their location.
+[21:16:00]	Dex Mcgugget entered observer.
+[21:16:01]	Dex Mcgugget exited observer at their location.
+[21:16:03]	Dex Mcgugget entered observer.
+[21:16:04]	Dex Mcgugget exited observer at their location.
+[21:16:06]	Dex Mcgugget entered observer.
+[21:16:06]	Dex Mcgugget exited observer at their location.
+[21:16:20]	Dex Mcgugget entered observer.
+[21:16:20]	Dex Mcgugget exited observer at their location.
+[21:16:30]	Dex Mcgugget entered observer.
+[21:16:30]	Dex Mcgugget exited observer at their location.
+[21:16:32]	Dex Mcgugget entered observer.
+[21:16:32]	Dex Mcgugget exited observer at their location.
+[21:16:38]	Dex Mcgugget entered observer.
+[21:16:39]	Dex Mcgugget exited observer at their location.
+[21:16:40]	Dex Mcgugget entered observer.
+[21:16:40]	Dex Mcgugget exited observer at their location.
+[21:16:46]	Dex Mcgugget entered observer.
+[21:16:47]	Dex Mcgugget exited observer at their location.
+[21:16:48]	Dex Mcgugget entered observer.
+[21:16:55]	Dex Mcgugget exited observer at their location.
+[21:16:58]	Dex Mcgugget used command '/AreaEdit'.
+[21:16:59]	Dex Mcgugget entered observer.
+[21:17:03]	Dex Mcgugget used command '/AreaEdit'.
+[21:17:33]	Dex Mcgugget used command '/AreaEdit'.
+[21:17:56]	Dex Mcgugget has gained 5 Tokens.
+[21:18:00]	Dex Mcgugget has added area "Plaza".
+[21:18:01]	Dex Mcgugget exited observer at their location.
+[21:18:10]	Dex Mcgugget used command '/AreaEdit'.
+[21:18:12]	Dex Mcgugget entered observer.
+[21:18:16]	Dex Mcgugget exited observer at their location.
+[21:18:19]	Dex Mcgugget entered observer.
+[21:18:21]	Dex Mcgugget exited observer at their location.
+[21:18:22]	Dex Mcgugget entered observer.
+[21:18:23]	Dex Mcgugget exited observer at their location.
+[21:18:32]	Dex Mcgugget entered observer.
+[21:18:34]	Dex Mcgugget used command '/AreaEdit'.
+[21:18:40]	Dex Mcgugget has removed area "Plaza".
+[21:19:29]	Dex Mcgugget has added area "Plaza".
+[21:19:31]	Dex Mcgugget exited observer at their location.
+[21:19:32]	Dex Mcgugget has taken 5 damage from worldspawn.
+[21:19:54]	Dex Mcgugget used command '/AreaEdit'.
+[21:20:02]	Dex Mcgugget entered observer.
+[21:20:02]	Dex Mcgugget exited observer at their location.
+[21:20:04]	Dex Mcgugget entered observer.
+[21:20:04]	Dex Mcgugget exited observer at their location.
+[21:20:11]	Dex Mcgugget entered observer.
+[21:20:11]	Dex Mcgugget exited observer at their location.
+[21:20:18]	Dex Mcgugget entered observer.
+[21:20:21]	Dex Mcgugget exited observer at their location.
+[21:20:34]	Dex Mcgugget entered observer.
+[21:20:35]	Dex Mcgugget exited observer at their location.
+[21:20:44]	Dex Mcgugget entered observer.
+[21:20:46]	Dex Mcgugget exited observer at their location.
+[21:20:52]	Dex Mcgugget entered observer.
+[21:20:54]	Dex Mcgugget exited observer at their location.
+[21:21:08]	Dex Mcgugget entered observer.
+[21:21:23]	Dex Mcgugget has added area "Nexus".
+[21:21:28]	Dex Mcgugget used command '/AreaEdit'.
+[21:21:30]	Dex Mcgugget has removed area "Nexus".
+[21:21:32]	Dex Mcgugget exited observer at their location.
+[21:21:37]	Dex Mcgugget entered observer.
+[21:21:42]	Dex Mcgugget exited observer at their location.
+[21:22:06]	Dex Mcgugget has added area "Nexus lobby".
+[21:22:11]	Dex Mcgugget entered observer.
+[21:22:15]	Dex Mcgugget exited observer at their location.
+[21:22:17]	Dex Mcgugget has removed area "Nexus lobby".
+[21:22:46]	Dex Mcgugget has added area "Nexus Lobby".
+[21:22:56]	Dex Mcgugget has gained 5 Tokens.
+[21:22:59]	Dex Mcgugget entered observer.
+[21:23:00]	Dex Mcgugget exited observer at their location.
+[21:23:25]	Dex Mcgugget has added area "Ration Distribution Center".
+[21:23:25]	Dex Mcgugget entered observer.
+[21:23:27]	Dex Mcgugget exited observer at their location.
+[21:23:40]	Dex Mcgugget entered observer.
+[21:23:41]	Dex Mcgugget exited observer at their location.
+[21:23:49]	Dex Mcgugget entered observer.
+[21:23:50]	Dex Mcgugget exited observer at their location.
+[21:23:55]	Dex Mcgugget entered observer.
+[21:23:57]	Dex Mcgugget exited observer at their location.
+[21:24:18]	Dex Mcgugget entered observer.
+[21:24:19]	Dex Mcgugget exited observer at their location.
+[21:24:41]	Dex Mcgugget entered observer.
+[21:24:44]	Dex Mcgugget exited observer at their location.
+[21:24:51]	Dex Mcgugget entered observer.
+[21:25:34]	Dex Mcgugget has added area "Prison".
+[21:25:36]	Dex Mcgugget exited observer at their location.
+[21:25:43]	Dex Mcgugget used command '/AreaEdit'.
+[21:25:45]	Dex Mcgugget has removed area "Prison".
+[21:25:46]	Dex Mcgugget entered observer.
+[21:25:59]	Dex Mcgugget has added area "Detainment Area".
+[21:26:01]	Dex Mcgugget exited observer at their location.
+[21:26:05]	Dex Mcgugget entered observer.
+[21:26:06]	Dex Mcgugget exited observer at their location.
+[21:26:07]	Dex Mcgugget entered observer.
+[21:26:07]	Dex Mcgugget exited observer at their location.
+[21:26:08]	Dex Mcgugget entered observer.
+[21:26:09]	Dex Mcgugget exited observer at their location.
+[21:26:50]	Dex Mcgugget has added area "Interrogation room - 1".
+[21:26:59]	Dex Mcgugget entered observer.
+[21:26:59]	Dex Mcgugget exited observer at their location.
+[21:27:00]	Dex Mcgugget entered observer.
+[21:27:00]	Dex Mcgugget exited observer at their location.
+[21:27:02]	Dex Mcgugget entered observer.
+[21:27:03]	Dex Mcgugget exited observer at their location.
+[21:27:04]	Dex Mcgugget entered observer.
+[21:27:04]	Dex Mcgugget exited observer at their location.
+[21:27:19]	Dex Mcgugget entered observer.
+[21:27:25]	Dex Mcgugget exited observer at their location.
+[21:27:33]	Dex Mcgugget entered observer.
+[21:27:34]	Dex Mcgugget exited observer at their location.
+[21:27:56]	Dex Mcgugget has gained 5 Tokens.
+[21:28:04]	Dex Mcgugget entered observer.
+[21:28:04]	Dex Mcgugget exited observer at their location.
+[21:28:09]	Dex Mcgugget entered observer.
+[21:28:11]	Dex Mcgugget exited observer at their location.
+[21:28:16]	Dex Mcgugget entered observer.
+[21:28:17]	Dex Mcgugget exited observer at their location.
+[21:28:20]	Dex Mcgugget entered observer.
+[21:28:21]	Dex Mcgugget exited observer at their location.
+[21:28:48]	Dex Mcgugget has added area "Armory".
+[21:29:32]	Dex Mcgugget entered observer.
+[21:29:34]	Dex Mcgugget exited observer at their location.
+[21:29:37]	Dex Mcgugget entered observer.
+[21:29:38]	Dex Mcgugget exited observer at their location.
+[21:29:41]	Dex Mcgugget entered observer.
+[21:29:42]	Dex Mcgugget exited observer at their location.
+[21:29:43]	Dex Mcgugget entered observer.
+[21:29:44]	Dex Mcgugget exited observer at their location.
+[21:30:24]	Dex Mcgugget entered observer.
+[21:30:41]	Dex Mcgugget exited observer at their location.
+[21:30:50]	Dex Mcgugget entered observer.
+[21:30:51]	Dex Mcgugget exited observer at their location.
+[21:30:59]	Dex Mcgugget has added area "The Cafeteria".
+[21:31:01]	Dex Mcgugget entered observer.
+[21:31:01]	Dex Mcgugget exited observer at their location.
+[21:31:13]	Dex Mcgugget entered observer.
+[21:31:14]	Dex Mcgugget exited observer at their location.
+[21:31:15]	Dex Mcgugget entered observer.
+[21:31:16]	Dex Mcgugget exited observer at their location.
+[21:31:30]	Dex Mcgugget has removed area "The Cafeteria".
+[21:31:36]	Dex Mcgugget entered observer.
+[21:31:37]	Dex Mcgugget exited observer at their location.
+[21:32:09]	Dex Mcgugget has added area "KFC Texas - 1".
+[21:32:15]	Dex Mcgugget entered observer.
+[21:32:21]	Dex Mcgugget exited observer at their location.
+[21:32:27]	Dex Mcgugget entered observer.
+[21:32:27]	Dex Mcgugget exited observer at their location.
+[21:32:29]	Dex Mcgugget entered observer.
+[21:32:29]	Dex Mcgugget exited observer at their location.
+[21:32:33]	Dex Mcgugget entered observer.
+[21:32:33]	Dex Mcgugget exited observer at their location.
+[21:32:34]	Dex Mcgugget entered observer.
+[21:32:34]	Dex Mcgugget exited observer at their location.
+[21:32:47]	[LOOC] Dex Mcgugget: test
+[21:32:56]	Dex Mcgugget has gained 5 Tokens.
+[21:33:14]	Dex Mcgugget entered observer.
+[21:33:24]	Dex Mcgugget used command '/Event YOUR MOM STFU'.
+[21:33:35]	Dex Mcgugget exited observer at their location.
+[21:34:07]	Dex Mcgugget entered observer.
+[21:34:11]	Dex Mcgugget exited observer at their location.
+[21:34:11]	Dex Mcgugget entered observer.
+[21:34:11]	Dex Mcgugget exited observer at their location.
+[21:34:14]	Dex Mcgugget entered observer.
+[21:34:15]	Dex Mcgugget exited observer at their location.
+[21:34:25]	Dex Mcgugget entered observer.
+[21:34:25]	Dex Mcgugget exited observer at their location.
+[21:34:27]	Dex Mcgugget entered observer.
+[21:34:27]	Dex Mcgugget exited observer at their location.
+[21:34:37]	Dex Mcgugget entered observer.
+[21:34:37]	Dex Mcgugget exited observer at their location.
+[21:35:10]	Dex Mcgugget has spawned a 'NPC [288][npc_monk]'.
+[21:35:19]	Dex Mcgugget has spawned a 'NPC [288][npc_breen]'.
+[21:35:26]	Dex Mcgugget entered observer.
+[21:35:26]	Dex Mcgugget exited observer at their location.
+[21:37:00]	Dex Mcgugget entered observer.
+[21:37:00]	Dex Mcgugget exited observer at their location.
+[21:37:01]	Dex Mcgugget entered observer.
+[21:37:02]	Dex Mcgugget exited observer at their location.
+[21:37:06]	Dex Mcgugget entered observer.
+[21:37:08]	Dex Mcgugget exited observer at their location.
+[21:37:20]	Dex Mcgugget entered observer.
+[21:37:22]	Dex Mcgugget exited observer at their location.
+[21:37:24]	Dex Mcgugget entered observer.
+[21:37:24]	Dex Mcgugget exited observer at their location.
+[21:37:52]	Dex Mcgugget entered observer.
+[21:37:54]	Dex Mcgugget exited observer at their location.
+[21:37:56]	Dex Mcgugget has gained 5 Tokens.
+[21:37:57]	Dex Mcgugget entered observer.
+[21:37:57]	Dex Mcgugget exited observer at their location.
+[21:38:38]	Dex Mcgugget entered observer.
+[21:38:38]	Dex Mcgugget exited observer at their location.
+[21:38:41]	Dex Mcgugget entered observer.
+[21:38:42]	Dex Mcgugget exited observer at their location.
+[21:38:43]	Dex Mcgugget entered observer.
+[21:38:43]	Dex Mcgugget exited observer at their location.
+[21:38:45]	Dex Mcgugget entered observer.
+[21:38:45]	Dex Mcgugget exited observer at their location.
+[21:38:47]	Dex Mcgugget entered observer.
+[21:38:50]	Dex Mcgugget exited observer at their location.
+[21:38:54]	Dex Mcgugget entered observer.
+[21:38:54]	Dex Mcgugget exited observer at their location.
+[21:38:54]	Dex Mcgugget entered observer.
+[21:38:54]	Dex Mcgugget exited observer at their location.
+[21:38:55]	Dex Mcgugget entered observer.
+[21:38:55]	Dex Mcgugget exited observer at their location.
+[21:38:58]	Dex Mcgugget entered observer.
+[21:38:59]	Dex Mcgugget exited observer at their location.
+[21:38:59]	Dex Mcgugget entered observer.
+[21:38:59]	Dex Mcgugget exited observer at their location.
+[21:39:00]	Dex Mcgugget entered observer.
+[21:39:01]	Dex Mcgugget exited observer at their location.
+[21:39:07]	Dex Mcgugget entered observer.
+[21:39:09]	Dex Mcgugget exited observer at their location.
+[21:39:37]	Dex Mcgugget entered observer.
+[21:39:37]	Dex Mcgugget exited observer at their location.
+[21:39:40]	Dex Mcgugget entered observer.
+[21:39:40]	Dex Mcgugget exited observer at their location.
+[21:39:41]	Dex Mcgugget entered observer.
+[21:39:41]	Dex Mcgugget exited observer at their location.
+[21:39:41]	Dex Mcgugget entered observer.
+[21:39:41]	Dex Mcgugget exited observer at their location.
+[21:39:42]	Dex Mcgugget entered observer.
+[21:39:42]	Dex Mcgugget exited observer at their location.
+[21:39:43]	Dex Mcgugget entered observer.
+[21:39:45]	Dex Mcgugget exited observer at their location.
+[21:39:56]	Dex Mcgugget entered observer.
+[21:39:57]	Dex Mcgugget exited observer at their location.
+[21:40:04]	Dex Mcgugget entered observer.
+[21:40:04]	Dex Mcgugget exited observer at their location.
+[21:40:13]	Dex Mcgugget entered observer.
+[21:40:13]	Dex Mcgugget exited observer at their location.
+[21:40:14]	Dex Mcgugget entered observer.
+[21:40:15]	Dex Mcgugget exited observer at their location.
+[21:40:16]	Dex Mcgugget entered observer.
+[21:40:16]	Dex Mcgugget exited observer at their location.
+[21:40:17]	Dex Mcgugget entered observer.
+[21:40:21]	Dex Mcgugget exited observer at their location.
+[21:40:22]	Dex Mcgugget entered observer.
+[21:40:22]	Dex Mcgugget exited observer at their location.
+[21:40:22]	Dex Mcgugget entered observer.
+[21:40:22]	Dex Mcgugget exited observer at their location.
+[21:40:24]	Dex Mcgugget entered observer.
+[21:40:24]	Dex Mcgugget exited observer at their location.
+[21:40:25]	Dex Mcgugget entered observer.
+[21:40:26]	Dex Mcgugget exited observer at their location.
+[21:40:26]	Dex Mcgugget has taken 33 damage from worldspawn.
+[21:40:27]	Dex Mcgugget entered observer.
+[21:40:28]	Dex Mcgugget exited observer at their location.
+[21:40:30]	Dex Mcgugget entered observer.
+[21:40:30]	Dex Mcgugget exited observer at their location.
+[21:40:32]	Dex Mcgugget entered observer.
+[21:40:34]	Dex Mcgugget exited observer at their location.
+[21:40:37]	Dex Mcgugget entered observer.
+[21:40:39]	Dex Mcgugget exited observer at their location.
+[21:40:39]	Dex Mcgugget entered observer.
+[21:40:41]	Dex Mcgugget exited observer at their location.
+[21:40:42]	Dex Mcgugget entered observer.
+[21:40:42]	Dex Mcgugget exited observer at their location.
+[21:40:44]	Dex Mcgugget entered observer.
+[21:40:44]	Dex Mcgugget exited observer at their location.
+[21:40:45]	Dex Mcgugget entered observer.
+[21:40:53]	Dex Mcgugget exited observer at their location.
+[21:40:55]	Dex Mcgugget entered observer.
+[21:40:55]	Dex Mcgugget exited observer at their location.
+[21:40:56]	Dex Mcgugget entered observer.
+[21:40:56]	Dex Mcgugget exited observer at their location.
+[21:40:57]	Dex Mcgugget entered observer.
+[21:41:00]	Dex Mcgugget exited observer at their location.
+[21:41:05]	Dex Mcgugget entered observer.
+[21:41:05]	Dex Mcgugget exited observer at their location.
+[21:41:06]	Dex Mcgugget entered observer.
+[21:41:10]	Dex Mcgugget exited observer at their location.
+[21:41:11]	Dex Mcgugget entered observer.
+[21:41:11]	Dex Mcgugget exited observer at their location.
+[21:41:13]	Dex Mcgugget entered observer.
+[21:41:16]	Dex Mcgugget exited observer at their location.
+[21:41:39]	Dex Mcgugget entered observer.
+[21:41:43]	Dex Mcgugget exited observer at their location.
+[21:41:44]	Dex Mcgugget entered observer.
+[21:41:47]	Dex Mcgugget exited observer at their location.
+[21:41:50]	Dex Mcgugget has spawned a 'NPC [101][npc_gman]'.
+[21:41:52]	Dex Mcgugget entered observer.
+[21:41:53]	Dex Mcgugget exited observer at their location.
+[21:41:58]	Dex Mcgugget entered observer.
+[21:41:58]	Dex Mcgugget exited observer at their location.
+[21:41:59]	Dex Mcgugget entered observer.
+[21:42:00]	Dex Mcgugget exited observer at their location.
+[21:42:07]	Dex Mcgugget entered observer.
+[21:42:07]	Dex Mcgugget exited observer at their location.
+[21:42:14]	Dex Mcgugget entered observer.
+[21:42:15]	Dex Mcgugget exited observer at their location.
+[21:42:18]	Dex Mcgugget entered observer.
+[21:42:20]	Dex Mcgugget exited observer at their location.
+[21:42:22]	Dex Mcgugget entered observer.
+[21:42:23]	Dex Mcgugget exited observer at their location.
+[21:42:26]	Dex Mcgugget entered observer.
+[21:42:36]	Dex Mcgugget exited observer at their location.
+[21:42:39]	Dex Mcgugget entered observer.
+[21:42:45]	Dex Mcgugget exited observer at their location.
+[21:42:47]	Dex Mcgugget entered observer.
+[21:42:47]	Dex Mcgugget exited observer at their location.
+[21:42:48]	Dex Mcgugget entered observer.
+[21:42:49]	Dex Mcgugget exited observer at their location.
+[21:42:50]	Dex Mcgugget has taken 17 damage from worldspawn.
+[21:42:52]	Dex Mcgugget entered observer.
+[21:42:52]	Dex Mcgugget exited observer at their location.
+[21:42:53]	Dex Mcgugget entered observer.
+[21:42:53]	Dex Mcgugget exited observer at their location.
+[21:42:56]	Dex Mcgugget has taken 90 damage from worldspawn.
+[21:42:56]	worldspawn has killed Dex Mcgugget.
+[21:42:56]	Dex Mcgugget entered observer.
+[21:42:56]	Dex Mcgugget has gained 5 Tokens.
+[21:43:32]	Dex Mcgugget entered observer.
+[21:43:32]	Dex Mcgugget exited observer at their location.
+[21:43:33]	Dex Mcgugget entered observer.
+[21:43:33]	Dex Mcgugget exited observer at their location.
+[21:43:34]	Dex Mcgugget entered observer.
+[21:43:34]	Dex Mcgugget exited observer at their location.
+[21:43:35]	Dex Mcgugget entered observer.
+[21:43:35]	Dex Mcgugget exited observer at their location.
+[21:43:39]	Dex Mcgugget entered observer.
+[21:43:41]	Dex Mcgugget exited observer at their location.
+[21:43:43]	Dex Mcgugget has spawned a 'NPC [112][npc_dog]'.
+[21:43:56]	Dex Mcgugget has spawned a 'NPC [101][npc_vortigaunt]'.
+[21:44:01]	Dex Mcgugget has spawned a 'NPC [111][npc_vortigaunt]'.
+[21:44:06]	Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
+[21:44:20]	Dex Mcgugget has spawned a 'NPC [101][npc_breen]'.
+[21:44:31]	Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
+[21:44:43]	Dex Mcgugget has spawned a 'NPC [114][npc_barney]'.
+[21:45:10]	Dex Mcgugget has spawned a 'NPC [101][npc_kleiner]'.
+[21:45:20]	Dex Mcgugget has spawned a 'NPC [101][npc_alyx]'.
+[21:45:29]	Dex Mcgugget has spawned a 'NPC [111][npc_mossman]'.
+[21:45:39]	Dex Mcgugget has spawned a 'NPC [101][npc_eli]'.
+[21:45:44]	Dex Mcgugget has spawned a 'NPC [111][npc_gman]'.
+[21:45:47]	Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
+[21:45:56]	Dex Mcgugget has spawned a 'NPC [111][npc_citizen]'.
+[21:46:04]	Dex Mcgugget has spawned a 'NPC [101][npc_citizen]'.
+[21:46:12]	Dex Mcgugget has spawned a 'NPC [101][npc_breen]'.
+[21:46:21]	Dex Mcgugget has spawned a 'NPC [101][npc_combine_s]'.
+[21:46:21]	Dex Mcgugget has taken 2 damage from npc_combine_s.
+[21:46:24]	Dex Mcgugget has spawned a 'NPC [101][npc_combine_s]'.
+[21:46:26]	Dex Mcgugget has spawned a 'NPC [101][npc_combinegunship]'.
+[21:46:30]	Dex Mcgugget has spawned a 'NPC [101][npc_combine_s]'.
+[21:46:32]	Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
+[21:46:34]	Dex Mcgugget has spawned a 'NPC [111][npc_metropolice]'.
+[21:46:36]	Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
+[21:46:48]	Dex Mcgugget has spawned a 'NPC [111][npc_combine_s]'.
+[21:46:50]	Dex Mcgugget has taken 3 damage from npc_combine_s.
+[21:46:55]	Dex Mcgugget has taken 10 damage from npc_metropolice.
+[21:47:07]	Dex Mcgugget has spawned a 'NPC [101][npc_rollermine]'.
+[21:47:20]	Dex Mcgugget has spawned a 'NPC [101][npc_metropolice]'.
+[21:47:23]	Dex Mcgugget has spawned a 'NPC [101][npc_antlion]'.
+[21:47:38]	Dex Mcgugget has taken 5 damage from npc_antlion.
+[21:47:42]	Dex Mcgugget has spawned a 'NPC [101][npc_poisonzombie]'.
+[21:47:54]	Dex Mcgugget entered observer.
+[21:47:56]	Dex Mcgugget has gained 5 Tokens.
+[21:47:58]	Dex Mcgugget exited observer at their location.
+[21:48:12]	Dex Mcgugget entered observer.
+[21:48:27]	Dex Mcgugget exited observer at their location.
+[21:48:34]	Dex Mcgugget entered observer.
+[21:48:35]	Dex Mcgugget exited observer at their location.
+[21:48:44]	Dex Mcgugget entered observer.
+[21:48:46]	Dex Mcgugget exited observer at their location.
+[21:48:54]	Dex Mcgugget entered observer.
+[21:48:55]	Dex Mcgugget exited observer at their location.
+[21:49:10]	Dex Mcgugget entered observer.
+[21:49:10]	Dex Mcgugget exited observer at their location.
+[21:49:13]	Dex Mcgugget entered observer.
+[21:49:14]	Dex Mcgugget exited observer at their location.

@@ -176,3 +176,123 @@
 [11:06:17] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
 [11:08:56] Dex Mcgugget was killed by func_movelinear
 [11:25:07] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[20:11:14] New map: rp_city2_v4_finalb
+
+
+
+[20:11:58] New map: rp_city2_v4_finalb
+
+
+
+[20:22:35] New map: rp_city2_v4_finalb
+[20:24:15] Client "Hamood" connected.
+[20:25:42] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 87 seconds).
+[20:27:05] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[20:29:12] Dex Mcgugget: /doorsetfaction
+[20:29:31] Dex Mcgugget: /doorsetfaction FACTION_MPF
+[20:29:38] Dex Mcgugget: /doorsetfaction MPF
+[20:29:41] Dex Mcgugget: /doorsetfaction Metropolice
+[20:29:42] Dex Mcgugget: /doorsetfaction Metropolice
+[20:29:47] Dex Mcgugget: /doorsetfaction Metropolice
+[20:29:48] Dex Mcgugget: /doorsetfaction Metropolice
+[20:29:50] Dex Mcgugget: /doorsetfaction Metropolice
+[20:29:59] Dex Mcgugget: /doorsetfaction Metropolice
+[20:31:21] Dex Mcgugget: /doorsetownable
+[20:31:24] Dex Mcgugget: /doorsetownable
+[20:31:28] Dex Mcgugget: /doorsetownable
+[20:31:37] Dex Mcgugget: /doorsetownable
+[20:31:40] Dex Mcgugget: /doorsetownable
+[20:31:43] Dex Mcgugget: /doorsetownable
+[20:32:03] Dex Mcgugget: /doorsetownable
+[20:32:52] Dex Mcgugget: /doorsetownable
+[20:34:20] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:22] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:25] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:31] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:33] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:35] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:37] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:39] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:41] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:49] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:52] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:56] Dex Mcgugget: /doorsetfaction Metropol
+[20:34:58] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:04] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:14] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:20] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:24] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:27] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:41] Dex Mcgugget: /doorsetfaction Metropol
+[20:35:45] Dex Mcgugget: /doorsetfaction Metropol
+[20:36:03] Dex Mcgugget: /doorsetfaction Metropol
+[20:36:04] Dex Mcgugget: /doorsetfaction Metropol
+[20:36:08] Dex Mcgugget: /doorsetfaction Metropol
+[20:36:09] Dex Mcgugget: /doorsetfaction Metropol
+[20:36:14] Dex Mcgugget: /doorsetfaction Metropol
+[20:38:08] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_rationdispenser
+[20:40:54] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
+[20:41:37] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_vendingmachine
+[20:50:55] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+[20:51:10] Client "Hamood" connected.
+[20:51:40] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 30 seconds).
+[20:51:54] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[20:52:14] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+[20:52:59] Client "Hamood" connected.
+[20:53:30] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 31 seconds).
+[20:53:44] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[20:56:56] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+[20:57:17] Client "Hamood" connected.
+[20:57:47] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 30 seconds).
+[20:57:59] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[21:12:03] Dex Mcgugget: /doorsetfaction Metropolice
+[21:12:07] Dex Mcgugget: /doorsetfaction Metropolice
+[21:12:13] Dex Mcgugget: /doorsetfaction Metropolice
+[21:12:26] Dex Mcgugget: /doorsetfaction Metropolice
+[21:12:28] Dex Mcgugget: /doorsetfaction Metropolice
+[21:12:31] Dex Mcgugget: /doorsetfaction Metropolice
+[21:12:34] Dex Mcgugget: /doorsetfaction Metropolice
+[21:16:58] Dex Mcgugget: /areaedit
+[21:17:03] Dex Mcgugget: /areaedit
+[21:17:33] Dex Mcgugget: /areaedit
+[21:18:10] Dex Mcgugget: /areaedit
+[21:18:34] Dex Mcgugget: /areaedit
+[21:19:54] Dex Mcgugget: /areaedit
+[21:21:28] Dex Mcgugget: /areaedit
+[21:25:43] Dex Mcgugget: /areaedit
+[21:32:47] Dex Mcgugget: /looc test
+[21:33:24] Dex Mcgugget: /event YOUR MOM STFU
+[21:35:10] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_monk
+[21:35:19] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
+[21:41:50] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_gman
+[21:43:43] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_dog
+[21:43:56] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_vortigaunt
+[21:44:01] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_vortigaunt
+[21:44:06] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
+[21:44:20] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
+[21:44:31] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
+[21:44:43] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_barney
+[21:45:10] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_kleiner
+[21:45:20] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_alyx
+[21:45:29] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_mossman
+[21:45:39] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_eli
+[21:45:44] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_gman
+[21:45:47] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
+[21:45:56] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
+[21:46:04] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_citizen
+[21:46:12] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_breen
+[21:46:21] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
+[21:46:24] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
+[21:46:26] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combinegunship
+[21:46:30] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
+[21:46:32] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
+[21:46:34] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
+[21:46:36] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
+[21:46:48] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_combine_s
+[21:47:07] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_rollermine
+[21:47:20] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_metropolice
+[21:47:23] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_antlion
+[21:47:42] Dex Mcgugget<STEAM_0:0:420247449> spawned NPC npc_poisonzombie

@@ -3830,3 +3830,123 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:207: unexpected symbol near '-'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196: attempt to index global 'ENT' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:196
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
+  1. DrawCircle - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
+  1. DrawCircle - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
+  1. DrawCircle - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
+  1. DrawCircle - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: bad argument #6 to 'DrawCircle' (number expected, got no value)
+  1. DrawCircle - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+

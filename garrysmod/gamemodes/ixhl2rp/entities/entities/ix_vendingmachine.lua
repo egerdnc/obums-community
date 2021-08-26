@@ -165,8 +165,7 @@ else
 	})
 
 	local color_red = Color(100, 20, 20, 255)
-	local color_blue = Color(0, 50, 100, 255)
-	local color_black = Color(60, 60, 60, 255)
+	local color_green = Color(3, 252, 19)
 
 	function ENT:Draw()
 		self:DrawModel()
@@ -193,28 +192,28 @@ else
 			local halfWidth = width / 2
 			local halfHeight = height / 2
 
-			for i = 1, 8 do
+			for i = 1, 3 do
 				local itemInfo = self.Items[i]
 				local x = 0
 				local y = (i - 1) * 34
 
-				surface.SetDrawColor(color_black)
-				surface.DrawOutlinedRect(x, y, width, height)
+				--surface.SetDrawColor(color_black)
+				--surface.DrawOutlinedRect(x, y, width, height)
 
-				surface.SetDrawColor(color_black)
-				surface.DrawRect(x + 1, y + 1, width - 2, height - 2)
+				--surface.SetDrawColor(color_black)
+				--surface.DrawRect(x + 1, y + 1, width - 2, height - 2)
 
-				surface.SetDrawColor(color_red)
+				--surface.SetDrawColor(color_red)
 
 				if (itemInfo) then
 					draw.SimpleText(itemInfo[1], "ixVendingMachine", x + halfWidth, y + halfHeight, color_white, TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
 
 					if (self:GetStock(i) > 0) then
-						surface.SetDrawColor(color_blue)
+						surface.SetDrawColor(color_green)
 					end
 				end
 
-				surface.DrawRect(x + width + 6, y, smallWidth, height)
+				surface.DrawCircle(x + width + 12, y + 10, 10, 3, 252, 19, 255)
 			end
 
 			render.PopFilterMin()

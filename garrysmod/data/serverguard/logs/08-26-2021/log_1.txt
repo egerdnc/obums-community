@@ -1,0 +1,108 @@
+[Thu Aug 26 20:24:15 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 20:25:42 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 20:29:12 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction
+[Thu Aug 26 20:29:31 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction FACTION_MPF
+[Thu Aug 26 20:29:38 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction MPF
+[Thu Aug 26 20:29:41 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 20:29:42 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 20:29:47 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 20:29:48 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 20:29:50 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 20:29:59 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 20:30:28 2021] <STEAM_0:0:420247449> Dex Mcgugget ran command "noclip Dex Mcgugget"
+[Thu Aug 26 20:30:30 2021] <STEAM_0:0:420247449> Dex Mcgugget ran command "noclip Dex Mcgugget"
+[Thu Aug 26 20:30:32 2021] <STEAM_0:0:420247449> Dex Mcgugget ran command "noclip Dex Mcgugget"
+[Thu Aug 26 20:31:21 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:31:24 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:31:28 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:31:37 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:31:40 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:31:43 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:32:03 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:32:52 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetownable
+[Thu Aug 26 20:34:20 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:22 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:25 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:31 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:33 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:35 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:37 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:39 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:41 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:49 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:52 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:56 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:34:58 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:04 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:14 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:20 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:24 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:27 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:41 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:35:45 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:36:03 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:36:04 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:36:08 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:36:09 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:36:14 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropol
+[Thu Aug 26 20:38:08 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [101][ix_rationdispenser]"
+[Thu Aug 26 20:40:54 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [113][ix_scanner]"
+[Thu Aug 26 20:41:37 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned SENT "Entity [106][ix_vendingmachine]"
+[Thu Aug 26 20:50:55 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 20:51:10 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 20:51:40 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 20:52:14 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 20:52:59 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 20:53:30 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 20:56:56 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Thu Aug 26 20:57:17 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Thu Aug 26 20:57:47 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Thu Aug 26 21:12:03 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:12:07 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:12:13 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:12:26 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:12:28 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:12:31 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:12:34 2021] <STEAM_0:0:420247449> Dex Mcgugget: /doorsetfaction Metropolice
+[Thu Aug 26 21:16:58 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:17:03 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:17:33 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:18:10 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:18:34 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:19:54 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:21:28 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:25:43 2021] <STEAM_0:0:420247449> Dex Mcgugget: /areaedit
+[Thu Aug 26 21:32:47 2021] <STEAM_0:0:420247449> Dex Mcgugget: /looc test
+[Thu Aug 26 21:33:24 2021] <STEAM_0:0:420247449> Dex Mcgugget: /event YOUR MOM STFU
+[Thu Aug 26 21:35:10 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [288][npc_monk]"
+[Thu Aug 26 21:35:19 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [288][npc_breen]"
+[Thu Aug 26 21:41:50 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_gman]"
+[Thu Aug 26 21:42:56 2021] worldspawn has killed Dex Mcgugget.
+[Thu Aug 26 21:43:43 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [112][npc_dog]"
+[Thu Aug 26 21:43:56 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_vortigaunt]"
+[Thu Aug 26 21:44:01 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [111][npc_vortigaunt]"
+[Thu Aug 26 21:44:06 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_citizen]"
+[Thu Aug 26 21:44:20 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_breen]"
+[Thu Aug 26 21:44:31 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_citizen]"
+[Thu Aug 26 21:44:43 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [114][npc_barney]"
+[Thu Aug 26 21:45:10 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_kleiner]"
+[Thu Aug 26 21:45:20 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_alyx]"
+[Thu Aug 26 21:45:29 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [111][npc_mossman]"
+[Thu Aug 26 21:45:39 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_eli]"
+[Thu Aug 26 21:45:44 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [111][npc_gman]"
+[Thu Aug 26 21:45:47 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_citizen]"
+[Thu Aug 26 21:45:56 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [111][npc_citizen]"
+[Thu Aug 26 21:46:04 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_citizen]"
+[Thu Aug 26 21:46:12 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_breen]"
+[Thu Aug 26 21:46:21 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_combine_s]"
+[Thu Aug 26 21:46:24 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_combine_s]"
+[Thu Aug 26 21:46:26 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_combinegunship]"
+[Thu Aug 26 21:46:30 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_combine_s]"
+[Thu Aug 26 21:46:32 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_metropolice]"
+[Thu Aug 26 21:46:34 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [111][npc_metropolice]"
+[Thu Aug 26 21:46:36 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_metropolice]"
+[Thu Aug 26 21:46:48 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [111][npc_combine_s]"
+[Thu Aug 26 21:47:07 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_rollermine]"
+[Thu Aug 26 21:47:20 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_metropolice]"
+[Thu Aug 26 21:47:23 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_antlion]"
+[Thu Aug 26 21:47:42 2021] <STEAM_0:0:420247449> Dex Mcgugget spawned npc "NPC [101][npc_poisonzombie]"
