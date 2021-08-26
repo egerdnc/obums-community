@@ -28,8 +28,8 @@ SWEP.Primary.PenetrationScale = 0
 SWEP.Primary.NumShots = 1
 SWEP.Primary.Burst = true
 SWEP.Primary.BurstEndDelay = 0.3
-SWEP.Primary.Cone = 0.015
-SWEP.Primary.Delay = RPM(1050)
+SWEP.Primary.Cone = 0.005
+SWEP.Primary.Delay = RPM(900)
 
 SWEP.Primary.Ammo = "ar2"
 SWEP.Primary.Automatic = true
@@ -50,8 +50,8 @@ SWEP.Spread.AirMod = 1.2 -- how does if the player is in the air effect spread (
 SWEP.Spread.RecoilMod = 0.04 -- how does the recoil effect the spread (sustained fire) (additional)
 SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
-SWEP.IronSightsPos = Vector(-7.481, -20, 3)
-SWEP.IronSightsAng = Angle(0, -46.432, 0)
+SWEP.IronSightsPos = Vector(12.52, 0, -2.881)
+SWEP.IronSightsAng = Angle(0, 70, 0)
 SWEP.IronsightsFOV = 0.3
 SWEP.IronsightsSensitivity = 0.4
 SWEP.IronsightsCrosshair = false
@@ -72,7 +72,7 @@ SWEP.Attachments = {
 			Skin = 0
 		},
 		ModSetup = function(e)
-			e.IronsightsFOV = 0.65
+			e.IronsightsFOV = 0.3
 			e.FOVScoped = 0.3
 			e.Spread.IronsightsMod = 0.4
 			e.IronsightsCrosshair = false

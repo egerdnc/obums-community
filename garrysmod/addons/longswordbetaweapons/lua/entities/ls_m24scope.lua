@@ -4,7 +4,7 @@ AddCSLuaFile()
 ENT.Type = "anim"
 ENT.Base = "base_gmodentity"
 
-ENT.PrintName = "OICW Scope"
+ENT.PrintName = "M24 Scope"
 ENT.Category = "Longsword Beta Attatchments"
 ENT.Spawnable = true
 
@@ -23,8 +23,8 @@ function ENT:Use(ply)
     if ( IsValid(ply) ) then
         local wep = ply:GetActiveWeapon()
         if ( IsValid(wep) ) then
-            if ( wep.ClassName == "ls_oicw" ) then
-                wep:GiveAttachment("oicw_scope")
+            if ( wep.ClassName == "ls_m24" ) then
+                wep:GiveAttachment("m24_scope")
                 self:Remove()
             end
         end

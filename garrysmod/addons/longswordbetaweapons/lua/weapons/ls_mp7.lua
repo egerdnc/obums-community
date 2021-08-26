@@ -20,13 +20,13 @@ SWEP.CSMuzzleFlashes = false
 
 SWEP.ReloadSound = Sound("Weapon_MP7.Reload")
 SWEP.Primary.Sound = Sound("Weapon_MP7.Single")
-SWEP.Primary.Recoil = 0.33 -- base recoil value, SWEP.Spread mods can change this
-SWEP.Primary.Damage = 7
+SWEP.Primary.Recoil = 0.2 -- base recoil value, SWEP.Spread mods can change this
+SWEP.Primary.Damage = 5
 SWEP.Primary.PenetrationScale = 0
 SWEP.Primary.NumShots = 1
 SWEP.Primary.Burst = false
 SWEP.Primary.Cone = 0.052
-SWEP.Primary.Delay = RPM(760)
+SWEP.Primary.Delay = RPM(900)
 
 SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.Automatic = true
@@ -40,8 +40,8 @@ SWEP.Secondary.DefaultClip = -1
 
 SWEP.Spread = {}
 SWEP.Spread.Min = 0
-SWEP.Spread.Max = 0.3
-SWEP.Spread.IronsightsMod = 0.8 -- multiply
+SWEP.Spread.Max = 0.2
+SWEP.Spread.IronsightsMod = 0.9 -- multiply
 SWEP.Spread.CrouchMod = 0.94 -- crouch effect (multiply)
 SWEP.Spread.AirMod = 1.2 -- how does if the player is in the air effect spread (multiply)
 SWEP.Spread.RecoilMod = 0.04 -- how does the recoil effect the spread (sustained fire) (additional)
@@ -54,7 +54,7 @@ SWEP.IronsightsAng = Vector(0, 0, 0)
 SWEP.IronsightsFOV = 0.75
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
-SWEP.IronsightsRecoilVisualMultiplier = 1
+SWEP.IronsightsRecoilVisualMultiplier = 4 
 
 sound.Add({
 	name = "Weapon_MP7.Single",
