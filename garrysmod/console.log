@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in..............
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Czars Castle IXHL2RP' (13 items)
@@ -8,32 +8,252 @@ WS: Finished!
 
 WS: Processing 13 addons...
 Processing addon 13: ULX (557962280)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 12: ULib (557962238)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 11: Rp_City17 - Build 210 (150899249)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 10: PermaProps (220336312)...
+   Addon needs downloading...
+   Downloading [ 0% of 10.5 KB ]
+   Downloaded!
    Mounted!
 Processing addon 9: Romka's Combine Soldiers (2306939705)...
+   Addon needs downloading...
+   Downloading [ 0% of 26.8 MB ]
+   Downloading [ 13% of 26.8 MB ]
+   Downloading [ 29% of 26.8 MB ]
+   Downloading [ 55% of 26.8 MB ]
+   Downloading [ 70% of 26.8 MB ]
+   Downloading [ 91% of 26.8 MB ]
+   Downloaded!
    Mounted!
 Processing addon 8: Wiremod (160250458)...
+   Addon needs downloading...
+   Downloading [ 35% of 7.4 MB ]
+   Downloading [ 98% of 7.4 MB ]
+   Downloaded!
    Mounted!
 Processing addon 7: Metropolice Pack (104491619)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 6: Enhanced Citizens v4 (677125227)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 5: rp_city2_v4_final (648741981)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 4: rp_city2_v4_final content (837571030)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 3: Depot [HL2RP] (1735853546)...
+   Addon needs downloading...
+   Downloaded!
+   Extracting...
    Mounted!
 Processing addon 2: Half-Life 2 Beta Weapons Pack V2 (254077907)...
+   Addon needs downloading...
+   Downloading [ 3% of 51.6 MB ]
+   Downloading [ 16% of 51.6 MB ]
+   Downloading [ 28% of 51.6 MB ]
+   Downloading [ 35% of 51.6 MB ]
+   Downloading [ 47% of 51.6 MB ]
+   Downloading [ 58% of 51.6 MB ]
+   Downloading [ 67% of 51.6 MB ]
+   Downloading [ 81% of 51.6 MB ]
+   Downloading [ 93% of 51.6 MB ]
+   Downloaded!
    Mounted!
 Processing addon 1: Ultimate Workshop Downloader (2214712098)...
+   Addon needs downloading...
+   Downloaded!
    Mounted!
 WS: Finished!
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longsword'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longswordbetaweapons'
-Unable to load manifest file 'scripts/game_sounds_manifest.txt'
+Changing gamemode to HL2 RP (ixhl2rp)
+Network: IP 192.168.1.2, mode MP, dedicated Yes, ports 27015 SV / 27005 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+Extracting BSP to map.pack in order to mount BSP embedded content...
+PREP OK
+Couldn't write map.pack to mount embedded content!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters006b.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters006b.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters005b.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters005b.vmt
+LightmappedGeneric, 
+MDLCache: Failed load of .VTX data for props_c17\Handrail03_Medium.mdl
+MDLCache: Failed load of .VTX data for surgeon/tv01_regular.mdl
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+CStaticProp::Init:  Map error, static_prop with bogus SOLID_ flag (3)! (models/props_c17/light_decklight01_on.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_combine/tpcontrollerscreens.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+///////////////////////////////
+//      Ulysses Library      //
+///////////////////////////////
+// Loading...                //
+//  shared/defines.lua       //
+//  shared/misc.lua          //
+//  shared/util.lua          //
+//  shared/hook.lua          //
+//  shared/table.lua         //
+//  shared/player.lua        //
+//  server/player.lua        //
+//  shared/messages.lua      //
+//  shared/commands.lua      //
+//  server/concommand.lua    //
+//  server/util.lua          //
+//  shared/sh_ucl.lua        //
+//  server/ucl.lua           //
+//  server/phys.lua          //
+//  server/player_ext.lua    //
+//  server/entity_ext.lua    //
+//  shared/plugin.lua        //
+//  shared/cami_global.lua   //
+//  shared/cami_ulib.lua     //
+// Load Complete!            //
+///////////////////////////////
+[ULIB] Loading SHARED module: ulx_init.lua
+///////////////////////////////
+//       ULX Admin Mod       //
+///////////////////////////////
+// Loading...                //
+//  sh_defines.lua           //
+//  lib.lua                  //
+//  base.lua                 //
+//  sh_base.lua              //
+//  log.lua                  //
+//  MODULE: slots.lua        //
+//  MODULE: uteam.lua        //
+//  MODULE: votemap.lua      //
+//  MODULE: xgui_server.lua  //
+///////////////////////////////
+// ULX GUI -- by Stickly Man //
+///////////////////////////////
+// Adding Main Modules..     //
+//  bans.lua                 //
+//  commands.lua             //
+//  groups.lua               //
+//  maps.lua                 //
+//  settings.lua             //
+// Adding Setting Modules..  //
+//  client.lua               //
+//  server.lua               //
+// Adding Gamemode Modules.. //
+//  sandbox.lua              //
+// Loading Server Modules..  //
+//  sv_bans.lua              //
+//  sv_groups.lua            //
+//  sv_maps.lua              //
+//  sv_sandbox.lua           //
+//  sv_settings.lua          //
+// XGUI modules added!       //
+///////////////////////////////
+//  MODULE: chat.lua         //
+//  MODULE: fun.lua          //
+//  MODULE: menus.lua        //
+//  MODULE: rcon.lua         //
+//  MODULE: teleport.lua     //
+//  MODULE: user.lua         //
+//  MODULE: userhelp.lua     //
+//  MODULE: util.lua         //
+//  MODULE: vote.lua         //
+//  end.lua                  //
+// Load Complete!            //
+///////////////////////////////
+Wiremod Version 'Workshop' loaded
+[DOWNLOADER] SCANNING 13 ADDONS TO ADD RESOURCES...
+[DOWNLOADER] [+] 648741981  rp_city2_v4_final
+[DOWNLOADER] [+] 2306939705 Romka's Combine Soldiers
+[DOWNLOADER] [+] 160250458  Wiremod
+[DOWNLOADER] [+] 104491619  Metropolice Pack
+[DOWNLOADER] [+] 677125227  Enhanced Citizens v4
+[DOWNLOADER] [+] 254077907  Half-Life 2 Beta Weapons Pack V2
+[DOWNLOADER] FINISHED TO ADD RESOURCES: 6 ADDONS SELECTED
+---------------------------------
+| Loading ServerSide PermaProps |
+---------------------------------
+permaprops/sv_lib.lua
+permaprops/sv_menu.lua
+permaprops/sv_permissions.lua
+permaprops/sv_specialfcn.lua
+permaprops/sv_sql.lua
+-----------------------------
+| Loading Shared PermaProps |
+-----------------------------
+---------------------------------
+| Loading ClientSide PermaProps |
+---------------------------------
+permaprops/cl_drawent.lua
+permaprops/cl_menu.lua
+-------------------------------
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse.vmt
+(*VertexLitGeneric*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse.vmt
+(*VertexLitGeneric*), 
+ +---------------------------------+
+ |          E2 EXTENSIONS          |
+ +----------------+----------------+
+ |    ENABLED     |    DISABLED    |
+ +----------------+----------------+
+ | console        | constraintcore |
+ | file           | effects        |
+ | find           | http           |
+ | holo           | propcore       |
+ | npc            | remoteupload   |
+ | ranger         | wiring         |
+ | serialization  |                |
+ | sound          |                |
+ +----------------+----------------+
+
+[ULib] HTTP failed - ISteamHTTP isn't available!
+  1. Fetch - lua/includes/modules/http.lua:42
+   2. fn - lua/ulib/shared/plugin.lua:186
+    3. unknown - lua/ulib/shared/hook.lua:109
+
+Making workshop map available for client download
+Using map cycle file cfg/mapcycle.txt.
+Attempted to create unknown entity type info_ladder!
+Failed to load .nav file: Cannot access!
+Server logging enabled.
+Server logging data to file logs\L0826000.log
+L 08/26/2021 - 04:18:32: Log file started (file "logs\L0826000.log") (game "C:\brock-community\garrysmod") (version "8283")
+'banned_ip.cfg' not present; not executing.
+[mysql] Connected to the database!
+Database Type: sqlite.
+Writing cfg/banned_user.cfg.
+Client "Hamood" connected (192.168.1.2:27006).
+[LOG] Hamood has connected.
+Loaded () for Hamood
+Created character '45' for Hamood.
+[LOG] Hamood created the character 'Dex Mcgugget'
+[LOG] Dex Mcgugget has gained a 'Suitcase' #144.
+[LOG] Dex Mcgugget has gained a 'Flashlight' #145.
+[LOG] Dex Mcgugget has gained a 'Citizen ID' #146.
+[LOG] Hamood loaded the character 'Dex Mcgugget'
+Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget

@@ -1,0 +1,6 @@
+[04:23:23]	Hamood has connected.
+[04:24:08]	Hamood created the character 'Dex Mcgugget'
+[04:24:08]	Dex Mcgugget has gained a 'Suitcase' #144.
+[04:24:08]	Dex Mcgugget has gained a 'Flashlight' #145.
+[04:24:08]	Dex Mcgugget has gained a 'Citizen ID' #146.
+[04:24:08]	Hamood loaded the character 'Dex Mcgugget'

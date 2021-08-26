@@ -5,3 +5,6 @@ sourceengine/
 steam_cache/
 garrysmod/cache/
 *.mdmp
+garrysmod/garrysmod_000.vpk
+garrysmod/garrysmod_001.vpk
+garrysmod/garrysmod_002.vpk

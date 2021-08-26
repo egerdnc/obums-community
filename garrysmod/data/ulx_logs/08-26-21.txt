@@ -1,0 +1,4 @@
+[04:18:32] New map: rp_city2_v4_finalb
+[04:21:46] Client "Hamood" connected.
+[04:23:23] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 97 seconds).
+[04:24:09] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
