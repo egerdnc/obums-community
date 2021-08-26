@@ -112,3 +112,14 @@
 [01:09:22] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 32 seconds).
 [01:09:36] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
 [01:13:27] Dropped "Dex Mcgugget" from server<STEAM_0:0:420247449>
+
+
+
+[01:18:04] New map: rp_city2_v4_finalb
+[01:19:09] Client "Hamood" connected.
+[01:19:42] Client "Hamood" spawned in server <STEAM_0:0:420247449> (took 33 seconds).
+[01:19:56] Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
+[01:20:03] Dex Mcgugget: /apply
+[01:20:41] Dex Mcgugget: /me test
+[01:22:17] Dex Mcgugget: /apply
+[01:22:31] Dex Mcgugget: /apply

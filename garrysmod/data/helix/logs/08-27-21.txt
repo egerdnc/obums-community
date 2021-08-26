@@ -276,3 +276,13 @@
 [01:11:01]	Dex Mcgugget entered observer.
 [01:11:04]	Dex Mcgugget exited observer at their location.
 [01:13:27]	Hamood (STEAM_0:0:420247449) has disconnected.
+[01:19:42]	Hamood has connected.
+[01:19:56]	Hamood loaded the character 'Dex Mcgugget'
+[01:19:58]	Dex Mcgugget entered observer.
+[01:20:01]	Dex Mcgugget exited observer at their location.
+[01:20:03]	Dex Mcgugget used command '/Apply'.
+[01:20:05]	Dex Mcgugget entered observer.
+[01:20:08]	Dex Mcgugget exited observer at their location.
+[01:20:41]	[ME] Dex Mcgugget: test
+[01:22:17]	Dex Mcgugget used command '/Apply'.
+[01:22:31]	Dex Mcgugget used command '/Apply'.

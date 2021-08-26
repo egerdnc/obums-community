@@ -9,7 +9,7 @@ ix.command.Add('Apply', {
             local cid = character:GetData'cid'
             
             if cid then
-                ix.chat.Send(client, 'ic', client:Name()..'#'..cid)
+                ix.chat.Send(client, 'me', "Shows ID: " .. client:Name()..' # '..cid)
             else
                 return 'You don´t own a CID!'
             end

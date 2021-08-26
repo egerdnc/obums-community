@@ -133,3 +133,9 @@
 [Fri Aug 27 01:09:22 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
 [Fri Aug 27 01:09:56 2021] <STEAM_0:0:420247449> Dex Mcgugget used tool "remover"
 [Fri Aug 27 01:13:27 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 01:19:09 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 01:19:42 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 01:20:03 2021] <STEAM_0:0:420247449> Dex Mcgugget: /apply
+[Fri Aug 27 01:20:41 2021] <STEAM_0:0:420247449> Dex Mcgugget: /me test
+[Fri Aug 27 01:22:17 2021] <STEAM_0:0:420247449> Dex Mcgugget: /apply
+[Fri Aug 27 01:22:31 2021] <STEAM_0:0:420247449> Dex Mcgugget: /apply
