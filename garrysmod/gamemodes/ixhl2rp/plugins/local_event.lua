@@ -48,7 +48,7 @@ end
 
 do
 	local CLASS = {}
-	CLASS.color = Color(255, 150, 0)
+	CLASS.color = Color(255, 0, 0)
 	CLASS.superAdminOnly = true
 	CLASS.indicator = "chatPerforming"
 

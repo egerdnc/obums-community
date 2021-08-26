@@ -3950,3 +3950,353 @@ Hamood|4|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: attempt to call field 'DrawCircle' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: attempt to call field 'DrawCircle' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: attempt to call field 'DrawCircle' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: attempt to call field 'DrawCircle' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: attempt to call field 'DrawCircle' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:217
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/cl_skin.lua:111: Tried to use a NULL Panel!
+  1. GetTitle - [C]:-1
+   2. SkinHook - gamemodes/helix/gamemode/core/cl_skin.lua:111
+    3. unknown - lua/vgui/dframe.lua:203
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194: attempt to perform arithmetic on global 'x' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:194
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218: bad argument #1 to 'DrawPoly' (table expected, got nil)
+  1. DrawPoly - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:218
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: ')' expected near '255'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_vendingmachine.lua:216: malformed number near '0i'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_vendingmachine because it is missing Type and Base keys!
+
+

@@ -213,7 +213,7 @@ else
 					end
 				end
 
-				surface.DrawCircle(x + width + 12, y + 10, 10, 3, 252, 19, 255)
+				surface.DrawCircle(x + width + 15, y + 15, 10, 17, 255, 0, 255)
 			end
 
 			render.PopFilterMin()

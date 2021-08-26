@@ -842,3 +842,70 @@
 [21:49:10]	Dex Mcgugget exited observer at their location.
 [21:49:13]	Dex Mcgugget entered observer.
 [21:49:14]	Dex Mcgugget exited observer at their location.
+[21:50:17]	Dex Mcgugget entered observer.
+[21:50:25]	Dex Mcgugget exited observer at their location.
+[21:50:36]	Dex Mcgugget has spawned a 'Entity [113][bp_junk_ammo]'.
+[21:50:48]	Hamood (STEAM_0:0:420247449) has disconnected.
+[21:51:43]	Hamood has connected.
+[21:52:02]	Hamood loaded the character 'Dex Mcgugget'
+[21:52:04]	Dex Mcgugget entered observer.
+[21:52:08]	Dex Mcgugget exited observer at their location.
+[21:52:13]	Dex Mcgugget has spawned a 'Entity [101][ix_vendingmachine]'.
+[21:55:42]	Hamood has connected.
+[21:55:55]	Hamood loaded the character 'Dex Mcgugget'
+[21:55:56]	Dex Mcgugget entered observer.
+[21:56:00]	Dex Mcgugget exited observer at their location.
+[21:58:18]	Hamood has connected.
+[21:58:32]	Hamood loaded the character 'Dex Mcgugget'
+[21:58:33]	Dex Mcgugget entered observer.
+[21:58:38]	Dex Mcgugget exited observer at their location.
+[21:58:49]	Dex Mcgugget has spawned a 'NPC [102][ix_atm]'.
+[22:01:16]	Hamood has connected.
+[22:01:29]	Hamood loaded the character 'Dex Mcgugget'
+[22:01:31]	Dex Mcgugget entered observer.
+[22:02:05]	Dex Mcgugget exited observer at their location.
+[22:02:20]	Dex Mcgugget entered observer.
+[22:02:22]	Dex Mcgugget exited observer at their location.
+[22:02:31]	Hamood (STEAM_0:0:420247449) has disconnected (timed out).
+[22:04:11]	Hamood has connected.
+[22:04:24]	Hamood loaded the character 'Dex Mcgugget'
+[22:04:31]	Dex Mcgugget entered observer.
+[22:04:35]	Dex Mcgugget exited observer at their location.
+[22:04:42]	Hamood (STEAM_0:0:420247449) has disconnected (timed out).
+[22:06:25]	Hamood has connected.
+[22:06:38]	Hamood loaded the character 'Dex Mcgugget'
+[22:06:40]	Dex Mcgugget entered observer.
+[22:06:44]	Dex Mcgugget exited observer at their location.
+[22:08:21]	Dex Mcgugget has lost 15 Tokens.
+[22:08:24]	Dex Mcgugget ran 'take' on item 'Breen's Water' (#151)
+[22:08:24]	Dex Mcgugget has gained a 'Breen's Water' #151.
+[22:09:00]	Dex Mcgugget entered observer.
+[22:09:02]	Dex Mcgugget exited observer at their location.
+[22:09:02]	Dex Mcgugget entered observer.
+[22:09:03]	Dex Mcgugget exited observer at their location.
+[22:09:04]	Dex Mcgugget entered observer.
+[22:09:05]	Dex Mcgugget exited observer at their location.
+[22:09:06]	Dex Mcgugget entered observer.
+[22:09:06]	Dex Mcgugget exited observer at their location.
+[22:09:06]	Dex Mcgugget entered observer.
+[22:09:07]	Dex Mcgugget exited observer at their location.
+[22:09:09]	Dex Mcgugget entered observer.
+[22:09:11]	Dex Mcgugget exited observer at their location.
+[22:09:26]	Dex Mcgugget entered observer.
+[22:09:26]	Dex Mcgugget exited observer at their location.
+[22:09:27]	Dex Mcgugget entered observer.
+[22:09:29]	Dex Mcgugget exited observer at their location.
+[22:09:30]	Dex Mcgugget entered observer.
+[22:09:30]	Dex Mcgugget exited observer at their location.
+[22:09:34]	Dex Mcgugget entered observer.
+[22:09:34]	Dex Mcgugget exited observer at their location.
+[22:09:48]	Dex Mcgugget entered observer.
+[22:09:49]	Dex Mcgugget exited observer at their location.
+[22:10:09]	Dex Mcgugget used command '/AreaEdit'.
+[22:10:10]	Dex Mcgugget has removed area "Interrogation room - 1".
+[22:10:30]	Dex Mcgugget has added area "Interrogation Room".
+[22:10:33]	Dex Mcgugget used command '/AreaEdit'.
+[22:10:45]	Dex Mcgugget entered observer.
+[22:10:50]	Dex Mcgugget exited observer at their location.
+[22:11:38]	Dex Mcgugget has gained 5 Tokens.
+[22:11:42]	Hamood (STEAM_0:0:420247449) has disconnected.
