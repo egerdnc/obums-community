@@ -1,6 +1,6 @@
 
-FACTION.name = "Metropolice Force"
-FACTION.description = "A metropolice unit working as Civil Protection."
+FACTION.name = "Civil Protection"
+FACTION.description = "Civil Protection units employed by an unkown larger group know as MPF."
 FACTION.color = Color(50, 100, 150)
 FACTION.pay = 10
 FACTION.models = {"models/police.mdl"}
@@ -18,7 +18,7 @@ function FACTION:OnCharacterCreated(client, character)
 end
 
 function FACTION:GetDefaultName(client)
-	return "C17-RCT." .. Schema:ZeroNumber(math.random(1, 99999), 5), true
+	return "C2.i4-" .. Schema:ZeroNumber(math.random(1, 99999), 5), true
 end
 
 function FACTION:OnTransfered(client)
@@ -31,21 +31,16 @@ end
 function FACTION:OnNameChanged(client, oldValue, value)
 	local character = client:GetCharacter()
 
-	if (!Schema:IsCombineRank(oldValue, "RCT") and Schema:IsCombineRank(value, "RCT")) then
+	if (!Schema:IsCombineRank(oldValue, "i4") and Schema:IsCombineRank(value, "i4")) then
 		character:JoinClass(CLASS_MPR)
 	elseif (!Schema:IsCombineRank(oldValue, "OfC") and Schema:IsCombineRank(value, "OfC")) then
 		character:SetModel("models/policetrench.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "EpU") and Schema:IsCombineRank(value, "EpU")) then
+	elseif (!Schema:IsCombineRank(oldValue, "SqL") and Schema:IsCombineRank(value, "SqL")) then
 		character:JoinClass(CLASS_EMP)
 
 		character:SetModel("models/leet_police2.mdl")
 	elseif (!Schema:IsCombineRank(oldValue, "DvL") and Schema:IsCombineRank(value, "DvL")) then
 		character:SetModel("models/eliteshockcp.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "SeC") and Schema:IsCombineRank(value, "SeC")) then
-		character:SetModel("models/sect_police2.mdl")
-	elseif (!Schema:IsCombineRank(oldValue, "SCN") and Schema:IsCombineRank(value, "SCN")
-	or !Schema:IsCombineRank(oldValue, "SHIELD") and Schema:IsCombineRank(value, "SHIELD")) then
-		character:JoinClass(CLASS_MPS)
 	end
 
 	if (!Schema:IsCombineRank(oldValue, "GHOST") and Schema:IsCombineRank(value, "GHOST")) then
