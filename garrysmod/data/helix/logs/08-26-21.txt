@@ -133,3 +133,16 @@
 [10:15:28]	Dex Mcgugget has gained 5 Tokens.
 [10:20:28]	Dex Mcgugget has gained 5 Tokens.
 [10:21:48]	Hamood (STEAM_0:0:420247449) has disconnected.
+[11:05:59]	Hamood has connected.
+[11:06:17]	Hamood loaded the character 'Dex Mcgugget'
+[11:08:56]	Dex Mcgugget has taken 9999999 damage from Elevator_1.
+[11:08:56]	Elevator_1 has killed Dex Mcgugget.
+[11:11:17]	Dex Mcgugget has gained 5 Tokens.
+[11:16:17]	Dex Mcgugget has gained 5 Tokens.
+[11:21:17]	Dex Mcgugget has gained 5 Tokens.
+[11:21:33]	Dex Mcgugget has taken 5 damage from trigger_hurt.
+[11:21:35]	Dex Mcgugget has taken 5 damage from trigger_hurt.
+[11:21:39]	Dex Mcgugget has taken 5 damage from trigger_hurt.
+[11:21:40]	Dex Mcgugget has taken 5 damage from trigger_hurt.
+[11:21:41]	Dex Mcgugget has taken 5 damage from trigger_hurt.
+[11:25:07]	Hamood (STEAM_0:0:420247449) has disconnected.
