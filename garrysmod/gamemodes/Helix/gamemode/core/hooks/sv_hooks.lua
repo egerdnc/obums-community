@@ -748,7 +748,7 @@ function GM:ShutDown()
 end
 
 function GM:GetGameDescription()
-	return "IX: "..(Schema and Schema.name or "Unknown")
+	return "Obums Community: Half Life 2 Roleplay [BETA]"
 end
 
 function GM:OnPlayerUseBusiness(client, item)
