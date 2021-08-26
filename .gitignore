@@ -2,3 +2,6 @@ hl2/
 cstrike/
 bin/
 sourceengine/
+steam_cache/
+garrysmod/cache/
+*.mdmp
