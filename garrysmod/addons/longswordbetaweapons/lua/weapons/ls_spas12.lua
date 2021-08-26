@@ -11,7 +11,7 @@ SWEP.HoldType = "shotgun"
 
 SWEP.WorldModel = Model("models/weapons/w_shotgun.mdl")
 SWEP.ViewModel = Model("models/weapons/tfa_ins2/c_spas12_bri.mdl")
-SWEP.ViewModelFOV = 55
+SWEP.ViewModelFOV = 40
 
 SWEP.Slot = 3
 SWEP.SlotPos = 2
@@ -48,7 +48,7 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-8.961, -9.247, 4.159)
+SWEP.IronSightsPos = Vector(-2.6, 3.015, 0.839)
 SWEP.IronsightsAng = Vector(0, 0, 0)
 SWEP.IronsightsFOV = 0.9
 SWEP.IronsightsSensitivity = 0.8

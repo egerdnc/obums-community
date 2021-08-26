@@ -9,9 +9,9 @@ SWEP.AdminOnly = false
 
 SWEP.HoldType = "smg"
 
-SWEP.WorldModel = Model("models/weapons/w_smg1.mdl")
+SWEP.WorldModel = Model("models/weapons/w_smg2.mdl")
 SWEP.ViewModel = Model("models/weapons/tfa_ins2/c_mp5k.mdl")
-SWEP.ViewModelFOV = 58
+SWEP.ViewModelFOV = 70
 
 SWEP.Slot = 2
 SWEP.SlotPos = 2
@@ -19,13 +19,13 @@ SWEP.SlotPos = 2
 SWEP.CSMuzzleFlashes = false
 
 SWEP.Primary.Sound = Sound("Weapon_MP5K.Single")
-SWEP.Primary.Recoil = 0.4 -- base recoil value, SWEP.Spread mods can change this
-SWEP.Primary.Damage = 3
+SWEP.Primary.Recoil = 0.15 -- base recoil value, SWEP.Spread mods can change this
+SWEP.Primary.Damage = 7
 SWEP.Primary.PenetrationScale = 0
 SWEP.Primary.NumShots = 1
 SWEP.Primary.Burst = false
 SWEP.Primary.Cone = 0.025
-SWEP.Primary.Delay = RPM(820)
+SWEP.Primary.Delay = RPM(610)
 
 SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.Automatic = true
@@ -39,21 +39,22 @@ SWEP.Secondary.DefaultClip = -1
 
 SWEP.Spread = {}
 SWEP.Spread.Min = 0
-SWEP.Spread.Max = 0.05
-SWEP.Spread.IronsightsMod = 0.6 -- multiply
-SWEP.Spread.CrouchMod = 0.94 -- crouch effect (multiply)
+SWEP.Spread.Max = 0.2
+SWEP.Spread.IronsightsMod = 0.55 -- multiply
+SWEP.Spread.CrouchMod = 0.98 -- crouch effect (multiply)
 SWEP.Spread.AirMod = 1.2 -- how does if the player is in the air effect spread (multiply)
-SWEP.Spread.RecoilMod = 0.1 -- how does the recoil effect the spread (sustained fire) (additional)
+SWEP.Spread.RecoilMod = 0.04 -- how does the recoil effect the spread (sustained fire) (additional)
 SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-0.08, 12.864, -5.071)
-SWEP.IronSightsAng = Angle(3.517, 0, 0)
+SWEP.IronSightsPos = Vector(-0.08, 13.265, -4.35)
+SWEP.IronsightsAng = Angle(0.703, 0, 0)
 SWEP.IronsightsFOV = 0.75
 SWEP.IronsightsSensitivity = 0.8
-SWEP.IronsightsCrosshair = false
-SWEP.IronsightsRecoilVisualMultiplier = 1 
+SWEP.IronsightsCrosshair = true
+SWEP.IronsightsRecoilVisualMultiplier = 4
+ 
 
 sound.Add({
 	name = "Weapon_MP5K.Single",

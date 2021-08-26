@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"combine_sniper/w_sniper"
+	"$bumpmap"	"combine_sniper/normal"
+	"$phongexponenttexture" "combine_sniper/w_sniper_phong"
+"$nocull" "1"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask"  "1"
+"$envmaptint" "[ 0.001 0.001 0.001 ]"
+"$phong" "1"
+
+$detail "combine_sniper/detail"
+	$detailscale 80
+	$detailblendfactor 1.0
+	$halflambert 1
+	$nocull 1
+
+
+"$phongexponent" "20"
+"$phongboost" "0.02"
+"$phongfresnelranges""[3 6 12]"
+"$phongalbedotint" "1"
+}

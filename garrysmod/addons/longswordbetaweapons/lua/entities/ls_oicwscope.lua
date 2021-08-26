@@ -9,7 +9,7 @@ ENT.Category = "Longsword Beta Attatchments"
 ENT.Spawnable = true
 
 function ENT:Initialize()
-	self:SetModel( "models/weapons/w_oicw.mdl" )
+	self:SetModel( "models/items/item_item_crate.mdl" )
 	self:SetMoveType( MOVETYPE_VPHYSICS )
 	self:SetSolid( SOLID_VPHYSICS )
 	if ( SERVER ) then self:PhysicsInit( SOLID_VPHYSICS ) end

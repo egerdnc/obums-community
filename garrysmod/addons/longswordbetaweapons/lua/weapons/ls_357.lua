@@ -40,7 +40,7 @@ SWEP.Secondary.DefaultClip = -1
 
 SWEP.Spread = {}
 SWEP.Spread.Min = 0
-SWEP.Spread.Max = 0.05
+SWEP.Spread.Max = 0.01
 SWEP.Spread.IronsightsMod = 0.4 -- multiply
 SWEP.Spread.CrouchMod = 0.94 -- crouch effect (multiply)
 SWEP.Spread.AirMod = 1.2 -- how does if the player is in the air effect spread (multiply)
@@ -49,9 +49,9 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-4.6, -5.829, 0.72)
+SWEP.IronSightsPos = Vector(-4.6, -3.418, 0.639)
 SWEP.IronsightsAng = Vector(0, 0, 0)
-SWEP.IronsightsFOV = 0.8
+SWEP.IronsightsFOV = 0.7
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
 SWEP.IronsightsRecoilVisualMultiplier = 0.01

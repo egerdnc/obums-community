@@ -7,7 +7,7 @@ SWEP.Category = "Longsword Beta Pack"
 SWEP.Spawnable = true
 SWEP.AdminOnly = false
 
-SWEP.HoldType = "pistol"
+SWEP.HoldType = "revolver"
 
 SWEP.WorldModel = Model("models/weapons/w_pistol.mdl")
 SWEP.ViewModel = Model("models/weapons/c_pistoledit.mdl")
@@ -49,8 +49,8 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-5.761, -14.473, 3.2)
-SWEP.IronsightsAng = Angle(0, -1.5, 0)
+SWEP.IronSightsPos = Vector(-5.961, -5.428, 3.16)
+SWEP.IronsightsAng = Angle(0, -1.407, 0)
 SWEP.IronsightsFOV = 0.6
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
