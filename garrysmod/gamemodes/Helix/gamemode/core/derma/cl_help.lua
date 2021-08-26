@@ -325,45 +325,45 @@ hook.Add("PopulateHelpMenu", "ixHelpMenu", function(tabs)
 		end
 	end
 
-	tabs["plugins"] = function(container)
-		for _, v in SortedPairsByMemberValue(ix.plugin.list, "name") do
-			-- name
-			local title = container:Add("DLabel")
-			title:SetFont("ixMediumLightFont")
-			title:SetText(v.name or "Unknown")
-			title:Dock(TOP)
-			title:SetTextColor(ix.config.Get("color"))
-			title:SetExpensiveShadow(1, color_black)
-			title:SizeToContents()
+	-- tabs["plugins"] = function(container)
+	-- 	for _, v in SortedPairsByMemberValue(ix.plugin.list, "name") do
+	-- 		-- name
+	-- 		local title = container:Add("DLabel")
+	-- 		title:SetFont("ixMediumLightFont")
+	-- 		title:SetText(v.name or "Unknown")
+	-- 		title:Dock(TOP)
+	-- 		title:SetTextColor(ix.config.Get("color"))
+	-- 		title:SetExpensiveShadow(1, color_black)
+	-- 		title:SizeToContents()
 
-			-- author
-			local author = container:Add("DLabel")
-			author:SetFont("ixSmallFont")
-			author:SetText(string.format("%s: %s", L("author"), v.author))
-			author:Dock(TOP)
-			author:SetTextColor(color_white)
-			author:SetExpensiveShadow(1, color_black)
-			author:SetWrap(true)
-			author:SetAutoStretchVertical(true)
-			author:SizeToContents()
+	-- 		-- author
+	-- 		local author = container:Add("DLabel")
+	-- 		author:SetFont("ixSmallFont")
+	-- 		author:SetText(string.format("%s: %s", L("author"), v.author))
+	-- 		author:Dock(TOP)
+	-- 		author:SetTextColor(color_white)
+	-- 		author:SetExpensiveShadow(1, color_black)
+	-- 		author:SetWrap(true)
+	-- 		author:SetAutoStretchVertical(true)
+	-- 		author:SizeToContents()
 
-			-- description
-			local descriptionText = v.description
+	-- 		-- description
+	-- 		local descriptionText = v.description
 
-			if (descriptionText != "") then
-				local description = container:Add("DLabel")
-				description:SetFont("ixSmallFont")
-				description:SetText(descriptionText)
-				description:Dock(TOP)
-				description:SetTextColor(color_white)
-				description:SetExpensiveShadow(1, color_black)
-				description:SetWrap(true)
-				description:SetAutoStretchVertical(true)
-				description:SizeToContents()
-				description:DockMargin(0, 0, 0, 8)
-			else
-				author:DockMargin(0, 0, 0, 8)
-			end
-		end
-	end
+	-- 		if (descriptionText != "") then
+	-- 			local description = container:Add("DLabel")
+	-- 			description:SetFont("ixSmallFont")
+	-- 			description:SetText(descriptionText)
+	-- 			description:Dock(TOP)
+	-- 			description:SetTextColor(color_white)
+	-- 			description:SetExpensiveShadow(1, color_black)
+	-- 			description:SetWrap(true)
+	-- 			description:SetAutoStretchVertical(true)
+	-- 			description:SizeToContents()
+	-- 			description:DockMargin(0, 0, 0, 8)
+	-- 		else
+	-- 			author:DockMargin(0, 0, 0, 8)
+	-- 		end
+	-- 	end
+	-- end
 end)

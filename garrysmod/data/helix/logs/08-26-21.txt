@@ -66,3 +66,4 @@
 [06:48:03]	Hamood (STEAM_0:0:420247449) has disconnected.
 [06:48:59]	Hamood has connected.
 [06:49:11]	Hamood loaded the character 'Dex Mcgugget'
+[06:54:11]	Dex Mcgugget has gained 5 Tokens.
