@@ -10,7 +10,7 @@ ix.util.Include("sv_hooks.lua")
 
 
 
-ix.config.Add("ATM Model", "models/props_combine/breenconsole.mdl", "The model of the ATM", nil, {
+ix.config.Add("ATM Model", "models/props_combine/combine_intwallunit.mdl", "The model of the ATM", nil, {
   category = "ATM"
 })
 
