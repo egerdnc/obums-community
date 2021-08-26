@@ -4,7 +4,7 @@
 
 Download the files from github repo using **Github Desktop**. (https://desktop.github.com/)\
 Download the additional files from the links that you got.\
-Mix the files using **instructions**.\
+Mix the files using **instructions**.
 
 ## Create files and folders
 
@@ -18,4 +18,4 @@ Dont make any other origin except master and origin.\
 Dont push the cache files.\
 Before commiting something **don't forget to double check your code / asset**.\
 ##
-[Extra files (garrysmod.rar)](https://mega.nz/file/STJCkRRQ#RuCvv3tvISNHfviSqVrmL50a_5xz77cwfVQ65PBpcMA)\
+[Extra files (garrysmod.rar)](https://mega.nz/file/STJCkRRQ#RuCvv3tvISNHfviSqVrmL50a_5xz77cwfVQ65PBpcMA)
