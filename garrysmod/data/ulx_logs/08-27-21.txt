@@ -385,3 +385,5 @@
 [04:07:36] C02.UNION-i4-9617: /plytransfer 9617 citizen
 [04:07:38] C02.UNION-i4-9617: /doorkick
 [04:07:39] C02.UNION-i4-9617: /doorkick
+[04:18:31] C02.UNION-i4-9617: /plytransfer 9617 metropolice
+[04:18:32] C02.UNION-i4-9617<STEAM_0:0:420247449> changed their name to C02.UNION-i4-9118

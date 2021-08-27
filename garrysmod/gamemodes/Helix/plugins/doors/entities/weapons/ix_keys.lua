@@ -101,9 +101,9 @@ function SWEP:PrimaryAttack()
 			(entity:IsVehicle() and entity.CPPIGetOwner and entity:CPPIGetOwner() == self.Owner)
 		)
 	) then
-		self.Owner:SetAction("@locking", time, function()
+		--self.Owner:SetAction("@locking", time, function()
 			self:ToggleLock(entity, true)
-		end)
+		--end)
 
 		return
 	end
@@ -132,7 +132,7 @@ function SWEP:ToggleLock(door, state)
 			end
 
 			door:Fire("unlock")
-			self.Owner:EmitSound("doors/door_latch1.wav")
+			self.Owner:EmitSound("doors/latchunlocked1.wav")
 
 			hook.Run("PlayerUnlockedDoor", self.Owner, door, partner)
 		end
@@ -192,9 +192,9 @@ function SWEP:SecondaryAttack()
 			(entity:IsVehicle() and entity.CPPIGetOwner and entity:CPPIGetOwner() == self.Owner)
 		)
 	) then
-		self.Owner:SetAction("@unlocking", time, function()
+		--self.Owner:SetAction("@unlocking", time, function()
 			self:ToggleLock(entity, false)
-		end)
+		--end)
 
 		return
 	end
