@@ -3,6 +3,7 @@ ITEM.description = "A vest taken from one of The Overwatch Soldiers."
 ITEM.model = Model("models/combine_vests/elitevest.mdl")
 ITEM.category = "Vest"
 ITEM.width = 2
+ITEM.weight = 9
 ITEM.height = 2
 ITEM.maxArmor = 70
 

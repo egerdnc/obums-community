@@ -4,6 +4,7 @@ ITEM.category = "Clothing"
 ITEM.outfitCategory = "face"
 ITEM.model = "models/sal/halloween/ninja.mdl"
 ITEM.width = 1
+ITEM.weight = 0.1
 ITEM.height = 1
 ITEM.pacData = {
 	[1] = {

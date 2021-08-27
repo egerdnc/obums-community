@@ -1,6 +1,7 @@
 ITEM.name = "Human Flesh"
 ITEM.model = Model("models/props_junk/watermelon01.mdl")
 ITEM.width = 1
+ITEM.weight = 2
 ITEM.height = 1
 ITEM.description = "Harvested flesh from a human, smells vile, don't eat this."
 ITEM.category = "Consumables"

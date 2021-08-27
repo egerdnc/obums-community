@@ -1,6 +1,7 @@
 
 ITEM.name = "Health Vial"
 ITEM.model = Model("models/healthvial.mdl")
+ITEM.weight = 0.3
 ITEM.description = "A small vial with green liquid."
 ITEM.category = "Medical"
 ITEM.price = 40

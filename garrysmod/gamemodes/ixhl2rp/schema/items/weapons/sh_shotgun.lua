@@ -4,6 +4,7 @@ ITEM.model = "models/weapons/w_shotgun.mdl"
 ITEM.class = "ls_spas12"
 ITEM.weaponCategory = "primary"
 ITEM.width = 3
+ITEM.weight = 5.4
 ITEM.height = 1
 ITEM.iconCam = {
     pos = Vector(0, 200, 1),

@@ -221,13 +221,13 @@ local function EstimateAngle(bitmask, x1, x2)
     return highestsla
 end
 
-local placeholder_model = ""
+local placeholder_model = "models/maxofs2d/logo_gmod_b.mdl"
 local error_model = "models/error.mdl"
 
 AUTOICONS_ANGLE_OVERRIDE = {
     ["models/weapons/w_toolgun.mdl"] = Angle(0, 0, 0),
     ["models/MaxOfS2D/camera.mdl"] = Angle(0, 90, 0),
-   -- ["models/maxofs2d/logo_gmod_b.mdl"] = Angle(0, 90, 0),
+    ["models/maxofs2d/logo_gmod_b.mdl"] = Angle(0, 90, 0),
     [error_model] = Angle(0, 90, 0),
 }
 

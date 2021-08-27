@@ -7,6 +7,7 @@ ITEM.category = "Weapons"
 ITEM.isWeapon = true
 ITEM.isGrenade = true
 ITEM.width = 1
+ITEM.weight = 2
 ITEM.height = 1
 ITEM.iconCam = {
 	pos = Vector(-10, 37, 5),
