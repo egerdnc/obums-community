@@ -12,13 +12,13 @@ function FallLegs(ply, attacker)
 			ply:EmitSound( "vo/npc/male01/myleg01.wav" )
 			ply:SetWalkSpeed( r_walkspeed )
 			ply:SetRunSpeed( r_runspeed )
-			ply:ChatPrint("You broke your legs!")
+			ply:Notify("You broke your legs!")
 			BrokenLegs[ply] = true
 			
 			timer.Simple(300, function()
 				ply:SetRunSpeed(240)
 				ply:SetWalkSpeed(124)
-				ply:ChatPrint("Your legs is good again!")
+				ply:Notify("Your legs are good again!")
 				BrokenLegs[ply] = false
 			end)
 		end

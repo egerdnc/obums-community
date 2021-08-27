@@ -34,7 +34,7 @@ local function metroTalk()
 		end
 	end
 end
-hook.Add( "Think", "metroTalk", metroTalk )
+hook.Add( "OnPlayerChat", "metroTalk", metroTalk )
 
 local nextSoundO = CurTime()
 local function overwatchTalk()

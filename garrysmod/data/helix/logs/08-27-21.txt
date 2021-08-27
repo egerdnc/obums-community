@@ -1636,3 +1636,7 @@
 [05:55:33]	C02.UNION-i4-3740 used command '/DoorAddAutolock'.
 [05:55:34]	C02.UNION-i4-3740 used command '/DoorAddAutolock'.
 [05:55:37]	Hamood (STEAM_0:0:420247449) has disconnected.
+[06:36:49]	Hamood has connected.
+[06:37:19]	Hamood loaded the character 'C02.UNION-i4-3740'
+[06:45:31]	C02.UNION-i4-3740 entered observer.
+[06:45:34]	C02.UNION-i4-3740 exited observer at their location.
