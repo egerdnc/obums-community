@@ -8,10 +8,9 @@ end
 function playerMeta:IsDispatch()
 	local name = self:Name()
 	local faction = self:Team()
-	local bStatus = faction == FACTION_OTA
 
 	if (!bStatus) then
-		for k, v in ipairs({ "SCN", "DvL", "SeC" }) do
+		for k, v in ipairs({ "SCN", "SqL", "DvL", "LDR", "OHC" }) do
 			if (Schema:IsCombineRank(name, v)) then
 				bStatus = true
 

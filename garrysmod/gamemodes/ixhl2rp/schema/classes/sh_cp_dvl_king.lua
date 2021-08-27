@@ -14,8 +14,9 @@ function CLASS:OnSet(client)
   	if (inventory:HasItems(itemFilter)) then
 	  return
   	else
-	  inventory:Add("mp7", 1)
-	  inventory:Add("mp5k", 1)
+	  	inventory:Add("mp7", 1)
+	  	inventory:Add("mp5k", 1)
+	  	inventory:Add("division", 1)
   	end
 end
 

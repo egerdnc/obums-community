@@ -7,8 +7,16 @@ function CLASS:CanSwitchTo(client)
 end
 
 function CLASS:OnSet(client)
-  local character = client:GetCharacter()
-	character:SetModel("models/dpfilms/metropolice/hl2concept.mdl")
+	local character = client:GetCharacter()
+	  character:SetModel("models/dpfilms/metropolice/elite_police.mdl")
+  	local inventory = character:GetInventory()
+  	local itemFilter = {"mp7"}
+  	if (inventory:HasItems(itemFilter)) then
+	  return
+  	else
+	  	inventory:Add("mp7", 1)
+	  	inventory:Add("division", 1)
+  	end
 end
 
 CLASS_GRIDDVL = CLASS.index

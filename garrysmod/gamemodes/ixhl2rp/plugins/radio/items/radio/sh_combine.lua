@@ -1,4 +1,4 @@
 
-ITEM.name = "Combine Radio"
+ITEM.name = "Union Radio"
 ITEM.description = "A small handheld radio fixed to one frequency."
-ITEM.channel = "combine"
+ITEM.channel = "union"

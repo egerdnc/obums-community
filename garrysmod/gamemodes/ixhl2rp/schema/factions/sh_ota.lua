@@ -7,6 +7,10 @@ FACTION.models = {"models/combine_soldier.mdl"}
 FACTION.isDefault = false
 FACTION.isGloballyRecognized = true
 FACTION.runSounds = {[0] = "NPC_CombineS.RunFootstepLeft", [1] = "NPC_CombineS.RunFootstepRight"}
+FACTION.channels = {
+	["union"] = true,
+	["overwatch"] = true
+}
 
 function FACTION:OnCharacterCreated(client, character)
 	local inventory = character:GetInventory()

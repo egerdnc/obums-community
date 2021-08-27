@@ -15,6 +15,7 @@ function CLASS:OnSet(client)
 		return
 	else
 		inventory:Add("mp7", 1)
+		inventory:Add("division", 1)
 	end
 end
 
