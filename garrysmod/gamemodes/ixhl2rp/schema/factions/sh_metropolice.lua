@@ -6,8 +6,7 @@ FACTION.isDefault = false
 FACTION.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
 
 FACTION.channels = {
-	["union"] = true,
-	["delegate"] = true
+	["union"] = true
 }
 FACTION.canSeeWaypoints = true
 FACTION.canAddWaypoints = true
