@@ -24,3 +24,5 @@ garrysmod/data/serverguard/logs/
 garrysmod/data/ulx_logs/
 garrysmod/data/helix/logs/
 *.cache
+HL2RP.bat
+srcds.exe
