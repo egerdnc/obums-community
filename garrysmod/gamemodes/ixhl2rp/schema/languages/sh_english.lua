@@ -37,13 +37,13 @@ LANGUAGE = {
 	cCitizenLoaded = "Rebuilding citizen manifest...",
 	cCombineLoaded = "Updating biosignal co-ordinates...",
 	cLostBiosignal = "Downloading lost biosignal...",
-	cLostBiosignalLocation = "WARNING! Biosignal lost for protection team unit at %s...",
-	cTrauma = "WARNING! %s trauma detected...",
-	cDroppingVitals = "WARNING! VITAL SIGNS DROPPING, SEEK IMMEDIATE MEDICAL ATTENTION",
+	cLostBiosignalLocation = "WARNING: Biosignal lost for protection team unit at %s...",
+	cTrauma = "WARNING: LOCAL UNIT REQUIRES MEDICAL ATTENTION!",
+	cDroppingVitals = "WARNING: VITAL SIGNS DROPPING, SEEK IMMEDIATE MEDICAL ATTENTION",
 	cStaminaLost = "ATTENTION: Excessive user exertion, administering stimulant...",
 	cStaminaGained = "STIMULANT ADMINISTERED",
 	cLosingContact = "Downloading lost radio contact information...",
-	cLostContact = "WARNING! Radio contact lost for unit at unknown location...",
+	cLostContact = "WARNING: Radio contact lost for unit at unknown location...",
 
 	voices = "Voices"
 }
