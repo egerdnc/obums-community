@@ -118,17 +118,17 @@ ix.config.Add("walkRatio", 0.5, "How fast one goes when holding ALT.", nil, {
 ix.config.Add("intro", true, "Whether or not the Helix intro is enabled for new players.", nil, {
 	category = "appearance"
 })
-ix.config.Add("music", "music/hl2_song2.mp3", "The default music played in the character menu.", nil, {
+ix.config.Add("music", "obums/NamTran - RustBelt.wav", "The default music played in the character menu.", nil, {
 	category = "appearance"
 })
-ix.config.Add("communityURL", "https://nebulous.cloud/", "The URL to navigate to when the community button is clicked.", nil, {
+ix.config.Add("communityURL", "https://obumscommunity.mistforums.com/", "The URL to navigate to when the community button is clicked.", nil, {
 	category = "appearance"
 })
 ix.config.Add("communityText", "@community",
 	"The text to display on the community button. You can use language phrases by prefixing with @", nil, {
 	category = "appearance"
 })
-ix.config.Add("vignette", true, "Whether or not the vignette is shown.", nil, {
+ix.config.Add("vignette", false, "Whether or not the vignette is shown.", nil, {
 	category = "appearance"
 })
 ix.config.Add("scoreboardRecognition", false, "Whether or not recognition is used in the scoreboard.", nil, {
@@ -138,7 +138,7 @@ ix.config.Add("defaultMoney", 0, "The amount of money that players start with.",
 	category = "characters",
 	data = {min = 0, max = 1000}
 })
-ix.config.Add("allowVoice", false, "Whether or not voice chat is allowed.", function(oldValue, newValue)
+ix.config.Add("allowVoice", true, "Whether or not voice chat is allowed.", function(oldValue, newValue)
 	if (SERVER) then
 		hook.Run("VoiceToggled", newValue)
 	end

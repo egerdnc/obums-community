@@ -3187,3 +3187,9 @@
 [12:43:08]	C02.UNION-i4-7499 entered observer.
 [12:43:09]	C02.UNION-i4-7499 exited observer at their location.
 [12:43:34]	Hamood (STEAM_0:0:420247449) has disconnected.
+[17:20:24]	The Apex Typhon has connected.
+[17:20:48]	The Apex Typhon loaded the character 'John Butler'
+[17:22:58]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[17:24:22]	The Apex Typhon has connected.
+[17:24:37]	The Apex Typhon loaded the character 'John Butler'
+[17:28:17]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.

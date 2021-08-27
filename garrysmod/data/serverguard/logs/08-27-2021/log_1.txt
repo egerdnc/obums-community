@@ -809,3 +809,9 @@
 [Fri Aug 27 12:12:40 2021] <STEAM_0:0:420247449> C02.UNION-i4-7499: /doorsetownable
 [Fri Aug 27 12:12:44 2021] <STEAM_0:0:420247449> C02.UNION-i4-7499: /doorsetownable
 [Fri Aug 27 12:43:34 2021] Player "C02.UNION-i4-7499" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 17:20:08 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 17:20:25 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 17:22:58 2021] Player "John Butler" <STEAM_0:1:74180635> has left the server
+[Fri Aug 27 17:24:12 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 17:24:22 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 17:28:18 2021] Player "John Butler" <STEAM_0:1:74180635> has left the server
