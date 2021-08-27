@@ -478,7 +478,7 @@ function GM:PlayerLoadout(client)
 		client:SetupHands()
 		-- Set their player model to the character's model.
 		client:SetModel(character:GetModel())
-		client:Give("ix_hands")
+		--client:Give("ix_hands")
 		client:Give("ix_keys")
 		client:Give("weapon_physgun")
 		client:Give("gmod_tool")
@@ -528,7 +528,7 @@ function GM:PlayerLoadout(client)
 
 		hook.Run("PostPlayerLoadout", client)
 
-		client:SelectWeapon("ix_hands")
+		client:SelectWeapon("ix_keys")
 	else
 		client:SetNoDraw(true)
 		client:Lock()
