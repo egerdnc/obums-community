@@ -57,7 +57,7 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-3.201, 0, 1.759)
+SWEP.IronsightsPos = Vector(-3.15, 0, 1.4)
 SWEP.IronsightsAng = Angle(0.703, 0, 0)
 SWEP.IronsightsFOV = 0.5
 SWEP.IronsightsSensitivity = 0.1
@@ -69,7 +69,7 @@ SWEP.Attachments = {
 		Cosmetic = {
 			Model = "models/weapons/tfa_ins2/upgrades/w_scope_m40.mdl",
 			Bone = "b_root",
-			Pos = Vector(-0.82, -3.636, -0.7),
+			Pos = Vector(-3.6, 9, -4.12),
 			Ang = Angle(0, -90, 0),
 			Scale = 0.5,
 			Skin = 0

@@ -19,7 +19,7 @@ SWEP.SlotPos = 2
 SWEP.CSMuzzleFlashes = false
 
 SWEP.Primary.Sound = Sound("Weapon_MP5K.Single")
-SWEP.Primary.Recoil = 0.15 -- base recoil value, SWEP.Spread mods can change this
+SWEP.Primary.Recoil = 0.35 -- base recoil value, SWEP.Spread mods can change this
 SWEP.Primary.Damage = 7
 SWEP.Primary.PenetrationScale = 0
 SWEP.Primary.NumShots = 1
@@ -48,7 +48,7 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronsightsPos = Vector(-0.08, 0, -4.35)
+SWEP.IronsightsPos = Vector(-3, 0, 0.65)
 SWEP.IronsightsAng = Angle(0.703, 0, 0)
 SWEP.IronsightsFOV = 0.75
 SWEP.IronsightsSensitivity = 0.8

@@ -847,3 +847,17 @@
 [Fri Aug 27 22:16:11 2021] Player "C02.UNION-i4-5849" <STEAM_0:1:74180635> has left the server
 [Fri Aug 27 22:19:47 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
 [Fri Aug 27 22:20:03 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 22:26:01 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [154][item_ammo_smg1_large]"
+[Fri Aug 27 22:26:02 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [155][item_ammo_smg1_large]"
+[Fri Aug 27 22:29:25 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [155][ls_csniperscope]"
+[Fri Aug 27 22:29:26 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [156][ls_m24scope]"
+[Fri Aug 27 22:32:50 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [156][ls_csniperscope]"
+[Fri Aug 27 22:33:08 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [157][ls_oicwscope]"
+[Fri Aug 27 22:34:26 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned npc "NPC [157][npc_citizen]"
+[Fri Aug 27 22:35:08 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849: /plytransfer cp citizen
+[Fri Aug 27 22:35:27 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849: /plytransfer c0 Citizen
+[Fri Aug 27 22:35:53 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849: /charsetmodel c0 models/player/zelpa/male_09.mdl
+[Fri Aug 27 22:36:00 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849: /charsetname c02 John
+[Fri Aug 27 22:36:58 2021] <STEAM_0:1:74180635> John spawned ragdoll "Entity [158][prop_ragdoll] (models/player/zelpa/male_09.mdl)"
+[Fri Aug 27 22:37:54 2021] <STEAM_0:1:74180635> John spawned ragdoll "Entity [158][prop_ragdoll] (models/player/zelpa/male_09.mdl)"
+[Fri Aug 27 22:38:13 2021] <STEAM_0:1:74180635> John: models/player/zelpa/male_09.mdl

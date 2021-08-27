@@ -3251,3 +3251,43 @@
 [22:16:09]	C02.UNION-i4-5849 exited observer at their location.
 [22:16:11]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
 [22:20:03]	The Apex Typhon has connected.
+[22:20:58]	The Apex Typhon loaded the character 'C02.UNION-i4-5849'
+[22:21:02]	C02.UNION-i4-5849 entered observer.
+[22:21:05]	C02.UNION-i4-5849 exited observer at their location.
+[22:26:01]	C02.UNION-i4-5849 has spawned a 'Entity [154][item_ammo_smg1_large]'.
+[22:26:02]	C02.UNION-i4-5849 has spawned a 'Entity [155][item_ammo_smg1_large]'.
+[22:29:24]	C02.UNION-i4-5849 has spawned a 'Entity [155][ls_csniperscope]'.
+[22:29:26]	C02.UNION-i4-5849 has spawned a 'Entity [156][ls_m24scope]'.
+[22:30:26]	C02.UNION-i4-5849 entered observer.
+[22:30:28]	C02.UNION-i4-5849 exited observer at their location.
+[22:32:30]	C02.UNION-i4-5849 entered observer.
+[22:32:35]	C02.UNION-i4-5849 exited observer at their location.
+[22:32:50]	C02.UNION-i4-5849 has spawned a 'Entity [156][ls_csniperscope]'.
+[22:33:08]	C02.UNION-i4-5849 has spawned a 'Entity [157][ls_oicwscope]'.
+[22:34:26]	C02.UNION-i4-5849 has spawned a 'NPC [157][npc_citizen]'.
+[22:34:27]	C02.UNION-i4-5849 entered observer.
+[22:34:28]	C02.UNION-i4-5849 exited observer at their location.
+[22:34:32]	C02.UNION-i4-5849 entered observer.
+[22:34:33]	C02.UNION-i4-5849 exited observer at their location.
+[22:34:57]	C02.UNION-i4-5849 entered observer.
+[22:34:58]	C02.UNION-i4-5849 exited observer at their location.
+[22:35:08]	C02.UNION-i4-5849 entered observer.
+[22:35:09]	C02.UNION-i4-5849 exited observer at their location.
+[22:35:27]	C02.UNION-i4-5849 used command '/PlyTransfer c0 Citizen'.
+[22:35:53]	C02.UNION-i4-5849 used command '/CharSetModel c0 models/player/zelpa/male_09.mdl'.
+[22:36:00]	John used command '/CharSetName c02 John'.
+[22:36:58]	John has spawned 'models/player/zelpa/male_09.mdl'.
+[22:37:06]	John entered observer.
+[22:37:07]	John exited observer at their location.
+[22:37:54]	John has spawned 'models/player/zelpa/male_09.mdl'.
+[22:38:13]	John entered observer.
+[22:38:18]	John exited observer at their location.
+[22:38:19]	John entered observer.
+[22:38:19]	John exited observer at their location.
+[22:38:20]	John entered observer.
+[22:38:20]	John exited observer at their location.
+[22:38:28]	John entered observer.
+[22:38:31]	John exited observer at their location.
+[22:39:28]	John entered observer.
+[22:39:29]	John exited observer at their location.
+[22:39:30]	John entered observer.
