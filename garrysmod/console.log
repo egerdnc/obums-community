@@ -205,7 +205,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. fn - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/ulib/shared/hook.lua:109
 
-[02:22][ServerGuard] [mysql] Connected to the database!
+[03:57][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -216,125 +216,103 @@ Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0827017.log
-L 08/27/2021 - 02:22:06: Log file started (file "logs\L0827017.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0827026.log
+L 08/27/2021 - 03:57:29: Log file started (file "logs\L0827026.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Writing cfg/banned_user.cfg.
-[02:22][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[03:57][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
 duplicate column name: member
 [LOG] Hamood has connected.
 Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'Dex Mcgugget'
-Hamood<STEAM_0:0:420247449> changed their name to Dex Mcgugget
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 2 damage from worldspawn.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'Entity [115][ix_scanner]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
-Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned a 'Entity [115][ix_scanner]'.
-ServerLog: [ULX] Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
-Dex Mcgugget<STEAM_0:0:420247449> spawned sent ix_scanner
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has taken 100 damage from prop_physics.
-[LOG] prop_physics has killed Dex Mcgugget.
-[LOG] Dex Mcgugget has gained 5 Tokens.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Hamood loaded the character 'C02.UNION-i4-2412'
+Hamood<STEAM_0:0:420247449> changed their name to C02.UNION-i4-2412
+THATS A TEST
+[LOG] C02.UNION-i4-9617 used command '/PlyTransfer 2412 metropolice'.
+C02.UNION-i4-2412<STEAM_0:0:420247449> changed their name to C02.UNION-i4-9617
+[LOG] C02.UNION-i4-9617 entered observer.
+[LOG] C02.UNION-i4-9617 exited observer at their location.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:44: 'end' expected (to close 'function' at line 33) near 'else'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:44: 'end' expected (to close 'function' at line 33) near 'else'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:44: 'end' expected (to close 'function' at line 33) near 'else'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:44: 'end' expected (to close 'function' at line 33) near 'else'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+true
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+[LOG] C02.UNION-i4-9617 used command '/Apply'.
+[LOG] C02.UNION-i4-9617 used command '/PlyTransfer 9617 citizen'.
+false
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.
+false
+[LOG] C02.UNION-i4-9617 used command '/Doorkick'.

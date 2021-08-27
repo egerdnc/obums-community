@@ -4567,3 +4567,432 @@ Hamood|2|STEAM_0:0:420247449
 Refusing to load ix_money because it is missing Type and Base keys!
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\items\weapons\sh_butcher.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\items\sh_humanflesh.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:327
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\butchering.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\doorkick\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\items\pacoutfit\sh_mask.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\items\pacoutfit\sh_mask.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\items\pacoutfit\sh_mask.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\items\pacoutfit\sh_mask.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\items\pacoutfit\sh_mask.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\items\pacoutfit\sh_mask.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_item.lua (line 254))
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\hiddenmask\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:30: 'then' expected near 'if'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:21: '(' expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:52: unexpected symbol near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:41: unexpected symbol near ')'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|3|STEAM_0:0:420247449
+attempted to add config with invalid type
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:35: '=' expected near 'entity'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:44: 'end' expected (to close 'function' at line 33) near 'else'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/doorkick/sh_plugin.lua:44: 'end' expected (to close 'function' at line 33) near 'else'
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

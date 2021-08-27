@@ -15,14 +15,14 @@ function FACTION:OnCharacterCreated(client, character)
 end
 
 function FACTION:GetDefaultName(client)
-	return "C02.UNION-i4-" .. Schema:ZeroNumber(math.random(1, 9999), 4), true
+	return "C02.UNION-i4-" .. Schema:ZeroNumber(math.random(999, 9999), 4), true
 end
 
-function FACTION:OnTransfered(client)
-	local character = client:GetCharacter()
+function FACTION:OnTransferred(character)
 
 	character:SetName(self:GetDefaultName())
 	character:SetModel(self.models[1])
+	print("THATS A TEST")
 end
 
 function FACTION:OnNameChanged(client, oldValue, value)

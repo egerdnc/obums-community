@@ -30,7 +30,7 @@ serverguard.ranks:AddRank("user", "Guest", 0, Color(100, 150, 245, 255), "icon16
 		["Wheels"] = 10,
 	},
 	
-	phys_color = Color(77, 255, 255)
+	phys_color = Color(0, 204, 255)
 });
 
 --
@@ -116,7 +116,7 @@ serverguard.ranks:AddRank("admin", "Administrator", 20, Color(117, 0, 211), "ico
 		["Wheels"] = 25,
 	},
 	
-	phys_color = Color(77, 255, 255)
+	phys_color = Color(0, 249, 185)
 });
 
 serverguard.ranks:AddRank("superadmin", "Super Administrator", 25, Color(0, 150, 0), "icon16/award_star_silver_1.png", {
@@ -200,8 +200,8 @@ serverguard.ranks:AddRank("superadmin", "Super Administrator", 25, Color(0, 150,
 		["Wheels"] = 50,
 	},
 	
-	phys_color = Color(77, 255, 255)
+	phys_color = Color(0, 65, 196)
 });
 
 -- The founder rank is automatically granted all permissions, so no data needs to be set here.
-serverguard.ranks:AddRank("founder", "Founder", 99, Color(240, 0, 0), "icon16/award_star_gold_1.png");
+serverguard.ranks:AddRank("founder", "Founder", 99, Color(240, 0, 0), "icon16/award_star_gold_1.png", {phys_color = Color(243, 20, 75)});

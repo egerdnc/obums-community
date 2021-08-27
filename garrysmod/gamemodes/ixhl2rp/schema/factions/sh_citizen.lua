@@ -15,7 +15,7 @@ FACTION.models = {
 	"models/player/zelpa/male_09.mdl",
 	"models/player/zelpa/male_10.mdl",
 	"models/player/zelpa/male_11.mdl",
-	-- ## MALE MODELS ## --
+	-- ## MALE MODELS ^^ ## --
 	"models/player/zelpa/female_01.mdl",
 	"models/player/zelpa/female_02.mdl",
 	"models/player/zelpa/female_03.mdl",
@@ -40,23 +40,19 @@ function FACTION:OnCharacterCreated(client, character)
 	})
 end
 
--- function FACTION:OnTransfered(character)
--- 	initCitizen(character)
--- end
+function FACTION:OnSpawn(client)
+	local character = client:GetCharacter()
 
--- function FACTION:OnSpawn(client)
--- 	local character = client:GetCharacter()
+	--initCitizen(character)
+end
 
--- 	initCitizen(character)
--- end
+function FACTION:OnTransferred(character)
+	local src = character
+end
 
--- function FACTION:OnTransferred(character)
--- 	initCitizen(character)
--- end
-
--- function initCitizen(char)
--- 	local model = char:getData("citizen-model", nil)
--- 	char:SetModel(model)
+-- function initCitizen(character)
+-- 	local model = character:getData("skin", nil)
+-- 	character:SetModel(model)
 -- end
 
 FACTION_CITIZEN = FACTION.index
