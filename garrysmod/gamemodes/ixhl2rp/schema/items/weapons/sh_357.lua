@@ -4,6 +4,7 @@ ITEM.model = "models/weapons/w_357.mdl"
 ITEM.class = "ls_357"
 ITEM.weaponCategory = "sidearm"
 ITEM.width = 2
+ITEM.weight = 3
 ITEM.height = 1
 ITEM.iconCam = {
 	ang	= Angle(-17.581502914429, 250.7974395752, 0),

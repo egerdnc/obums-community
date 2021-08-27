@@ -1,5 +1,6 @@
 
 ITEM.name = "Breen's Water"
+ITEM.weight = 0.1
 ITEM.model = Model("models/props_junk/popcan01a.mdl")
 ITEM.description = "A blue aluminium can of plain water."
 ITEM.category = "Consumables"

@@ -5,6 +5,7 @@ ITEM.class = "ls_astunstick"
 ITEM.weaponCategory = "melee"
 ITEM.flag = "v"
 ITEM.width = 1
+ITEM.weight = 1.5
 ITEM.height = 3
 ITEM.iconCam = {
 	ang	= Angle(-0.23955784738064, 0, 0),

@@ -6,6 +6,7 @@ ITEM.weaponCategory = "sidearm"
 ITEM.classes = {CLASS_EMP, CLASS_EOW}
 ITEM.flag = "V"
 ITEM.width = 2
+ITEM.weight = 1.5
 ITEM.height = 1
 ITEM.iconCam = {
 	ang	= Angle(0.33879372477531, 270.15808105469, 0),

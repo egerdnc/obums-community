@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in....
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -32,6 +32,7 @@ Processing addon 1: Ultimate Workshop Downloader (2214712098)...
 WS: Finished!
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\advanced-duplicator-2'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\aml'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\autoicons'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\combine soldier vests'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\enhanced-citizens-v4'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longsword'
@@ -43,10 +44,7 @@ Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard-content
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\sside-content'
 Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\uu-branded-prop-pack'
 Changing gamemode to HL2 RP (ixhl2rp)
-WARNING: Port 27015 was unavailable - bound to port 27016 instead
-WARNING: Port 27005 was unavailable - bound to port 27006 instead
-WARNING: Port 27020 was unavailable - bound to port 27021 instead
-Network: IP 192.168.1.2, mode MP, dedicated Yes, ports 27016 SV / 27006 CL
+Network: IP 192.168.1.2, mode MP, dedicated Yes, ports 27015 SV / 27005 CL
 Error loading cfg/trusted_keys_base.txt
 Error loading cfg/pure_server_minimal.txt
 Extracting BSP to map.pack in order to mount BSP embedded content...
@@ -97,10 +95,6 @@ permaprops/sv_sql.lua
 permaprops/cl_drawent.lua
 permaprops/cl_menu.lua
 -------------------------------
-Error! Flag "$nocull" is multiply defined in material "combine_sniper/metal_steel"!
-Error! Flag "$nocull" is multiply defined in material "combine_sniper/rubber"!
-Error! Flag "$nocull" is multiply defined in material "combine_sniper/bolt"!
-Error! Flag "$nocull" is multiply defined in material "combine_sniper/bolt_metal"!
 KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse.vmt
 (*VertexLitGeneric*), 
 KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse.vmt
@@ -125,7 +119,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[00:21][ServerGuard] [mysql] Connected to the database!
+[02:51][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -138,28 +132,18 @@ Attempted to create unknown entity type ix_citizenterminal!
 Attempted to create unknown entity type ix_cpterminal!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0828002.log
-L 08/28/2021 - 00:21:07: Log file started (file "logs\L0828002.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0828019.log
+L 08/28/2021 - 02:51:57: Log file started (file "logs\L0828019.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Model missing: models/sal/halloween/ninja.mdl
-[00:21][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27005).
+[02:52][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
 duplicate column name: member
 Attempted to create unknown entity type ix_citizenterminal!
 Attempted to create unknown entity type ix_cpterminal!
 [LOG] Hamood has connected.
-Loaded (45) for Hamood
-[DOWNLOADER ]Failed to send track data: unsuccessful
-[LOG] Hamood loaded the character 'C02.UNION-i4-7499'
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
+Loaded (47) for Hamood

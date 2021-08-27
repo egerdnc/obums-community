@@ -4,6 +4,7 @@ ITEM.model = "models/weapons/w_smg1.mdl"
 ITEM.class = "ls_mp7"
 ITEM.weaponCategory = "primary"
 ITEM.width = 3
+ITEM.weight = 2.5
 ITEM.height = 2
 ITEM.iconCam = {
 	ang	= Angle(-0.020070368424058, 270.40155029297, 0),

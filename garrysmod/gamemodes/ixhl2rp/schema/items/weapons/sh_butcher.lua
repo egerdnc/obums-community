@@ -5,6 +5,7 @@ ITEM.class = "weapon_crowbar"
 ITEM.weaponCategory = "melee"
 ITEM.flag = "v"
 ITEM.width = 2
+ITEM.weight = 2.5
 ITEM.height = 1
 ITEM.iconCam = {
 	ang	= Angle(-0.23955784738064, 270.44906616211, 0),
