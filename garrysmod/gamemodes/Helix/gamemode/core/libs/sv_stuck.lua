@@ -10,6 +10,7 @@ if (SERVER) then
             and point ~= CONTENTS_LADDER
             and point ~= CONTENTS_PLAYERCLIP
             and point ~= CONTENTS_MONSTERCLIP
+        if not a then return false end
 
         local b = true
 

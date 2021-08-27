@@ -1,4 +1,0 @@
-
-LANGUAGE = {
-	paper = "Paper"
-}

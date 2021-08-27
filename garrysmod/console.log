@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in.....
+WS: Waiting for Steam to log us in......
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -121,7 +121,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[07:13][ServerGuard] [mysql] Connected to the database!
+[07:49][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -132,12 +132,12 @@ Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0827039.log
-L 08/27/2021 - 07:13:29: Log file started (file "logs\L0827039.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0827048.log
+L 08/27/2021 - 07:49:18: Log file started (file "logs\L0827048.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
-[07:13][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[07:49][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
@@ -145,162 +145,6 @@ duplicate column name: member
 [LOG] Hamood has connected.
 Loaded (45) for Hamood
 [LOG] Hamood loaded the character 'C02.UNION-i4-3740'
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-
-[ERROR] gamemodes/ixhl2rp/plugins/combinedisplay/meta/sv_player.lua:12: bad argument #1 to 'WriteUInt' (number expected, got string)
-  1. WriteUInt - [C]:-1
-   2. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/meta/sv_player.lua:12
-    3. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:194
-     4. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:486
-
-
-[ERROR] Warning! A net message (CombineDisplayMessage) is already started! Discarding in favor of the new message! (ixLogStream)
-  1. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:114
-   2. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
-    3. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
-     4. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
-      5. Call - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:367
-       6. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
-        7. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
-         8. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
-          9. v - gamemodes/helix/plugins/observer.lua:186
-           10. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
-            11. v - gamemodes/helix/plugins/observer.lua:151
-             12. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
-
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-
-[ERROR] gamemodes/ixhl2rp/plugins/combinedisplay/meta/sv_player.lua:12: bad argument #1 to 'WriteUInt' (number expected, got string)
-  1. WriteUInt - [C]:-1
-   2. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/meta/sv_player.lua:12
-    3. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:194
-     4. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:486
-
-
-[ERROR] Warning! A net message (CombineDisplayMessage) is already started! Discarding in favor of the new message! (ixLogStream)
-  1. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:114
-   2. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
-    3. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
-     4. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
-      5. Call - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:367
-       6. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
-        7. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
-         8. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
-          9. v - gamemodes/helix/plugins/observer.lua:186
-           10. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
-            11. v - gamemodes/helix/plugins/observer.lua:151
-             12. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
-
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-Unknown command "asd"
-Unknown command "asd"
-Unknown command "sad"
-
-[ERROR] gamemodes/ixhl2rp/plugins/combinedisplay/meta/sv_player.lua:12: bad argument #1 to 'WriteUInt' (number expected, got string)
-  1. WriteUInt - [C]:-1
-   2. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/meta/sv_player.lua:12
-    3. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:194
-     4. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:486
-
-
-[ERROR] Warning! A net message (CombineDisplayMessage) is already started! Discarding in favor of the new message! (ixTypeClass)
-  1. func - gamemodes/helix/plugins/typing.lua:231
-   2. unknown - lua/includes/extensions/net.lua:32
-
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 has taken 45 damage from worldspawn.
-
-[ERROR] gamemodes/ixhl2rp/plugins/combinedisplay/sv_plugin.lua:28: bad argument #1 to 'WriteUInt' (number expected, got string)
-  1. WriteUInt - [C]:-1
-   2. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/sv_plugin.lua:28
-    3. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/libs/sh_combinedisplay.lua:6
-     4. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:143
-      5. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:486
-
-
-[ERROR] Warning! A net message (CombineDisplayMessage) is already started! Discarding in favor of the new message! (PlayerSelectWeapon)
-  1. unknown - gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:313
-
-
-[ERROR] gamemodes/helix/plugins/xp/sv_hooks.lua:107: attempt to index global 'client' (a nil value)
-  1. v - gamemodes/helix/plugins/xp/sv_hooks.lua:107
-   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
-
-Dropped Hamood from server (Disconnect by user.)
-[07:20][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27006).
-[LOG] Hamood has connected.
-Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'C02.UNION-i4-3740'
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 has taken 2 damage from worldspawn.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 has taken 54 damage from worldspawn.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 has taken 59 damage from worldspawn.
-
-[ERROR] gamemodes/ixhl2rp/plugins/combinedisplay/sv_plugin.lua:28: bad argument #1 to 'WriteUInt' (number expected, got string)
-  1. WriteUInt - [C]:-1
-   2. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/sv_plugin.lua:28
-    3. AddCombineDisplayMessage - gamemodes/ixhl2rp/plugins/combinedisplay/libs/sh_combinedisplay.lua:6
-     4. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:143
-      5. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:486
-
-
-[ERROR] Warning! A net message (CombineDisplayMessage) is already started! Discarding in favor of the new message! (PlayerSelectWeapon)
-  1. unknown - gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:313
-
-[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
-Dropped Hamood from server (Disconnect by user.)
+[LOG] C02.UNION-i4-3740 has used the Item Menu to spawn a Paper (paper) at 2229.071777 4091.461914 557.245239
+[LOG] C02.UNION-i4-3740 ran 'use' on item 'Paper' (#159)
+[LOG] C02.UNION-i4-3740 ran 'use' on item 'Paper' (#159)
