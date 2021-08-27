@@ -26,3 +26,6 @@ garrysmod/data/helix/logs/
 *.cache
 HL2RP.bat
 srcds.exe
+*.bsp
+garrysmod/map.pack
+srcds.exe.lnk
