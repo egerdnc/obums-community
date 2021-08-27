@@ -6258,3 +6258,31 @@ The Apex Typhon|2|STEAM_0:1:74180635
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/stackable_items/items/stackablemisc/sh_test_stack.lua:7: '=' expected near 'ITEM'
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:254
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:164
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:322
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_inventory.lua:52: 'then' expected near 'elseif'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
