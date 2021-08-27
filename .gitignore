@@ -28,4 +28,5 @@ HL2RP.bat
 srcds.exe
 *.bsp
 garrysmod/map.pack
+garrysmod/sv.db
 srcds.exe.lnk
