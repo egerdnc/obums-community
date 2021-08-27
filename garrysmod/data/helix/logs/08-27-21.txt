@@ -3291,3 +3291,35 @@
 [22:39:28]	John entered observer.
 [22:39:29]	John exited observer at their location.
 [22:39:30]	John entered observer.
+[22:40:44]	John exited observer at their location.
+[22:40:50]	John entered observer.
+[22:40:51]	John exited observer at their location.
+[22:40:51]	John entered observer.
+[22:41:04]	John has spawned a 'NPC [159][npc_citizen]'.
+[22:41:06]	John exited observer at their location.
+[22:41:20]	John entered observer.
+[22:41:30]	John exited observer at their location.
+[22:43:18]	John entered observer.
+[22:43:20]	John exited observer at their location.
+[22:43:20]	John entered observer.
+[22:43:21]	John exited observer at their location.
+[22:43:21]	John entered observer.
+[22:43:21]	John exited observer at their location.
+[22:43:22]	John entered observer.
+[22:43:27]	John exited observer at their location.
+[22:43:37]	John entered observer.
+[22:43:49]	John exited observer at their location.
+[22:44:54]	John has spawned a 'NPC [159][npc_citizen]'.
+[22:44:58]	John entered observer.
+[22:44:59]	John exited observer at their location.
+[22:45:13]	John has spawned a 'NPC [159][npc_citizen]'.
+[22:45:40]	John entered observer.
+[22:45:54]	John exited observer at their location.
+[22:45:55]	John entered observer.
+[22:46:05]	John exited observer at their location.
+[22:46:20]	John entered observer.
+[22:46:29]	John exited observer at their location.
+[22:46:39]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[22:48:39]	The Apex Typhon has connected.
+[22:48:59]	The Apex Typhon loaded the character 'John'
+[22:49:19]	John has spawned a 'Entity [154][ls_m24scope]'.

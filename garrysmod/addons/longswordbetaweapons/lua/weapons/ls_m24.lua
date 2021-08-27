@@ -53,11 +53,11 @@ SWEP.Spread.IronsightsMod = 0.06 -- multiply
 SWEP.Spread.CrouchMod = 0.2 -- crouch effect (multiply)
 SWEP.Spread.AirMod = 1.2 -- how does if the player is in the air effect spread (multiply)
 SWEP.Spread.RecoilMod = 0.04 -- how does the recoil effect the spread (sustained fire) (additional)
-SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
+SWEP.Spread.VelocityMod = 1.5 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronsightsPos = Vector(-3.15, 0, 1.4)
+SWEP.IronsightsPos = Vector(-3.155, 0, 1.792)
 SWEP.IronsightsAng = Angle(0.703, 0, 0)
 SWEP.IronsightsFOV = 0.5
 SWEP.IronsightsSensitivity = 0.1
@@ -68,8 +68,8 @@ SWEP.Attachments = {
 	m24_scope = {
 		Cosmetic = {
 			Model = "models/weapons/tfa_ins2/upgrades/w_scope_m40.mdl",
-			Bone = "b_root",
-			Pos = Vector(-3.6, 9, -4.12),
+			Bone = "b_wpn",
+			Pos = Vector(-0.44, -8, 0),
 			Ang = Angle(0, -90, 0),
 			Scale = 0.5,
 			Skin = 0

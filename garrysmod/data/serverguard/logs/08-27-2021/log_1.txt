@@ -861,3 +861,10 @@
 [Fri Aug 27 22:36:58 2021] <STEAM_0:1:74180635> John spawned ragdoll "Entity [158][prop_ragdoll] (models/player/zelpa/male_09.mdl)"
 [Fri Aug 27 22:37:54 2021] <STEAM_0:1:74180635> John spawned ragdoll "Entity [158][prop_ragdoll] (models/player/zelpa/male_09.mdl)"
 [Fri Aug 27 22:38:13 2021] <STEAM_0:1:74180635> John: models/player/zelpa/male_09.mdl
+[Fri Aug 27 22:41:04 2021] <STEAM_0:1:74180635> John spawned npc "NPC [159][npc_citizen]"
+[Fri Aug 27 22:44:54 2021] <STEAM_0:1:74180635> John spawned npc "NPC [159][npc_citizen]"
+[Fri Aug 27 22:45:13 2021] <STEAM_0:1:74180635> John spawned npc "NPC [159][npc_citizen]"
+[Fri Aug 27 22:46:39 2021] Player "John" <STEAM_0:1:74180635> has left the server
+[Fri Aug 27 22:48:23 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 22:48:39 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 22:49:19 2021] <STEAM_0:1:74180635> John spawned SENT "Entity [154][ls_m24scope]"
