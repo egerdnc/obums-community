@@ -97,17 +97,12 @@ ix.anim.SetModelClass("models/vortigaunt_slave.mdl", "vort")
 ix.anim.SetModelClass("models/vortigaunt_blue.mdl", "vort")
 ix.anim.SetModelClass("models/vortigaunt_doctor.mdl", "vort")
 
-//Ozaxi's vortigaunt
-ix.anim.SetModelClass("models/vortigaunt_ozaxi.mdl", "vort")
-//Better Vortigaunts addon
-ix.anim.SetModelClass("models/kw/kw_vortigaunt.mdl", "vort")
-ix.anim.SetModelClass("models/kw/vortigaunt_nobgslave.mdl", "vort")
 ALWAYS_RAISED["swep_vortigaunt_sweep"] = true
 ALWAYS_RAISED["swep_vortigaunt_heal"] = true
 local CHAR = ix.meta.character
 function CHAR:IsVortigaunt()
 	local faction = self:GetFaction()
-	return faction == FACTION_VORTIGAUNT or faction == FACTION_ENSLAVEDVORTIGAUNT
+	return faction == FACTION_VORTIGAUNT or faction == FACTION_BIOTIC
 end
 function PLUGIN:GetPlayerPainSound(client)
 	if (client:GetCharacter():IsVortigaunt()) then
