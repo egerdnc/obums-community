@@ -29,10 +29,6 @@ SWEP.Primary.Burst = false
 SWEP.Primary.Cone = 0.02
 SWEP.Primary.Delay = RPM(27)
 
-SWEP.ViewModelBoneMods = {
-	["body"] = { scale = Vector(1, 1, 1), pos = Vector(-5.37, -2.037, 0), angle = Angle(0, 0, 0) }
-}
-
 
 SWEP.Primary.Ammo = "ar2"
 SWEP.Primary.Automatic = false
@@ -66,7 +62,7 @@ SWEP.IronsightsRecoilVisualMultiplier = 1
 SWEP.Attachments = {
 	osr_scope = {
 		Cosmetic = {
-			Model = "models/weapons/c_ar2_nope.mdl",
+			Model = "models/weapons/v_amr11.mdl",
 			Bone = "Base",
 			Pos = Vector(0, 0, 0),
 			Ang = Angle(0, 0, 0),

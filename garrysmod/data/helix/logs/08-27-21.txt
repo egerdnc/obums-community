@@ -3347,3 +3347,217 @@
 [22:58:14]	John exited observer at their location.
 [22:58:14]	John has taken 225 damage from worldspawn.
 [22:58:14]	worldspawn has killed John.
+[23:06:13]	John entered observer.
+[23:06:14]	John exited observer at their location.
+[23:06:15]	John entered observer.
+[23:06:27]	John exited observer at their location.
+[23:06:48]	John entered observer.
+[23:06:52]	John exited observer at their location.
+[23:06:53]	John entered observer.
+[23:07:35]	John exited observer at their location.
+[23:07:35]	John entered observer.
+[23:07:40]	John exited observer at their location.
+[23:08:01]	John entered observer.
+[23:08:12]	John Butler used command '/CharSetName John John Butler'.
+[23:08:13]	John Butler exited observer at their location.
+[23:08:14]	John Butler entered observer.
+[23:08:14]	John Butler exited observer at their location.
+[23:08:15]	John Butler entered observer.
+[23:08:17]	John Butler exited observer at their location.
+[23:08:42]	John Butler entered observer.
+[23:08:43]	John Butler exited observer at their location.
+[23:08:44]	John Butler entered observer.
+[23:09:14]	John Butler exited observer at their location.
+[23:09:14]	John Butler entered observer.
+[23:09:15]	John Butler exited observer at their location.
+[23:09:15]	John Butler entered observer.
+[23:09:15]	John Butler exited observer at their location.
+[23:09:17]	John Butler entered observer.
+[23:09:32]	John Butler exited observer at their location.
+[23:09:32]	John Butler entered observer.
+[23:10:00]	John Butler exited observer at their location.
+[23:10:00]	John Butler entered observer.
+[23:10:27]	John Butler exited observer at their location.
+[23:10:28]	John Butler entered observer.
+[23:11:30]	John Butler exited observer at their location.
+[23:11:30]	John Butler entered observer.
+[23:11:31]	John Butler exited observer at their location.
+[23:11:32]	John Butler entered observer.
+[23:11:52]	John Butler exited observer at their location.
+[23:12:15]	John Butler entered observer.
+[23:12:59]	John Butler exited observer at their location.
+[23:13:02]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[23:33:15]	The Apex Typhon has connected.
+[23:33:30]	The Apex Typhon loaded the character 'John Butler'
+[23:33:57]	John Butler has spawned a 'Entity [158][item_ammo_357_large]'.
+[23:33:58]	John Butler has spawned a 'Entity [159][item_ammo_357_large]'.
+[23:33:58]	John Butler has spawned a 'Entity [194][item_ammo_357_large]'.
+[23:33:58]	John Butler has spawned a 'Entity [200][item_ammo_357_large]'.
+[23:33:58]	John Butler has spawned a 'Entity [260][item_ammo_357_large]'.
+[23:34:03]	John Butler has spawned a 'Entity [158][ls_m24scope]'.
+[23:34:21]	John Butler has spawned a 'Entity [159][item_ammo_357_large]'.
+[23:34:23]	John Butler has spawned a 'Entity [159][item_ammo_smg1_large]'.
+[23:34:23]	John Butler has spawned a 'Entity [194][item_ammo_smg1_large]'.
+[23:35:28]	John Butler has spawned a 'Entity [200][item_ammo_ar2_large]'.
+[23:35:33]	John Butler has spawned a 'Entity [200][ls_oicwscope]'.
+[23:35:38]	John Butler entered observer.
+[23:35:41]	John Butler exited observer at their location.
+[23:36:06]	John Butler has spawned a 'Entity [260][ls_csniperscope]'.
+[23:36:23]	John Butler has spawned a 'NPC [157][npc_citizen]'.
+[23:36:24]	John Butler has spawned a 'NPC [264][npc_citizen]'.
+[23:36:25]	John Butler entered observer.
+[23:36:27]	John Butler exited observer at their location.
+[23:36:46]	John Butler entered observer.
+[23:36:48]	John Butler exited observer at their location.
+[23:36:54]	John Butler entered observer.
+[23:36:56]	John Butler exited observer at their location.
+[23:36:57]	John Butler entered observer.
+[23:37:06]	John Butler exited observer at their location.
+[23:37:10]	John Butler entered observer.
+[23:37:10]	John Butler exited observer at their location.
+[23:37:29]	John Butler has spawned a 'Entity [260][item_box_buckshot]'.
+[23:37:29]	John Butler has spawned a 'Entity [264][item_box_buckshot]'.
+[23:37:29]	John Butler has spawned a 'Entity [266][item_box_buckshot]'.
+[23:37:32]	John Butler has spawned a 'NPC [260][npc_citizen]'.
+[23:37:34]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:37:40]	John Butler has spawned a 'NPC [260][npc_citizen]'.
+[23:38:32]	John Butler entered observer.
+[23:38:38]	John Butler exited observer at their location.
+[23:38:47]	John Butler has spawned a 'Entity [266][item_ammo_pistol]'.
+[23:38:53]	John Butler has spawned a 'Entity [266][item_ammo_pistol_large]'.
+[23:38:54]	John Butler entered observer.
+[23:38:56]	John Butler exited observer at their location.
+[23:38:57]	John Butler entered observer.
+[23:38:59]	John Butler exited observer at their location.
+[23:39:00]	John Butler entered observer.
+[23:39:05]	John Butler exited observer at their location.
+[23:39:27]	John Butler entered observer.
+[23:39:29]	John Butler exited observer at their location.
+[23:40:29]	John Butler entered observer.
+[23:40:35]	John Butler exited observer at their location.
+[23:40:41]	John Butler entered observer.
+[23:40:43]	John Butler exited observer at their location.
+[23:41:04]	John Butler entered observer.
+[23:41:20]	John Butler exited observer at their location.
+[23:41:32]	John Butler entered observer.
+[23:41:32]	John Butler exited observer at their location.
+[23:41:33]	John Butler entered observer.
+[23:41:33]	John Butler exited observer at their location.
+[23:41:34]	John Butler entered observer.
+[23:41:57]	John Butler exited observer at their location.
+[23:41:58]	John Butler entered observer.
+[23:42:08]	John Butler exited observer at their location.
+[23:42:20]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:42:26]	John Butler has spawned a 'NPC [270][npc_citizen]'.
+[23:42:31]	John Butler entered observer.
+[23:42:31]	John Butler exited observer at their location.
+[23:42:33]	John Butler entered observer.
+[23:42:34]	John Butler exited observer at their location.
+[23:42:35]	John Butler entered observer.
+[23:42:40]	John Butler exited observer at their location.
+[23:43:02]	John Butler entered observer.
+[23:43:03]	John Butler exited observer.
+[23:43:06]	John Butler entered observer.
+[23:43:10]	John Butler exited observer.
+[23:43:14]	John Butler entered observer.
+[23:43:16]	John Butler exited observer.
+[23:43:18]	John Butler entered observer.
+[23:43:19]	John Butler exited observer.
+[23:43:19]	John Butler entered observer.
+[23:43:20]	John Butler exited observer.
+[23:43:24]	John Butler entered observer.
+[23:43:24]	John Butler exited observer.
+[23:43:28]	John Butler entered observer.
+[23:43:28]	John Butler exited observer.
+[23:43:34]	John Butler entered observer.
+[23:43:43]	John Butler exited observer.
+[23:43:52]	John Butler entered observer.
+[23:43:52]	John Butler exited observer.
+[23:43:54]	John Butler entered observer.
+[23:43:54]	John Butler exited observer.
+[23:45:05]	John Butler entered observer.
+[23:45:06]	John Butler exited observer.
+[23:45:06]	John Butler entered observer.
+[23:45:07]	John Butler exited observer.
+[23:45:07]	John Butler entered observer.
+[23:45:08]	John Butler exited observer.
+[23:45:08]	John Butler entered observer.
+[23:45:08]	John Butler exited observer.
+[23:45:08]	John Butler entered observer.
+[23:45:09]	John Butler exited observer.
+[23:45:10]	John Butler entered observer.
+[23:45:13]	John Butler exited observer.
+[23:45:16]	John Butler entered observer.
+[23:45:18]	John Butler exited observer.
+[23:45:19]	John Butler entered observer.
+[23:45:20]	John Butler exited observer.
+[23:45:21]	John Butler entered observer.
+[23:45:22]	John Butler exited observer.
+[23:45:28]	John Butler entered observer.
+[23:45:30]	John Butler exited observer.
+[23:45:35]	John Butler entered observer.
+[23:45:35]	John Butler exited observer.
+[23:45:39]	John Butler entered observer.
+[23:45:39]	John Butler exited observer.
+[23:45:44]	John Butler entered observer.
+[23:45:45]	John Butler exited observer.
+[23:45:47]	John Butler entered observer.
+[23:45:47]	John Butler exited observer.
+[23:46:01]	John Butler has spawned a 'NPC [266][npc_citizen]'.
+[23:46:07]	John Butler has spawned a 'NPC [266][npc_citizen]'.
+[23:46:10]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:46:27]	John Butler entered observer.
+[23:46:30]	John Butler exited observer.
+[23:46:34]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:46:40]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:46:41]	John Butler has spawned a 'NPC [270][npc_citizen]'.
+[23:46:42]	John Butler has spawned a 'NPC [269][npc_citizen]'.
+[23:46:45]	John Butler has spawned a 'NPC [270][npc_citizen]'.
+[23:46:47]	John Butler has spawned a 'NPC [268][npc_citizen]'.
+[23:46:54]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:46:56]	John Butler has spawned a 'NPC [268][npc_citizen]'.
+[23:46:57]	John Butler has spawned a 'NPC [271][npc_citizen]'.
+[23:47:02]	John Butler has spawned a 'NPC [268][npc_citizen]'.
+[23:47:02]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:47:06]	John Butler has spawned a 'NPC [267][npc_citizen]'.
+[23:47:08]	John Butler has spawned a 'NPC [271][npc_citizen]'.
+[23:47:17]	John Butler entered observer.
+[23:47:17]	John Butler exited observer.
+[23:47:30]	John Butler entered observer.
+[23:47:31]	John Butler exited observer.
+[23:47:48]	John Butler entered observer.
+[23:47:48]	John Butler exited observer.
+[23:47:49]	John Butler has taken 27 damage from worldspawn.
+[23:47:54]	John Butler entered observer.
+[23:47:54]	John Butler exited observer.
+[23:47:56]	John Butler has taken 24 damage from worldspawn.
+[23:47:58]	John Butler entered observer.
+[23:47:59]	John Butler exited observer.
+[23:48:02]	John Butler entered observer.
+[23:48:02]	John Butler exited observer.
+[23:48:08]	John Butler entered observer.
+[23:48:08]	John Butler exited observer.
+[23:48:11]	John Butler has taken 111 damage from worldspawn.
+[23:48:11]	worldspawn has killed John Butler.
+[23:49:05]	John Butler entered observer.
+[23:49:05]	John Butler exited observer.
+[23:49:07]	John Butler entered observer.
+[23:49:07]	John Butler exited observer.
+[23:49:11]	John Butler entered observer.
+[23:49:11]	John Butler exited observer.
+[23:49:13]	John Butler entered observer.
+[23:49:14]	John Butler exited observer.
+[23:49:15]	John Butler entered observer.
+[23:49:24]	John Butler exited observer.
+[23:49:27]	John Butler entered observer.
+[23:49:28]	John Butler exited observer.
+[23:49:35]	John Butler has spawned 'models/props_debris/metal_panel01a.mdl'.
+[23:49:48]	John Butler has spawned 'models/props_debris/metal_panel01a.mdl'.
+[23:50:02]	John Butler entered observer.
+[23:50:02]	John Butler exited observer.
+[23:50:04]	John Butler entered observer.
+[23:50:05]	John Butler exited observer.
+[23:50:08]	John Butler entered observer.
+[23:50:08]	John Butler exited observer.
+[23:50:10]	John Butler has taken 44 damage from worldspawn.
+[23:50:14]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
