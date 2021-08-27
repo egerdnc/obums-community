@@ -33,14 +33,14 @@
 }
 "STEAM_0:1:74180635"	
 {
+	"name"	"The Apex Typhon"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"name"	"Based Man"
-	"group"	"admin"
+	"group"	"founder"
 }
 "STEAM_0:0:420247449"	
 {

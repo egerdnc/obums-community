@@ -3193,3 +3193,10 @@
 [17:24:22]	The Apex Typhon has connected.
 [17:24:37]	The Apex Typhon loaded the character 'John Butler'
 [17:28:17]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[17:34:24]	The Apex Typhon has connected.
+[17:35:10]	The Apex Typhon loaded the character 'John Butler'
+[17:35:56]	The Apex Typhon (STEAM_0:1:74180635) deleted character 'John Butler'
+[17:36:17]	The Apex Typhon created the character 'John Butler'
+[17:36:17]	John Butler has gained a 'Suitcase' #163.
+[17:36:17]	John Butler has gained a 'Citizen ID' #164.
+[17:36:17]	The Apex Typhon loaded the character 'John Butler'

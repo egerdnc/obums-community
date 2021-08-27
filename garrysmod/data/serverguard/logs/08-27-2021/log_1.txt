@@ -815,3 +815,5 @@
 [Fri Aug 27 17:24:12 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
 [Fri Aug 27 17:24:22 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
 [Fri Aug 27 17:28:18 2021] Player "John Butler" <STEAM_0:1:74180635> has left the server
+[Fri Aug 27 17:34:10 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 17:34:25 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
