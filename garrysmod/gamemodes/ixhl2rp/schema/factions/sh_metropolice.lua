@@ -4,10 +4,16 @@ FACTION.color = Color(50, 100, 150)
 FACTION.models = {"models/dpfilms/metropolice/hdpolice.mdl"}
 FACTION.isDefault = false
 FACTION.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
+
 FACTION.channels = {
 	["union"] = true,
 	["delegate"] = true
 }
+FACTION.canSeeWaypoints = true
+FACTION.canAddWaypoints = true
+FACTION.canRemoveWaypoints = true
+FACTION.canUpdateWaypoints = true
+
 
 function FACTION:OnCharacterCreated(client, character)
 	local inventory = character:GetInventory()
