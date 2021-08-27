@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in.......
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -121,7 +121,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[08:52][ServerGuard] [mysql] Connected to the database!
+[10:29][ServerGuard] [mysql] Connected to the database!
 [AddCSLuaFile] Couldn't find 'helix/plugins/bops/sh_plugin.lua' (@gamemodes/helix/gamemode/core/sh_util.lua (line 51))
 Couldn't include file 'helix\plugins\bops\sh_plugin.lua' (File not found) (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -132,30 +132,1002 @@ Error! Flag "$halflambert" is multiply defined in material "models/bloo_ltcom_ze
 Making workshop map available for client download
 Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
+Attempted to create unknown entity type ix_citizenterminal!
+Attempted to create unknown entity type ix_cpterminal!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0827054.log
-L 08/27/2021 - 08:53:02: Log file started (file "logs\L0827054.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0827057.log
+L 08/27/2021 - 10:29:39: Log file started (file "logs\L0827057.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Model missing: models/sal/halloween/ninja.mdl
-[08:53][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[10:29][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
 duplicate column name: member
-[AddCSLuaFile] Couldn't find 'helix/plugins/bops/sh_plugin.lua' (@gamemodes/helix/gamemode/core/sh_util.lua (line 51))
-Couldn't include file 'helix\plugins\bops\sh_plugin.lua' (File not found) (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
-[AddCSLuaFile] Couldn't find 'helix/plugins/bops/sh_plugin.lua' (@gamemodes/helix/gamemode/core/sh_util.lua (line 51))
-Couldn't include file 'helix\plugins\bops\sh_plugin.lua' (File not found) (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+Attempted to create unknown entity type ix_citizenterminal!
+Attempted to create unknown entity type ix_cpterminal!
 [LOG] Hamood has connected.
 Loaded (45) for Hamood
-[LOG] Hamood (STEAM_0:0:420247449) deleted character 'Dex Mcgugget'
-Created character '45' for Hamood.
-[LOG] Hamood created the character 'ads asd asd'
-[LOG] ads asd asd has gained a 'Suitcase' #161.
-[LOG] ads asd asd has gained a 'Citizen ID' #162.
-[LOG] Hamood loaded the character 'ads asd asd'
-[AddCSLuaFile] Couldn't find 'helix/plugins/bops/sh_plugin.lua' (@gamemodes/helix/gamemode/core/sh_util.lua (line 51))
-Couldn't include file 'helix\plugins\bops\sh_plugin.lua' (File not found) (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+[LOG] Hamood loaded the character 'C02.UNION-i4-7499'
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 148 damage from worldspawn.
+[LOG] worldspawn has killed C02.UNION-i4-7499.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 4 damage from worldspawn.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 63 damage from worldspawn.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 71 damage from worldspawn.
+[LOG] worldspawn has killed C02.UNION-i4-7499.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 7 damage from worldspawn.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 5 damage from worldspawn.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/unstuck'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has spawned a 'NPC [116][npc_gman]'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 used command '/DoorSetOwnable'.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 has taken 30 damage from worldspawn.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] C02.UNION-i4-7499 entered observer.
+[LOG] C02.UNION-i4-7499 exited observer at their location.
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)
