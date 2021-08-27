@@ -1298,3 +1298,85 @@
 [04:07:36]	C02.UNION-i4-9617 used command '/PlyTransfer 9617 citizen'.
 [04:07:38]	C02.UNION-i4-9617 used command '/Doorkick'.
 [04:07:39]	C02.UNION-i4-9617 used command '/Doorkick'.
+[04:15:20]	C02.UNION-i4-9617 entered observer.
+[04:15:22]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:23]	C02.UNION-i4-9617 entered observer.
+[04:15:24]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:24]	C02.UNION-i4-9617 entered observer.
+[04:15:25]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:31]	C02.UNION-i4-9617 entered observer.
+[04:15:31]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:33]	C02.UNION-i4-9617 entered observer.
+[04:15:34]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:36]	C02.UNION-i4-9617 entered observer.
+[04:15:38]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:38]	C02.UNION-i4-9617 entered observer.
+[04:15:42]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:43]	C02.UNION-i4-9617 entered observer.
+[04:15:43]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:44]	C02.UNION-i4-9617 entered observer.
+[04:15:46]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:47]	C02.UNION-i4-9617 entered observer.
+[04:15:48]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:55]	C02.UNION-i4-9617 entered observer.
+[04:15:56]	C02.UNION-i4-9617 exited observer at their location.
+[04:15:59]	C02.UNION-i4-9617 entered observer.
+[04:16:00]	C02.UNION-i4-9617 exited observer at their location.
+[04:16:02]	C02.UNION-i4-9617 entered observer.
+[04:16:02]	C02.UNION-i4-9617 exited observer at their location.
+[04:16:04]	C02.UNION-i4-9617 entered observer.
+[04:16:06]	C02.UNION-i4-9617 exited observer at their location.
+[04:16:14]	C02.UNION-i4-9617 entered observer.
+[04:16:14]	C02.UNION-i4-9617 exited observer at their location.
+[04:16:21]	C02.UNION-i4-9617 entered observer.
+[04:16:22]	C02.UNION-i4-9617 exited observer at their location.
+[04:16:22]	C02.UNION-i4-9617 entered observer.
+[04:16:24]	C02.UNION-i4-9617 exited observer at their location.
+[04:16:44]	C02.UNION-i4-9617 entered observer.
+[04:16:52]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:01]	C02.UNION-i4-9617 entered observer.
+[04:17:03]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:04]	C02.UNION-i4-9617 entered observer.
+[04:17:04]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:05]	C02.UNION-i4-9617 entered observer.
+[04:17:05]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:06]	C02.UNION-i4-9617 entered observer.
+[04:17:06]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:07]	C02.UNION-i4-9617 entered observer.
+[04:17:07]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:07]	C02.UNION-i4-9617 entered observer.
+[04:17:07]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:10]	C02.UNION-i4-9617 entered observer.
+[04:17:10]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:12]	C02.UNION-i4-9617 entered observer.
+[04:17:12]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:13]	C02.UNION-i4-9617 entered observer.
+[04:17:14]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:15]	C02.UNION-i4-9617 entered observer.
+[04:17:19]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:20]	C02.UNION-i4-9617 entered observer.
+[04:17:20]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:21]	C02.UNION-i4-9617 entered observer.
+[04:17:21]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:44]	C02.UNION-i4-9617 entered observer.
+[04:17:45]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:46]	C02.UNION-i4-9617 entered observer.
+[04:17:48]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:50]	C02.UNION-i4-9617 has taken 2 damage from worldspawn.
+[04:17:51]	C02.UNION-i4-9617 entered observer.
+[04:17:52]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:54]	C02.UNION-i4-9617 entered observer.
+[04:17:55]	C02.UNION-i4-9617 exited observer at their location.
+[04:17:57]	C02.UNION-i4-9617 entered observer.
+[04:18:06]	C02.UNION-i4-9617 exited observer at their location.
+[04:18:06]	C02.UNION-i4-9617 entered observer.
+[04:18:07]	C02.UNION-i4-9617 exited observer at their location.
+[04:18:17]	C02.UNION-i4-9617 entered observer.
+[04:18:18]	C02.UNION-i4-9617 exited observer at their location.
+[04:18:18]	C02.UNION-i4-9617 entered observer.
+[04:18:19]	C02.UNION-i4-9617 exited observer at their location.
+[04:18:20]	C02.UNION-i4-9617 entered observer.
+[04:18:20]	C02.UNION-i4-9617 exited observer at their location.
+[04:18:22]	C02.UNION-i4-9617 entered observer.
+[04:18:31]	C02.UNION-i4-9118 used command '/PlyTransfer 9617 metropolice'.
+[04:18:34]	C02.UNION-i4-9118 exited observer at their location.
