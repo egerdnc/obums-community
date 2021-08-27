@@ -138,3 +138,47 @@ L 08/27/2021 - 05:42:25: Log file started (file "logs\L0827033.log") (game "C:\b
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
+[05:43][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+Client "Hamood" connected (192.168.1.2:27006).
+[mysql] SQL Query Error!
+Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
+duplicate column name: member
+[LOG] Hamood has connected.
+Loaded (45) for Hamood
+[LOG] Hamood loaded the character 'C02.UNION-i4-3740'
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 entered observer.
+[LOG] C02.UNION-i4-3740 exited observer at their location.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] C02.UNION-i4-3740 used command '/DoorAddAutolock'.
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)

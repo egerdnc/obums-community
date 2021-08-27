@@ -104,7 +104,7 @@ function PLUGIN:PostPlayerLoadout(client)
 end
 
 function PLUGIN:PlayerDisconnected(pl)
-    local uniqueID = 'xpGain.'..pl:AccountID()
+    local uniqueID = 'xpGain.'..client:AccountID()
     if timer.Exists(uniqueID) then
         timer.Remove(uniqueID)
     end
