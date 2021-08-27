@@ -1655,3 +1655,71 @@
 [07:03:57]	Hamood loaded the character 'C02.UNION-i4-3740'
 [07:04:04]	C02.UNION-i4-3740 entered observer.
 [07:04:05]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:05]	Hamood has connected.
+[07:14:26]	Hamood loaded the character 'C02.UNION-i4-3740'
+[07:14:30]	C02.UNION-i4-3740 entered observer.
+[07:14:31]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:33]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:14:37]	C02.UNION-i4-3740 entered observer.
+[07:14:38]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:39]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:14:40]	C02.UNION-i4-3740 entered observer.
+[07:14:41]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:42]	C02.UNION-i4-3740 entered observer.
+[07:14:45]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:46]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:14:48]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:14:50]	C02.UNION-i4-3740 entered observer.
+[07:14:50]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:51]	C02.UNION-i4-3740 entered observer.
+[07:14:54]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:55]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:14:56]	C02.UNION-i4-3740 entered observer.
+[07:14:57]	C02.UNION-i4-3740 exited observer at their location.
+[07:14:58]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:14:59]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:15:01]	C02.UNION-i4-3740 entered observer.
+[07:15:01]	C02.UNION-i4-3740 exited observer at their location.
+[07:15:02]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:15:43]	C02.UNION-i4-3740 entered observer.
+[07:15:45]	C02.UNION-i4-3740 exited observer at their location.
+[07:15:49]	C02.UNION-i4-3740 entered observer.
+[07:15:50]	C02.UNION-i4-3740 exited observer at their location.
+[07:15:52]	C02.UNION-i4-3740 entered observer.
+[07:15:54]	C02.UNION-i4-3740 exited observer at their location.
+[07:18:22]	C02.UNION-i4-3740 entered observer.
+[07:18:22]	C02.UNION-i4-3740 exited observer at their location.
+[07:18:24]	C02.UNION-i4-3740 has taken 45 damage from worldspawn.
+[07:20:42]	Hamood has connected.
+[07:20:55]	Hamood loaded the character 'C02.UNION-i4-3740'
+[07:21:00]	C02.UNION-i4-3740 entered observer.
+[07:21:00]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:01]	C02.UNION-i4-3740 entered observer.
+[07:21:02]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:03]	C02.UNION-i4-3740 entered observer.
+[07:21:03]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:05]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:06]	C02.UNION-i4-3740 entered observer.
+[07:21:07]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:08]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:08]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:09]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:10]	C02.UNION-i4-3740 entered observer.
+[07:21:11]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:12]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:14]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:14]	C02.UNION-i4-3740 used command '/unstuck'.
+[07:21:15]	C02.UNION-i4-3740 entered observer.
+[07:21:17]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:18]	C02.UNION-i4-3740 entered observer.
+[07:21:19]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:21]	C02.UNION-i4-3740 has taken 2 damage from worldspawn.
+[07:21:23]	C02.UNION-i4-3740 entered observer.
+[07:21:25]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:26]	C02.UNION-i4-3740 entered observer.
+[07:21:29]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:31]	C02.UNION-i4-3740 has taken 54 damage from worldspawn.
+[07:21:31]	C02.UNION-i4-3740 entered observer.
+[07:21:33]	C02.UNION-i4-3740 exited observer at their location.
+[07:21:35]	C02.UNION-i4-3740 has taken 59 damage from worldspawn.
+[07:22:36]	Hamood (STEAM_0:0:420247449) has disconnected.
