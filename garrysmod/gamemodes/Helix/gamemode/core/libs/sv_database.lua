@@ -16,7 +16,7 @@ ix.db = ix.db or {
 ix.db.config = ix.config.server.database or {}
 
 function ix.db.Connect()
-	ix.db.config.adapter = ix.db.config.adapter or "sqlite"
+	ix.db.config.adapter = "sqlite"
 
 	local dbmodule = ix.db.config.adapter
 	local hostname = ix.db.config.hostname

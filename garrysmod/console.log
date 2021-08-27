@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in......
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -121,83 +121,6 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[07:49][ServerGuard] [mysql] Connected to the database!
-material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
-
-material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
-
-Error! Flag "$halflambert" is multiply defined in material "models/bloo_ltcom_zel/citizens/female_hands"!
-Making workshop map available for client download
-Using map cycle file cfg/mapcycle.txt.
-Attempted to create unknown entity type info_ladder!
-Failed to load .nav file: Cannot access!
-Server logging enabled.
-Server logging data to file logs\L0827048.log
-L 08/27/2021 - 07:49:18: Log file started (file "logs\L0827048.log") (game "C:\brock-community\garrysmod") (version "8283")
-'banned_ip.cfg' not present; not executing.
-[mysql] Connected to the database!
-Database Type: sqlite.
-[07:49][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
-Client "Hamood" connected (192.168.1.2:27006).
-[mysql] SQL Query Error!
-Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
-duplicate column name: member
-[LOG] Hamood has connected.
-Loaded (45) for Hamood
-[LOG] Hamood loaded the character 'C02.UNION-i4-3740'
-[LOG] C02.UNION-i4-3740 has used the Item Menu to spawn a Paper (paper) at 2229.071777 4091.461914 557.245239
-[LOG] C02.UNION-i4-3740 ran 'use' on item 'Paper' (#159)
-[LOG] C02.UNION-i4-3740 ran 'use' on item 'Paper' (#159)
-[LOG] C02.UNION-i4-3740 has used the Item Menu to spawn a Mask (mask) at 2018.318237 4004.768555 557.245239
-Model missing: models/sal/halloween/ninja.mdl
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 used command '/unstuck'.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 has taken 30 damage from worldspawn.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
-[LOG] C02.UNION-i4-3740 has taken 47 damage from worldspawn.
-[LOG] C02.UNION-i4-3740 entered observer.
-[LOG] C02.UNION-i4-3740 exited observer at their location.
+[08:29][ServerGuard] [mysql] Connected to the database!
+[AddCSLuaFile] Couldn't find 'helix/plugins/bops/sh_plugin.lua' (@gamemodes/helix/gamemode/core/sh_util.lua (line 51))
+Couldn't include file 'helix\plugins\bops\sh_plugin.lua' (File not found) (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))

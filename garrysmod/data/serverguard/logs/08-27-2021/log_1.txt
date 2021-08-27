@@ -539,3 +539,11 @@
 [Fri Aug 27 07:55:43 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 9
 [Fri Aug 27 07:55:44 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: haha
 [Fri Aug 27 07:55:46 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: bouncer
+[Fri Aug 27 08:20:53 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:21:14 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 08:21:41 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740 spawned SENT "Entity [116][ix_atm]"
+[Fri Aug 27 08:25:54 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 08:26:36 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:26:58 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 08:28:21 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740 spawned SENT "Entity [116][ix_atm]"
+[Fri Aug 27 08:28:42 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server

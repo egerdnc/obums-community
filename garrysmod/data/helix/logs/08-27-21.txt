@@ -1865,3 +1865,17 @@
 [07:56:18]	C02.UNION-i4-3740 has taken 47 damage from worldspawn.
 [07:56:19]	C02.UNION-i4-3740 entered observer.
 [07:56:26]	C02.UNION-i4-3740 exited observer at their location.
+[08:21:14]	Hamood has connected.
+[08:21:27]	Hamood loaded the character 'C02.UNION-i4-3740'
+[08:21:30]	C02.UNION-i4-3740 entered observer.
+[08:21:31]	C02.UNION-i4-3740 exited observer at their location.
+[08:21:32]	C02.UNION-i4-3740 entered observer.
+[08:21:35]	C02.UNION-i4-3740 exited observer at their location.
+[08:21:41]	C02.UNION-i4-3740 has spawned a 'Entity [116][ix_atm]'.
+[08:25:54]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:26:58]	Hamood has connected.
+[08:28:07]	Hamood loaded the character 'C02.UNION-i4-3740'
+[08:28:11]	C02.UNION-i4-3740 entered observer.
+[08:28:15]	C02.UNION-i4-3740 exited observer at their location.
+[08:28:21]	C02.UNION-i4-3740 has spawned a 'Entity [116][ix_atm]'.
+[08:28:42]	Hamood (STEAM_0:0:420247449) has disconnected.
