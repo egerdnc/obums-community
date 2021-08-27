@@ -1,8 +1,6 @@
-
 FACTION.name = "Civil Protection"
 FACTION.description = "Civil Protection units employed by an unkown larger group know as MPF."
 FACTION.color = Color(50, 100, 150)
-FACTION.pay = 10
 FACTION.models = {"models/dpfilms/metropolice/hdpolice.mdl"}
 FACTION.isDefault = false
 FACTION.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
