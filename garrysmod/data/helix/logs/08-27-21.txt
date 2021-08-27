@@ -3237,3 +3237,17 @@
 [22:13:42]	C02.UNION-i4-5849 has spawned a 'Entity [260][ls_m24scope]'.
 [22:13:44]	C02.UNION-i4-5849 has spawned a 'Entity [200][ls_csniperscope]'.
 [22:13:56]	C02.UNION-i4-5849 entered observer.
+[22:14:40]	C02.UNION-i4-5849 exited observer at their location.
+[22:15:20]	C02.UNION-i4-5849 has spawned a 'Entity [200][item_ammo_357_large]'.
+[22:15:20]	C02.UNION-i4-5849 has spawned a 'Entity [260][item_ammo_357_large]'.
+[22:15:20]	C02.UNION-i4-5849 has spawned a 'Entity [264][item_ammo_357_large]'.
+[22:15:57]	C02.UNION-i4-5849 entered observer.
+[22:16:02]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:03]	C02.UNION-i4-5849 entered observer.
+[22:16:03]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:04]	C02.UNION-i4-5849 entered observer.
+[22:16:08]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:08]	C02.UNION-i4-5849 entered observer.
+[22:16:09]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:11]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[22:20:03]	The Apex Typhon has connected.

@@ -841,3 +841,9 @@
 [Fri Aug 27 22:13:40 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][ls_oicwscope]"
 [Fri Aug 27 22:13:42 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [260][ls_m24scope]"
 [Fri Aug 27 22:13:44 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][ls_csniperscope]"
+[Fri Aug 27 22:15:20 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][item_ammo_357_large]"
+[Fri Aug 27 22:15:20 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [260][item_ammo_357_large]"
+[Fri Aug 27 22:15:20 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [264][item_ammo_357_large]"
+[Fri Aug 27 22:16:11 2021] Player "C02.UNION-i4-5849" <STEAM_0:1:74180635> has left the server
+[Fri Aug 27 22:19:47 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 22:20:03 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server

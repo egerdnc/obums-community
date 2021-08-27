@@ -54,7 +54,7 @@ SWEP.IronsightsAng = Angle(0, 0, 0)
 SWEP.IronsightsFOV = 0.7
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
-SWEP.IronsightsRecoilVisualMultiplier = 0.01
+SWEP.IronsightsRecoilVisualMultiplier = 0.9
 
 sound.Add({
 	name = "Weapon_357.Single",
