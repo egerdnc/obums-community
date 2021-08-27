@@ -3200,3 +3200,40 @@
 [17:36:17]	John Butler has gained a 'Suitcase' #163.
 [17:36:17]	John Butler has gained a 'Citizen ID' #164.
 [17:36:17]	The Apex Typhon loaded the character 'John Butler'
+[21:55:43]	The Apex Typhon has connected.
+[21:56:05]	The Apex Typhon loaded the character 'John Butler'
+[21:56:09]	John Butler entered observer.
+[21:56:10]	John Butler exited observer at their location.
+[21:56:48]	John Butler has gained a 'MP5k' #165.
+[21:56:48]	John Butler used command '/CharGiveItem John MP5'.
+[21:56:51]	John Butler ran 'Equip' on item 'MP5k' (#165)
+[21:57:12]	John Butler entered observer.
+[21:57:23]	John Butler used command '/PlyWhitelist John Civl'.
+[21:57:26]	John Butler used command '/PlyWhitelist John Civil'.
+[21:57:37]	John Butler used command '/PlyTransfer John Civl'.
+[21:57:41]	C02.UNION-i4-5849 exited observer at their location.
+[22:02:13]	C02.UNION-i4-5849 entered observer.
+[22:02:17]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[22:04:24]	The Apex Typhon has connected.
+[22:04:38]	The Apex Typhon loaded the character 'C02.UNION-i4-5849'
+[22:05:29]	C02.UNION-i4-5849 has spawned a 'Entity [156][ls_m24scope]'.
+[22:07:45]	C02.UNION-i4-5849 has spawned a 'Entity [158][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [192][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [193][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [194][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [158][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [200][item_ammo_smg1]'.
+[22:08:10]	C02.UNION-i4-5849 has spawned a 'NPC [158][npc_citizen]'.
+[22:08:42]	C02.UNION-i4-5849 set weaponRaiseTime to '1'.
+[22:08:50]	C02.UNION-i4-5849 entered observer.
+[22:08:51]	C02.UNION-i4-5849 exited observer at their location.
+[22:08:51]	C02.UNION-i4-5849 entered observer.
+[22:08:53]	C02.UNION-i4-5849 exited observer at their location.
+[22:12:22]	C02.UNION-i4-5849 has spawned a 'Entity [194][item_ammo_pistol]'.
+[22:12:22]	C02.UNION-i4-5849 has spawned a 'Entity [200][item_ammo_pistol]'.
+[22:12:47]	C02.UNION-i4-5849 entered observer.
+[22:12:55]	C02.UNION-i4-5849 exited observer at their location.
+[22:13:39]	C02.UNION-i4-5849 has spawned a 'Entity [200][ls_oicwscope]'.
+[22:13:42]	C02.UNION-i4-5849 has spawned a 'Entity [260][ls_m24scope]'.
+[22:13:44]	C02.UNION-i4-5849 has spawned a 'Entity [200][ls_csniperscope]'.
+[22:13:56]	C02.UNION-i4-5849 entered observer.

@@ -49,8 +49,8 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-4.6, -3.418, 0.639)
-SWEP.IronsightsAng = Vector(0, 0, 0)
+SWEP.IronsightsPos = Vector(-4.6, -3.418, 0.639)
+SWEP.IronsightsAng = Angle(0, 0, 0)
 SWEP.IronsightsFOV = 0.7
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false

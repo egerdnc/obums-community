@@ -817,3 +817,27 @@
 [Fri Aug 27 17:28:18 2021] Player "John Butler" <STEAM_0:1:74180635> has left the server
 [Fri Aug 27 17:34:10 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
 [Fri Aug 27 17:34:25 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 21:55:25 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 21:55:43 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 21:56:40 2021] <STEAM_0:1:74180635> John Butler: /chargiveitem Apex MP5
+[Fri Aug 27 21:56:48 2021] <STEAM_0:1:74180635> John Butler: /chargiveitem John MP5
+[Fri Aug 27 21:57:23 2021] <STEAM_0:1:74180635> John Butler: /plywhitelist John Civl
+[Fri Aug 27 21:57:26 2021] <STEAM_0:1:74180635> John Butler: /plywhitelist John Civil
+[Fri Aug 27 21:57:37 2021] <STEAM_0:1:74180635> John Butler: /plytransfer John Civl
+[Fri Aug 27 21:57:40 2021] <STEAM_0:1:74180635> John Butler: /plytransfer John Civil
+[Fri Aug 27 22:02:17 2021] Player "C02.UNION-i4-5849" <STEAM_0:1:74180635> has left the server
+[Fri Aug 27 22:04:13 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
+[Fri Aug 27 22:04:24 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 22:05:29 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [156][ls_m24scope]"
+[Fri Aug 27 22:07:45 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [158][item_ammo_smg1]"
+[Fri Aug 27 22:07:46 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [192][item_ammo_smg1]"
+[Fri Aug 27 22:07:46 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [193][item_ammo_smg1]"
+[Fri Aug 27 22:07:46 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [194][item_ammo_smg1]"
+[Fri Aug 27 22:07:46 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [158][item_ammo_smg1]"
+[Fri Aug 27 22:07:46 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][item_ammo_smg1]"
+[Fri Aug 27 22:08:10 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned npc "NPC [158][npc_citizen]"
+[Fri Aug 27 22:12:22 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [194][item_ammo_pistol]"
+[Fri Aug 27 22:12:22 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][item_ammo_pistol]"
+[Fri Aug 27 22:13:40 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][ls_oicwscope]"
+[Fri Aug 27 22:13:42 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [260][ls_m24scope]"
+[Fri Aug 27 22:13:44 2021] <STEAM_0:1:74180635> C02.UNION-i4-5849 spawned SENT "Entity [200][ls_csniperscope]"
