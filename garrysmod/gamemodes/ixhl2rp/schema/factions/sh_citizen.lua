@@ -1,4 +1,3 @@
-
 FACTION.name = "Citizens"
 FACTION.description = "You are a normal citizen oppressed by the combine"
 FACTION.color = Color(150, 125, 100, 255)
@@ -31,6 +30,7 @@ function FACTION:OnCharacterCreated(client, character)
 	local inventory = character:GetInventory()
 
 	character:SetData("cid", id)
+	--initCitizenData(character)
 	
 	inventory:Add("suitcase", 1)
 	inventory:Add("flashlight", 1)
@@ -43,16 +43,27 @@ end
 function FACTION:OnSpawn(client)
 	local character = client:GetCharacter()
 
-	--initCitizen(character)
+	--setCharacterCitizen(character)
 end
 
 function FACTION:OnTransferred(character)
-	local src = character
+	--setCharacterCitizen(character)
 end
 
--- function initCitizen(character)
--- 	local model = character:getData("skin", nil)
--- 	character:SetModel(model)
--- end
+function setCharacterCitizen(character)
+	local model = character:GetData("citizen-model")
+	if model == nil or model == "" then initCitizenData(character) return end
+
+	character:SetFaction("citizen")
+	character:SetModel(model)
+end
+
+function initCitizenData(character)
+	local model = character:GetData()
+	character:SetData("citizen-model", model)
+	timer.Simple(1, function()
+		setCharacterCitizen(character)
+	end)
+end
 
 FACTION_CITIZEN = FACTION.index

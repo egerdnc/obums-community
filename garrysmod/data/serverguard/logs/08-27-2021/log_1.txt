@@ -547,3 +547,23 @@
 [Fri Aug 27 08:26:58 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
 [Fri Aug 27 08:28:21 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740 spawned SENT "Entity [116][ix_atm]"
 [Fri Aug 27 08:28:42 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 08:29:30 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:30:03 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 08:30:38 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740 spawned SENT "Entity [116][ix_atm]"
+[Fri Aug 27 08:35:55 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /unstuck
+[Fri Aug 27 08:35:58 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /unstuck
+[Fri Aug 27 08:35:58 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /unstuck
+[Fri Aug 27 08:35:59 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /unstuck
+[Fri Aug 27 08:36:00 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /unstuck
+[Fri Aug 27 08:41:52 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 08:43:50 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:44:20 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 08:47:36 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 08:48:24 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:48:55 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 08:50:30 2021] Player "Dex Mcgugget" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 08:50:39 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:51:01 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 08:52:28 2021] Player "Hamood" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 08:53:05 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 08:53:27 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server

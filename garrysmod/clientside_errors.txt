@@ -5802,3 +5802,198 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:49: unexpected symbol near ')'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:49: unexpected symbol near ')'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50: unexpected symbol near ')'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50: function arguments expected near 'character'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50: unexpected symbol near ')'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50: '=' expected near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:35: '=' expected near 'inventory'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:47: '<name>' expected near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:46: unexpected symbol near ')'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:55: ')' expected near 'model'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:55: function arguments expected near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:47: '=' expected near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: function arguments expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:65: '=' expected near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:65: '=' expected near 'setCharacterCitizen'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

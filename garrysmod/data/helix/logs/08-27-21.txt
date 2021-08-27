@@ -1879,3 +1879,68 @@
 [08:28:15]	C02.UNION-i4-3740 exited observer at their location.
 [08:28:21]	C02.UNION-i4-3740 has spawned a 'Entity [116][ix_atm]'.
 [08:28:42]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:30:03]	Hamood has connected.
+[08:30:28]	Hamood loaded the character 'C02.UNION-i4-3740'
+[08:30:31]	C02.UNION-i4-3740 entered observer.
+[08:30:35]	C02.UNION-i4-3740 exited observer at their location.
+[08:30:38]	C02.UNION-i4-3740 has spawned a 'Entity [116][ix_atm]'.
+[08:30:42]	C02.UNION-i4-3740 entered observer.
+[08:30:42]	C02.UNION-i4-3740 exited observer at their location.
+[08:30:42]	C02.UNION-i4-3740 entered observer.
+[08:30:45]	C02.UNION-i4-3740 exited observer at their location.
+[08:30:46]	C02.UNION-i4-3740 entered observer.
+[08:30:46]	C02.UNION-i4-3740 exited observer at their location.
+[08:30:47]	C02.UNION-i4-3740 entered observer.
+[08:30:47]	C02.UNION-i4-3740 exited observer at their location.
+[08:30:47]	C02.UNION-i4-3740 entered observer.
+[08:30:48]	C02.UNION-i4-3740 exited observer at their location.
+[08:30:48]	C02.UNION-i4-3740 entered observer.
+[08:30:49]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:28]	C02.UNION-i4-3740 entered observer.
+[08:35:29]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:30]	C02.UNION-i4-3740 entered observer.
+[08:35:30]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:31]	C02.UNION-i4-3740 entered observer.
+[08:35:32]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:34]	C02.UNION-i4-3740 entered observer.
+[08:35:34]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:36]	C02.UNION-i4-3740 entered observer.
+[08:35:38]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:39]	C02.UNION-i4-3740 entered observer.
+[08:35:39]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:41]	C02.UNION-i4-3740 entered observer.
+[08:35:41]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:45]	C02.UNION-i4-3740 entered observer.
+[08:35:45]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:47]	C02.UNION-i4-3740 entered observer.
+[08:35:47]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:49]	C02.UNION-i4-3740 entered observer.
+[08:35:53]	C02.UNION-i4-3740 exited observer at their location.
+[08:35:55]	C02.UNION-i4-3740 used command '/unstuck'.
+[08:35:58]	C02.UNION-i4-3740 used command '/unstuck'.
+[08:35:58]	C02.UNION-i4-3740 used command '/unstuck'.
+[08:35:59]	C02.UNION-i4-3740 used command '/unstuck'.
+[08:36:00]	C02.UNION-i4-3740 used command '/unstuck'.
+[08:36:00]	C02.UNION-i4-3740 entered observer.
+[08:36:02]	C02.UNION-i4-3740 exited observer at their location.
+[08:36:11]	C02.UNION-i4-3740 entered observer.
+[08:36:15]	C02.UNION-i4-3740 exited observer at their location.
+[08:41:52]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:44:20]	Hamood has connected.
+[08:44:33]	Hamood loaded the character 'C02.UNION-i4-3740'
+[08:44:51]	Hamood (STEAM_0:0:420247449) deleted character 'C02.UNION-i4-3740'
+[08:45:09]	Hamood created the character 'Dex Mcgugget'
+[08:47:36]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:48:55]	Hamood has connected.
+[08:49:15]	Hamood loaded the character 'Dex Mcgugget'
+[08:49:23]	Hamood (STEAM_0:0:420247449) deleted character 'Dex Mcgugget'
+[08:49:39]	Hamood created the character 'Dex Mcgugget'
+[08:50:30]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:51:01]	Hamood has connected.
+[08:52:28]	Hamood (STEAM_0:0:420247449) has disconnected.
+[08:53:27]	Hamood has connected.
+[08:54:05]	Hamood (STEAM_0:0:420247449) deleted character 'Dex Mcgugget'
+[08:54:19]	Hamood created the character 'ads asd asd'
+[08:54:19]	ads asd asd has gained a 'Suitcase' #161.
+[08:54:19]	ads asd asd has gained a 'Citizen ID' #162.
+[08:54:19]	Hamood loaded the character 'ads asd asd'

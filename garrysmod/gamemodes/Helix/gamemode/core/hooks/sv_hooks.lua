@@ -484,7 +484,7 @@ function GM:PlayerLoadout(client)
 		client:Give("gmod_tool")
 		client:SetWalkSpeed(ix.config.Get("walkSpeed"))
 		client:SetRunSpeed(ix.config.Get("runSpeed"))
-		client:SetHealth(character:GetData("health", client:GetMaxHealth()))
+		--client:SetHealth(character:GetData("health", client:GetMaxHealth()))
 
 		local faction = ix.faction.indices[client:Team()]
 
