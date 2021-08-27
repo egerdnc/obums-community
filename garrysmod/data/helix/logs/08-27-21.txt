@@ -1380,3 +1380,190 @@
 [04:18:22]	C02.UNION-i4-9617 entered observer.
 [04:18:31]	C02.UNION-i4-9118 used command '/PlyTransfer 9617 metropolice'.
 [04:18:34]	C02.UNION-i4-9118 exited observer at their location.
+[04:29:38]	C02.UNION-i4-9118 used command '/Apply'.
+[04:29:43]	C02.UNION-i4-4052 used command '/PlyTransfer 9118 metropolice'.
+[04:29:52]	C02.UNION-i4-4052 used command '/Apply'.
+[04:29:57]	C02.UNION-i4-4052 used command '/PlyTransfer 4052 citizen'.
+[04:29:58]	C02.UNION-i4-4052 used command '/Apply'.
+[04:30:01]	C02.UNION-i4-4052 entered observer.
+[04:30:04]	C02.UNION-i4-4052 exited observer at their location.
+[04:30:07]	C02.UNION-i4-4052 entered observer.
+[04:30:08]	C02.UNION-i4-4052 exited observer at their location.
+[04:30:09]	C02.UNION-i4-4052 entered observer.
+[04:30:11]	C02.UNION-i4-4052 exited observer at their location.
+[04:30:20]	C02.UNION-i4-3740 used command '/PlyTransfer 4052 metropolice'.
+[04:32:01]	C02.UNION-i4-3740 entered observer.
+[04:32:07]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:09]	C02.UNION-i4-3740 entered observer.
+[04:32:14]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:15]	C02.UNION-i4-3740 entered observer.
+[04:32:16]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:19]	C02.UNION-i4-3740 entered observer.
+[04:32:21]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:30]	C02.UNION-i4-3740 entered observer.
+[04:32:30]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:33]	C02.UNION-i4-3740 entered observer.
+[04:32:40]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:42]	C02.UNION-i4-3740 entered observer.
+[04:32:46]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:49]	C02.UNION-i4-3740 entered observer.
+[04:32:53]	C02.UNION-i4-3740 exited observer at their location.
+[04:32:54]	C02.UNION-i4-3740 entered observer.
+[04:33:07]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:08]	C02.UNION-i4-3740 entered observer.
+[04:33:14]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:16]	C02.UNION-i4-3740 entered observer.
+[04:33:19]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:20]	C02.UNION-i4-3740 entered observer.
+[04:33:20]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:20]	C02.UNION-i4-3740 entered observer.
+[04:33:20]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:21]	C02.UNION-i4-3740 entered observer.
+[04:33:22]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:23]	C02.UNION-i4-3740 entered observer.
+[04:33:23]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:24]	C02.UNION-i4-3740 entered observer.
+[04:33:27]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:28]	C02.UNION-i4-3740 entered observer.
+[04:33:28]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:29]	C02.UNION-i4-3740 entered observer.
+[04:33:29]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:30]	C02.UNION-i4-3740 entered observer.
+[04:33:31]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:32]	C02.UNION-i4-3740 entered observer.
+[04:33:36]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:36]	C02.UNION-i4-3740 entered observer.
+[04:33:36]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:37]	C02.UNION-i4-3740 entered observer.
+[04:33:39]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:39]	C02.UNION-i4-3740 entered observer.
+[04:33:40]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:41]	C02.UNION-i4-3740 entered observer.
+[04:33:44]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:45]	C02.UNION-i4-3740 entered observer.
+[04:33:45]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:46]	C02.UNION-i4-3740 entered observer.
+[04:33:52]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:52]	C02.UNION-i4-3740 entered observer.
+[04:33:52]	C02.UNION-i4-3740 exited observer at their location.
+[04:33:54]	C02.UNION-i4-3740 entered observer.
+[04:34:01]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:02]	C02.UNION-i4-3740 entered observer.
+[04:34:02]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:03]	C02.UNION-i4-3740 entered observer.
+[04:34:04]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:04]	C02.UNION-i4-3740 entered observer.
+[04:34:05]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:08]	C02.UNION-i4-3740 entered observer.
+[04:34:08]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:10]	C02.UNION-i4-3740 entered observer.
+[04:34:13]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:13]	C02.UNION-i4-3740 entered observer.
+[04:34:14]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:14]	C02.UNION-i4-3740 entered observer.
+[04:34:16]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:17]	C02.UNION-i4-3740 entered observer.
+[04:34:20]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:20]	C02.UNION-i4-3740 entered observer.
+[04:34:21]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:21]	C02.UNION-i4-3740 entered observer.
+[04:34:22]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:23]	C02.UNION-i4-3740 entered observer.
+[04:34:23]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:26]	C02.UNION-i4-3740 entered observer.
+[04:34:29]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:30]	C02.UNION-i4-3740 entered observer.
+[04:34:31]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:32]	C02.UNION-i4-3740 entered observer.
+[04:34:32]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:35]	C02.UNION-i4-3740 entered observer.
+[04:34:37]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:39]	C02.UNION-i4-3740 entered observer.
+[04:34:40]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:40]	C02.UNION-i4-3740 entered observer.
+[04:34:41]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:41]	C02.UNION-i4-3740 entered observer.
+[04:34:42]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:44]	C02.UNION-i4-3740 entered observer.
+[04:34:48]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:49]	C02.UNION-i4-3740 entered observer.
+[04:34:51]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:51]	C02.UNION-i4-3740 entered observer.
+[04:34:55]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:56]	C02.UNION-i4-3740 entered observer.
+[04:34:56]	C02.UNION-i4-3740 exited observer at their location.
+[04:34:59]	C02.UNION-i4-3740 entered observer.
+[04:35:02]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:03]	C02.UNION-i4-3740 entered observer.
+[04:35:05]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:08]	C02.UNION-i4-3740 entered observer.
+[04:35:09]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:09]	C02.UNION-i4-3740 entered observer.
+[04:35:10]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:10]	C02.UNION-i4-3740 entered observer.
+[04:35:11]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:12]	C02.UNION-i4-3740 entered observer.
+[04:35:13]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:14]	C02.UNION-i4-3740 entered observer.
+[04:35:14]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:17]	C02.UNION-i4-3740 entered observer.
+[04:35:19]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:20]	C02.UNION-i4-3740 entered observer.
+[04:35:20]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:21]	C02.UNION-i4-3740 entered observer.
+[04:35:21]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:22]	C02.UNION-i4-3740 entered observer.
+[04:35:24]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:25]	C02.UNION-i4-3740 entered observer.
+[04:35:27]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:27]	C02.UNION-i4-3740 entered observer.
+[04:35:28]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:28]	C02.UNION-i4-3740 entered observer.
+[04:35:28]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:29]	C02.UNION-i4-3740 entered observer.
+[04:35:29]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:29]	C02.UNION-i4-3740 entered observer.
+[04:35:32]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:33]	C02.UNION-i4-3740 entered observer.
+[04:35:38]	C02.UNION-i4-3740 exited observer at their location.
+[04:35:43]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:35:46]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:35:49]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:35:52]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:35:54]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:35:55]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:35:58]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:36:00]	C02.UNION-i4-3740 used command '/Doorkick'.
+[04:36:04]	C02.UNION-i4-3740 entered observer.
+[04:36:07]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:13]	C02.UNION-i4-3740 entered observer.
+[04:36:16]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:17]	C02.UNION-i4-3740 entered observer.
+[04:36:21]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:22]	C02.UNION-i4-3740 entered observer.
+[04:36:23]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:24]	C02.UNION-i4-3740 entered observer.
+[04:36:25]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:26]	C02.UNION-i4-3740 entered observer.
+[04:36:27]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:29]	C02.UNION-i4-3740 entered observer.
+[04:36:34]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:34]	C02.UNION-i4-3740 entered observer.
+[04:36:35]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:36]	C02.UNION-i4-3740 entered observer.
+[04:36:36]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:38]	C02.UNION-i4-3740 entered observer.
+[04:36:39]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:41]	C02.UNION-i4-3740 entered observer.
+[04:36:42]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:45]	C02.UNION-i4-3740 entered observer.
+[04:36:47]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:50]	C02.UNION-i4-3740 entered observer.
+[04:36:51]	C02.UNION-i4-3740 exited observer at their location.
+[04:36:51]	C02.UNION-i4-3740 entered observer.
+[04:36:53]	C02.UNION-i4-3740 exited observer at their location.
+[04:37:34]	C02.UNION-i4-3740 entered observer.
+[04:37:35]	C02.UNION-i4-3740 exited observer at their location.
+[04:37:36]	C02.UNION-i4-3740 entered observer.
+[04:37:40]	C02.UNION-i4-3740 exited observer at their location.
+[04:43:08]	Hamood (STEAM_0:0:420247449) has disconnected (timed out).

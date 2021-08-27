@@ -4996,3 +4996,637 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:22: function arguments expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:22: function arguments expected near ':'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:22: function arguments expected near 'character'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/sh_voices.lua:378: attempt to index global 'impulse' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sh_voices.lua:378
+   2. Include - [C]:-1
+    3. unknown - gamemodes/ixhl2rp/schema/sh_schema.lua:15
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/sh_voices.lua:378: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sh_voices.lua:378
+   2. Include - [C]:-1
+    3. unknown - gamemodes/ixhl2rp/schema/sh_schema.lua:15
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/sh_voices.lua:380: attempt to call a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sh_voices.lua:380
+   2. Include - [C]:-1
+    3. unknown - gamemodes/ixhl2rp/schema/sh_schema.lua:15
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+        7. Call - gamemodes/helix/gamemode/shared.lua:142
+         8. unknown - lua/includes/modules/gamemode.lua:33
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\libs\sh_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:43
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\derma\cl_combinedisplay.lua' - File not found (@gamemodes/helix/gamemode/core/sh_util.lua (line 85))
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\combinedisplay\sh_plugin.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_plugin.lua (line 55))
+  1. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Couldn't include file 'ixhl2rp\plugins\waypoints\languages\sh_english.lua' - File not found (@gamemodes/helix/gamemode/core/libs/sh_language.lua (line 44))
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:44
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+      5. Call - gamemodes/helix/gamemode/shared.lua:142
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

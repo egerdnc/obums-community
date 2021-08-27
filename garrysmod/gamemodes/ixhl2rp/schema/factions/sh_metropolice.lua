@@ -16,11 +16,10 @@ function FACTION:GetDefaultName(client)
 	return "C02.UNION-i4-" .. Schema:ZeroNumber(math.random(999, 9999), 4), true
 end
 
-function FACTION:OnTransferred(character)
-
-	character:SetName(self:GetDefaultName())
-	character:SetModel(self.models[1])
-	print("THATS A TEST")
+function FACTION:OnTransferred(client)
+	client:SetName(self:GetDefaultName())
+	client:SetModel(self.models[1])
+	client:AddCombineDisplayMessage("@cCombineLoaded")
 end
 
 function FACTION:OnNameChanged(client, oldValue, value)

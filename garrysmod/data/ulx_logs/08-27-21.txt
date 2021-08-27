@@ -387,3 +387,32 @@
 [04:07:39] C02.UNION-i4-9617: /doorkick
 [04:18:31] C02.UNION-i4-9617: /plytransfer 9617 metropolice
 [04:18:32] C02.UNION-i4-9617<STEAM_0:0:420247449> changed their name to C02.UNION-i4-9118
+[04:29:36] C02.UNION-i4-9118: /plytransfer 9617 citizen
+[04:29:38] C02.UNION-i4-9118: /apply
+[04:29:43] C02.UNION-i4-9118: /plytransfer 9118 metropolice
+[04:29:44] C02.UNION-i4-9118<STEAM_0:0:420247449> changed their name to C02.UNION-i4-4052
+[04:29:47] C02.UNION-i4-4052: /plytransfer 9118 citizen
+[04:29:52] C02.UNION-i4-4052: /apply
+[04:29:57] C02.UNION-i4-4052: /plytransfer 4052 citizen
+[04:29:58] C02.UNION-i4-4052: /apply
+[04:30:20] C02.UNION-i4-4052: /plytransfer 4052 metropolice
+[04:30:20] C02.UNION-i4-4052<STEAM_0:0:420247449> changed their name to C02.UNION-i4-3740
+[04:35:43] C02.UNION-i4-3740: /doorkick
+[04:35:46] C02.UNION-i4-3740: /doorkick
+[04:35:49] C02.UNION-i4-3740: /doorkick
+[04:35:52] C02.UNION-i4-3740: /doorkick
+[04:35:54] C02.UNION-i4-3740: /doorkick
+[04:35:55] C02.UNION-i4-3740: /doorkick
+[04:35:58] C02.UNION-i4-3740: /doorkick
+[04:36:00] C02.UNION-i4-3740: /doorkick
+[04:36:58] C02.UNION-i4-3740: yellow
+[04:36:59] C02.UNION-i4-3740: infected
+[04:37:00] C02.UNION-i4-3740: shit
+[04:37:18] C02.UNION-i4-3740: Yellow infected shit
+[04:37:20] C02.UNION-i4-3740: yellow
+[04:37:21] C02.UNION-i4-3740: infected
+[04:37:22] C02.UNION-i4-3740: shit
+[04:37:27] C02.UNION-i4-3740: 6 9 6 9 vice haha
+[04:37:32] C02.UNION-i4-3740: 6 9 6 9
+[04:42:14] C02.UNION-i4-3740: 1
+[04:43:08] Dropped "C02.UNION-i4-3740" from server<STEAM_0:0:420247449>
