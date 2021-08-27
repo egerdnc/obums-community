@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in.....
+WS: Waiting for Steam to log us in....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -125,7 +125,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[00:08][ServerGuard] [mysql] Connected to the database!
+[00:21][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -138,13 +138,13 @@ Attempted to create unknown entity type ix_citizenterminal!
 Attempted to create unknown entity type ix_cpterminal!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0828001.log
-L 08/28/2021 - 00:08:54: Log file started (file "logs\L0828001.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0828002.log
+L 08/28/2021 - 00:21:07: Log file started (file "logs\L0828002.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
 Model missing: models/sal/halloween/ninja.mdl
-[00:08][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[00:21][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27005).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
@@ -155,19 +155,6 @@ Attempted to create unknown entity type ix_cpterminal!
 Loaded (45) for Hamood
 [DOWNLOADER ]Failed to send track data: unsuccessful
 [LOG] Hamood loaded the character 'C02.UNION-i4-7499'
-[LOG] C02.UNION-i4-7499 used command '/Apply'.
-[LOG] C02.UNION-i4-7499 has used the Item Menu to spawn a Test Stack (test_stack) at 2140.030029 4148.975586 557.245239
-[LOG] C02.UNION-i4-7499 has used the Item Menu to spawn a Test Stack (test_stack) at 2145.944580 4147.482422 562.028992
-[LOG] C02.UNION-i4-7499 ran 'take' on item 'Test Stack' (#176)
-[LOG] C02.UNION-i4-7499 has gained a 'Test Stack' #176.
-[LOG] C02.UNION-i4-7499 ran 'take' on item 'Test Stack' (#177)
-[LOG] C02.UNION-i4-7499 has gained a 'Test Stack' #177.
-[LOG] C02.UNION-i4-7499 has used the Item Menu to spawn a Test Stack (test_stack) at 2069.451660 4106.416992 557.245239
-[LOG] C02.UNION-i4-7499 has used the Item Menu to spawn a Test Stack (test_stack) at 2069.451660 4106.416992 557.245239
-[LOG] C02.UNION-i4-7499 ran 'take' on item 'Test Stack' (#178)
-[LOG] C02.UNION-i4-7499 has gained a 'Test Stack' #178.
-[LOG] C02.UNION-i4-7499 ran 'take' on item 'Test Stack' (#177)
-[LOG] C02.UNION-i4-7499 has gained a 'Test Stack' #177.
 [LOG] C02.UNION-i4-7499 entered observer.
 [LOG] C02.UNION-i4-7499 exited observer at their location.
 [LOG] C02.UNION-i4-7499 entered observer.
@@ -176,24 +163,3 @@ Loaded (45) for Hamood
 [LOG] C02.UNION-i4-7499 exited observer at their location.
 [LOG] C02.UNION-i4-7499 entered observer.
 [LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
-[LOG] C02.UNION-i4-7499 exited observer at their location.
-[LOG] C02.UNION-i4-7499 entered observer.
