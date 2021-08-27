@@ -817,3 +817,11 @@
 [Fri Aug 27 17:28:18 2021] Player "John Butler" <STEAM_0:1:74180635> has left the server
 [Fri Aug 27 17:34:10 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
 [Fri Aug 27 17:34:25 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
+[Fri Aug 27 23:48:00 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 23:48:42 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 23:51:51 2021] Player "C02.UNION-i4-7499" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 23:54:55 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 23:55:18 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 23:58:24 2021] Player "C02.UNION-i4-7499" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 23:58:52 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 23:59:15 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server

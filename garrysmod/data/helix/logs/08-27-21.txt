@@ -3200,3 +3200,50 @@
 [17:36:17]	John Butler has gained a 'Suitcase' #163.
 [17:36:17]	John Butler has gained a 'Citizen ID' #164.
 [17:36:17]	The Apex Typhon loaded the character 'John Butler'
+[23:48:42]	Hamood has connected.
+[23:48:59]	Hamood loaded the character 'C02.UNION-i4-7499'
+[23:49:06]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1947.124634 4062.485107 557.245239
+[23:49:09]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#165)
+[23:49:09]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #165.
+[23:49:16]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1920.785522 4089.860840 557.245239
+[23:49:17]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1926.739014 4088.260254 563.498596
+[23:49:18]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1927.017944 4088.185303 563.791565
+[23:49:19]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1933.293457 4086.498047 570.383057
+[23:49:20]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#168)
+[23:49:20]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #168.
+[23:49:21]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#166)
+[23:49:21]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #166.
+[23:49:21]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#167)
+[23:49:21]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #167.
+[23:49:23]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#169)
+[23:49:23]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #169.
+[23:49:37]	C02.UNION-i4-7499 entered observer.
+[23:49:41]	C02.UNION-i4-7499 exited observer at their location.
+[23:50:12]	C02.UNION-i4-7499 has used the Item Menu to spawn a Elite Overwatch Vest (elite_vest) at -338.361481 895.968750 646.686096
+[23:51:45]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 450.516235 843.479309 604.031250
+[23:51:51]	Hamood (STEAM_0:0:420247449) has disconnected.
+[23:55:18]	Hamood has connected.
+[23:55:33]	Hamood loaded the character 'C02.UNION-i4-7499'
+[23:55:44]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#166)
+[23:55:44]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #166.
+[23:55:45]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#167)
+[23:55:45]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #167.
+[23:55:46]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#169)
+[23:55:46]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #169.
+[23:55:46]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#168)
+[23:55:46]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #168.
+[23:55:47]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#165)
+[23:55:47]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #165.
+[23:55:49]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#165)
+[23:55:49]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #165.
+[23:55:50]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#168)
+[23:55:50]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #168.
+[23:55:55]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#167)
+[23:55:55]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #167.
+[23:55:56]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#166)
+[23:55:56]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #166.
+[23:55:57]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#169)
+[23:55:57]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #169.
+[23:58:24]	Hamood (STEAM_0:0:420247449) has disconnected.
+[23:59:15]	Hamood has connected.
+[23:59:33]	Hamood loaded the character 'C02.UNION-i4-7499'
