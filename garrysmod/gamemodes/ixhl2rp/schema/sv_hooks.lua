@@ -21,57 +21,6 @@ function Schema:PlayerSwitchFlashlight(client, enabled)
 	end
 end
 
-function Schema:IsEmpty(vector, ignore)
-	ignore = ignore or {}
-
-	local point = util.PointContents(vector)
-	local a = point ~= CONTENTS_SOLID
-		and point ~= CONTENTS_MOVEABLE
-		and point ~= CONTENTS_LADDER
-		and point ~= CONTENTS_PLAYERCLIP
-		and point ~= CONTENTS_MONSTERCLIP
-
-	local b = true
-
-	for k,v in pairs(ents.FindInSphere(vector, 35)) do
-		if (v:IsNPC() or v:IsPlayer() or v:GetClass() == "prop_physics") and not table.HasValue(ignore, v) then
-			b = false
-			break
-		end
-	end
-
-	return a and b
-end
-
-function Schema:FindEmptyPos(pos, ignore, distance, step, area)
-	if Schema:IsEmpty(pos, ignore) and Schema:IsEmpty(pos + area, ignore) then
-		return pos
-	end
-
-	for j = step, distance, step do
-		for i = -1, 1, 2 do -- alternate in direction
-			local k = j * i
-
-			-- Look North/South
-			if Schema:IsEmpty(pos + Vector(k, 0, 0), ignore) and Schema:IsEmpty(pos + Vector(k, 0, 0) + area, ignore) then
-				return pos + Vector(k, 0, 0)
-			end
-
-			-- Look East/West
-			if Schema:IsEmpty(pos + Vector(0, k, 0), ignore) and Schema:IsEmpty(pos + Vector(0, k, 0) + area, ignore) then
-				return pos + Vector(0, k, 0)
-			end
-
-			-- Look Up/Down
-			if Schema:IsEmpty(pos + Vector(0, 0, k), ignore) and Schema:IsEmpty(pos + Vector(0, 0, k) + area, ignore) then
-				return pos + Vector(0, 0, k)
-			end
-		end
-	end
-
-	return pos
-end
-
 function Schema:PlayerUse(client, entity)
 	if (IsValid(client.ixScanner)) then
 		return false
@@ -183,7 +132,7 @@ function Schema:PlayerFootstep(client, position, foot, soundName, volume)
 end
 
 function Schema:PlayerSpawn(client)
-	client:SetCanZoom(client:IsCombine())
+	client:SetCanZoom(false)
 end
 
 function Schema:PlayerDeath(client, inflicter, attacker)

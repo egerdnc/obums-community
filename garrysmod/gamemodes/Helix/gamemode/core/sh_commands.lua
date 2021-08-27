@@ -59,19 +59,19 @@ ix.command.Add("Reply", {
 	end
 })
 
-ix.command.Add("SetVoicemail", {
-	description = "@cmdSetVoicemail",
-	arguments = bit.bor(ix.type.text, ix.type.optional),
-	OnRun = function(self, client, message)
-		if (isstring(message) or message:find("%S")) then
-			client:SetData("vm", message:sub(1, 240))
-			return "@vmSet"
-		else
-			client:SetData("vm")
-			return "@vmRem"
-		end
-	end
-})
+-- ix.command.Add("SetVoicemail", {
+-- 	description = "@cmdSetVoicemail",
+-- 	arguments = bit.bor(ix.type.text, ix.type.optional),
+-- 	OnRun = function(self, client, message)
+-- 		if (isstring(message) or message:find("%S")) then
+-- 			client:SetData("vm", message:sub(1, 240))
+-- 			return "@vmSet"
+-- 		else
+-- 			client:SetData("vm")
+-- 			return "@vmRem"
+-- 		end
+-- 	end
+-- })
 
 ix.command.Add("CharGiveFlag", {
 	description = "@cmdCharGiveFlag",

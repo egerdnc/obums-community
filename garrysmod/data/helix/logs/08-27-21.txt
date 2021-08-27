@@ -1640,3 +1640,18 @@
 [06:37:19]	Hamood loaded the character 'C02.UNION-i4-3740'
 [06:45:31]	C02.UNION-i4-3740 entered observer.
 [06:45:34]	C02.UNION-i4-3740 exited observer at their location.
+[06:55:47]	Hamood has connected.
+[06:56:01]	Hamood loaded the character 'C02.UNION-i4-3740'
+[06:56:22]	C02.UNION-i4-3740 entered observer.
+[06:56:25]	C02.UNION-i4-3740 exited observer at their location.
+[06:56:28]	C02.UNION-i4-3740 entered observer.
+[06:56:30]	C02.UNION-i4-3740 exited observer at their location.
+[06:58:23]	Hamood has connected.
+[06:58:50]	Hamood loaded the character 'C02.UNION-i4-3740'
+[06:58:54]	C02.UNION-i4-3740 entered observer.
+[06:58:56]	C02.UNION-i4-3740 exited observer at their location.
+[07:00:22]	Hamood (STEAM_0:0:420247449) has disconnected.
+[07:01:06]	Hamood has connected.
+[07:03:57]	Hamood loaded the character 'C02.UNION-i4-3740'
+[07:04:04]	C02.UNION-i4-3740 entered observer.
+[07:04:05]	C02.UNION-i4-3740 exited observer at their location.
