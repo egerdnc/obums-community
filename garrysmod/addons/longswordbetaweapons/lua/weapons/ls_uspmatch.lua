@@ -20,7 +20,7 @@ SWEP.CSMuzzleFlashes = true
 
 SWEP.ReloadSound = Sound("Weapon_USP.Reload")
 SWEP.Primary.Sound = Sound("Weapon_USP.Single")
-SWEP.Primary.Recoil = 0.1 -- base recoil value, SWEP.Spread mods can change this
+SWEP.Primary.Recoil = 1 -- base recoil value, SWEP.Spread mods can change this
 SWEP.Primary.Damage = 9
 SWEP.Primary.PenetrationScale = 1
 SWEP.Primary.NumShots = 1
@@ -49,12 +49,12 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-5.961, -5.428, 3.16)
+SWEP.IronsightsPos = Vector(-5.961, -5.428, 3.16)
 SWEP.IronsightsAng = Angle(0, -1.407, 0)
 SWEP.IronsightsFOV = 0.6
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
-SWEP.IronsightsRecoilVisualMultiplier = 2
+SWEP.IronsightsRecoilVisualMultiplier = 0.9
 
 sound.Add({
 	name = "Weapon_USP.Single",

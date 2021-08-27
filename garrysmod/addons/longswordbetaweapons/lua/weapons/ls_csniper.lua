@@ -4,24 +4,26 @@ SWEP.Base = "ls_base"
 
 SWEP.PrintName = "Overwatch Sniper Rifle"
 SWEP.Category = "Longsword Beta Pack"
-SWEP.Spawnable = false
-SWEP.AdminOnly = true
+SWEP.Spawnable = true
+SWEP.AdminOnly = false
 
 SWEP.HoldType = "ar2"
 
-SWEP.WorldModel = Model("models/weapons/w_combinesniper_e2.mdl")
-SWEP.ViewModel = Model("models/weapons/combine_sniper_weapon.mdl")
-SWEP.ViewModelFOV = 70
+SWEP.WorldModel = Model("models/weapons/w_amr11.mdl")
+SWEP.ViewModel = Model("models/weapons/v_amr11.mdl")
+SWEP.ViewModelFOV = 60
 
 SWEP.Slot = 4
 SWEP.SlotPos = 2
 
 SWEP.CSMuzzleFlashes = true
 
+SWEP.ReloadSound = Sound("Weapon_CSNIPER.Reload")
 SWEP.Primary.Sound = Sound("Weapon_CSNIPER.Single")
-SWEP.Primary.Recoil = 3 -- base recoil value, SWEP.Spread mods can change this
+SWEP.Primary.Recoil = 15 -- base recoil value, SWEP.Spread mods can change this
 SWEP.Primary.Damage = 90
 SWEP.Primary.PenetrationScale = 5
+SWEP.UseHands = false
 SWEP.Primary.NumShots = 1
 SWEP.Primary.Burst = false
 SWEP.Primary.Cone = 0.02
@@ -54,7 +56,7 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 SWEP.NoIronsights = false
 
 SWEP.IronSightsPos = Vector(0, 0, 0)
-SWEP.IronsightsAng = Vector(0, 0, 0)
+SWEP.IronsightsAng = Angle(0, 0, 0)
 SWEP.IronsightsFOV = 0.05
 SWEP.IronsightsSensitivity = 0.1
 SWEP.IronsightsCrosshair = false
@@ -93,7 +95,7 @@ SWEP.Attachments = {
 		Behaviour = "sniper_sight",
 		ScopePaint = function(wep)
 			if not OSR_OVERLAY then
-		        OSR_OVERLAY = Material("effects/combine_binocoverlay")
+		        OSR_OVERLAY = Material("effects/scope02")
 		        OSR_OVERLAY:SetFloat("$salpha", "0.2")
 		        OSR_OVERLAY:Recompute()
 			end
@@ -108,37 +110,17 @@ SWEP.Attachments = {
 
 sound.Add({
 	name = "Weapon_CSNIPER.Single",
-	sound = "sniper/shot.wav",
+	sound = "sniper/sniper_fire_1.wav",
 	channel = CHAN_WEAPON,
 	level = SNDLVL_180dB,
 	pitch = {95, 105}
 }) 
 sound.Add({
-	name = "clipout_com",
-	sound = "sniper/magout.wav",
+	name = "Weapon_CSNIPER.Reload",
+	sound = "weapons/amr11/amr11_reload.wav",
 	channel = CHAN_WEAPON,
-	level = SNDLVL_GUNFIRE,
+	level = SNDLVL_180dB,
 	pitch = {100}
 }) 
-sound.Add({
-	name = "clipin_com",
-	sound = "sniper/magin.wav",
-	channel = CHAN_WEAPON,
-	level = SNDLVL_GUNFIRE,
-	pitch = {100}
-}) 
-sound.Add({
-	name = "boltpull_com",
-	sound = "sniper/boltback.wav",
-	channel = CHAN_WEAPON,
-	level = SNDLVL_GUNFIRE,
-	pitch = {100}
-}) 
-sound.Add({
-	name = "deploy_com",
-	sound = "sniper/foley.wav",
-	channel = CHAN_WEAPON,
-	level = SNDLVL_GUNFIRE,
-	pitch = {100}
-}) 
+
 

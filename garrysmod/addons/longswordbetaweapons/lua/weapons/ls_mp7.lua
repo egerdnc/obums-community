@@ -49,12 +49,12 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-6.433, -11.056, 1.004)
-SWEP.IronsightsAng = Vector(0, 0, 0)
+SWEP.IronsightsPos = Vector(-6.43, -2, 1)
+SWEP.IronsightsAng = Angle(0, 0, 0)
 SWEP.IronsightsFOV = 0.75
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
-SWEP.IronsightsRecoilVisualMultiplier = 4 
+SWEP.IronsightsRecoilVisualMultiplier = 1 
 
 sound.Add({
 	name = "Weapon_MP7.Single",

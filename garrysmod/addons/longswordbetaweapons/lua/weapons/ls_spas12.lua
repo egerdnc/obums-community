@@ -48,14 +48,11 @@ SWEP.Spread.VelocityMod = 0.07 -- movement speed effect on spread (additonal)
 
 SWEP.NoIronsights = false
 
-SWEP.IronSightsPos = Vector(-2.6, 3.015, 0.839)
-SWEP.IronsightsAng = Vector(0, 0, 0)
+SWEP.IronsightsPos = Vector(-2.6, 3.015, 0.839)
+SWEP.IronsightsAng = Angle(0, 0, 0)
 SWEP.IronsightsFOV = 0.9
 SWEP.IronsightsSensitivity = 0.8
 SWEP.IronsightsCrosshair = false
-
-SWEP.LoweredPos = Vector(3.819, -2.412, 1.205)
-SWEP.LoweredAng = Vector(-19.698, 23.215, 0)
 
 
 sound.Add({

@@ -3200,50 +3200,94 @@
 [17:36:17]	John Butler has gained a 'Suitcase' #163.
 [17:36:17]	John Butler has gained a 'Citizen ID' #164.
 [17:36:17]	The Apex Typhon loaded the character 'John Butler'
-[23:48:42]	Hamood has connected.
-[23:48:59]	Hamood loaded the character 'C02.UNION-i4-7499'
-[23:49:06]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1947.124634 4062.485107 557.245239
-[23:49:09]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#165)
-[23:49:09]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #165.
-[23:49:16]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1920.785522 4089.860840 557.245239
-[23:49:17]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1926.739014 4088.260254 563.498596
-[23:49:18]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1927.017944 4088.185303 563.791565
-[23:49:19]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 1933.293457 4086.498047 570.383057
-[23:49:20]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#168)
-[23:49:20]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #168.
-[23:49:21]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#166)
-[23:49:21]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #166.
-[23:49:21]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#167)
-[23:49:21]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #167.
-[23:49:23]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#169)
-[23:49:23]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #169.
-[23:49:37]	C02.UNION-i4-7499 entered observer.
-[23:49:41]	C02.UNION-i4-7499 exited observer at their location.
-[23:50:12]	C02.UNION-i4-7499 has used the Item Menu to spawn a Elite Overwatch Vest (elite_vest) at -338.361481 895.968750 646.686096
-[23:51:45]	C02.UNION-i4-7499 has used the Item Menu to spawn a Dex Mcgugget's Hair (test_stack) at 450.516235 843.479309 604.031250
-[23:51:51]	Hamood (STEAM_0:0:420247449) has disconnected.
-[23:55:18]	Hamood has connected.
-[23:55:33]	Hamood loaded the character 'C02.UNION-i4-7499'
-[23:55:44]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#166)
-[23:55:44]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #166.
-[23:55:45]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#167)
-[23:55:45]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #167.
-[23:55:46]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#169)
-[23:55:46]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #169.
-[23:55:46]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#168)
-[23:55:46]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #168.
-[23:55:47]	C02.UNION-i4-7499 ran 'drop' on item 'Dex Mcgugget's Hair' (#165)
-[23:55:47]	C02.UNION-i4-7499 has lost a 'Dex Mcgugget's Hair' #165.
-[23:55:49]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#165)
-[23:55:49]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #165.
-[23:55:50]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#168)
-[23:55:50]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #168.
-[23:55:55]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#167)
-[23:55:55]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #167.
-[23:55:56]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#166)
-[23:55:56]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #166.
-[23:55:57]	C02.UNION-i4-7499 ran 'take' on item 'Dex Mcgugget's Hair' (#169)
-[23:55:57]	C02.UNION-i4-7499 has gained a 'Dex Mcgugget's Hair' #169.
-[23:58:24]	Hamood (STEAM_0:0:420247449) has disconnected.
-[23:59:15]	Hamood has connected.
-[23:59:33]	Hamood loaded the character 'C02.UNION-i4-7499'
+[21:55:43]	The Apex Typhon has connected.
+[21:56:05]	The Apex Typhon loaded the character 'John Butler'
+[21:56:09]	John Butler entered observer.
+[21:56:10]	John Butler exited observer at their location.
+[21:56:48]	John Butler has gained a 'MP5k' #165.
+[21:56:48]	John Butler used command '/CharGiveItem John MP5'.
+[21:56:51]	John Butler ran 'Equip' on item 'MP5k' (#165)
+[21:57:12]	John Butler entered observer.
+[21:57:23]	John Butler used command '/PlyWhitelist John Civl'.
+[21:57:26]	John Butler used command '/PlyWhitelist John Civil'.
+[21:57:37]	John Butler used command '/PlyTransfer John Civl'.
+[21:57:41]	C02.UNION-i4-5849 exited observer at their location.
+[22:02:13]	C02.UNION-i4-5849 entered observer.
+[22:02:17]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[22:04:24]	The Apex Typhon has connected.
+[22:04:38]	The Apex Typhon loaded the character 'C02.UNION-i4-5849'
+[22:05:29]	C02.UNION-i4-5849 has spawned a 'Entity [156][ls_m24scope]'.
+[22:07:45]	C02.UNION-i4-5849 has spawned a 'Entity [158][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [192][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [193][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [194][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [158][item_ammo_smg1]'.
+[22:07:46]	C02.UNION-i4-5849 has spawned a 'Entity [200][item_ammo_smg1]'.
+[22:08:10]	C02.UNION-i4-5849 has spawned a 'NPC [158][npc_citizen]'.
+[22:08:42]	C02.UNION-i4-5849 set weaponRaiseTime to '1'.
+[22:08:50]	C02.UNION-i4-5849 entered observer.
+[22:08:51]	C02.UNION-i4-5849 exited observer at their location.
+[22:08:51]	C02.UNION-i4-5849 entered observer.
+[22:08:53]	C02.UNION-i4-5849 exited observer at their location.
+[22:12:22]	C02.UNION-i4-5849 has spawned a 'Entity [194][item_ammo_pistol]'.
+[22:12:22]	C02.UNION-i4-5849 has spawned a 'Entity [200][item_ammo_pistol]'.
+[22:12:47]	C02.UNION-i4-5849 entered observer.
+[22:12:55]	C02.UNION-i4-5849 exited observer at their location.
+[22:13:39]	C02.UNION-i4-5849 has spawned a 'Entity [200][ls_oicwscope]'.
+[22:13:42]	C02.UNION-i4-5849 has spawned a 'Entity [260][ls_m24scope]'.
+[22:13:44]	C02.UNION-i4-5849 has spawned a 'Entity [200][ls_csniperscope]'.
+[22:13:56]	C02.UNION-i4-5849 entered observer.
+[22:14:40]	C02.UNION-i4-5849 exited observer at their location.
+[22:15:20]	C02.UNION-i4-5849 has spawned a 'Entity [200][item_ammo_357_large]'.
+[22:15:20]	C02.UNION-i4-5849 has spawned a 'Entity [260][item_ammo_357_large]'.
+[22:15:20]	C02.UNION-i4-5849 has spawned a 'Entity [264][item_ammo_357_large]'.
+[22:15:57]	C02.UNION-i4-5849 entered observer.
+[22:16:02]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:03]	C02.UNION-i4-5849 entered observer.
+[22:16:03]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:04]	C02.UNION-i4-5849 entered observer.
+[22:16:08]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:08]	C02.UNION-i4-5849 entered observer.
+[22:16:09]	C02.UNION-i4-5849 exited observer at their location.
+[22:16:11]	The Apex Typhon (STEAM_0:1:74180635) has disconnected.
+[22:20:03]	The Apex Typhon has connected.
+[22:20:58]	The Apex Typhon loaded the character 'C02.UNION-i4-5849'
+[22:21:02]	C02.UNION-i4-5849 entered observer.
+[22:21:05]	C02.UNION-i4-5849 exited observer at their location.
+[22:26:01]	C02.UNION-i4-5849 has spawned a 'Entity [154][item_ammo_smg1_large]'.
+[22:26:02]	C02.UNION-i4-5849 has spawned a 'Entity [155][item_ammo_smg1_large]'.
+[22:29:24]	C02.UNION-i4-5849 has spawned a 'Entity [155][ls_csniperscope]'.
+[22:29:26]	C02.UNION-i4-5849 has spawned a 'Entity [156][ls_m24scope]'.
+[22:30:26]	C02.UNION-i4-5849 entered observer.
+[22:30:28]	C02.UNION-i4-5849 exited observer at their location.
+[22:32:30]	C02.UNION-i4-5849 entered observer.
+[22:32:35]	C02.UNION-i4-5849 exited observer at their location.
+[22:32:50]	C02.UNION-i4-5849 has spawned a 'Entity [156][ls_csniperscope]'.
+[22:33:08]	C02.UNION-i4-5849 has spawned a 'Entity [157][ls_oicwscope]'.
+[22:34:26]	C02.UNION-i4-5849 has spawned a 'NPC [157][npc_citizen]'.
+[22:34:27]	C02.UNION-i4-5849 entered observer.
+[22:34:28]	C02.UNION-i4-5849 exited observer at their location.
+[22:34:32]	C02.UNION-i4-5849 entered observer.
+[22:34:33]	C02.UNION-i4-5849 exited observer at their location.
+[22:34:57]	C02.UNION-i4-5849 entered observer.
+[22:34:58]	C02.UNION-i4-5849 exited observer at their location.
+[22:35:08]	C02.UNION-i4-5849 entered observer.
+[22:35:09]	C02.UNION-i4-5849 exited observer at their location.
+[22:35:27]	C02.UNION-i4-5849 used command '/PlyTransfer c0 Citizen'.
+[22:35:53]	C02.UNION-i4-5849 used command '/CharSetModel c0 models/player/zelpa/male_09.mdl'.
+[22:36:00]	John used command '/CharSetName c02 John'.
+[22:36:58]	John has spawned 'models/player/zelpa/male_09.mdl'.
+[22:37:06]	John entered observer.
+[22:37:07]	John exited observer at their location.
+[22:37:54]	John has spawned 'models/player/zelpa/male_09.mdl'.
+[22:38:13]	John entered observer.
+[22:38:18]	John exited observer at their location.
+[22:38:19]	John entered observer.
+[22:38:19]	John exited observer at their location.
+[22:38:20]	John entered observer.
+[22:38:20]	John exited observer at their location.
+[22:38:28]	John entered observer.
+[22:38:31]	John exited observer at their location.
+[22:39:28]	John entered observer.
+[22:39:29]	John exited observer at their location.
+[22:39:30]	John entered observer.
