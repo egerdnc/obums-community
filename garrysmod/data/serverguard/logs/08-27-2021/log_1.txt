@@ -383,3 +383,39 @@
 [Fri Aug 27 04:37:32 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6 9 6 9
 [Fri Aug 27 04:42:14 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 1
 [Fri Aug 27 04:43:08 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 04:55:36 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 04:56:10 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 04:57:16 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /doorkick
+[Fri Aug 27 04:57:19 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: /doorkick
+[Fri Aug 27 04:57:29 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6
+[Fri Aug 27 04:57:31 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 9
+[Fri Aug 27 04:57:34 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6 9 6 9 vice haha
+[Fri Aug 27 04:57:37 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6 9 6 69
+[Fri Aug 27 04:57:39 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6 9 6 6 9
+[Fri Aug 27 04:57:40 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6 9
+[Fri Aug 27 04:57:42 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6
+[Fri Aug 27 04:57:43 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 9
+[Fri Aug 27 04:57:44 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6
+[Fri Aug 27 04:57:45 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 9
+[Fri Aug 27 04:57:46 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: vice
+[Fri Aug 27 04:57:47 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: haha
+[Fri Aug 27 04:59:47 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6
+[Fri Aug 27 04:59:48 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 9
+[Fri Aug 27 04:59:50 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 6
+[Fri Aug 27 04:59:51 2021] <STEAM_0:0:420247449> C02.UNION-i4-3740: 9
+[Fri Aug 27 05:15:15 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 05:15:46 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 05:16:08 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 05:17:13 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 05:17:36 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 05:17:58 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 05:22:37 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 05:23:01 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 05:23:22 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 05:24:46 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 05:25:12 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 05:25:33 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 05:30:09 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server
+[Fri Aug 27 05:30:33 2021] Player "Hamood" <STEAM_0:0:420247449> is attempting to connect.
+[Fri Aug 27 05:30:54 2021] Player "Hamood" <STEAM_0:0:420247449> has spawned in the server
+[Fri Aug 27 05:42:00 2021] Player "C02.UNION-i4-3740" <STEAM_0:0:420247449> has left the server

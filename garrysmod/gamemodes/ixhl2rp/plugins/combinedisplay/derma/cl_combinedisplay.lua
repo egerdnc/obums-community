@@ -11,7 +11,7 @@ function PANEL:Init()
 
 	self.lines = {}
 
-	self:SetMaxLines(6)
+	self:SetMaxLines(10)
 	self:SetFont("BudgetLabel")
 
 	self:SetPos(6, 6)
@@ -39,7 +39,7 @@ function PANEL:AddLine(text, color, expireTime, ...)
 	local index = #self.lines + 1
 
 	self.lines[index] = {
-		text = "<:: " .. text,
+		text = "<:: " .. text .. " ::>",
 		color = color or color_white,
 		character = 1
 	}

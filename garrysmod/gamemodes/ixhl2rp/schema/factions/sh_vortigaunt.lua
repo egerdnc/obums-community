@@ -9,9 +9,6 @@ FACTION.isGloballyRecognized = false
 FACTION.runSounds = {[0] = "npc/vort/vort_foot1.wav", [1] = "npc/vort/vort_foot2.wav"}
 
 -- Hooked faction functions below there
-function FACTION:OnTransfered(character)
-	initVortigaunt(character)
-end
 
 function FACTION:OnSpawn(client)
 	local character = client:GetCharacter()

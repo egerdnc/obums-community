@@ -1,5 +1,6 @@
 
 local PLUGIN = PLUGIN
+local CURRENT_AREA = ""
 
 function PLUGIN:CharacterLoaded(character)
 	if (character:IsCombine()) then

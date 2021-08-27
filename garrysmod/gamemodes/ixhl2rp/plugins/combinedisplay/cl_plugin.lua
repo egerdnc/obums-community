@@ -29,7 +29,15 @@ PLUGIN.randomDisplayLines = {
 	"Locating additional units...",
 	"Logging current conditions...",
 	"Tracking incoming objectives...",
-	"Caching local metrics data..."
+	"Caching local metrics data...",
+	"Idle connection...",
+	"Pinging loopback...",
+    "Updating biosignal coordinates...",
+    "Establishing DC link...",
+    "Checking exodus protocol status...",
+    "Sending commdata to dispatch...",
+	"Updating refugee database...",
+	"Receiving module data from command center..."
 }
 
 function PLUGIN:AddCombineDisplayMessage(text, color, time, ...)
