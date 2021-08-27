@@ -868,3 +868,6 @@
 [Fri Aug 27 22:48:23 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> is attempting to connect.
 [Fri Aug 27 22:48:39 2021] Player "The Apex Typhon" <STEAM_0:1:74180635> has spawned in the server
 [Fri Aug 27 22:49:19 2021] <STEAM_0:1:74180635> John spawned SENT "Entity [154][ls_m24scope]"
+[Fri Aug 27 22:57:06 2021] <STEAM_0:1:74180635> John spawned npc "NPC [154][npc_combine_s]"
+[Fri Aug 27 22:57:37 2021] <STEAM_0:1:74180635> John spawned npc "NPC [154][npc_combine_s]"
+[Fri Aug 27 22:58:14 2021] worldspawn has killed John.

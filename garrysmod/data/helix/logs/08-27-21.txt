@@ -3323,3 +3323,27 @@
 [22:48:39]	The Apex Typhon has connected.
 [22:48:59]	The Apex Typhon loaded the character 'John'
 [22:49:19]	John has spawned a 'Entity [154][ls_m24scope]'.
+[22:57:06]	John has spawned a 'NPC [154][npc_combine_s]'.
+[22:57:07]	John has taken 3 damage from npc_combine_s.
+[22:57:07]	John has taken 6 damage from npc_combine_s.
+[22:57:20]	John entered observer.
+[22:57:21]	John exited observer at their location.
+[22:57:21]	John entered observer.
+[22:57:22]	John exited observer at their location.
+[22:57:37]	John has spawned a 'NPC [154][npc_combine_s]'.
+[22:57:38]	John has taken 6 damage from npc_combine_s.
+[22:57:38]	John has taken 6 damage from npc_combine_s.
+[22:57:39]	John has taken 1 damage from npc_combine_s.
+[22:57:56]	John entered observer.
+[22:57:56]	John exited observer at their location.
+[22:57:56]	John entered observer.
+[22:57:59]	John exited observer at their location.
+[22:58:00]	John entered observer.
+[22:58:10]	John exited observer at their location.
+[22:58:11]	John entered observer.
+[22:58:12]	John exited observer at their location.
+[22:58:13]	John has taken 55 damage from worldspawn.
+[22:58:13]	John entered observer.
+[22:58:14]	John exited observer at their location.
+[22:58:14]	John has taken 225 damage from worldspawn.
+[22:58:14]	worldspawn has killed John.
