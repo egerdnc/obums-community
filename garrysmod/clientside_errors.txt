@@ -7121,3 +7121,235 @@ Hamood|5|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:257: 'then' expected near 'self'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:567: 'end' expected (to close 'function' at line 137) near '<eof>'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:567: 'end' expected (to close 'function' at line 137) near '<eof>'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:275: attempt to index field 'loadButton' (a nil value)
+  1. Init - gamemodes/helix/gamemode/core/derma/cl_character.lua:275
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+    3. Add - lua/includes/extensions/client/panel.lua:496
+     4. Init - gamemodes/helix/gamemode/core/derma/cl_character.lua:370
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+       6. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:552
+        7. Include - [C]:-1
+         8. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+          9. unknown - gamemodes/helix/gamemode/shared.lua:95
+           10. include - [C]:-1
+            11. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+             12. DeriveGamemode - [C]:-1
+              13. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:275: attempt to index field 'loadButton' (a nil value)
+  1. Init - gamemodes/helix/gamemode/core/derma/cl_character.lua:275
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+    3. Add - lua/includes/extensions/client/panel.lua:496
+     4. Init - gamemodes/helix/gamemode/core/derma/cl_character.lua:370
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+       6. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:1111
+        7. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:257: 'then' expected near 'self'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:567: 'end' expected (to close 'function' at line 137) near '<eof>'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

@@ -253,25 +253,27 @@ function PANEL:Init()
 	end
 
 	-- load character button
-	self.loadButton = self.mainButtonList:Add("ixMenuButton")
-	self.loadButton:SetText("load")
-	self.loadButton:SizeToContents()
-	self.loadButton.DoClick = function()
-		for i = 1, #ix.characters do
-			local id = ix.characters[i]
-			net.Start("ixCharacterChoose")
-				net.WriteUInt(id, 32)
-			net.SendToServer()
-			print("[Characters]: ", tprint(ix.characters))
-			--print(id)
+	if #ix.characters >= 1 then
+		self.loadButton = self.mainButtonList:Add("ixMenuButton")
+		self.loadButton:SetText("load")
+		self.loadButton:SizeToContents()
+		self.loadButton.DoClick = function()
+			for i = 1, #ix.characters do
+				local id = ix.characters[i]
+				net.Start("ixCharacterChoose")
+					net.WriteUInt(id, 32)
+				net.SendToServer()
+				print("[Characters]: ", tprint(ix.characters))
+				--print(id)
+			end
+			-- self:Dim()
+			-- parent.loadCharacterPanel:SlideUp()
 		end
-		-- self:Dim()
-		-- parent.loadCharacterPanel:SlideUp()
 	end
 
-	if (!bHasCharacter) then
-		self.loadButton:SetDisabled(true)
-	end
+	-- if (!bHasCharacter) then
+	-- 	self.loadButton:SetDisabled(true)
+	-- end
 
 	-- community button
 	local extraURL = ix.config.Get("communityURL", "")
