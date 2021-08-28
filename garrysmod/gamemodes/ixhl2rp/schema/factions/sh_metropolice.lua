@@ -4,6 +4,33 @@ FACTION.color = Color(50, 100, 150)
 FACTION.models = {"models/dpfilms/metropolice/hdpolice.mdl"}
 FACTION.isDefault = false
 FACTION.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
+FACTION.Ranks = {
+    [1] = {"UNION i4", nil, CLASS_I4},
+    [2] = {"GRID i4", nil, CLASS_I4GRID},
+    [3] = {"JURY i4", nil, CLASS_I4JURY},
+    [4] = {"UNION i3", nil, CLASS_I3},
+    [5] = {"GRID i3", nil, CLASS_I3GRID},
+    [6] = {"JURY i3", nil, CLASS_I3JURY},
+	[7] = {"UNION i2", nil, CLASS_I2},
+    [8] = {"GRID i2", nil, CLASS_I2GRID},
+    [9] = {"JURY i2", nil, CLASS_I2JURY},
+    [10] = {"UNION i1", nil, CLASS_I1},
+    [11] = {"GRID i1", nil, CLASS_I1GRID},
+    [12] = {"JURY i1", nil, CLASS_I1JURY},
+	[13] = {"UNION OfC", nil, CLASS_OFC},
+    [14] = {"GRID OfC", nil, CLASS_OFCGRID},
+    [15] = {"JURY OfC", nil, CLASS_OFCJURY},
+	[16] = {"UNION SqL", nil, CLASS_SQL, true},
+    [17] = {"GRID SqL", nil, CLASS_GRIDSQL, true},
+    [18] = {"JURY SqL", nil, CLASS_JURYSQL, true},
+	[19] = {"KING SqL", nil, CLASS_KINGSQL, true},
+    [20] = {"VICE SqL", nil, CLASS_SQLVICE, true},
+	[21] = {"UNION DvL", nil, CLASS_DVL, true},
+    [22] = {"GRID DvL", nil, CLASS_GRIDDVL, true},
+    [23] = {"JURY DvL", nil, CLASS_JURYDVL, true},
+	[24] = {"KING DvL", nil, CLASS_KINGDVL, true},
+    [25] = {"VICE DvL", nil, CLASS_VICEDVL, true}
+}
 
 FACTION.channels = {
 	["union"] = true
@@ -29,63 +56,6 @@ function FACTION:OnTransferred(client)
 	client:SetName(self:GetDefaultName())
 	client:SetModel(self.models[1])
 	client:AddCombineDisplayMessage("@cCombineLoaded")
-end
-
-function FACTION:OnNameChanged(client, oldValue, value)
-	local character = client:GetCharacter()
-
-	if (!Schema:IsCombineRank(oldValue, "UNION-i4") and Schema:IsCombineRank(value, "UNION-i4")) then
-		character:JoinClass(CLASS_I4)
-	elseif (!Schema:IsCombineRank(oldValue, "UNION-i3") and Schema:IsCombineRank(value, "UNION-i3")) then
-		character:JoinClass(CLASS_I3)
-	elseif (!Schema:IsCombineRank(oldValue, "UNION-i2") and Schema:IsCombineRank(value, "UNION-i2")) then
-		character:JoinClass(CLASS_I2)
-	elseif (!Schema:IsCombineRank(oldValue, "UNION-i1") and Schema:IsCombineRank(value, "UNION-i1")) then
-		character:JoinClass(CLASS_I1)
-	elseif (!Schema:IsCombineRank(oldValue, "UNION-OfC") and Schema:IsCombineRank(value, "UNION-OfC")) then
-		character:JoinClass(CLASS_OFC)
-	elseif (!Schema:IsCombineRank(oldValue, "UNION-SqL") and Schema:IsCombineRank(value, "UNION-SqL")) then
-		character:JoinClass(CLASS_SQL)
-	elseif (!Schema:IsCombineRank(oldValue, "UNION-DvL") and Schema:IsCombineRank(value, "UNION-DvL")) then
-		character:JoinClass(CLASS_DVL)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-i4") and Schema:IsCombineRank(value, "GRID-i4")) then
-		character:JoinClass(CLASS_I4GRID)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-i3") and Schema:IsCombineRank(value, "GRID-i3")) then
-		character:JoinClass(CLASS_I3GRID)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-i2") and Schema:IsCombineRank(value, "GRID-i2")) then
-		character:JoinClass(CLASS_I2GRID)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-i1") and Schema:IsCombineRank(value, "GRID-i1")) then
-		character:JoinClass(CLASS_I1GRID)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-OfC") and Schema:IsCombineRank(value, "GRID-OfC")) then
-		character:JoinClass(CLASS_OFCGRID)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-SqL") and Schema:IsCombineRank(value, "GRID-SqL")) then
-		character:JoinClass(CLASS_GRIDSQL)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-DvL") and Schema:IsCombineRank(value, "GRID-DvL")) then
-		character:JoinClass(CLASS_GRIDDVL)
-	elseif (!Schema:IsCombineRank(oldValue, "JURY-i4") and Schema:IsCombineRank(value, "JURY-i4")) then
-		character:JoinClass(CLASS_I4JURY)
-	elseif (!Schema:IsCombineRank(oldValue, "JURY-i3") and Schema:IsCombineRank(value, "JURY-i3")) then
-		character:JoinClass(CLASS_I3JURY)
-	elseif (!Schema:IsCombineRank(oldValue, "JURY-i2") and Schema:IsCombineRank(value, "JURY-i2")) then
-		character:JoinClass(CLASS_I2JURY)
-	elseif (!Schema:IsCombineRank(oldValue, "GRID-i1") and Schema:IsCombineRank(value, "JURY-i1")) then
-		character:JoinClass(CLASS_I1JURY)
-	elseif (!Schema:IsCombineRank(oldValue, "JURY-OfC") and Schema:IsCombineRank(value, "JURY-OfC")) then
-		character:JoinClass(CLASS_OFCJURY)
-	elseif (!Schema:IsCombineRank(oldValue, "JURY-SqL") and Schema:IsCombineRank(value, "JURY-SqL")) then
-		character:JoinClass(CLASS_JURYSQL)
-	elseif (!Schema:IsCombineRank(oldValue, "JURY-DvL") and Schema:IsCombineRank(value, "JURY-DvL")) then
-		character:JoinClass(CLASS_JURYDVL)
-	elseif (!Schema:IsCombineRank(oldValue, "KING-SqL") and Schema:IsCombineRank(value, "KING-SqL")) then
-		character:JoinClass(CLASS_KINGSQL)
-	elseif (!Schema:IsCombineRank(oldValue, "KING-DvL") and Schema:IsCombineRank(value, "KING-DvL")) then
-		character:JoinClass(CLASS_KINGDVL)
-	elseif (!Schema:IsCombineRank(oldValue, "VICE-SqL") and Schema:IsCombineRank(value, "VICE-SqL")) then
-		character:JoinClass(CLASS_SQLVICE)
-	elseif (!Schema:IsCombineRank(oldValue, "VICE-DvL") and Schema:IsCombineRank(value, "VICE-DvL")) then
-		character:JoinClass(CLASS_VICEDVL)
-	end
-
 end
 
 FACTION_MPF = FACTION.index
