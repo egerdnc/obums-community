@@ -49,7 +49,7 @@ function FACTION:OnCharacterCreated(client, character)
 end
 
 function FACTION:GetDefaultName(client)
-	return "C02.UNION-i4-" .. Schema:ZeroNumber(math.random(999, 9999), 4), true
+	return "CP-C20.UNION-i4-" .. Schema:ZeroNumber(math.random(999, 9999), 4), true
 end
 
 function FACTION:OnTransferred(client)
