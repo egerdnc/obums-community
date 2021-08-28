@@ -16,7 +16,7 @@ SWEP.Drop = false
 
 SWEP.ViewModelFOV = 45
 SWEP.ViewModelFlip = false
-SWEP.AnimPrefix	 = "normal"
+SWEP.AnimPrefix	 = "melee"
 
 SWEP.ViewTranslation = 4
 
@@ -41,7 +41,7 @@ SWEP.LowerAngles2 = Angle(0, 5, -22)
 
 SWEP.IsAlwaysLowered = true
 SWEP.FireWhenLowered = true
-SWEP.HoldType = "normal"
+SWEP.HoldType = "melee"
 
 -- luacheck: globals ACT_VM_FISTS_DRAW ACT_VM_FISTS_HOLSTER
 ACT_VM_FISTS_DRAW = 3
@@ -66,7 +66,7 @@ function SWEP:Precache()
 end
 
 function SWEP:Initialize()
-	self:SetHoldType(self.HoldType)
+	self:SetWeaponHoldType("normal")
 end
 
 function SWEP:PrimaryAttack()
