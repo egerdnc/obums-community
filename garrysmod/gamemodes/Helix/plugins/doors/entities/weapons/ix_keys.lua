@@ -70,11 +70,11 @@ function SWEP:Initialize()
 end
 
 function SWEP:PrimaryAttack()
-	local time = ix.config.Get("doorLockTime", 1)
-	local time2 = math.max(time, 1)
+	-- local time = ix.config.Get("doorLockTime", 1)
+	-- local time2 = math.max(time, 1)
 
-	self:SetNextPrimaryFire(CurTime() + time2)
-	self:SetNextSecondaryFire(CurTime() + time2)
+	self:SetNextPrimaryFire(CurTime() + 0.4)
+	self:SetNextSecondaryFire(CurTime() + 0.4)
 
 	if (!IsFirstTimePredicted()) then
 		return
@@ -95,17 +95,16 @@ function SWEP:PrimaryAttack()
 			1. The entity is door and client has access to the door.
 			2. The entity is vehicle and the "owner" variable is same as client's character ID.
 	--]]
-	if (IsValid(entity) and
-		(
-			(entity:IsDoor() and entity:CheckDoorAccess(self.Owner)) or
-			(entity:IsVehicle() and entity.CPPIGetOwner and entity:CPPIGetOwner() == self.Owner)
-		)
-	) then
+	if (IsValid(entity) and ((entity:IsDoor() and entity:CheckDoorAccess(self.Owner)) or (entity:IsVehicle() and entity.CPPIGetOwner and entity:CPPIGetOwner() == self.Owner))) then
 		--self.Owner:SetAction("@locking", time, function()
 			self:ToggleLock(entity, true)
 		--end)
 
 		return
+	end
+	if ((IsValid(entity)) and (entity:IsDoor() and not entity:CheckDoorAccess(self.Owner))) then
+		--self.Owner:AnimRestartGesture(GESTURE_SLOT_ATTACK_AND_RELOAD, ACT_HL2MP_GESTURE_RANGE_ATTACK_FIST, true)
+		self.Owner:EmitSound("physics/wood/wood_crate_impact_hard3.wav", 100, math.random(90, 110))
 	end
 end
 
@@ -160,11 +159,11 @@ function SWEP:ToggleLock(door, state)
 end
 
 function SWEP:SecondaryAttack()
-	local time = ix.config.Get("doorLockTime", 1)
-	local time2 = math.max(time, 1)
+	-- local time = ix.config.Get("doorLockTime", 1)
+	-- local time2 = math.max(time, 1)
 
-	self:SetNextPrimaryFire(CurTime() + time2)
-	self:SetNextSecondaryFire(CurTime() + time2)
+	self:SetNextPrimaryFire(CurTime() + 0.4)
+	self:SetNextSecondaryFire(CurTime() + 0.4)
 
 	if (!IsFirstTimePredicted()) then
 		return
@@ -186,16 +185,15 @@ function SWEP:SecondaryAttack()
 			1. The entity is door and client has access to the door.
 			2. The entity is vehicle and the "owner" variable is same as client's character ID.
 	]]--
-	if (IsValid(entity) and
-		(
-			(entity:IsDoor() and entity:CheckDoorAccess(self.Owner)) or
-			(entity:IsVehicle() and entity.CPPIGetOwner and entity:CPPIGetOwner() == self.Owner)
-		)
-	) then
+	if (IsValid(entity) and ((entity:IsDoor() and entity:CheckDoorAccess(self.Owner)) or(entity:IsVehicle() and entity.CPPIGetOwner and entity:CPPIGetOwner() == self.Owner))) then
 		--self.Owner:SetAction("@unlocking", time, function()
 			self:ToggleLock(entity, false)
 		--end)
 
 		return
+	end
+	if ((IsValid(entity)) and (entity:IsDoor() and not entity:CheckDoorAccess(self.Owner))) then
+		self.Owner:EmitSound("physics/wood/wood_crate_impact_hard3.wav", 100, math.random(90, 110))
+		--self.Owner:AnimRestartGesture(GESTURE_SLOT_ATTACK_AND_RELOAD, ACT_HL2MP_GESTURE_RANGE_ATTACK_FIST, true)
 	end
 end

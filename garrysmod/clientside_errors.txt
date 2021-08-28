@@ -7353,3 +7353,333 @@ Hamood|4|STEAM_0:0:420247449
 
 
 
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: function arguments expected near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:104: ')' expected near 'then'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:105: 'then' expected near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:107: 'end' expected (to close 'function' at line 72) near 'elseif'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:107: unexpected symbol near 'then'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:195: '=' expected near 'print'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:198: '=' expected near 'print'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:196: ')' expected near 'physics'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:196: ')' expected near '100'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/entities/weapons/ix_keys.lua:168: ')' expected (to close '(' at line 166) near 'if'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:221
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

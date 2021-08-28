@@ -15,7 +15,7 @@ function FallLegs(ply, attacker)
 			ply:Notify("You broke your legs!")
 			BrokenLegs[ply] = true
 			
-			timer.Simple(300, function()
+			timer.Simple(180, function()
 				ply:SetRunSpeed(240)
 				ply:SetWalkSpeed(124)
 				ply:Notify("Your legs are good again!")
