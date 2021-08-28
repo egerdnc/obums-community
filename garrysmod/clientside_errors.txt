@@ -6364,3 +6364,687 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:39: ')' expected (to close '(' at line 33) near 'function'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_overrides.lua:72: attempt to call method 'SetFont' (a nil value)
+  1. SetFont - gamemodes/helix/gamemode/core/derma/cl_overrides.lua:72
+   2. OpenMenu - gamemodes/helix/gamemode/core/derma/cl_overrides.lua:207
+    3. DoClick - lua/vgui/dcombobox.lua:264
+     4. unknown - lua/vgui/dlabel.lua:237
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:30: function arguments expected near 'local'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:60: function arguments expected near 'if'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:30: unexpected symbol near 'local'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:30: '<name>' expected near 'local'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:30: function arguments expected near 'local'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:34: function arguments expected near ','
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:30: unexpected symbol near 'local'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:30: '<name>' expected near 'local'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:71: 'end' expected (to close 'function' at line 57) near '<eof>'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:71: 'end' expected (to close 'function' at line 57) near '<eof>'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:62: ')' expected near 'name'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:65: 'end' expected (to close 'function' at line 48) near '<eof>'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50: '=' expected near 'end'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50: function arguments expected near 'setCharacterCitizen'
+  1. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_faction.lua:46
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:45
+    3. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:251
+     4. Call - gamemodes/helix/gamemode/shared.lua:142
+      5. unknown - lua/includes/modules/gamemode.lua:33
+       6. DeriveGamemode - [C]:-1
+        7. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_charload.lua:304: unexpected symbol near ')'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:258: attempt to index field 'character' (a nil value)
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:258
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:258: attempt to index a nil value
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:258
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:258: '=' or 'in' expected near '('
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: ')' expected (to close '(' at line 259) near 'print'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] lua/includes/extensions/table.lua:693: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. GetKeys - lua/includes/extensions/table.lua:693
+    3. PrintTable - lua/includes/util.lua:64
+     4. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:259
+      5. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:262: attempt to index global 'Json' (a nil value)
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:262
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:562: attempt to concatenate local 'v' (a userdata value)
+  1. tprint - gamemodes/helix/gamemode/core/derma/cl_character.lua:562
+   2. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:262
+    3. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:562: attempt to concatenate local 'v' (a userdata value)
+  1. tprint - gamemodes/helix/gamemode/core/derma/cl_character.lua:562
+   2. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:263
+    3. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/sh_util.lua:391: function arguments expected near 'end'
+  1. unknown - gamemodes/helix/gamemode/cl_init.lua:39
+   2. DeriveGamemode - [C]:-1
+    3. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/meta/sh_character.lua:102: '<name>' expected near 'function'
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_character.lua:37
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/meta/sh_character.lua:102: '<name>' expected near 'function'
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_character.lua:37
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/meta/sh_character.lua:102: '<name>' expected near 'function'
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_character.lua:37
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/meta/sh_character.lua:102: '(' expected near 'function'
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_character.lua:37
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/meta/sh_character.lua:102: '(' expected near 'function'
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_character.lua:37
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/meta/sh_character.lua:102: '(' expected near 'function'
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_character.lua:37
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:93: function arguments expected near 'local'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:105: ')' expected (to close '(' at line 95) near 'function'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:96: function arguments expected near 'query'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:91
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/cl_plugin.lua:79: attempt to call method 'GetCharacter' (a nil value)
+  1. v - gamemodes/helix/plugins/doors/cl_plugin.lua:79
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. v - gamemodes/helix/plugins/thirdperson.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/crosshair.lua:57: attempt to call method 'GetCharacter' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/crosshair.lua:57
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:91
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/doors/cl_plugin.lua:79: attempt to call method 'GetCharacter' (a nil value)
+  1. v - gamemodes/helix/plugins/doors/cl_plugin.lua:79
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. v - gamemodes/helix/plugins/thirdperson.lua:75
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/crosshair.lua:57: attempt to call method 'GetCharacter' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/crosshair.lua:57
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/plugins/thirdperson.lua:75: attempt to call method 'GetCharacter' (a nil value)
+  1. CanOverrideView - gamemodes/helix/plugins/thirdperson.lua:75
+   2. v - gamemodes/helix/plugins/thirdperson.lua:142
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+
+
+
+Hamood|2|STEAM_0:0:420247449
+[Helix] Something has errored and prevented the framework from loading correctly - check your console for errors!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: attempt to call global 'prin' (a nil value)
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: attempt to concatenate a nil value
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: attempt to concatenate a nil value
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:550: bad argument #1 to 'pairs' (table expected, got number)
+  1. pairs - [C]:-1
+   2. tprint - gamemodes/helix/gamemode/core/derma/cl_character.lua:550
+    3. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+     4. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:550: bad argument #1 to 'pairs' (table expected, got number)
+  1. pairs - [C]:-1
+   2. tprint - gamemodes/helix/gamemode/core/derma/cl_character.lua:550
+    3. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+     4. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:264: bad argument #1 to 'WriteUInt' (number expected, got nil)
+  1. WriteUInt - [C]:-1
+   2. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:264
+    3. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+
+Hamood|3|STEAM_0:0:420247449
+
+[ERROR] Warning! A net message (ixCharacterChoose) is already started! Discarding in favor of the new message! (ixOptionSync)
+  1. Sync - gamemodes/helix/gamemode/core/libs/sh_option.lua:253
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_option.lua:126
+    3. Call - gamemodes/helix/gamemode/shared.lua:146
+     4. unknown - lua/includes/modules/gamemode.lua:33
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1128: ')' expected (to close '(' at line 1114) near 'end'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:238: 'then' expected near 'local'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|4|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:565: 'end' expected (to close 'function' at line 137) near '<eof>'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

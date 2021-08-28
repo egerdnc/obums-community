@@ -119,7 +119,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[02:51][ServerGuard] [mysql] Connected to the database!
+[04:58][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -128,22 +128,255 @@ Error! Flag "$halflambert" is multiply defined in material "models/bloo_ltcom_ze
 Making workshop map available for client download
 Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
-Attempted to create unknown entity type ix_citizenterminal!
-Attempted to create unknown entity type ix_cpterminal!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0828019.log
-L 08/28/2021 - 02:51:57: Log file started (file "logs\L0828019.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0828030.log
+L 08/28/2021 - 04:58:25: Log file started (file "logs\L0828030.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
-Model missing: models/sal/halloween/ninja.mdl
-[02:52][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[04:58][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
 duplicate column name: member
-Attempted to create unknown entity type ix_citizenterminal!
-Attempted to create unknown entity type ix_cpterminal!
 [LOG] Hamood has connected.
-Loaded (47) for Hamood
+Loaded () for Hamood
+Created character '1' for Hamood.
+[LOG] Hamood created the character 'ASD ASD A'
+[LOG] ASD ASD A has gained a 'Suitcase' #1.
+[LOG] ASD ASD A has gained a 'Citizen ID' #2.
+[LOG] Hamood loaded the character 'ASD ASD A'
+
+[serverguard] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. playerSpawnHook - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. unknown - addons/serverguard/lua/tools/sv_administration.lua:161
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+         8. unknown - lua/includes/extensions/net.lua:32
+
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+       6. unknown - lua/includes/extensions/net.lua:32
+
+[LOG] Hamood (STEAM_0:0:420247449) deleted character 'ASD ASD A'
+Created character '1' for Hamood.
+[LOG] Hamood created the character 'ASD ASD ASD'
+[LOG] ASD ASD ASD has gained a 'Suitcase' #1.
+[LOG] ASD ASD ASD has gained a 'Citizen ID' #2.
+[LOG] Hamood loaded the character 'ASD ASD ASD'
+
+[serverguard] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. playerSpawnHook - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. unknown - addons/serverguard/lua/tools/sv_administration.lua:161
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+         8. unknown - lua/includes/extensions/net.lua:32
+
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+       6. unknown - lua/includes/extensions/net.lua:32
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: attempt to call global 'prin' (a nil value)
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+Unknown command "asd"
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: attempt to concatenate a nil value
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:260: attempt to concatenate a nil value
+  1. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+   2. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:550: bad argument #1 to 'pairs' (table expected, got number)
+  1. pairs - [C]:-1
+   2. tprint - gamemodes/helix/gamemode/core/derma/cl_character.lua:550
+    3. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+     4. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:550: bad argument #1 to 'pairs' (table expected, got number)
+  1. pairs - [C]:-1
+   2. tprint - gamemodes/helix/gamemode/core/derma/cl_character.lua:550
+    3. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:260
+     4. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)
+[05:10][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+Client "Hamood" connected (192.168.1.2:27006).
+[LOG] Hamood has connected.
+Loaded (1) for Hamood
+[Hamood|3|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:264: bad argument #1 to 'WriteUInt' (number expected, got nil)
+  1. WriteUInt - [C]:-1
+   2. DoClick - gamemodes/helix/gamemode/core/derma/cl_character.lua:264
+    3. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:126
+
+
+[Hamood|3|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] Warning! A net message (ixCharacterChoose) is already started! Discarding in favor of the new message! (ixOptionSync)
+  1. Sync - gamemodes/helix/gamemode/core/libs/sh_option.lua:253
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_option.lua:126
+    3. Call - gamemodes/helix/gamemode/shared.lua:146
+     4. unknown - lua/includes/modules/gamemode.lua:33
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[LOG] Hamood loaded the character 'ASD ASD ASD'
+
+[serverguard] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. playerSpawnHook - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. unknown - addons/serverguard/lua/tools/sv_administration.lua:161
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+         8. unknown - lua/includes/extensions/net.lua:32
+
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+       6. unknown - lua/includes/extensions/net.lua:32
+
+[LOG] Hamood (STEAM_0:0:420247449) deleted character 'ASD ASD ASD'
+Created character '1' for Hamood.
+[LOG] Hamood created the character 'ASD HDSHSD'
+[LOG] ASD HDSHSD has gained a 'Suitcase' #1.
+[LOG] ASD HDSHSD has gained a 'Citizen ID' #2.
+[LOG] Hamood loaded the character 'ASD HDSHSD'
+
+[serverguard] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. playerSpawnHook - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. unknown - addons/serverguard/lua/tools/sv_administration.lua:161
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+         8. unknown - lua/includes/extensions/net.lua:32
+
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+       6. unknown - lua/includes/extensions/net.lua:32
+
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)
+[05:12][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+Client "Hamood" connected (192.168.1.2:27006).
+[LOG] Hamood has connected.
+Loaded (1) for Hamood
+[LOG] Hamood loaded the character 'ASD HDSHSD'
+
+[serverguard] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. playerSpawnHook - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. unknown - addons/serverguard/lua/tools/sv_administration.lua:161
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+         8. unknown - lua/includes/extensions/net.lua:32
+
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+       6. unknown - lua/includes/extensions/net.lua:32
+
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1128: ')' expected (to close '(' at line 1114) near 'end'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/init.lua:19
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+[Hamood|4|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1128: ')' expected (to close '(' at line 1114) near 'end'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[Hamood|4|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:238: 'then' expected near 'local'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[Hamood|4|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:565: 'end' expected (to close 'function' at line 137) near '<eof>'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:95
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[LOG] Hamood (STEAM_0:0:420247449) has disconnected.
+Dropped Hamood from server (Disconnect by user.)
+[05:19][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+Client "Hamood" connected (192.168.1.2:27006).
+[LOG] Hamood has connected.
+Loaded (1) for Hamood

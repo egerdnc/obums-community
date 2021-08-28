@@ -40,30 +40,28 @@ function FACTION:OnCharacterCreated(client, character)
 	})
 end
 
+function FACTION:OnTransferred(character)
+	local client = character:GetPlayer()
+	setCharacterCitizen(character, client)
+end
+
 function FACTION:OnSpawn(client)
 	local character = client:GetCharacter()
-
-	--setCharacterCitizen(character)
+	setCharacterCitizen(character, client)
 end
 
-function FACTION:OnTransferred(character)
-	--setCharacterCitizen(character)
-end
-
-function setCharacterCitizen(character)
+function setCharacterCitizen(character, client)
 	local model = character:GetData("citizen-model")
+	local name = character:GetData("citizen-name")
+	local bodygroup = character:GetData("citizen-bodygroup")
 	if model == nil or model == "" then initCitizenData(character) return end
-
-	character:SetFaction("citizen")
+	
+	character:SetFaction(3)
 	character:SetModel(model)
-end
-
-function initCitizenData(character)
-	local model = character:GetData()
-	character:SetData("citizen-model", model)
-	timer.Simple(1, function()
-		setCharacterCitizen(character)
-	end)
+	character:SetName(name)
+	if bodygroup ~= nil or bodygroup ~= {} or bodygroup ~= "" then
+		client:SetBodyGroups(bodygroup)
+	end
 end
 
 FACTION_CITIZEN = FACTION.index

@@ -14,21 +14,31 @@ FACTION.canRemoveWaypoints = true
 FACTION.canUpdateWaypoints = true
 
 
-function FACTION:OnCharacterCreated(client, character)
-	local inventory = character:GetInventory()
+-- function FACTION:OnCharacterCreated(client, character)
+-- 	local inventory = character:GetInventory()
 	
-	inventory:Add("flashlight", 1)
-	inventory:Add("stunstick", 1)
-end
+-- 	inventory:Add("flashlight", 1)
+-- 	inventory:Add("stunstick", 1)
+-- end
 
 function FACTION:GetDefaultName(client)
 	return "C02.UNION-i4-" .. Schema:ZeroNumber(math.random(999, 9999), 4), true
 end
 
-function FACTION:OnTransferred(client)
-	client:SetName(self:GetDefaultName())
-	client:SetModel(self.models[1])
-	client:AddCombineDisplayMessage("@cCombineLoaded")
+function FACTION:OnTransferred(character)
+	local client = character:GetPlayer()
+	local citizenBodyGroup = client:GetBodyGroups()
+	local citizenModel = character:GetModel()
+	local citizenName = character:GetName()
+	character:SetData("citizen-model", citizenModel)
+	character:SetData("citizen-name", citizenName)
+	character:SetData("citizen-bodygroup", citizenBodyGroup)
+
+	--timer.Simple(0.5, function()	
+		character:SetName(self:GetDefaultName())
+		character:SetModel(self.models[1])
+		character:AddCombineDisplayMessage("@cCombineLoaded")
+	--end)
 end
 
 function FACTION:OnNameChanged(client, oldValue, value)
