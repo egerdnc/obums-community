@@ -2,7 +2,7 @@
 AddCSLuaFile()
 
 if (CLIENT) then
-	SWEP.PrintName = "Keys"
+	SWEP.PrintName = "Hands"
 	SWEP.Slot = 0
 	SWEP.SlotPos = 2
 	SWEP.DrawAmmo = false
@@ -16,7 +16,7 @@ SWEP.Drop = false
 
 SWEP.ViewModelFOV = 45
 SWEP.ViewModelFlip = false
-SWEP.AnimPrefix	 = "rpg"
+SWEP.AnimPrefix	 = "normal"
 
 SWEP.ViewTranslation = 4
 
@@ -41,7 +41,7 @@ SWEP.LowerAngles2 = Angle(0, 5, -22)
 
 SWEP.IsAlwaysLowered = true
 SWEP.FireWhenLowered = true
-SWEP.HoldType = "passive"
+SWEP.HoldType = "normal"
 
 -- luacheck: globals ACT_VM_FISTS_DRAW ACT_VM_FISTS_HOLSTER
 ACT_VM_FISTS_DRAW = 3
