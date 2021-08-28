@@ -234,20 +234,22 @@ function PANEL:Init()
 	self.mainButtonList:Dock(LEFT)
 
 	-- create character button
-	local createButton = self.mainButtonList:Add("ixMenuButton")
-	createButton:SetText("create")
-	createButton:SizeToContents()
-	createButton.DoClick = function()
-		local maximum = hook.Run("GetMaxPlayerCharacter", LocalPlayer()) or ix.config.Get("maxCharacters", 5)
-		-- don't allow creation if we've hit the character limit
-		if (#ix.characters >= maximum) then
-			self:GetParent():ShowNotice(3, L("maxCharacters"))
-			return
-		end
+	if #ix.characters == 0 then
+		local createButton = self.mainButtonList:Add("ixMenuButton")
+		createButton:SetText("create")
+		createButton:SizeToContents()
+		createButton.DoClick = function()
+			local maximum = hook.Run("GetMaxPlayerCharacter", LocalPlayer()) or ix.config.Get("maxCharacters", 5)
+			-- don't allow creation if we've hit the character limit
+			if (#ix.characters >= maximum) then
+				self:GetParent():ShowNotice(3, L("maxCharacters"))
+				return
+			end
 
-		self:Dim()
-		parent.newCharacterPanel:SetActiveSubpanel("faction", 0)
-		parent.newCharacterPanel:SlideUp()
+			self:Dim()
+			parent.newCharacterPanel:SetActiveSubpanel("faction", 0)
+			parent.newCharacterPanel:SlideUp()
+		end
 	end
 
 	-- load character button
@@ -255,8 +257,16 @@ function PANEL:Init()
 	self.loadButton:SetText("load")
 	self.loadButton:SizeToContents()
 	self.loadButton.DoClick = function()
-		self:Dim()
-		parent.loadCharacterPanel:SlideUp()
+		for i = 1, #ix.characters do
+			local id = ix.characters[i]
+			net.Start("ixCharacterChoose")
+				net.WriteUInt(id, 32)
+			net.SendToServer()
+			print("[Characters]: ", tprint(ix.characters))
+			--print(id)
+		end
+		-- self:Dim()
+		-- parent.loadCharacterPanel:SlideUp()
 	end
 
 	if (!bHasCharacter) then
@@ -435,8 +445,8 @@ function PANEL:OnCharacterDeleted(character)
 end
 
 function PANEL:OnCharacterLoadFailed(error)
-	self.loadCharacterPanel:SetMouseInputEnabled(true)
-	self.loadCharacterPanel:SlideUp()
+	--self.loadCharacterPanel:SetMouseInputEnabled(true)
+	--self.loadCharacterPanel:SlideUp()
 	self:ShowNotice(3, error)
 end
 
@@ -539,3 +549,18 @@ if (IsValid(ix.gui.characterMenu)) then
 	--TODO: REMOVE ME
 	ix.gui.characterMenu = vgui.Create("ixCharMenu")
 end
+
+function tprint (tbl, indent)
+	if not indent then indent = 0 end
+	for k, v in pairs(tbl) do
+	  formatting = string.rep("  ", indent) .. k .. ": "
+	  if type(v) == "table" then
+		print(formatting)
+		tprint(v, indent+1)
+	  elseif type(v) == 'boolean' then
+		print(formatting .. tostring(v))      
+	  else
+		print(formatting .. v)
+	  end
+	end
+  end
