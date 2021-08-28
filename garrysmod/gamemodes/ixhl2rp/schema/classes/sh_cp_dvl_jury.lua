@@ -8,7 +8,7 @@ end
 
 function CLASS:OnSet(client)
 	local character = client:GetCharacter()
-	  character:SetModel("models/dpfilms/metropolice/elite_police.mdl")
+	  character:SetModel("models/dpfilms/metropolice/policetrench.mdl")
   	local inventory = character:GetInventory()
   	local itemFilter = {"mp7"}
   	if (inventory:HasItems(itemFilter)) then
