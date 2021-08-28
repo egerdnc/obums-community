@@ -1,31 +1,31 @@
 local PLUGIN = PLUGIN
 
 function PLUGIN:OnCharacterCreated(client, character)
-    local bank = ix.item.CreateInv(10, 10, os.time())
+    local bank = ix.item.CreateInv(12, 12, os.time())
     bank:SetOwner(character:GetID())
     bank:Sync(client)
 
-    character:SetData("bankID", bank:GetID())
+    character:SetData("storageID", bank:GetID())
 end
 
 function PLUGIN:PlayerLoadedCharacter(client, character, currentCharacter)
-    local ID = character:GetData("bankID")
+    local ID = character:GetData("storageID")
     local bank
 
     if ID then
         bank = ix.item.inventories[ID]
 
         if not bank then
-            ix.item.RestoreInv(ID, 10, 10, function(inventory)
+            ix.item.RestoreInv(ID, 12, 12, function(inventory)
                 inventory:SetOwner(character:GetID())
                 bank = inventory
             end)
         end
     else
-        bank = ix.item.CreateInv(10, 10, os.time())
+        bank = ix.item.CreateInv(12, 12, os.time())
         bank:SetOwner(character:GetID())
         bank:Sync(character)
 
-        character:SetData("bankID", bank:GetID())
+        character:SetData("storageID", bank:GetID())
     end
 end

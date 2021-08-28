@@ -23,14 +23,14 @@ function ENT:Use(activator)
     local character = activator:GetCharacter()
     if not character then return end
 
-    local ID = character:GetData("bankID")
+    local ID = character:GetData("storageID")
     local bank
 
     if ID then
         bank = ix.item.inventories[ID]
 
         if not bank then
-            ix.item.RestoreInv(ID, 10, 10, function(inventory)
+            ix.item.RestoreInv(ID, 12, 12, function(inventory)
                 inventory:SetOwner(character:GetID())
                 bank = inventory
             end)
@@ -40,7 +40,7 @@ function ENT:Use(activator)
         bank:SetOwner(character:GetID())
         bank:Sync(activator)
 
-        character:SetData("bankID", bank:GetID())
+        character:SetData("storageID", bank:GetID())
     end
 
     ix.storage.Open(activator, bank, {

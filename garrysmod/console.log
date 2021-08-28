@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in......
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -68,70 +68,3 @@ SOLID_VPHYSICS static prop with no vphysics model! (models/props_combine/tpcontr
 SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
 SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
 SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
-ServerGuard (SERVER) Loaded.
-Wiremod Version 'Workshop' loaded
-[DOWNLOADER] SCANNING 11 ADDONS TO ADD RESOURCES...
-[DOWNLOADER] [+] 648741981  rp_city2_v4_final
-[DOWNLOADER] [+] 2306939705 Romka's Combine Soldiers
-[DOWNLOADER] [+] 160250458  Wiremod
-[DOWNLOADER] [+] 104491619  Metropolice Pack
-[DOWNLOADER] [+] 677125227  Enhanced Citizens v4
-[DOWNLOADER] [+] 254077907  Half-Life 2 Beta Weapons Pack V2
-[DOWNLOADER] FINISHED TO ADD RESOURCES: 6 ADDONS SELECTED
----------------------------------
-| Loading ServerSide PermaProps |
----------------------------------
-permaprops/sv_lib.lua
-permaprops/sv_menu.lua
-permaprops/sv_permissions.lua
-permaprops/sv_specialfcn.lua
-permaprops/sv_sql.lua
------------------------------
-| Loading Shared PermaProps |
------------------------------
----------------------------------
-| Loading ClientSide PermaProps |
----------------------------------
-permaprops/cl_drawent.lua
-permaprops/cl_menu.lua
--------------------------------
-KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse.vmt
-(*VertexLitGeneric*), 
-KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_ins2/spas12_bri/shotgun_diffuse.vmt
-(*VertexLitGeneric*), 
- +---------------------------------+
- |          E2 EXTENSIONS          |
- +----------------+----------------+
- |    ENABLED     |    DISABLED    |
- +----------------+----------------+
- | console        | constraintcore |
- | file           | effects        |
- | find           | http           |
- | holo           | propcore       |
- | npc            | remoteupload   |
- | ranger         | wiring         |
- | serialization  |                |
- | sound          |                |
- +----------------+----------------+
-
-[serverguard] HTTP failed - ISteamHTTP isn't available!
-  1. Fetch - lua/includes/modules/http.lua:42
-   2. v - addons/serverguard/lua/sg_server.lua:38
-    3. unknown - lua/includes/modules/hook.lua:84
-
-[06:38][ServerGuard] [mysql] Connected to the database!
-material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
-
-material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
-
-Error! Flag "$halflambert" is multiply defined in material "models/bloo_ltcom_zel/citizens/female_hands"!
-Making workshop map available for client download
-Using map cycle file cfg/mapcycle.txt.
-Attempted to create unknown entity type info_ladder!
-Failed to load .nav file: Cannot access!
-Server logging enabled.
-Server logging data to file logs\L0828036.log
-L 08/28/2021 - 06:38:05: Log file started (file "logs\L0828036.log") (game "C:\brock-community\garrysmod") (version "8283")
-'banned_ip.cfg' not present; not executing.
-[mysql] Connected to the database!
-Database Type: sqlite.
