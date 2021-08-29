@@ -6,4 +6,5 @@ ITEM.description = "A Box that contains %s of .357 Ammo"
 ITEM.weight = 1
 ITEM.classes = {CLASS_EOW}
 ITEM.price = 10
+ITEM.illegal = true
 ITEM.flag = "V"

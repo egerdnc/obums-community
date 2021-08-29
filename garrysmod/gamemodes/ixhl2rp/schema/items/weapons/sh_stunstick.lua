@@ -7,6 +7,7 @@ ITEM.flag = "v"
 ITEM.width = 1
 ITEM.weight = 1.5
 ITEM.height = 3
+ITEM.illegal = true
 ITEM.iconCam = {
 	ang	= Angle(-0.23955784738064, 0, 0),
 	fov	= 10.780103254469,

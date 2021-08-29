@@ -7,3 +7,4 @@ ITEM.classes = {CLASS_EOW}
 ITEM.flag = "V"
 ITEM.width = 1
 ITEM.height = 1
+ITEM.illegal = true

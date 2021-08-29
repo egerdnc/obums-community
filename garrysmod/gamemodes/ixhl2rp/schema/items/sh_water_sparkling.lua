@@ -5,6 +5,7 @@ ITEM.weight = 0.1
 ITEM.skin = 1
 ITEM.description = "A red aluminium can of carbonated water."
 ITEM.category = "Consumables"
+ITEM.illegal = false
 
 ITEM.functions.Drink = {
 	OnRun = function(itemTable)
