@@ -119,7 +119,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[02:45][ServerGuard] [mysql] Connected to the database!
+[04:37][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -130,12 +130,12 @@ Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0829001.log
-L 08/29/2021 - 02:45:59: Log file started (file "logs\L0829001.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0829002.log
+L 08/29/2021 - 04:37:42: Log file started (file "logs\L0829002.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
-[02:46][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[04:39][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
@@ -164,139 +164,1202 @@ Loaded (1) for Hamood
        6. unknown - lua/includes/extensions/net.lua:32
 
 [LOG] Dex Mcgugget has spawned a 'Entity [94][ix_ammocrate]'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_ar2.mdl'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_grenade.mdl'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_rockets.mdl'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_smg1.mdl'.
-[LOG] Dex Mcgugget opened the 'Ammo Crate' #5 container.
-[LOG] Dex Mcgugget closed the 'Ammo Crate' #5 container.
-[LOG] Dex Mcgugget opened the 'Ammo Crate' #5 container.
-[LOG] Dex Mcgugget closed the 'Ammo Crate' #5 container.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget entered observer.
-[LOG] Dex Mcgugget exited observer at their location.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_ar2.mdl'.
-[LOG] Dex Mcgugget has spawned a 'Entity [102][item_ammo_357]'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_grenade.mdl'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_rockets.mdl'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_smg1.mdl'.
-[LOG] Dex Mcgugget has spawned 'models/items/ammocrate_ar2.mdl'.
 [LOG] Dex Mcgugget has spawned a 'Entity [101][ix_ammocrate]'.
-[LOG] Dex Mcgugget has spawned a 'Entity [102][ix_ammocrate]'.
 Giving Dex Mcgugget a weapon_357
-Giving Dex Mcgugget a weapon_smg1
-Giving Dex Mcgugget a weapon_shotgun
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:17: function arguments expected near 'for'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:17: function arguments expected near 'for'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
-
-
-[LOG] Dex Mcgugget has spawned a 'Entity [102][ix_ammocrate]'.
-table: 0x2ee66100
-0	=	idle
-1	=	Open
-2	=	Close
-
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:28: ')' expected (to close '(' at line 22) near 'end'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
-
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:25: unexpected symbol near ')'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
-
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:25: unexpected symbol near ')'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:28: ')' expected (to close '(' at line 22) near 'end'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
-
-
-[Hamood|2|STEAM_0:0:420247449] Lua Error:
-
-[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:25: unexpected symbol near ')'
-  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
-   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
-    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
-     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
-      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
-       6. Call - gamemodes/helix/gamemode/shared.lua:142
-        7. unknown - lua/includes/modules/gamemode.lua:33
-         8. DeriveGamemode - [C]:-1
-          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
-
-
-[LOG] Dex Mcgugget has spawned a 'Entity [110][ix_ammocrate]'.
 [LOG] Dex Mcgugget entered observer.
 [LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 8 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 93 damage from worldspawn.
+[LOG] worldspawn has killed Dex Mcgugget.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. Spawn - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:666
+
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: function arguments expected near ':'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: function arguments expected near ':'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: 'then' expected near 'self'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: function arguments expected near ':'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:35: ')' expected (to close '(' at line 14) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:35: ')' expected (to close '(' at line 14) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:35: ')' expected (to close '(' at line 14) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/init.lua:3
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:35: ')' expected (to close '(' at line 14) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [94][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [103][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [104][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [94][ix_ammocrate]'.
+[LOG] Dex Mcgugget has spawned a 'Entity [109][ix_ammocrate]'.
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: Tried to use a NULL entity!
+  1. NextThink - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15
+
+Timer Failed! [Simple][@gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua (line 14)]
+[LOG] Dex Mcgugget has spawned a 'Entity [94][ix_ammocrate]'.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 15 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 207 damage from worldspawn.
+[LOG] worldspawn has killed Dex Mcgugget.
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. Spawn - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:666
+
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 32 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 2 damage from worldspawn.
+[LOG] Dex Mcgugget has taken 66 damage from worldspawn.
+[LOG] worldspawn has killed Dex Mcgugget.
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57: attempt to call global 'initCitizenData' (a nil value)
+  1. setCharacterCitizen - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:57
+   2. OnSpawn - gamemodes/ixhl2rp/schema/factions/sh_citizen.lua:50
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:495
+     4. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+      5. Spawn - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:666
+
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 19 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget used command '/unstuck'.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget used command '/unstuck'.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 25 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 12 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 28 damage from worldspawn.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget entered observer.
+[LOG] Dex Mcgugget exited observer at their location.
+[LOG] Dex Mcgugget has taken 37 damage from worldspawn.
+[LOG] worldspawn has killed Dex Mcgugget.
 [LOG] Hamood (STEAM_0:0:420247449) has disconnected.
 Dropped Hamood from server (Disconnect by user.)
