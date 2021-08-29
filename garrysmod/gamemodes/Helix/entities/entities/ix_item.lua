@@ -65,6 +65,7 @@ if (SERVER) then
 				return
 			end
 
+			print("ITEM IS:", PrintTable(itemTable))
 			if (itemTable.functions.take.OnCanRun(itemTable)) then
 				caller:PerformInteraction(ix.config.Get("itemPickupTime", 0.5), self, function(client)
 					if (!ix.item.PerformInventoryAction(client, "take", self)) then

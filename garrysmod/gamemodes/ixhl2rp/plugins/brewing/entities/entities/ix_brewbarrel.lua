@@ -10,7 +10,7 @@ ENT.Spawnable = true;
 ENT.RenderGroup = RENDERGROUP_BOTH;
 
 local comboRisk = {
-  ["ginwater"] = 0,
+  ["water"] = 0,
   ["ginsparklingwater"] = 2,
   ["ginspecialwater"] = 4,
   ["vodkawater"] = 6,

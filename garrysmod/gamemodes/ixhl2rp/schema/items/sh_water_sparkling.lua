@@ -1,4 +1,4 @@
-
+ITEM.id = "sparkling_water"
 ITEM.name = "Sparkling Breen's Water"
 ITEM.model = Model("models/props_junk/popcan01a.mdl")
 ITEM.weight = 0.1
