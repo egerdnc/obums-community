@@ -1,1 +1,0 @@
-[{"Gay zone":{"endPosition":"[-88.0313 -2501.4688 885.9688]","type":"area","properties":{"display":true,"color":{"r":75.0,"b":190.0,"a":255.0,"g":119.0}},"startPosition":"[-447.9688 -2775.1563 781.875]"}}]

@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/killicons/tfa_ins2_usp_match"
-	"$vertexcolor"	"1"
-	"$vertexalpha"	"1"
-	"$translucent"	"1"
-	"$additive"		"1"
-}

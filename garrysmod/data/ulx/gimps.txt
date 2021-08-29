@@ -1,2 +1,0 @@
-; Add gimp says in this file, one per line.
-; Any line starting with a ';' is a comment

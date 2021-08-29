@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "combine_sniper/nothin"
-	"$ignorez"1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$nolod" "1"
-}

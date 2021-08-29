@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/weapons/v_oicw/v_oicw_sheet"
-	//"$bumpmap" "Models/Weapons/v_oicw/v_oicw_sheet_normal"
-	//"$envmap" "env_cubemap"
-	//"$normalmapalphaenvmapmask" 1
-	"$selfillum" "1"
-}

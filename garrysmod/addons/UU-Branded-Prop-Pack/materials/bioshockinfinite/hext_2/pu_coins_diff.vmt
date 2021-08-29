@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "BioshockInfinite/Hext_2/PU_Coins_DIFF"
-	"$bumpmap" "BioshockInfinite/Hext_2/PU_Coins_NORM"
-	"$surfaceprop" "Metal"
-}

@@ -1,1 +1,0 @@
-[{"permakill":true,"recognition":true,"pac":true,"spawnsaver":true}]

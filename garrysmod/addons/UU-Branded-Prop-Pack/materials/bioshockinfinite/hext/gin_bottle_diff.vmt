@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "BioshockInfinite/Hext/Gin_Bottle_DIFF"
-	"$bumpmap" "BioshockInfinite/Hext/Gin_Bottle_NORM"
-	"$surfaceprop" "Glass"
-}
