@@ -1,0 +1,8 @@
+
+database:
+  adapter: "sqlite"
+  hostname: "localhost"
+  username: "root"
+  password: ""
+  database: "helix"
+  port: 3306

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/V_shotgun/tritium"
+	"$selfillum" "1"
+}

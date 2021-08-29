@@ -1,0 +1,88 @@
+// Choreo version 1
+actor "Fisherman"
+{
+  channel "Audio"
+  {
+    event speak "fish_getgoing"
+    {
+      time 0.375000 1.745476
+      param "lostcoast.fish_getgoing"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "lookat player"
+    {
+      time 0.055833 2.145833
+      param "!player"
+      event_ramp
+      {
+        0.4100 0.7373
+        1.7050 0.7216
+      }
+    }
+  }
+  channel "move to"
+  {
+  }
+  channel "face to"
+  {
+  }
+  channel "Postures"
+  {
+  }
+  channel "Gestures"
+  {
+  }
+  channel "body gesture"
+  {
+  }
+  channel "Head flex"
+  {
+    event gesture "NULL"
+    {
+      time 0.000000 0.729167
+      param ""
+      sequenceduration -1.000000
+    }
+    event gesture "1"
+    {
+      time 0.208333 1.841666
+      param "HG_tiltback"
+      absolutetags playback_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.770308
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.770308
+      }
+      sequenceduration 1.633333
+    }
+  }
+  channel "Flex Facial"
+  {
+  }
+  channel "Trigger"
+  {
+  }
+}
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

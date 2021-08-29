@@ -1,0 +1,124 @@
+// Choreo version 1
+actor "Fisherman"
+{
+  channel "Audio"
+  {
+    event speak "fish_getuppath"
+    {
+      time 0.416666 2.814988
+      param "lostcoast.fish_getuppath"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "lookat player"
+    {
+      time 0.118333 3.958333
+      param "!player"
+      event_ramp
+      {
+        0.6250 0.7804
+        3.3000 0.8000
+      }
+    }
+  }
+  channel "move to"
+  {
+  }
+  channel "face to"
+  {
+  }
+  channel "Postures"
+  {
+  }
+  channel "Gestures"
+  {
+    event gesture "NULL"
+    {
+      time 0.000000 0.645833
+      param ""
+      sequenceduration -1.000000
+    }
+  }
+  channel "body gesture"
+  {
+  }
+  channel "Head flex"
+  {
+  }
+  channel "Flex Facial"
+  {
+    event gesture "NULL"
+    {
+      time 0.000000 0.895833
+      param ""
+      sequenceduration -1.000000
+    }
+    event gesture "1"
+    {
+      time 0.437500 1.820833
+      param "HG_tiltback"
+      event_ramp
+      {
+        0.2800 0.8549
+        1.0200 0.8235
+      }
+      absolutetags playback_time
+      {
+        "apex" 0.172020
+        "extreme" 0.319396
+        "loop" 0.639036
+        "end" 0.728828
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.770308
+      }
+      sequenceduration 1.633333
+    }
+    event gesture "2"
+    {
+      time 1.208334 2.841667
+      param "HG_tiltleft"
+      event_ramp
+      {
+        0.2800 0.8157
+        1.1550 0.7686
+      }
+      absolutetags playback_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.791048
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.145668
+        "extreme" 0.270596
+        "loop" 0.541192
+        "end" 0.791048
+      }
+      sequenceduration 1.633333
+    }
+  }
+  channel "Trigger"
+  {
+  }
+}
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

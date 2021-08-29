@@ -1,0 +1,1449 @@
+[17:18:42] New map: rp_city2_v4_finalb
+[17:20:12] Client "Tzar" connected.
+[17:20:15] Client "Optical" connected.
+[17:27:34] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 442 seconds).
+[17:27:34] Dropped "Tzar" from server<STEAM_0:0:140210729>
+
+
+
+[17:28:04] New map: rp_city2_v4_finalb
+[17:28:13] Client "Optical" connected.
+[17:28:15] Client "Tzar" connected.
+[17:28:27] Client "Toorusty" connected.
+[17:28:36] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 21 seconds).
+[17:28:38] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 25 seconds).
+[17:28:58] Tzar<STEAM_0:0:140210729> changed their name to GMan
+[17:29:03] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[17:29:43] Client "Toorusty" spawned in server <STEAM_0:0:67125359> (took 76 seconds).
+[17:30:02] GMan<STEAM_0:0:140210729> spawned sent item_healthkit
+[17:30:02] GMan<STEAM_0:0:140210729> spawned sent item_healthkit
+[17:30:03] GMan<STEAM_0:0:140210729> spawned sent item_healthkit
+[17:30:43] Dropped "James Williams" from server<STEAM_0:0:460042086>
+[17:30:50] GMan granted god mode upon Themself
+[17:30:50] GMan: !god
+[17:30:58] Toorusty<STEAM_0:0:67125359> changed their name to Jake Esposito
+[17:31:04] GMan: /paneladd
+[17:31:51] GMan: Yes.
+[17:32:20] GMan: Just bind ix_togglethirdperson
+[17:32:23] GMan: its Tzare
+[17:32:24] GMan: haha
+[17:32:30] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:33:10] GMan: /charsetmodel jake models/player/scout.mdl
+[17:33:44] GMan: /charsetmodel jake models/player/hwm/scout.mdl
+[17:34:21] GMan: /charsetmodel jake models/player/scout.mdl
+[17:34:35] GMan: /charsetmodel jake models/player/scout_animations.mdl
+[17:35:18] GMan: /charsetmodel jake models/player/zelpa/male_10.mdl
+[17:35:23] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:23] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:24] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:24] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:24] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:24] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:24] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:24] GMan<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[17:35:38] Client "DOOM ETERNAL is a good game" connected.
+[17:35:48] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:35:57] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:35:57] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:35:57] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:35:58] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:36:32] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:36:34] GMan<STEAM_0:0:140210729> spawned NPC npc_metropolice
+[17:37:54] Client "Optical" connected.
+[17:38:23] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 29 seconds).
+[17:38:47] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[17:39:09] Dropped "James Williams" from server<STEAM_0:0:460042086>
+[17:39:17] GMan: /ooc sussy fuck
+[17:39:32] Jake Esposito: /ooc Fucking british people.
+[17:40:17] Client "DOOM ETERNAL is a good game" connected.
+[17:40:19] Jake Esposito: /ooc Gman, give me a shotgun or you are a sussy imposter.
+[17:41:03] GMan killed Jake Esposito using player
+[17:41:44] Client "DOOM ETERNAL is a good game" spawned in server <STEAM_0:1:175760128> (took 87 seconds).
+[17:42:07] GMan killed Jake Esposito using player
+[17:43:09] Client "Optical" connected.
+[17:43:35] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 26 seconds).
+[17:44:02] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[17:44:19] DOOM ETERNAL is a good game<STEAM_0:1:175760128> changed their name to Sir Poopenfarten
+[17:44:25] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate002a.mdl
+[17:44:28] James Williams<STEAM_0:0:460042086> spawned model models/props_lab/filecabinet02.mdl
+[17:44:34] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/furnituredrawer001a.mdl
+[17:44:38] GMan: /charsetmodel sir models/props_c17/FurnitureToilet001a.mdl
+[17:44:53] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate002a.mdl
+[17:45:06] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/lockers001a.mdl
+[17:45:09] Jake Esposito was killed by ix_container
+[17:45:31] Client "TadeusSlovak" connected.
+[17:45:48] GMan: /charsetmodel sir models/player/zelpa/male_04.mdl
+[17:45:53] GMan killed James Williams using npc_tripmine
+[17:46:08] GMan: !kill gman
+[17:46:18] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[17:46:20] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+[17:46:22] GMan killed Sir Poopenfarten using player
+[17:46:23] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+
+
+
+[17:48:39] New map: rp_depot_interior
+[17:49:12] Client "Tzar" connected.
+[17:49:31] Client "Toorusty" connected.
+[17:49:38] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 26 seconds).
+[17:49:43] Client "TadeusSlovak" connected.
+[17:49:45] Client "Optical" connected.
+[17:50:02] Tzar<STEAM_0:0:140210729> changed their name to GMan
+[17:50:18] Client "Toorusty" spawned in server <STEAM_0:0:67125359> (took 47 seconds).
+[17:50:33] Toorusty<STEAM_0:0:67125359> changed their name to Jake Esposito
+[17:50:35] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 50 seconds).
+[17:50:55] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[17:51:00] Client "TadeusSlovak" spawned in server <STEAM_0:1:84322488> (took 77 seconds).
+[17:51:18] Client "DOOM ETERNAL is a good game" connected.
+[17:51:53] GMan brought Jake Esposito
+[17:51:53] GMan: !bring jake
+[17:52:07] GMan: !noclip *
+[17:52:37] TadeusSlovak<STEAM_0:1:84322488> changed their name to Vixie Cubic
+[17:52:40] Vixie Cubic: // hi guys!
+[17:52:44] Client "DOOM ETERNAL is a good game" spawned in server <STEAM_0:1:175760128> (took 86 seconds).
+[17:52:50] GMan: /ooc welcome to hell
+[17:53:06] GMan: !noclip vix
+[17:54:04] DOOM ETERNAL is a good game<STEAM_0:1:175760128> changed their name to James Charles
+[17:54:11] GMan: !kill james
+[17:54:14] James Williams suicided!
+[17:54:14] James Charles suicided!
+[17:54:14] GMan slayed James Charles,James Williams
+[17:54:14] GMan: !slay james
+[17:54:23] GMan: !noclip james
+[17:55:26] GMan brought James Charles
+[17:55:26] GMan: !bring charles
+[17:56:15] GMan: /chargiveflag e
+[17:56:26] GMan: /chargiveflag gman e
+[17:56:28] GMan<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel02a.mdl
+[17:57:10] GMan<STEAM_0:0:140210729> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[17:57:42] James Charles was killed by env_explosion
+[17:57:44] GMan was killed by env_explosion
+[17:57:51] James Williams was killed by env_explosion
+[17:57:59] GMan: \
+[17:58:06] GMan added GMan to group admin
+[17:58:21] (Console) added GMan to group superadmin
+[17:58:28] GMan added Jake Esposito to group admin
+[17:58:30] GMan added Vixie Cubic to group admin
+[17:58:31] GMan added James Williams to group admin
+[17:58:32] GMan added James Charles to group admin
+[17:58:33] Jake Esposito: !goto james
+[17:58:43] Vixie Cubic: !goto james charles 
+[17:58:43] GMan teleported to James Charles
+[17:58:43] GMan: !goto charles
+[17:58:46] Vixie Cubic: !goto james 
+[17:58:47] Vixie Cubic: !goto james
+[17:58:52] Jake Esposito: !goto james
+[17:58:55] Jake Esposito: !goto james
+[17:58:59] Jake Esposito teleported to James Charles
+[17:58:59] Jake Esposito: !goto charles
+[17:59:00] GMan brought Jake Esposito,James Charles,James Williams,Vixie Cubic
+[17:59:00] GMan: !bring *
+[17:59:10] Vixie Cubic: /Y
+[17:59:12] Vixie Cubic: /Y A
+[17:59:12] Vixie Cubic: /Y AY
+[17:59:13] Vixie Cubic: /Y AY
+[17:59:14] Vixie Cubic: /Y AYY
+[17:59:16] Vixie Cubic: /Y A
+[17:59:17] Vixie Cubic: /Y A
+[17:59:18] Vixie Cubic: /Y A
+[17:59:20] Vixie Cubic: /Y A
+[17:59:21] Vixie Cubic: /Y A
+[17:59:21] Vixie Cubic: /Y A
+[17:59:22] James Charles: /me i am peniss
+[17:59:22] Vixie Cubic: /Y A
+[17:59:23] Vixie Cubic: /Y A
+[17:59:24] Vixie Cubic: /Y A
+[17:59:24] Vixie Cubic: /Y A
+[17:59:28] Client "adsin15" connected.
+[17:59:36] Jake Esposito killed James Charles using rpg_missile
+[17:59:38] GMan killed Vixie Cubic using rpg_missile
+[17:59:42] Jake Esposito killed GMan using rpg_missile
+[18:00:05] James Williams killed Jake Esposito using rpg_missile
+[18:00:12] GMan: /chargiveflag james e
+[18:00:16] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:16] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:16] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:16] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:16] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:16] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:17] GMan: /chargiveflag chales e
+[18:00:18] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:19] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:19] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:19] James Charles<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[18:00:23] GMan: /chargiveflag charles e
+[18:00:28] Jake Esposito teleported to James Charles
+[18:00:28] Jake Esposito: !goto charles
+[18:00:28] Vixie Cubic<STEAM_0:1:84322488> spawned sent item_ammo_357
+[18:00:28] GMan: /chargiveflag charles p
+[18:00:29] Vixie Cubic<STEAM_0:1:84322488> spawned sent item_ammo_357
+[18:00:33] GMan: /chargiveflag charles t
+[18:00:40] James Charles killed James Williams using player
+[18:00:41] GMan teleported to James Charles
+[18:00:41] GMan: !goto charles
+[18:00:45] Vixie Cubic: !teleport gman
+[18:00:54] Vixie Cubic teleported Jake Esposito
+[18:00:54] Vixie Cubic: !teleport jake
+[18:01:05] Jake Esposito teleported to James Charles
+[18:01:05] Jake Esposito: !goto charles
+[18:01:16] Client "adsin15" spawned in server <STEAM_0:0:35761453> (took 108 seconds).
+[18:01:21] James Charles killed GMan using player
+[18:01:35] Jake Esposito teleported to James Charles
+[18:01:35] Jake Esposito: !goto charles
+[18:01:35] GMan brought James Charles
+[18:01:35] GMan: !bring charles
+[18:01:38] GMan froze James Charles
+[18:01:38] GMan: !freeze charles
+[18:01:44] GMan: !bring charles
+[18:01:48] GMan: !goto charles
+[18:01:52] Vixie Cubic: !teleport trade
+[18:01:53] GMan: !goto charles
+[18:01:57] Vixie Cubic: !teleport charles
+[18:02:06] GMan unfroze James Charles
+[18:02:06] GMan: !unfreeze charles
+[18:02:15] GMan brought James Charles
+[18:02:15] GMan: !bring charles
+[18:02:17] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:18] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:18] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:18] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:18] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:18] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:19] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:19] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:19] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:19] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:36] GMan: /chargiveflag gman n
+[18:02:45] GMan: /chargiveflag gman c
+[18:02:47] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:47] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:48] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:49] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:49] GMan: /chargiveflag gman C
+[18:02:50] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:51] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:52] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:52] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:53] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:54] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:54] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:55] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_altfire
+[18:02:55] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:56] Jake Esposito: /ooc NO
+[18:02:56] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:56] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:57] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:57] GMan: /ooc shut fuck
+[18:02:58] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:58] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:02:59] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:03:00] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:03:00] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:03:00] James Charles<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[18:03:01] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:03:11] Vixie Cubic: // tzar give physgun and toolgun perms
+[18:03:13] GMan: !explode charles
+[18:03:17] Vixie Cubic banned James Charles permanently
+[18:03:17] Vixie Cubic: !ban charles
+[18:03:17] Dropped "James Charles" from server<STEAM_0:1:175760128>
+[18:03:30] Vixie Cubic: !unban charles
+[18:03:33] Vixie Cubic: !menu
+[18:03:33] GMan mauled Vixie Cubic
+[18:03:39] Vixie Cubic: !ban gman
+[18:03:41] Vixie Cubic banned James Williams permanently
+[18:03:41] Vixie Cubic: !ban james
+[18:03:41] Dropped "James Williams" from server<STEAM_0:0:460042086>
+[18:03:45] Vixie Cubic banned Jake Esposito permanently
+[18:03:45] Vixie Cubic: !ban jake
+[18:03:45] Dropped "Jake Esposito" from server<STEAM_0:0:67125359>
+[18:03:54] Vixie Cubic banned Themself permanently
+[18:03:54] Vixie Cubic: !ban vixie
+[18:03:55] Dropped "Vixie Cubic" from server<STEAM_0:1:84322488>
+[18:03:56] GMan: !ban vixie 
+[18:04:09] GMan unbanned steamid STEAM_0:1:175760128 (James Charles)
+[18:04:11] GMan unbanned steamid STEAM_0:0:460042086 (James Williams)
+[18:04:13] GMan unbanned steamid STEAM_0:0:67125359 (Jake Esposito)
+[18:04:18] GMan unbanned steamid STEAM_0:1:84322488 (Vixie Cubic)
+[18:04:26] Dropped "GMan" from server<STEAM_0:0:140210729>
+
+
+
+[18:12:06] New map: rp_depot_interior
+[18:12:25] Client "Optical" connected.
+[18:12:35] Client "Tzar" connected.
+[18:12:45] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 20 seconds).
+[18:13:02] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 27 seconds).
+[18:13:11] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[18:13:52] Tzar<STEAM_0:0:140210729> changed their name to GMan
+[18:17:36] GMan: /ooc gay
+[18:17:55] Client "adsin15" connected.
+[18:18:06] Client "Toorusty" connected.
+[18:18:22] Client "Toorusty" spawned in server <STEAM_0:0:67125359> (took 16 seconds).
+[18:18:38] Client "adsin15" spawned in server <STEAM_0:0:35761453> (took 43 seconds).
+[18:18:59] GMan granted access "helix - bypass ooc timer" to group Moderator
+[18:19:10] adsin15<STEAM_0:0:35761453> changed their name to James Sinclair
+[18:19:12] GMan granted access "helix - event" to group Moderator
+[18:19:13] GMan revoked access "helix - event" to group Moderator
+[18:19:23] James Sinclair: // giv mod
+[18:19:42] GMan revoked access "ulx votemap" to group user
+[18:19:53] GMan granted access "ulx kick" to group Moderator
+[18:19:57] GMan granted access "ulx ban" to group Moderator
+[18:20:00] GMan granted access "ulx noclip" to group Moderator
+[18:20:02] GMan granted access "ulx spectate" to group Moderator
+[18:20:03] GMan granted access "ulx unban" to group Moderator
+[18:20:17] GMan granted access "ulx goto" to group Moderator
+[18:20:17] GMan granted access "ulx bring" to group Moderator
+[18:20:18] GMan granted access "ulx return" to group Moderator
+[18:20:19] GMan granted access "ulx teleport" to group Moderator
+[18:20:20] GMan revoked access "ulx teleport" to group Moderator
+[18:20:32] GMan granted access "ulx freeze" to group Moderator
+[18:20:49] GMan granted access "ulx unfreeze" to group Moderator
+[18:20:54] GMan granted access "ulx mute" to group Moderator
+[18:21:56] James Sinclair: /ooc where mod
+[18:22:04] James Sinclair: /ooc lol
+[18:22:12] James Sinclair: /ooc lol
+[18:22:32] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/interior_fence002d.mdl
+[18:23:09] James Sinclair: !admin
+[18:23:44] Toorusty<STEAM_0:0:67125359> changed their name to Jake Esposito
+[18:24:04] Jake Esposito: !goto james
+[18:24:07] Jake Esposito teleported to James Sinclair
+[18:24:07] Jake Esposito: !goto sinclair
+[18:25:10] GMan: /ooc gay
+[18:25:21] GMan removed all access rights from Vixie Cubic
+[18:25:23] GMan removed all access rights from Optical
+[18:25:26] GMan removed all access rights from Toorusty
+[18:25:28] GMan removed all access rights from James Charles
+[18:25:44] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster01a.mdl
+[18:25:51] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:25:54] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:26:02] James Sinclair killed Jake Esposito using prop_physics
+[18:26:18] James Sinclair: /ooc where my mod
+[18:26:35] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:26:35] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:26:36] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:26:40] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/interior_fence002d.mdl
+[18:27:02] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/interior_fence002d.mdl
+[18:27:41] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:28:02] James Sinclair: /ooc where is my admin perm
+[18:28:09] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+[18:28:11] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+[18:28:16] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+[18:28:22] GMan added James Williams to group Moderator
+[18:28:23] James Williams: /droptokens 10
+[18:28:23] GMan added Jake Esposito to group Moderator
+[18:28:26] GMan added James Sinclair to group Moderator
+[18:28:33] James Sinclair: !noclip
+[18:28:50] James Sinclair: !noclip
+[18:28:57] James Williams: // I still don't have admins perms
+[18:29:06] James Williams: // I'm stuck in noclip
+[18:29:17] GMan: /areaedit
+[18:30:38] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metal_paintcan001a.mdl
+[18:30:51] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metal_paintcan001a.mdl
+[18:31:08] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metal_paintcan001a.mdl
+[18:31:20] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001b.mdl
+[18:31:53] James Sinclair: !noclip
+[18:31:59] James Sinclair: !give
+[18:32:05] James Sinclair: !give smg
+[18:32:38] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metalbucket01a.mdl
+[18:32:51] James Sinclair: !noclip
+[18:33:04] James Sinclair: !noclip
+[18:33:16] James Sinclair: !goto vixie
+[18:33:21] James Sinclair teleported to GMan
+[18:33:21] James Sinclair: !goto gman
+[18:33:44] James Sinclair: !bring gmain
+[18:33:48] James Sinclair: !bring gman
+[18:33:54] James Sinclair: !freeze gman
+[18:34:00] James Sinclair: !kill gman
+[18:34:15] James Sinclair: !noclip
+[18:34:36] Dropped "James Williams" from server<STEAM_0:0:460042086>
+[18:34:42] James Sinclair: /ooc I dont have adminge perms
+[18:34:51] James Sinclair: !noclip
+[18:35:05] James Sinclair brought Jake Esposito
+[18:35:05] James Sinclair: !bring esposito
+[18:35:12] James Sinclair: !bring esposito
+[18:35:18] Client "Rubbishh26" connected.
+[18:35:20] James Sinclair brought Jake Esposito
+[18:35:20] James Sinclair: !bring esposito
+[18:35:27] James Sinclair: !bring esposito
+[18:35:30] James Sinclair brought Jake Esposito
+[18:35:30] James Sinclair: !bring esposito
+[18:35:37] James Sinclair: !respawn jake
+[18:35:40] James Sinclair brought Jake Esposito
+[18:35:40] James Sinclair: !bring esposito
+[18:35:45] James Sinclair: !bring esposito
+[18:35:49] James Sinclair: !bring esposito
+[18:35:51] James Sinclair brought Jake Esposito
+[18:35:51] James Sinclair: !bring esposito
+[18:35:56] Client "Rubbishh26" spawned in server <STEAM_0:0:193899136> (took 38 seconds).
+[18:35:56] James Sinclair: !bring esposito
+[18:36:08] James Sinclair: !admin
+[18:36:36] James Sinclair: !bring rubbishh
+[18:37:08] Rubbishh26<STEAM_0:0:193899136> changed their name to Rubbishh
+[18:37:46] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/buoy01.mdl
+[18:38:04] James Sinclair brought Rubbishh
+[18:38:04] James Sinclair: !bring rubbishh
+[18:38:48] James Sinclair: /ooc survival of the fittest mr rubbish
+[18:39:33] James Sinclair brought Rubbishh
+[18:39:33] James Sinclair: !bring rubbish
+[18:39:38] Rubbishh was killed by trigger_hurt
+[18:39:42] James Sinclair: /ooc you failed
+[18:39:53] Rubbishh: ow
+[18:39:59] James Sinclair brought Rubbishh
+[18:39:59] James Sinclair: !bring rubbish
+[18:40:25] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:40:26] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+[18:40:44] James Sinclair was killed by npc_antlion
+[18:40:46] Rubbishh was killed by trigger_hurt
+[18:41:10] James Sinclair: !noclip
+[18:41:16] James Sinclair: Hm?
+[18:41:24] James Sinclair: I cant
+[18:41:28] James Sinclair: I physically cant
+[18:41:49] James Sinclair brought Rubbishh
+[18:41:49] James Sinclair: !bring rubbish
+[18:42:05] James Sinclair: I cant spawn them
+[18:42:18] James Sinclair: hands
+[18:42:24] James Sinclair: or just dont
+[18:42:37] James Sinclair: This is like a dev server
+[18:42:42] James Sinclair: How did you even find us
+[18:42:50] James Sinclair: magic
+[18:43:00] James Sinclair: I like your words funny magic man
+[18:43:19] James Sinclair: I'm in a discord call with people talking over you
+[18:44:31] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+[18:44:44] James Sinclair: /pm gman admin powers are not complete
+[18:44:50] James Sinclair: /pm gman fix and give
+[18:44:59] James Sinclair: /pm gman amogus
+[18:45:04] James Sinclair teleported to GMan
+[18:45:04] James Sinclair: !goto gman
+[18:45:09] James Sinclair teleported to GMan
+[18:45:09] James Sinclair: !goto gman
+[18:45:11] James Sinclair teleported to GMan
+[18:45:11] James Sinclair: !goto gman
+[18:45:13] James Sinclair teleported to GMan
+[18:45:13] James Sinclair: !goto gman
+[18:45:14] James Sinclair teleported to GMan
+[18:45:14] James Sinclair: !goto gman
+[18:45:15] James Sinclair teleported to GMan
+[18:45:15] James Sinclair: !goto gman
+[18:45:16] James Sinclair teleported to GMan
+[18:45:16] James Sinclair: !goto gman
+[18:45:17] James Sinclair: !goto gmanyy
+[18:45:19] James Sinclair teleported to GMan
+[18:45:19] James Sinclair: !goto gman
+[18:45:20] James Sinclair teleported to GMan
+[18:45:20] James Sinclair: !goto gman
+[18:45:27] GMan: /pm sinclair Im working on it
+[18:45:30] James Sinclair: AHAH
+[18:45:33] James Sinclair: I FOUND YOU
+[18:45:38] James Sinclair: I GOT YOU
+[18:45:42] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+[18:45:49] James Sinclair<STEAM_0:0:35761453> spawned model models/props_vehicles/tire001b_truck.mdl
+[18:45:54] James Sinclair<STEAM_0:0:35761453> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[18:45:59] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001a.mdl
+[18:46:00] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/popcan01a.mdl
+[18:46:02] James Sinclair<STEAM_0:0:35761453> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[18:46:06] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:46:43] James Sinclair killed Rubbishh using prop_physics
+[18:47:05] Rubbishh: //Someone get me outta here
+[18:47:12] GMan: /ooc hi
+[18:47:18] Rubbishh: // what's up
+[18:47:29] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trafficcone001a.mdl
+[18:47:30] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trashdumpster02b.mdl
+[18:48:16] Dropped "Rubbishh" from server<STEAM_0:0:193899136>
+[18:48:36] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+[18:49:29] James Sinclair: !noclip
+[18:49:33] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+[18:49:44] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/blastdoor001c.mdl
+[18:50:24] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/trappropeller_blade.mdl
+[18:50:28] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/watermelon01.mdl
+[18:50:33] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/glassbottle01a.mdl
+[18:50:36] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/watermelon01.mdl
+[18:50:39] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/jar01a.mdl
+[18:50:41] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/watermelon01.mdl
+[18:51:19] James Sinclair: gman
+[18:51:28] James Sinclair: /ooc gman
+[18:51:35] James Sinclair: /ooc come
+[18:51:49] GMan: /ooc im looking at shit
+[18:51:52] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/trafficcone001a.mdl
+[18:51:56] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/trappropeller_blade.mdl
+[18:51:58] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/harpoon002a.mdl
+[18:52:08] James Sinclair: /ooc gross
+[18:53:06] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:53:19] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:22] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:28] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/metalbucket01a.mdl
+[18:53:43] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:44] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:44] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:45] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:46] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:53:47] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:53:48] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:53:49] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:53:49] James Sinclair was killed by ix_container
+[18:53:50] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:53:59] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:00] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:01] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:02] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:03] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:03] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:04] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:54:13] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/lockerdoorleft.mdl
+[18:54:28] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturestove001a.mdl
+[18:54:37] Jake Esposito was killed by ix_container
+[18:55:02] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturecouch001a.mdl
+[18:55:37] James Sinclair was killed by ix_container
+[18:55:52] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:55:54] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturecouch001a.mdl
+[18:56:04] James Sinclair<STEAM_0:0:35761453> spawned model models/props_trainstation/benchoutdoor01a.mdl
+[18:56:08] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:56:10] Jake Esposito was killed by ix_container
+[18:56:16] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:56:18] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:56:27] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:56:29] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:56:31] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:56:35] Jake Esposito was killed by ix_container
+[18:57:07] James Sinclair<STEAM_0:0:35761453> spawned model models/props_c17/furniturecouch002a.mdl
+[18:57:16] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:18] Jake Esposito was killed by ix_container
+[18:57:30] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:31] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:32] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:32] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:33] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:34] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:35] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:36] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:37] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:38] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:39] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:40] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:41] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:42] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:42] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:43] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:44] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:45] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:46] GMan: /shove
+[18:57:46] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:47] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:57:49] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:51] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:52] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:57:53] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:57:57] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:57:58] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/filecabinet02.mdl
+[18:58:00] James Sinclair<STEAM_0:0:35761453> spawned model models/props_lab/kennel_physics.mdl
+[18:58:01] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/wood_crate001a.mdl
+[18:58:09] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+[18:58:32] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+[18:58:36] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+[18:58:39] James Sinclair<STEAM_0:0:35761453> spawned model models/props_junk/cinderblock01a.mdl
+[18:59:01] James Sinclair<STEAM_0:0:35761453> spawned model models/props_interiors/bathtub01a.mdl
+[18:59:10] James Sinclair<STEAM_0:0:35761453> spawned model models/props_interiors/pot02a.mdl
+[18:59:11] Jake Esposito was killed by ix_container
+[19:00:45] Dropped "James Sinclair" from server<STEAM_0:0:35761453>
+[19:05:12] GMan<STEAM_0:0:140210729> spawned model models/props_c17/furnituredrawer001a.mdl
+[19:06:39] GMan: /mapsceneadd
+[19:06:47] GMan: /mapsceneadd
+[19:06:54] GMan: /mapsceneadd
+[19:07:01] GMan: /mapsceneadd
+[19:07:10] GMan was killed by env_explosion
+[19:07:33] GMan: /mapsceneadd
+[19:07:52] GMan: /mapsceneadd
+[19:08:04] GMan: /mapsceneadd
+[19:08:22] GMan: /mapsceneadd
+[19:08:35] GMan: /mapsceneadd
+[19:13:26] Client "Squire_c" connected.
+[19:14:16] GMan: /ooc trollge event
+[19:15:39] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 133 seconds).
+[19:17:55] GMan killed Jake Esposito using rpg_missile
+[19:18:59] Jake Esposito: /OOC TZAR HELP
+[19:19:04] GMan brought Jake Esposito
+[19:19:04] GMan: !bring jake
+[19:19:24] GMan granted access "helix - observer" to group Moderator
+[19:19:30] GMan granted access "helix - textadd" to group Moderator
+[19:19:30] GMan granted access "helix - textremove" to group Moderator
+[19:19:45] Squire_c<STEAM_0:0:107695957> changed their name to Joey Jonderson
+[19:20:25] GMan: /charsetmodel joey models/player/heavy.mdl
+[19:20:37] Jake Esposito teleported to Joey Jonderson
+[19:20:37] Jake Esposito: !GOTO JOEY
+[19:20:45] Jake Esposito teleported to Joey Jonderson
+[19:20:45] Jake Esposito: !goto joey
+[19:20:50] Jake Esposito teleported to Joey Jonderson
+[19:20:50] Jake Esposito: !goto joey
+[19:20:52] GMan granted god mode upon Joey Jonderson
+[19:20:52] GMan: !god joey
+[19:21:03] Client "Optical" connected.
+[19:21:27] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 24 seconds).
+[19:21:47] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[19:22:08] GMan: /charsetmodel jake models/player/heavy.mdl
+[19:22:38] GMan<STEAM_0:0:140210729> spawned sent item_ammo_357_large
+[19:22:40] GMan<STEAM_0:0:140210729> spawned sent item_box_buckshot
+[19:22:43] GMan killed James Williams using player
+[19:22:59] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[19:23:02] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:23:10] Jake Esposito was killed by ix_container
+[19:23:14] GMan was killed by ix_container
+[19:23:14] James Williams was killed by ix_container
+[19:23:28] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:23:32] Jake Esposito killed GMan using player
+[19:23:44] GMan killed Jake Esposito using rpg_missile
+[19:23:48] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[19:23:49] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:23:50] GMan killed James Williams using rpg_missile
+[19:24:02] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:24:07] Jake Esposito was killed by ix_container
+[19:24:12] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[19:24:14] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:24:18] GMan granted god mode upon Jake Esposito
+[19:24:18] GMan: !god jake
+[19:24:43] GMan: /spawnadd citizen
+[19:24:48] GMan: /spawnadd citizen
+[19:24:53] GMan: /spawnadd citizen
+[19:25:20] Joey Jonderson suicided!
+[19:25:20] GMan slayed Joey Jonderson
+[19:25:20] GMan: !slay joey
+[19:25:33] Joey Jonderson was killed by ix_container
+[19:25:50] GMan: /charsetmodel joey models/props_halloween/halloween_demoeye.mdl
+[19:26:12] GMan brought Joey Jonderson
+[19:26:12] GMan: !bring joey
+[19:26:20] Jake Esposito teleported to GMan
+[19:26:20] Jake Esposito: !goto gman
+[19:26:42] Jake Esposito teleported to Joey Jonderson
+[19:26:42] Jake Esposito: !goto joey
+[19:26:46] GMan brought Joey Jonderson
+[19:26:46] GMan: !bring joey
+[19:26:54] Jake Esposito teleported to Joey Jonderson
+[19:26:54] Jake Esposito: !goto joey
+[19:27:00] James Williams: test
+[19:27:02] GMan: /charsetmodel joey models/player/zelpa/male_07.mdl
+[19:27:13] GMan: /charsetmodel jake models/player/zelpa/male_05.mdl
+[19:27:19] Client "Peppermint" connected.
+[19:27:21] GMan: /chargiveflag jake p
+[19:27:32] GMan: /chargiveflag jake t
+[19:27:38] Dropped "Joey Jonderson" from server<STEAM_0:0:107695957>
+[19:27:44] Client "Squire_c" connected.
+[19:28:04] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+[19:28:07] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:28:09] Jake Esposito was killed by ix_container
+[19:28:14] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 30 seconds).
+[19:28:35] GMan granted god mode upon Themself
+[19:29:00] GMan changed the map to rp_city2_v4_finalb
+[19:29:00] Server is shutting down/changing levels.
+
+
+
+[19:29:09] New map: rp_city2_v4_finalb
+[19:29:31] Client "Toorusty" spawned in server <STEAM_0:0:67125359> (took 25 seconds).
+[19:29:37] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 31 seconds).
+[19:29:41] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 35 seconds).
+[19:29:44] Toorusty<STEAM_0:0:67125359> changed their name to Jake Esposito
+[19:29:54] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 48 seconds).
+[19:29:57] Tzar<STEAM_0:0:140210729> changed their name to GMan
+[19:30:00] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[19:30:15] GMan: /areaedit
+[19:30:20] Squire_c<STEAM_0:0:107695957> changed their name to Joey Jonderson
+[19:30:27] Dropped "Joey Jonderson" from server<STEAM_0:0:107695957>
+[19:30:29] Client "Squire_c" connected.
+[19:30:43] GMan was killed by trigger_hurt
+[19:30:51] GMan granted god mode upon Themself
+[19:30:51] GMan: !god
+[19:30:54] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 25 seconds).
+[19:31:12] Squire_c<STEAM_0:0:107695957> changed their name to Joey Jonderson
+[19:31:28] Dropped "Joey Jonderson" from server<STEAM_0:0:107695957>
+[19:32:23] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 197 seconds).
+[19:33:32] GMan: /areaedit
+[19:34:47] GMan: /areaedit
+[19:34:52] GMan: /areaedit
+[19:34:54] Client "Squire_c" connected.
+[19:35:21] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 27 seconds).
+[19:36:24] Client "BigSimpBryan" connected.
+[19:36:28] GMan killed Jake Esposito using player
+[19:36:38] Squire_c<STEAM_0:0:107695957> changed their name to Joey Jonderson
+[19:37:20] GMan: /charsetmodel jonder models/Humans/Group01/Male_Cheaple.mdl
+[19:37:45] Client "BigSimpBryan" spawned in server <STEAM_0:1:180941085> (took 81 seconds).
+[19:38:04] Peppermint<STEAM_0:1:115933392> changed their name to Temporary name for a temporary pleb
+[19:38:15] Temporary name for a temporary pleb: // Can I get the content?
+[19:38:21] GMan: /charsetmodel pleb
+[19:38:40] BigSimpBryan<STEAM_0:1:180941085> changed their name to hoe ass bitch
+[19:38:44] GMan: /charsetmodel pleb models/Humans/Group01/Male_Cheaple.mdl
+[19:38:56] GMan: /charsetmodel hoe models/Humans/Group01/Male_Cheaple.mdl
+[19:39:28] Temporary name for a temporary pleb: // uh hello?
+[19:39:34] hoe ass bitch: /ooc shut up
+[19:39:38] GMan: /charsetname gmar Heavy
+[19:39:44] GMan: /charsetmodel heavy models/player/heavy.mdl
+[19:39:48] Joey Jonderson: /ooc poop fart
+[19:39:52] hoe ass bitch: /ooc ;)
+[19:39:54] Dropped "Temporary name for a temporary pleb" from server<STEAM_0:1:115933392>
+[19:39:56] GMan: /charsetmodel gman models/player/heavy.mdl
+[19:40:11] GMan: /charsetname gman Heavy
+[19:40:12] GMan<STEAM_0:0:140210729> changed their name to Heavy
+[19:40:26] Heavy granted god mode upon Themself
+[19:40:26] Heavy: !god 
+[19:40:29] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+[19:40:31] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:40:37] hoe ass bitch was killed by ix_container
+[19:40:55] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+[19:41:00] James Williams: /me Kills
+[19:41:01] James Williams: /roll
+[19:41:09] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:41:16] James Williams was killed by ix_container
+[19:41:27] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+[19:41:29] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/furniturecupboard001a.mdl
+[19:41:30] James Williams was killed by ix_container
+[19:41:45] Heavy killed Joey Jonderson using player
+[19:41:53] Heavy killed James Williams using player
+[19:42:59] Heavy killed Joey Jonderson using player
+[19:43:15] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:16] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:16] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:16] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:20] Heavy killed hoe ass bitch using grenade_ar2
+[19:43:25] Heavy killed Joey Jonderson using grenade_ar2
+[19:43:25] Heavy killed Jake Esposito using grenade_ar2
+[19:43:27] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:27] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:28] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:28] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:28] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:28] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:28] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:29] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:29] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:29] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:29] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:43:32] Heavy killed hoe ass bitch using grenade_ar2
+[19:43:36] Heavy killed Jake Esposito using grenade_ar2
+[19:43:38] Heavy killed Joey Jonderson using grenade_ar2
+[19:43:41] Heavy killed hoe ass bitch using grenade_ar2
+[19:44:36] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+[19:44:39] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+[19:44:40] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[19:44:41] Joey Jonderson was killed by ix_container
+[19:44:57] Heavy brought Jake Esposito,James Williams,Joey Jonderson,hoe ass bitch
+[19:44:57] Heavy: !bring *
+[19:45:13] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/display_cooler01a.mdl
+[19:45:16] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+[19:45:17] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/fence01a.mdl
+[19:45:23] Heavy<STEAM_0:0:140210729> spawned model models/props_c17/fence01a.mdl
+[19:45:28] Heavy brought Jake Esposito,James Williams,Joey Jonderson,hoe ass bitch
+[19:45:28] Heavy: !bring *
+[19:46:07] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[19:46:08] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+[19:46:14] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/metalgascan.mdl
+[19:46:17] hoe ass bitch was killed by ix_container
+[19:46:19] Jake Esposito was killed by ix_container
+[19:46:21] Heavy killed James Williams using player
+[19:46:51] Heavy killed Joey Jonderson using player
+[19:46:57] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:57] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:58] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:58] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:58] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:58] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:58] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:58] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:59] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:59] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:59] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:59] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:59] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:46:59] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:00] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:00] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:00] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:00] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:01] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:01] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:01] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:01] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:01] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:01] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:02] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:02] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:02] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:02] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:02] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:02] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:03] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:03] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:03] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:03] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:03] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:03] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:04] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:04] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:04] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:04] Heavy<STEAM_0:0:140210729> spawned sent item_ammo_smg1_grenade
+[19:47:12] Heavy: /charsetname heavy Demoman
+[19:47:13] Heavy<STEAM_0:0:140210729> changed their name to Demoman
+[19:47:27] Demoman: /charsetmodel demo models/player/demo.mdl
+[19:48:30] Demoman killed hoe ass bitch using grenade_ar2
+[19:48:36] Demoman killed Joey Jonderson using grenade_ar2
+[19:48:51] Demoman killed Jake Esposito using npc_grenade_frag
+[19:49:49] Jake Esposito teleported to James Williams
+[19:49:49] Jake Esposito: !goto james
+[19:49:51] Demoman killed Joey Jonderson using npc_grenade_frag
+[19:50:02] Jake Esposito: !menu
+[19:50:04] Demoman killed hoe ass bitch using grenade_ar2
+[19:50:08] James Williams: !goto 1939
+[19:50:10] Jake Esposito: !menu
+[19:50:16] Client "Counterfox Gaming" connected.
+[19:50:28] James Williams teleported to Jake Esposito
+[19:50:28] James Williams: !goto Jake
+[19:50:47] Demoman: Me?>
+[19:50:55] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+[19:50:58] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+[19:51:11] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[19:51:13] James Williams<STEAM_0:0:460042086> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[19:51:14] Joey Jonderson was killed by ix_container
+[19:51:18] Client "Counterfox Gaming" spawned in server <STEAM_0:0:541150892> (took 62 seconds).
+[19:51:23] Demoman granted access "ulx physgunplayer" to group Moderator
+[19:51:42] Demoman granted access "helix - permitgive" to group Moderator
+[19:51:44] Demoman granted access "helix - permittake" to group Moderator
+[19:52:12] Demoman granted access "helix - manage character flags" to group Moderator
+[19:52:21] Demoman granted access "helix - manage character flags" to group admin
+[19:52:23] Counterfox Gaming<STEAM_0:0:541150892> changed their name to Jerry Fox
+[19:52:41] Jake Esposito: !menu
+[19:52:44] Jerry Fox: hello father
+[19:52:44] Demoman: /ooc do /chargiveflag FLAGCHARACTER (example p, t, e, c
+[19:52:57] Jake Esposito: /chargive flag jake 1
+[19:53:04] Jake Esposito: !menu
+[19:53:37] Jerry Fox: // die lol
+[19:53:38] Joey Jonderson: /charfallover
+[19:53:44] James Williams: /chargiveflag Williams p
+[19:53:46] Joey Jonderson: /chargetup
+[19:53:47] Jerry Fox: /charfallover
+[19:53:52] Jerry Fox: /getup
+[19:53:58] Jerry Fox: /chargetup
+[19:54:10] James Williams: /chargiveflag * p
+[19:54:19] Jerry Fox: /ooc do this "/charfallover"
+[19:54:24] Demoman: /charfallover
+[19:54:29] James Williams: /chargiveflag Joey p
+[19:54:33] Demoman: /chargetup
+[19:54:41] James Williams: /chargiveflag Jerry p
+[19:55:09] Joey Jonderson: ix_togglethirdperson 
+[19:55:12] Demoman killed hoe ass bitch using player
+[19:55:13] Dropped "hoe ass bitch" from server<STEAM_0:1:180941085>
+[19:55:27] Demoman suicided!
+[19:55:27] Demoman killed Jerry Fox using grenade_ar2
+[19:55:41] Demoman killed Jerry Fox using crossbow_bolt
+[19:55:50] Demoman: RAIL DICK
+[19:55:52] James Williams: /chargive flag Joey t
+[19:55:55] Demoman killed Jerry Fox using crossbow_bolt
+[19:56:10] Demoman killed Jake Esposito using crossbow_bolt
+[19:56:16] Demoman killed Joey Jonderson using crossbow_bolt
+[19:56:23] Demoman killed Jerry Fox using crossbow_bolt
+[19:57:13] Demoman granted access "helix - charsetmodel" to group Moderator
+[19:57:14] Demoman granted access "helix - charsetname" to group Moderator
+[19:57:14] Demoman granted access "helix - charsettokens" to group Moderator
+[19:57:15] Demoman revoked access "helix - charsettokens" to group Moderator
+[19:57:23] Demoman granted access "helix - event" to group Moderator
+[19:57:32] Demoman granted access "helix - manage doors" to group Moderator
+[19:57:39] James Williams: /chargiveflaf Joey e
+[19:57:42] Demoman granted access "helix - chargiveitem" to group Moderator
+[19:57:45] Demoman granted access "helix - charsetbodygroup" to group Moderator
+[19:57:52] Demoman granted access "ulx god" to group Moderator
+[19:58:10] Demoman granted access "ulx cloak" to group Moderator
+[19:58:11] Demoman granted access "ulx uncloak" to group Moderator
+[19:58:14] Demoman granted access "ulx ungod" to group Moderator
+[19:58:47] Demoman removed all access rights from Toorusty
+[19:58:49] Demoman removed all access rights from Optical
+[19:58:51] Demoman removed all access rights from James Sinclair
+[19:58:55] Demoman added James Williams to group Moderator
+[19:59:10] Jerry Fox: /radio die lol
+[19:59:14] Demoman added Jake Esposito to group Moderator
+[19:59:48] Demoman killed James Williams using rpg_missile
+[19:59:48] Demoman suicided!
+[20:00:14] Demoman granted god mode upon Themself
+[20:00:17] Demoman killed Jake Esposito using rpg_missile
+[20:00:22] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:22] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:22] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:22] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:23] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:23] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:23] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:23] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:23] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:24] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:24] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:24] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:24] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:24] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:24] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:25] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:25] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:25] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:25] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:25] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:25] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:26] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:26] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:26] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:26] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:26] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:27] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:27] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:27] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:27] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:28] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:28] Demoman<STEAM_0:0:140210729> spawned sent item_rpg_round
+[20:00:29] Demoman<STEAM_0:0:140210729> spawned sent combine_mine
+[20:00:29] Demoman<STEAM_0:0:140210729> spawned sent combine_mine
+[20:00:29] Demoman<STEAM_0:0:140210729> spawned sent combine_mine
+[20:00:37] Demoman killed Jake Esposito using rpg_missile
+[20:00:47] Dropped "James Williams" from server<STEAM_0:0:460042086>
+[20:01:16] Demoman: /CHARGIVEFLAG JOEY e
+[20:01:25] Client "Optical" connected.
+[20:01:43] Demoman: /chargiveflag joey t
+[20:01:44] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 19 seconds).
+[20:02:27] Demoman brought Jake Esposito,Jerry Fox,Joey Jonderson
+[20:02:27] Demoman: !bring *
+[20:02:34] Demoman killed Jerry Fox using rpg_missile
+[20:02:35] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[20:02:43] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:43] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:44] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:44] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:44] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:44] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:44] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:44] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:45] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:45] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:45] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:45] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:45] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:46] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:46] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:46] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:47] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:02:47] Demoman<STEAM_0:0:140210729> spawned sent item_healthkit
+[20:03:31] Demoman: Penis rocket
+[20:03:45] Demoman: Yeah
+[20:03:51] Demoman: RPGs for events
+[20:04:04] Demoman: /ooc RPGs for events yeah
+[20:04:05] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/plasticbucket001a.mdl
+[20:04:08] Jerry Fox was killed by gmod_wire_wheel
+[20:04:52] Demoman: /chargiveflag jerry t
+[20:04:55] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[20:05:12] James Williams was killed by gmod_wire_wheel
+[20:05:37] Demoman killed Jerry Fox using npc_grenade_frag
+[20:05:46] Jerry Fox was killed by combine_mine
+[20:05:53] Jerry Fox: /ooc fuc
+[20:05:55] Jerry Fox: /ooc fuck
+[20:05:57] Demoman: /charsetmodel jerry models/bots/demo/bot_demo.mdl
+[20:06:02] Demoman teleported to Jerry Fox
+[20:06:02] Demoman: !goto jerry
+[20:06:22] Demoman<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:06:32] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_combine/breenchair.mdl
+[20:06:40] Demoman: no
+[20:06:42] Demoman: demoman tf2
+[20:06:44] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box001a.mdl
+[20:07:00] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/shelfunit01a.mdl
+[20:07:01] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/cardboard_box004a.mdl
+[20:07:02] Joey Jonderson was killed by prop_physics
+[20:07:43] Demoman: /charsetmodel jerry models/dpfilms/metropolice/playermodels/pm_tf2_metrocop_red.mdl
+[20:07:57] Demoman: /charsetmodel demoman models/dpfilms/metropolice/playermodels/pm_tf2_metrocop_blu.mdl
+[20:08:12] Demoman: /action nice
+[20:08:17] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/lockers001a.mdl
+[20:08:25] Demoman: /charsetname demoman Czar Maxim
+[20:08:26] Demoman<STEAM_0:0:140210729> changed their name to Czar Maxim
+[20:08:43] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:08:47] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate002a.mdl
+[20:08:50] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a.mdl
+[20:08:55] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:09:00] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+[20:09:04] Czar Maxim: /action vomits
+[20:09:11] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/gravestone004a.mdl
+[20:09:25] Czar Maxim killed James Williams using player
+[20:10:04] Czar Maxim killed James Williams using npc_grenade_frag
+[20:10:14] Czar Maxim granted god mode upon Everyone
+[20:10:14] Czar Maxim: !god *
+[20:10:22] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/gate_door02a.mdl
+[20:10:30] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/lampshade001a.mdl
+[20:10:36] Dropped "James Williams" from server<STEAM_0:0:460042086>
+[20:11:02] Czar Maxim: I pinged you dumbass
+[20:11:12] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[20:11:14] Czar Maxim mauled Jerry Fox
+[20:11:14] Czar Maxim: !maul jerry
+[20:11:20] Jerry Fox was killed by npc_fastzombie
+[20:11:20] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel01a.mdl
+[20:11:24] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel02a.mdl
+[20:11:30] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel02a.mdl
+[20:12:09] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel02a.mdl
+[20:12:19] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel01a.mdl
+[20:12:23] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_doors/door03_slotted_left.mdl
+[20:12:30] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[20:12:34] Czar Maxim killed Jerry Fox using crossbow_bolt
+[20:12:37] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/lockers001a.mdl
+[20:12:41] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/furnituredrawer003a.mdl
+[20:12:49] Czar Maxim: /charsetmodel jonder models/romka/rtb_elite.mdl
+[20:12:56] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/trashdumpster02b.mdl
+[20:13:00] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/trashdumpster02b.mdl
+[20:13:58] Czar Maxim: /charsetmodel jonder models/Zombie/Poison.mdl
+[20:14:33] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[20:14:48] Czar Maxim<STEAM_0:0:140210729> spawned sent ix_vendingmachine
+[20:15:04] Czar Maxim: nope
+[20:15:06] Czar Maxim: not that I know of
+[20:15:14] Czar Maxim<STEAM_0:0:140210729> spawned sent ix_combinelock
+[20:15:43] Czar Maxim: I cant crouch
+[20:15:44] Czar Maxim: weird
+[20:15:48] Czar Maxim<STEAM_0:0:140210729> spawned sent ix_vendor
+[20:16:08] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/furniturebed001a.mdl
+[20:16:32] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_docks/dock01_pole01a_128.mdl
+[20:16:36] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/ravenholmsign.mdl
+[20:16:45] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/oildrum001.mdl
+[20:16:50] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/oildrum001.mdl
+[20:16:53] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:16:59] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:17:00] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:17:16] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate002a.mdl
+[20:17:18] Czar Maxim: /paneladd https://cdn.discordapp.com/attachments/524266009214058497/878796670219984896/The_Madagascar_recap_cartoon_by_Cas_van_de_Pol-Cut_mort_scene_and_music_Trim.mp4 30 30 1
+[20:17:29] Czar Maxim: /panelremove
+[20:17:40] Czar Maxim: where did the panel go
+[20:17:43] Czar Maxim: oh shit oh fuck
+[20:18:42] Client "Cabbage9341™" connected.
+[20:18:44] Czar Maxim: /paneladd https://images-ext-1.discordapp.net/external/uxHGydbcPH1MK5N3ICmepmEUHTaTexS2kSh9JdDY5po/https/media.discordapp.net/attachments/764447332288561152/800561621176418314/caption-1-3.gif 300 300 1
+[20:19:08] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_alyx_gun.mdl
+[20:19:18] Client "Cabbage9341™" spawned in server <STEAM_0:0:227773634> (took 36 seconds).
+[20:19:35] Czar Maxim killed Jerry Fox using rpg_missile
+[20:19:50] Dropped "Cabbage9341™" from server<STEAM_0:0:227773634>
+[20:19:51] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/wood_crate002a.mdl
+[20:20:15] Czar Maxim killed Jerry Fox using npc_tripmine
+[20:20:24] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_smg1.mdl
+[20:20:44] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_pistol.mdl
+[20:21:07] Czar Maxim killed Jerry Fox using npc_tripmine
+[20:21:08] Joey Jonderson<STEAM_0:0:107695957> spawned model models/weapons/w_rocket_launcher.mdl
+[20:21:58] Czar Maxim: /doorsetownable
+[20:22:07] Czar Maxim: /doorsetownable
+[20:22:18] Czar Maxim kicked Jerry Fox
+[20:22:18] Czar Maxim: !kick jerry
+[20:22:18] Dropped "Jerry Fox" from server<STEAM_0:0:541150892>
+[20:23:10] Client "Cabbage9341™" connected.
+[20:23:14] Czar Maxim: /charsettokens czar 100000
+[20:23:24] Czar Maxim: /dropmoney 20000
+[20:23:57] Client "Cabbage9341™" spawned in server <STEAM_0:0:227773634> (took 47 seconds).
+[20:24:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:24:36] Dropped "Cabbage9341™" from server<STEAM_0:0:227773634>
+[20:25:05] Czar Maxim revoked god mode from Jake Esposito
+[20:25:05] Czar Maxim: !ungod jake
+[20:25:06] Czar Maxim killed Jake Esposito using rpg_missile
+[20:25:35] Joey Jonderson<STEAM_0:0:107695957> spawned model models/props_phx/rocket1.mdl
+[20:25:35] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/trailer001a.mdl
+[20:25:44] Joey Jonderson<STEAM_0:0:107695957> spawned model models/items/ammocrate_rockets.mdl
+[20:25:45] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/truck001a.mdl
+[20:25:55] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_combine/combine_train02a.mdl
+[20:26:00] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/trailer002a.mdl
+[20:26:01] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/trailer001a.mdl
+[20:26:03] Czar Maxim<STEAM_0:0:140210729> spawned model models/airboat.mdl
+[20:26:04] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/car002a_physics.mdl
+[20:26:05] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_vehicles/car002a_physics.mdl
+[20:26:12] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_combine/combinetrain01a.mdl
+[20:26:13] Czar Maxim<STEAM_0:0:140210729> spawned model models/props_combine/combinetrain01a.mdl
+[20:26:24] Czar Maxim: /chargiveflag joey C
+[20:26:33] Czar Maxim: /chargiveflag joey c
+[20:26:33] Joey Jonderson<STEAM_0:0:107695957> spawned vehicle models/nova/chair_office02.mdl
+[20:26:35] Client "Cabbage9341™" connected.
+[20:26:46] Czar Maxim<STEAM_0:0:140210729> spawned NPC npc_monk
+[20:26:53] Joey Jonderson<STEAM_0:0:107695957> spawned vehicle models/airboat.mdl
+[20:26:54] Joey Jonderson<STEAM_0:0:107695957> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[20:26:54] Joey Jonderson<STEAM_0:0:107695957> spawned vehicle models/buggy.mdl
+[20:26:55] Joey Jonderson<STEAM_0:0:107695957> spawned vehicle models/buggy.mdl
+[20:27:02] Client "Cabbage9341™" spawned in server <STEAM_0:0:227773634> (took 27 seconds).
+[20:27:45] Czar Maxim: /chargiveflag joey r
+[20:28:05] Joey Jonderson<STEAM_0:0:107695957> spawned ragdoll models/gman_high.mdl
+[20:28:16] Jake Esposito teleported to Czar Maxim
+[20:28:16] Jake Esposito: !goto maxim
+[20:28:25] Cabbage9341™<STEAM_0:0:227773634> changed their name to Jack William
+[20:28:31] Czar Maxim: /charsetmodel joey models/gman_high.mdl
+[20:28:42] Czar Maxim: !slay
+[20:28:50] Czar Maxim ignited Themself for 300 seconds
+[20:28:53] Czar Maxim suicided!
+[20:28:53] Czar Maxim slayed Themself
+[20:28:53] Jack William: // dudes whats the model for the citizens i only see them as errors
+[20:29:04] Czar Maxim teleported to Joey Jonderson
+[20:29:04] Czar Maxim: !goto joey
+[20:29:15] Jack William: // tell me
+[20:29:19] Czar Maxim: /charsetname joey Joey "GMan" Jonderson
+[20:29:19] Joey Jonderson<STEAM_0:0:107695957> changed their name to Joey GMan Jonderson
+[20:29:32] Czar Maxim: Like your new name?
+[20:29:39] Jack William: hey dude can i get a fucking gun
+[20:29:48] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/gman_high.mdl
+[20:29:52] Czar Maxim: /charsetmodel cabbage models/breen.mdl
+[20:29:53] Jake Esposito: !goto cabbage
+[20:29:59] Jake Esposito: !goto chad
+[20:30:05] Czar Maxim: /charsetmodel chad models/breen.mdl
+[20:30:12] Czar Maxim: /charsetmodel jack models/breen.mdl
+[20:30:26] Czar Maxim: No
+[20:30:27] Jack William: what the fuck
+[20:30:30] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:30] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:31] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:31] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:31] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:31] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:31] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:32] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:32] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:32] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:32] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:32] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:32] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:33] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:33] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:33] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:33] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:33] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:33] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:34] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:34] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:34] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:34] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:34] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:34] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:35] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:35] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:35] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:35] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:30:36] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[20:30:36] Czar Maxim was killed by npc_grenade_frag
+[20:30:36] Jake Esposito was killed by npc_grenade_frag
+[20:30:36] Jack William was killed by npc_grenade_frag
+[20:30:38] Jack William: /me starts beating him to death
+[20:31:01] Czar Maxim: jesus christ
+[20:31:09] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[20:31:09] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[20:31:09] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[20:31:09] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[20:31:10] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[20:31:22] Joey GMan Jonderson killed Jack William using player
+[20:31:23] Jack William: /y wait
+[20:31:31] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:39] Jack William: // this is why i wanted you to change me back from breen ffs
+[20:31:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:53] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:53] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:53] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:53] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:54] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:55] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:55] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:55] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:55] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:55] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:55] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:56] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:56] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:56] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:56] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:56] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:56] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:57] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:57] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:57] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:31:57] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:05] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:05] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:05] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:05] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:05] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:05] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:06] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:06] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:06] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:06] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:06] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:06] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:07] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:08] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:09] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:10] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:11] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:12] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:13] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:14] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:15] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:16] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:17] Jack William: // give me toolgun and physics gun perms bro :)
+[20:32:17] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:18] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:19] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:20] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:20] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:20] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:20] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:20] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:20] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:21] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:21] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:21] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:21] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:21] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:21] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:22] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:22] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:22] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:22] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:22] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:22] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:23] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:23] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:23] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:23] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:23] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:23] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:24] Czar Maxim was killed by npc_grenade_frag
+[20:32:24] Jake Esposito was killed by npc_grenade_frag
+[20:32:38] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:39] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:40] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:43] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:43] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:43] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:43] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:43] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:44] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:44] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:44] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:44] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:44] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:44] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:45] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:46] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:46] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:46] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:46] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:46] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:46] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:46] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:47] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:47] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:48] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:48] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:48] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:48] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:48] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:48] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:49] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:49] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:49] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:49] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:49] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:49] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:49] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:50] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:50] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:50] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:50] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:50] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:50] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:50] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:51] Czar Maxim<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+[20:32:51] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:52] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:53] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:54] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:54] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:55] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:56] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:57] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:58] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:32:59] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:00] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:01] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:02] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:31] Joey GMan Jonderson: /ooc i cant join that vc
+[20:33:36] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:37] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:38] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:39] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/humans/group01/male_cheaple.mdl
+[20:33:46] Joey GMan Jonderson<STEAM_0:0:107695957> spawned ragdoll models/kleiner.mdl
+[20:34:17] Jack William: yo dude
+[20:34:23] Jack William: give me physgun perms man
+[20:34:33] Jack William: toolgun yes
+[20:34:43] Czar Maxim suicided!
+[20:35:19] Czar Maxim<STEAM_0:0:140210729> spawned NPC npc_strider
+[20:37:11] Czar Maxim ignited Joey GMan Jonderson for 300 seconds
+[20:37:26] Dropped "Czar Maxim" from server<STEAM_0:0:140210729>

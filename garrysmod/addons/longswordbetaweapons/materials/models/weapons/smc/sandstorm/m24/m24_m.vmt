@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\weapons\SMC\Sandstorm\M24\M24_d"
+	"$bumpmap"					"models\weapons\SMC\Sandstorm\M24\M24_n"
+	"$phongexponenttexture"		"models\weapons\SMC\Sandstorm\M24\M24_e"
+	"$color2"					"[0.8 0.8 0.8]"
+//	"$color2"					"[0 0 0]"
+	"$translucent"				"1"
+	
+	$envmap						env_cubemap
+	$envmaptint					"[ .05 .05 .05 ]"
+
+	$phong						1
+	$phongexponent				50
+	$phongboost					150
+	$phongfresnelranges			"[0.25 0.5 1]"
+	"$phongalbedotint" 			"1"
+	"$phongalbedoboost" 		"48"
+}
+//Material setup by ShadowRUN 幸運な.
+//You are NOT allowed to edit/modify/redistribute these materials without my explicit permission.

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_357_new\v_357_d"
+	"$bumpmap" "models\weapons\v_357_new\v_357_n"
+	
+	"$phong"				"1"
+	"$phongexponent"			"20"
+	"$phongboost"			"2"
+	"$phongfresnelranges"		"[2 4 6]"
+	"$phongtint"			"[1.5 1.3 0.6]"
+
+	"$rimlight"			"1"
+	"$rimlightexponent"			"50"	
+	"$rimlightboost"			"0.2"	
+				
+	"$envmap"			"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"			"[1.5 1.3 0.6]"
+}

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture			"models/props_lunk/popcan1"
+	$bumpmap			"models/props_lunk/popcan_normal"
+
+	$phong				1
+	$phongexponent 			5
+	$phongboost			2
+	$phongfresnelranges		"[1.0 1.0 1.0]"
+
+	$surfaceprop			"metal"
+}

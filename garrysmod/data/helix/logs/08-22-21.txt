@@ -1,0 +1,2260 @@
+[17:27:34]	Tzar has connected.
+[17:27:34]	Tzar (STEAM_0:0:140210729) has disconnected.
+[17:28:36]	Tzar has connected.
+[17:28:38]	Optical has connected.
+[17:28:58]	Tzar loaded the character 'GMan'
+[17:29:03]	Optical loaded the character 'James Williams'
+[17:29:43]	Toorusty has connected.
+[17:29:48]	GMan set staminaCrouchRegeneration to '0'.
+[17:29:50]	GMan set staminaRegeneration to '0'.
+[17:30:02]	GMan has spawned a 'Entity [109][item_healthkit]'.
+[17:30:02]	GMan has spawned a 'Entity [110][item_healthkit]'.
+[17:30:03]	GMan has spawned a 'Entity [109][item_healthkit]'.
+[17:30:43]	Optical (STEAM_0:0:460042086) has disconnected.
+[17:30:58]	Toorusty created the character 'Jake Esposito'
+[17:30:58]	Jake Esposito has gained a 'Suitcase' #59.
+[17:30:58]	Jake Esposito has gained a 'Flashlight' #60.
+[17:30:58]	Jake Esposito has gained a 'Citizen ID' #61.
+[17:30:58]	Toorusty loaded the character 'Jake Esposito'
+[17:32:30]	GMan has spawned a 'Entity [94][item_ammo_smg1_large]'.
+[17:32:34]	GMan has spawned a 'Weapon [101][weapon_smg1]'.
+[17:33:10]	GMan used command '/CharSetModel jake models/player/scout.mdl'.
+[17:33:44]	GMan used command '/CharSetModel jake models/player/hwm/scout.mdl'.
+[17:34:21]	GMan used command '/CharSetModel jake models/player/scout.mdl'.
+[17:34:35]	GMan used command '/CharSetModel jake models/player/scout_animations.mdl'.
+[17:35:18]	GMan used command '/CharSetModel jake models/player/zelpa/male_10.mdl'.
+[17:35:23]	GMan has spawned a 'Entity [102][item_ammo_smg1_large]'.
+[17:35:23]	GMan has spawned a 'Entity [106][item_ammo_smg1_large]'.
+[17:35:24]	GMan has spawned a 'Entity [118][item_ammo_smg1_large]'.
+[17:35:24]	GMan has spawned a 'Entity [119][item_ammo_smg1_large]'.
+[17:35:24]	GMan has spawned a 'Entity [120][item_ammo_smg1_large]'.
+[17:35:24]	GMan has spawned a 'Entity [122][item_ammo_smg1_large]'.
+[17:35:24]	GMan has spawned a 'Entity [123][item_ammo_smg1_large]'.
+[17:35:24]	GMan has spawned a 'Entity [132][item_ammo_smg1_large]'.
+[17:35:48]	GMan has spawned a 'NPC [118][npc_metropolice]'.
+[17:35:57]	GMan has spawned a 'NPC [118][npc_metropolice]'.
+[17:35:57]	GMan has spawned a 'NPC [119][npc_metropolice]'.
+[17:35:57]	GMan has spawned a 'NPC [120][npc_metropolice]'.
+[17:35:58]	GMan has spawned a 'NPC [122][npc_metropolice]'.
+[17:36:32]	GMan has spawned a 'NPC [122][npc_metropolice]'.
+[17:36:34]	GMan has spawned a 'NPC [123][npc_metropolice]'.
+[17:36:41]	Jake Esposito has taken 192 damage from worldspawn.
+[17:36:41]	worldspawn has killed Jake Esposito.
+[17:38:23]	Optical has connected.
+[17:38:46]	Optical loaded the character 'James Williams'
+[17:39:08]	James Williams has taken 60 damage from worldspawn.
+[17:39:09]	Optical (STEAM_0:0:460042086) has disconnected.
+[17:39:17]	[OOC] GMan: sussy fuck
+[17:39:32]	[OOC] Jake Esposito: Fucking british people.
+[17:40:19]	[OOC] Jake Esposito: Gman, give me a shotgun or you are a sussy imposter.
+[17:41:03]	Jake Esposito has taken 150 damage from GMan.
+[17:41:03]	GMan has killed Jake Esposito with weapon_357.
+[17:41:28]	Jake Esposito has taken 94 damage from GMan.
+[17:41:44]	DOOM ETERNAL is a good game has connected.
+[17:42:07]	Jake Esposito has taken 75 damage from GMan.
+[17:42:07]	GMan has killed Jake Esposito with weapon_357.
+[17:43:35]	Optical has connected.
+[17:44:01]	Optical loaded the character 'James Williams'
+[17:44:18]	DOOM ETERNAL is a good game created the character 'Sir Poopenfarten'
+[17:44:18]	Sir Poopenfarten has gained a 'Suitcase' #62.
+[17:44:18]	Sir Poopenfarten has gained a 'Flashlight' #63.
+[17:44:18]	Sir Poopenfarten has gained a 'Citizen ID' #64.
+[17:44:18]	DOOM ETERNAL is a good game loaded the character 'Sir Poopenfarten'
+[17:44:25]	James Williams has spawned 'models/props_junk/wood_crate002a.mdl'.
+[17:44:28]	James Williams has spawned 'models/props_lab/filecabinet02.mdl'.
+[17:44:34]	James Williams has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[17:44:35]	Jake Esposito has taken 20 damage from prop_physics.
+[17:44:38]	GMan used command '/CharSetModel sir models/props_c17/FurnitureToilet001a.mdl'.
+[17:44:53]	James Williams has spawned 'models/props_junk/wood_crate002a.mdl'.
+[17:45:06]	James Williams has spawned 'models/props_c17/Lockers001a.mdl'.
+[17:45:09]	Jake Esposito has taken 500 damage from ix_container.
+[17:45:09]	ix_container has killed Jake Esposito.
+[17:45:48]	GMan used command '/CharSetModel sir models/player/zelpa/male_04.mdl'.
+[17:45:53]	James Williams has taken 92 damage from GMan.
+[17:45:53]	GMan has killed James Williams with weapon_physgun.
+[17:46:18]	James Williams has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[17:46:20]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:46:22]	Sir Poopenfarten has taken 150 damage from GMan.
+[17:46:22]	GMan has killed Sir Poopenfarten with weapon_357.
+[17:46:23]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[17:49:38]	Tzar has connected.
+[17:50:01]	Tzar loaded the character 'GMan'
+[17:50:18]	Toorusty has connected.
+[17:50:33]	Toorusty loaded the character 'Jake Esposito'
+[17:50:35]	Optical has connected.
+[17:50:54]	Optical loaded the character 'James Williams'
+[17:51:00]	TadeusSlovak has connected.
+[17:52:35]	TadeusSlovak created the character 'Vixie Cubic'
+[17:52:35]	Vixie Cubic has gained a 'Suitcase' #65.
+[17:52:35]	Vixie Cubic has gained a 'Flashlight' #66.
+[17:52:35]	Vixie Cubic has gained a 'Citizen ID' #67.
+[17:52:36]	TadeusSlovak loaded the character 'Vixie Cubic'
+[17:52:40]	[OOC] Vixie Cubic: hi guys!
+[17:52:44]	DOOM ETERNAL is a good game has connected.
+[17:52:50]	[OOC] GMan: welcome to hell
+[17:54:03]	DOOM ETERNAL is a good game created the character 'James Charles'
+[17:54:03]	James Charles has gained a 'Suitcase' #68.
+[17:54:03]	James Charles has gained a 'Flashlight' #69.
+[17:54:03]	James Charles has gained a 'Citizen ID' #70.
+[17:54:03]	DOOM ETERNAL is a good game loaded the character 'James Charles'
+[17:54:14]	James Williams has killed James Williams.
+[17:54:14]	James Charles has killed James Charles.
+[17:56:01]	James Charles has taken 5 damage from antlion_hive_worker.
+[17:56:03]	Vixie Cubic has taken 5 damage from antlion_hive_worker.
+[17:56:03]	Vixie Cubic has taken 5 damage from antlion_hive_worker.
+[17:56:11]	Vixie Cubic has taken 5 damage from antlion_hive_worker.
+[17:56:12]	Vixie Cubic has taken 5 damage from antlion_hive_worker.
+[17:56:13]	Vixie Cubic has taken 5 damage from antlion_hive_worker.
+[17:56:13]	Vixie Cubic has taken 5 damage from antlion_hive_worker.
+[17:56:15]	GMan used command '/CharGiveFlag e'.
+[17:56:26]	GMan used command '/CharGiveFlag gman e'.
+[17:56:28]	GMan has spawned 'models/props_debris/metal_panel02a.mdl'.
+[17:57:04]	GMan has taken 87 damage from worldspawn.
+[17:57:10]	GMan has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[17:57:42]	James Charles has taken 307 damage from minefield_north_expl1.
+[17:57:42]	minefield_north_expl1 has killed James Charles.
+[17:57:44]	GMan has taken 252 damage from minefield_north_expl1.
+[17:57:44]	minefield_north_expl1 has killed GMan.
+[17:57:51]	James Williams has taken 254 damage from minefield_north_expl4.
+[17:57:51]	minefield_north_expl4 has killed James Williams.
+[17:58:36]	James Williams entered observer.
+[17:58:36]	Jake Esposito exited observer.
+[17:58:37]	Jake Esposito entered observer.
+[17:58:38]	James Williams exited observer at their location.
+[17:58:40]	Jake Esposito exited observer.
+[17:58:41]	James Charles entered observer.
+[17:58:41]	Jake Esposito entered observer.
+[17:58:42]	Jake Esposito exited observer.
+[17:58:42]	James Williams entered observer.
+[17:58:42]	James Charles exited observer.
+[17:58:45]	Jake Esposito entered observer.
+[17:58:46]	Jake Esposito exited observer.
+[17:58:48]	Vixie Cubic exited observer at their location.
+[17:58:52]	James Williams exited observer at their location.
+[17:59:12]	[Y] Vixie Cubic: A.
+[17:59:12]	[Y] Vixie Cubic: AY.
+[17:59:13]	[Y] Vixie Cubic: AY.
+[17:59:14]	[Y] Vixie Cubic: AYY.
+[17:59:16]	[Y] Vixie Cubic: A.
+[17:59:17]	[Y] Vixie Cubic: A.
+[17:59:18]	[Y] Vixie Cubic: A.
+[17:59:20]	[Y] Vixie Cubic: A.
+[17:59:21]	James Williams entered observer.
+[17:59:21]	[Y] Vixie Cubic: A.
+[17:59:21]	James Williams exited observer at their location.
+[17:59:21]	[Y] Vixie Cubic: A.
+[17:59:22]	[ME] James Charles: i am peniss
+[17:59:22]	James Williams entered observer.
+[17:59:22]	[Y] Vixie Cubic: A.
+[17:59:23]	[Y] Vixie Cubic: A.
+[17:59:24]	[Y] Vixie Cubic: A.
+[17:59:24]	[Y] Vixie Cubic: A.
+[17:59:25]	James Williams exited observer at their location.
+[17:59:25]	James Williams has taken 312 damage from worldspawn.
+[17:59:25]	worldspawn has killed James Williams.
+[17:59:29]	Vixie Cubic entered observer.
+[17:59:29]	GMan has spawned a 'Weapon [188][weapon_rpg]'.
+[17:59:29]	GMan has spawned a 'Weapon [196][weapon_rpg]'.
+[17:59:29]	GMan has spawned a 'Weapon [197][weapon_rpg]'.
+[17:59:29]	GMan has spawned a 'Weapon [198][weapon_rpg]'.
+[17:59:29]	GMan has spawned a 'Weapon [199][weapon_rpg]'.
+[17:59:30]	GMan has spawned a 'Weapon [206][weapon_rpg]'.
+[17:59:30]	GMan has spawned a 'Weapon [207][weapon_rpg]'.
+[17:59:30]	GMan has spawned a 'Weapon [208][weapon_rpg]'.
+[17:59:30]	GMan has spawned a 'Weapon [209][weapon_rpg]'.
+[17:59:30]	GMan has spawned a 'Weapon [210][weapon_rpg]'.
+[17:59:30]	GMan has spawned a 'Weapon [219][weapon_rpg]'.
+[17:59:31]	GMan has spawned a 'Weapon [220][weapon_rpg]'.
+[17:59:31]	GMan has spawned a 'Weapon [221][weapon_rpg]'.
+[17:59:31]	GMan has spawned a 'Weapon [222][weapon_rpg]'.
+[17:59:31]	GMan has spawned a 'Weapon [223][weapon_rpg]'.
+[17:59:31]	GMan has spawned a 'Weapon [224][weapon_rpg]'.
+[17:59:32]	GMan has spawned a 'Weapon [174][weapon_rpg]'.
+[17:59:32]	James Williams entered observer.
+[17:59:33]	Vixie Cubic exited observer at their location.
+[17:59:35]	James Williams exited observer at their location.
+[17:59:36]	James Williams has taken 310 damage from worldspawn.
+[17:59:36]	worldspawn has killed James Williams.
+[17:59:36]	Vixie Cubic has taken 49 damage from Jake Esposito.
+[17:59:36]	James Charles has taken 150 damage from Jake Esposito.
+[17:59:36]	Jake Esposito has killed James Charles with weapon_rpg.
+[17:59:38]	Vixie Cubic has taken 150 damage from GMan.
+[17:59:38]	GMan has killed Vixie Cubic with weapon_rpg.
+[17:59:40]	GMan has taken 94 damage from Jake Esposito.
+[17:59:41]	Jake Esposito has taken 14 damage from GMan.
+[17:59:42]	GMan has taken 32 damage from Jake Esposito.
+[17:59:42]	Jake Esposito has killed GMan with weapon_rpg.
+[17:59:43]	James Williams entered observer.
+[17:59:46]	James Williams exited observer at their location.
+[17:59:47]	Vixie Cubic entered observer.
+[17:59:52]	James Williams entered observer.
+[17:59:53]	Vixie Cubic exited observer at their location.
+[17:59:56]	Jake Esposito has taken 12 damage from James Williams.
+[17:59:57]	Jake Esposito has taken 12 damage from James Williams.
+[17:59:57]	Jake Esposito has taken 12 damage from James Williams.
+[17:59:57]	Jake Esposito has taken 12 damage from James Williams.
+[17:59:57]	Vixie Cubic entered observer.
+[17:59:58]	Jake Esposito has taken 12 damage from James Williams.
+[18:00:05]	Jake Esposito has taken 30 damage from James Williams.
+[18:00:05]	James Williams has killed Jake Esposito with weapon_rpg.
+[18:00:07]	James Williams exited observer at their location.
+[18:00:10]	James Williams entered observer.
+[18:00:12]	GMan used command '/CharGiveFlag james e'.
+[18:00:16]	James Charles has spawned a 'Entity [161][item_box_buckshot]'.
+[18:00:16]	James Charles has spawned a 'Entity [197][item_box_buckshot]'.
+[18:00:16]	James Charles has spawned a 'Entity [205][item_box_buckshot]'.
+[18:00:16]	James Charles has spawned a 'Entity [212][item_box_buckshot]'.
+[18:00:16]	James Charles has spawned a 'Entity [222][item_box_buckshot]'.
+[18:00:16]	James Charles has spawned a 'Entity [224][item_box_buckshot]'.
+[18:00:18]	James Charles has spawned a 'Entity [161][item_box_buckshot]'.
+[18:00:19]	James Charles has spawned a 'Entity [197][item_box_buckshot]'.
+[18:00:19]	James Charles has spawned a 'Entity [205][item_box_buckshot]'.
+[18:00:19]	James Charles has spawned a 'Entity [212][item_box_buckshot]'.
+[18:00:19]	Vixie Cubic exited observer at their location.
+[18:00:22]	Vixie Cubic entered observer.
+[18:00:22]	James Williams exited observer at their location.
+[18:00:22]	James Williams entered observer.
+[18:00:23]	GMan used command '/CharGiveFlag charles e'.
+[18:00:24]	Jake Esposito entered observer.
+[18:00:26]	James Williams exited observer at their location.
+[18:00:28]	Vixie Cubic has spawned a 'Entity [161][item_ammo_357]'.
+[18:00:28]	GMan used command '/CharGiveFlag charles p'.
+[18:00:29]	Vixie Cubic has spawned a 'Entity [205][item_ammo_357]'.
+[18:00:30]	Jake Esposito exited observer.
+[18:00:33]	GMan used command '/CharGiveFlag charles t'.
+[18:00:34]	Vixie Cubic exited observer at their location.
+[18:00:35]	Vixie Cubic entered observer.
+[18:00:36]	Vixie Cubic exited observer at their location.
+[18:00:36]	James Williams has taken 44 damage from James Charles.
+[18:00:38]	James Williams has taken 28 damage from James Charles.
+[18:00:39]	James Williams has taken 25 damage from James Charles.
+[18:00:40]	James Williams has taken 28 damage from James Charles.
+[18:00:40]	James Charles has killed James Williams with weapon_shotgun.
+[18:00:47]	GMan has taken 8 damage from James Charles.
+[18:00:47]	GMan has taken 4 damage from James Charles.
+[18:00:50]	Jake Esposito has taken 12 damage from James Charles.
+[18:00:51]	Jake Esposito has taken 4 damage from James Charles.
+[18:00:58]	James Williams has taken 13 damage from James Charles.
+[18:00:59]	James Williams has taken 9 damage from James Charles.
+[18:01:03]	James Williams entered observer.
+[18:01:07]	Vixie Cubic entered observer.
+[18:01:10]	Jake Esposito has taken 15 damage from James Charles.
+[18:01:16]	adsin15 has connected.
+[18:01:20]	Vixie Cubic exited observer at their location.
+[18:01:20]	Vixie Cubic entered observer.
+[18:01:20]	Vixie Cubic exited observer at their location.
+[18:01:21]	GMan has taken 75 damage from Vixie Cubic.
+[18:01:21]	Jake Esposito entered observer.
+[18:01:21]	GMan has taken 36 damage from James Charles.
+[18:01:21]	James Charles has killed GMan with weapon_shotgun.
+[18:01:23]	James Charles has taken 19 damage from Vixie Cubic.
+[18:01:24]	Jake Esposito entered observer.
+[18:01:24]	Jake Esposito exited observer.
+[18:01:25]	James Charles has taken 75 damage from Vixie Cubic.
+[18:01:27]	Vixie Cubic has taken 14 damage from James Charles.
+[18:01:28]	Jake Esposito entered observer.
+[18:01:28]	Vixie Cubic has taken 16 damage from James Charles.
+[18:01:28]	Vixie Cubic entered observer.
+[18:01:30]	Jake Esposito exited observer.
+[18:01:38]	James Charles has taken 60 damage from worldspawn.
+[18:01:38]	worldspawn has killed James Charles.
+[18:01:40]	Vixie Cubic entered observer.
+[18:01:41]	Vixie Cubic exited observer at their location.
+[18:01:42]	Vixie Cubic has taken 5 damage from worldspawn.
+[18:01:42]	Vixie Cubic entered observer.
+[18:01:48]	Vixie Cubic exited observer at their location.
+[18:01:58]	Vixie Cubic entered observer.
+[18:01:59]	Vixie Cubic entered observer.
+[18:02:03]	Vixie Cubic exited observer at their location.
+[18:02:04]	James Williams exited observer at their location.
+[18:02:07]	James Williams entered observer.
+[18:02:15]	Vixie Cubic entered observer.
+[18:02:17]	James Charles has spawned a 'Entity [219][item_ammo_ar2_altfire]'.
+[18:02:18]	James Charles has spawned a 'Entity [231][item_ammo_ar2_altfire]'.
+[18:02:18]	James Charles has spawned a 'Entity [234][item_ammo_ar2_altfire]'.
+[18:02:18]	James Charles has spawned a 'Entity [235][item_ammo_ar2_altfire]'.
+[18:02:18]	James Charles has spawned a 'Entity [236][item_ammo_ar2_altfire]'.
+[18:02:18]	James Charles has spawned a 'Entity [237][item_ammo_ar2_altfire]'.
+[18:02:19]	James Charles has spawned a 'Entity [238][item_ammo_ar2_altfire]'.
+[18:02:19]	James Charles has spawned a 'Entity [239][item_ammo_ar2_altfire]'.
+[18:02:19]	James Charles has spawned a 'Entity [240][item_ammo_ar2_altfire]'.
+[18:02:19]	Jake Esposito entered observer.
+[18:02:19]	James Charles has spawned a 'Entity [241][item_ammo_ar2_altfire]'.
+[18:02:23]	James Charles entered observer.
+[18:02:24]	Vixie Cubic exited observer at their location.
+[18:02:25]	Vixie Cubic entered observer.
+[18:02:27]	Jake Esposito exited observer.
+[18:02:27]	James Charles entered observer.
+[18:02:28]	Jake Esposito entered observer.
+[18:02:29]	Vixie Cubic exited observer at their location.
+[18:02:29]	Jake Esposito exited observer.
+[18:02:30]	Jake Esposito entered observer.
+[18:02:31]	James Charles exited observer.
+[18:02:32]	James Charles entered observer.
+[18:02:33]	Vixie Cubic entered observer.
+[18:02:34]	Vixie Cubic exited observer at their location.
+[18:02:34]	James Charles exited observer.
+[18:02:35]	Jake Esposito exited observer.
+[18:02:35]	James Charles entered observer.
+[18:02:36]	Jake Esposito has taken 43 damage from worldspawn.
+[18:02:36]	GMan used command '/CharGiveFlag gman n'.
+[18:02:36]	James Charles exited observer.
+[18:02:38]	James Charles entered observer.
+[18:02:39]	Vixie Cubic entered observer.
+[18:02:42]	Jake Esposito entered observer.
+[18:02:45]	GMan used command '/CharGiveFlag gman c'.
+[18:02:47]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:47]	James Charles exited observer.
+[18:02:47]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:48]	James Charles has taken 47 damage from worldspawn.
+[18:02:48]	James Charles entered observer.
+[18:02:48]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:49]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:49]	GMan used command '/CharGiveFlag gman C'.
+[18:02:50]	James Charles exited observer.
+[18:02:50]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:51]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:52]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:52]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:53]	James Charles has spawned a 'Entity [239][item_ammo_ar2_altfire]'.
+[18:02:54]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:54]	James Charles has spawned a 'Entity [240][item_ammo_ar2_altfire]'.
+[18:02:54]	James Charles has spawned a 'Entity [241][item_ammo_ar2_altfire]'.
+[18:02:54]	James Charles has spawned a 'Entity [272][item_ammo_ar2_altfire]'.
+[18:02:54]	James Charles has spawned a 'Entity [633][item_ammo_ar2_altfire]'.
+[18:02:54]	James Charles has spawned a 'Entity [853][item_ammo_ar2_altfire]'.
+[18:02:54]	James Charles has spawned a 'Entity [854][item_ammo_ar2_altfire]'.
+[18:02:54]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:55]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:55]	James Charles has spawned a 'Entity [239][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [240][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [241][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [272][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [633][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [853][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [854][item_ammo_ar2_altfire]'.
+[18:02:55]	James Charles has spawned a 'Entity [855][item_ammo_ar2_altfire]'.
+[18:02:55]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:56]	[OOC] Jake Esposito: NO
+[18:02:56]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:56]	James Charles has spawned a 'Entity [239][item_ammo_ar2_large]'.
+[18:02:57]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:57]	[OOC] GMan: shut fuck
+[18:02:58]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:58]	James Charles has spawned a 'Entity [239][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [240][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [241][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [272][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [633][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [853][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [854][item_ammo_ar2_large]'.
+[18:02:58]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:02:58]	James Charles has spawned a 'Entity [855][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [856][item_ammo_ar2_large]'.
+[18:02:58]	James Charles has spawned a 'Entity [857][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [239][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [240][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [241][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [272][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [633][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [853][item_ammo_ar2_large]'.
+[18:02:59]	James Charles has spawned a 'Entity [854][item_ammo_ar2_large]'.
+[18:03:00]	James Charles has spawned a 'Entity [855][item_ammo_ar2_large]'.
+[18:03:00]	James Charles has spawned a 'Entity [856][item_ammo_ar2_large]'.
+[18:03:00]	James Charles has spawned a 'Entity [857][item_ammo_ar2_large]'.
+[18:03:01]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:03:03]	James Charles entered observer.
+[18:03:06]	Jake Esposito exited observer.
+[18:03:07]	Jake Esposito entered observer.
+[18:03:07]	Jake Esposito exited observer.
+[18:03:08]	Jake Esposito entered observer.
+[18:03:08]	James Williams exited observer at their location.
+[18:03:09]	Jake Esposito exited observer.
+[18:03:10]	James Williams entered observer.
+[18:03:11]	[OOC] Vixie Cubic: tzar give physgun and toolgun perms
+[18:03:17]	DOOM ETERNAL is a good game (STEAM_0:1:175760128) has disconnected.
+[18:03:19]	James Williams exited observer at their location.
+[18:03:24]	James Williams entered observer.
+[18:03:27]	James Williams exited observer at their location.
+[18:03:35]	James Williams has taken 46 damage from worldspawn.
+[18:03:35]	James Williams entered observer.
+[18:03:36]	Vixie Cubic entered observer.
+[18:03:36]	Jake Esposito entered observer.
+[18:03:38]	James Williams exited observer at their location.
+[18:03:38]	Jake Esposito exited observer.
+[18:03:40]	James Williams entered observer.
+[18:03:41]	Optical (STEAM_0:0:460042086) has disconnected.
+[18:03:42]	Jake Esposito entered observer.
+[18:03:43]	Jake Esposito exited observer.
+[18:03:44]	Jake Esposito entered observer.
+[18:03:45]	Toorusty (STEAM_0:0:67125359) has disconnected.
+[18:03:51]	Vixie Cubic exited observer at their location.
+[18:03:52]	Vixie Cubic has taken 10 damage from worldspawn.
+[18:03:52]	worldspawn has killed Vixie Cubic.
+[18:03:55]	TadeusSlovak (STEAM_0:1:84322488) has disconnected.
+[18:04:25]	GMan has taken 224 damage from worldspawn.
+[18:04:25]	worldspawn has killed GMan.
+[18:04:26]	Tzar (STEAM_0:0:140210729) has disconnected.
+[18:12:45]	Optical has connected.
+[18:13:02]	Tzar has connected.
+[18:13:11]	Optical loaded the character 'James Williams'
+[18:13:12]	James Williams entered observer.
+[18:13:13]	James Williams exited observer at their location.
+[18:13:14]	James Williams entered observer.
+[18:13:20]	James Williams exited observer at their location.
+[18:13:21]	James Williams entered observer.
+[18:13:28]	James Williams exited observer at their location.
+[18:13:29]	James Williams entered observer.
+[18:13:32]	James Williams exited observer at their location.
+[18:13:41]	James Williams entered observer.
+[18:13:46]	James Williams exited observer at their location.
+[18:13:49]	James Williams entered observer.
+[18:13:52]	Tzar loaded the character 'GMan'
+[18:13:56]	James Williams exited observer at their location.
+[18:13:57]	James Williams entered observer.
+[18:13:59]	James Williams exited observer at their location.
+[18:14:03]	James Williams entered observer.
+[18:16:53]	James Williams exited observer at their location.
+[18:16:54]	James Williams entered observer.
+[18:17:36]	[OOC] GMan: gay
+[18:18:11]	James Williams has gained 5 Tokens.
+[18:18:22]	Toorusty has connected.
+[18:18:38]	adsin15 has connected.
+[18:18:52]	GMan has gained 5 Tokens.
+[18:19:09]	adsin15 loaded the character 'James Sinclair'
+[18:19:23]	[OOC] James Sinclair: giv mod
+[18:21:56]	[OOC] James Sinclair: where mod
+[18:22:12]	[OOC] James Sinclair: lol
+[18:22:32]	James Sinclair has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[18:23:11]	James Williams has gained 5 Tokens.
+[18:23:43]	Toorusty loaded the character 'Jake Esposito'
+[18:23:52]	GMan has gained 5 Tokens.
+[18:23:55]	Jake Esposito entered observer.
+[18:24:01]	Jake Esposito exited observer.
+[18:24:09]	James Sinclair has gained 5 Tokens.
+[18:24:20]	Jake Esposito has taken 5 damage from James Sinclair.
+[18:25:10]	[OOC] GMan: gay
+[18:25:44]	James Sinclair has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[18:25:51]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:25:54]	James Sinclair has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[18:25:57]	Jake Esposito has taken 5 damage from James Sinclair.
+[18:25:57]	Jake Esposito has taken 5 damage from James Sinclair.
+[18:26:02]	Jake Esposito has taken 20 damage from James Sinclair.
+[18:26:02]	James Sinclair has killed Jake Esposito with weapon_physgun.
+[18:26:18]	[OOC] James Sinclair: where my mod
+[18:26:35]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:26:35]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:26:36]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:26:40]	James Sinclair has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[18:27:02]	James Sinclair has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[18:27:21]	GMan has taken 7 damage from worldspawn.
+[18:27:41]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:28:02]	[OOC] James Sinclair: where is my admin perm
+[18:28:09]	James Sinclair has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[18:28:11]	James Williams has gained 5 Tokens.
+[18:28:11]	James Sinclair has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[18:28:16]	James Sinclair has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[18:28:23]	James Williams has lost 10 Tokens.
+[18:28:23]	James Williams used command '/DropTokens 10'.
+[18:28:28]	James Williams has gained 10 Tokens.
+[18:28:43]	Jake Esposito has gained 5 Tokens.
+[18:28:50]	GMan has taken 93 damage from worldspawn.
+[18:28:50]	worldspawn has killed GMan.
+[18:28:52]	GMan has gained 5 Tokens.
+[18:28:57]	[OOC] James Williams: I still don't have admins perms
+[18:29:06]	[OOC] James Williams: I'm stuck in noclip
+[18:29:09]	James Sinclair has gained 5 Tokens.
+[18:29:17]	GMan used command '/AreaEdit'.
+[18:30:38]	James Sinclair has spawned 'models/props_junk/metal_paintcan001a.mdl'.
+[18:30:39]	GMan has added area "Dead Sea".
+[18:30:51]	James Sinclair has spawned 'models/props_junk/metal_paintcan001a.mdl'.
+[18:31:00]	James Sinclair has taken 10 damage from antlion_surface_soldier.
+[18:31:03]	James Sinclair has taken 5 damage from antlion_surface_soldier.
+[18:31:08]	James Sinclair has spawned 'models/props_junk/metal_paintcan001a.mdl'.
+[18:31:17]	James Sinclair has taken 5 damage from antlion_surface_soldier.
+[18:31:20]	James Sinclair has spawned 'models/props_lab/blastdoor001b.mdl'.
+[18:31:42]	GMan has added area "Courtyard".
+[18:32:19]	GMan has added area "The Wall".
+[18:32:38]	James Sinclair has spawned 'models/props_junk/MetalBucket01a.mdl'.
+[18:32:53]	James Sinclair has taken 131 damage from worldspawn.
+[18:32:53]	worldspawn has killed James Sinclair.
+[18:33:11]	James Williams has gained 5 Tokens.
+[18:33:42]	GMan has added area "Block 1".
+[18:33:43]	Jake Esposito has gained 5 Tokens.
+[18:33:52]	GMan has gained 5 Tokens.
+[18:34:09]	James Sinclair has gained 5 Tokens.
+[18:34:17]	James Sinclair has taken 181 damage from worldspawn.
+[18:34:17]	worldspawn has killed James Sinclair.
+[18:34:33]	GMan has added area "Administration Zone Star".
+[18:34:36]	Optical (STEAM_0:0:460042086) has disconnected.
+[18:34:42]	[OOC] James Sinclair: I dont have adminge perms
+[18:34:51]	GMan has removed area "Administration Zone Star".
+[18:35:18]	GMan has added area "Canteen Zone Star".
+[18:35:23]	Jake Esposito has taken 269 damage from worldspawn.
+[18:35:23]	worldspawn has killed Jake Esposito.
+[18:35:30]	GMan has removed area "Canteen Zone Star".
+[18:35:33]	Jake Esposito has taken 269 damage from worldspawn.
+[18:35:33]	worldspawn has killed Jake Esposito.
+[18:35:43]	Jake Esposito has taken 269 damage from worldspawn.
+[18:35:43]	worldspawn has killed Jake Esposito.
+[18:35:55]	Jake Esposito has taken 404 damage from worldspawn.
+[18:35:55]	worldspawn has killed Jake Esposito.
+[18:35:56]	Rubbishh26 has connected.
+[18:35:58]	GMan has added area "Canteen Zone Star".
+[18:36:34]	GMan has added area "The Watertower".
+[18:37:07]	Rubbishh26 created the character 'Rubbishh'
+[18:37:07]	Rubbishh has gained a 'Suitcase' #71.
+[18:37:07]	Rubbishh has gained a 'Flashlight' #72.
+[18:37:07]	Rubbishh has gained a 'Citizen ID' #73.
+[18:37:07]	Rubbishh26 loaded the character 'Rubbishh'
+[18:37:46]	James Sinclair has spawned 'models/props_wasteland/buoy01.mdl'.
+[18:37:59]	James Sinclair has taken 5 damage from antlion_surface_soldier.
+[18:38:05]	Rubbishh has taken 63 damage from worldspawn.
+[18:38:28]	Rubbishh has taken 5 damage from antlion_surface_soldier.
+[18:38:30]	James Sinclair has taken 5 damage from antlion_surface_soldier.
+[18:38:30]	GMan has added area "Reception Zone".
+[18:38:43]	Jake Esposito has gained 5 Tokens.
+[18:38:48]	[OOC] James Sinclair: survival of the fittest mr rubbish
+[18:38:52]	GMan has gained 5 Tokens.
+[18:39:09]	James Sinclair has gained 5 Tokens.
+[18:39:27]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:29]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:34]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:39:34]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:39:36]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:39:38]	Rubbishh has taken 5000 damage from pipecave_deathpit.
+[18:39:38]	pipecave_deathpit has killed Rubbishh.
+[18:39:39]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:40]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:40]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:41]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:42]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:42]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:42]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:42]	[OOC] James Sinclair: you failed
+[18:39:57]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:39:59]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:00]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:40:08]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:09]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:15]	GMan has added area "Prisoner Management Area".
+[18:40:25]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:40:26]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[18:40:34]	Rubbishh has taken 50 damage from ix_container.
+[18:40:34]	Rubbishh has taken 10 damage from ix_container.
+[18:40:34]	Rubbishh has taken 5 damage from ix_container.
+[18:40:34]	Rubbishh has taken 5 damage from ix_container.
+[18:40:36]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:40:37]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:40:37]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:40:38]	Rubbishh has taken 5 damage from antlion_hive_worker.
+[18:40:39]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:41]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:42]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:42]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:43]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:44]	James Sinclair has taken 5 damage from antlion_hive_worker.
+[18:40:44]	antlion_hive_worker has killed James Sinclair.
+[18:40:46]	Rubbishh has taken 5000 damage from pipecave_deathpit.
+[18:40:46]	pipecave_deathpit has killed Rubbishh.
+[18:41:59]	GMan has added area "Block 2".
+[18:42:07]	Rubbishh has gained 5 Tokens.
+[18:42:26]	GMan has added area "Laundromat".
+[18:43:18]	Rubbishh has taken 101 damage from worldspawn.
+[18:43:18]	worldspawn has killed Rubbishh.
+[18:43:43]	Jake Esposito has gained 5 Tokens.
+[18:43:52]	GMan has gained 5 Tokens.
+[18:44:09]	James Sinclair has gained 5 Tokens.
+[18:44:31]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[18:44:44]	James Sinclair used command '/PM gman admin powers are not complete'.
+[18:44:50]	James Sinclair used command '/PM gman fix and give'.
+[18:44:59]	James Sinclair used command '/PM gman amogus'.
+[18:44:59]	GMan has added area "Utilities Management Area".
+[18:45:13]	GMan has removed area "Utilities Management Area".
+[18:45:27]	GMan used command '/PM sinclair Im working on it'.
+[18:45:42]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[18:45:49]	James Sinclair has spawned 'models/props_vehicles/tire001b_truck.mdl'.
+[18:45:54]	James Sinclair has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[18:45:59]	James Sinclair has spawned 'models/props_lab/blastdoor001a.mdl'.
+[18:46:00]	James Sinclair has spawned 'models/props_junk/PopCan01a.mdl'.
+[18:46:02]	James Sinclair has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[18:46:06]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:46:16]	Rubbishh opened the 'Crate' #32 container.
+[18:46:20]	Rubbishh opened the 'Crate' #32 container.
+[18:46:27]	Rubbishh opened the 'Crate' #32 container.
+[18:46:29]	Rubbishh opened the 'Crate' #32 container.
+[18:46:42]	GMan has added area "The Basin".
+[18:46:43]	Rubbishh has taken 500 damage from James Sinclair.
+[18:46:43]	James Sinclair has killed Rubbishh with weapon_physgun.
+[18:47:05]	[OOC] Rubbishh: Someone get me outta here
+[18:47:07]	Rubbishh has gained 5 Tokens.
+[18:47:12]	[OOC] GMan: hi
+[18:47:18]	[OOC] Rubbishh: what's up
+[18:47:29]	James Sinclair has spawned 'models/props_junk/TrafficCone001a.mdl'.
+[18:47:30]	James Sinclair has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[18:48:16]	Rubbishh26 (STEAM_0:0:193899136) has disconnected.
+[18:48:20]	GMan has added area "The Abandoned Zone".
+[18:48:36]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[18:48:43]	Jake Esposito has gained 5 Tokens.
+[18:48:52]	GMan has gained 5 Tokens.
+[18:49:09]	James Sinclair has gained 5 Tokens.
+[18:49:33]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[18:49:44]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[18:50:24]	James Sinclair has spawned 'models/props_c17/TrapPropeller_Blade.mdl'.
+[18:50:28]	James Sinclair has spawned 'models/props_junk/watermelon01.mdl'.
+[18:50:33]	James Sinclair has spawned 'models/props_junk/GlassBottle01a.mdl'.
+[18:50:36]	James Sinclair has spawned 'models/props_junk/watermelon01.mdl'.
+[18:50:39]	James Sinclair has spawned 'models/props_lab/jar01a.mdl'.
+[18:50:41]	James Sinclair has spawned 'models/props_junk/watermelon01.mdl'.
+[18:51:28]	[OOC] James Sinclair: gman
+[18:51:35]	[OOC] James Sinclair: come
+[18:51:49]	[OOC] GMan: im looking at shit
+[18:51:52]	James Sinclair has spawned 'models/props_junk/TrafficCone001a.mdl'.
+[18:51:56]	James Sinclair has spawned 'models/props_c17/TrapPropeller_Blade.mdl'.
+[18:51:58]	James Sinclair has spawned 'models/props_junk/harpoon002a.mdl'.
+[18:52:08]	[OOC] James Sinclair: gross
+[18:52:44]	GMan has added area "Building 813a".
+[18:53:06]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:53:19]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:22]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:28]	James Sinclair has spawned 'models/props_junk/MetalBucket01a.mdl'.
+[18:53:32]	GMan has added area "Canteen Zone Kilo".
+[18:53:43]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:43]	Jake Esposito has gained 5 Tokens.
+[18:53:44]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:44]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:45]	James Sinclair has taken 5 damage from ix_container.
+[18:53:45]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:46]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:53:47]	James Sinclair has taken 10 damage from ix_container.
+[18:53:47]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:53:47]	James Sinclair has taken 5 damage from ix_container.
+[18:53:48]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:53:49]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:53:49]	James Sinclair has taken 500 damage from ix_container.
+[18:53:49]	ix_container has killed James Sinclair.
+[18:53:50]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:53:52]	GMan has gained 5 Tokens.
+[18:53:59]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:00]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:01]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:02]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:03]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:03]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:04]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:54:09]	James Sinclair has gained 5 Tokens.
+[18:54:13]	James Sinclair has spawned 'models/props_lab/lockerdoorleft.mdl'.
+[18:54:15]	Jake Esposito has taken 5 damage from ix_container.
+[18:54:21]	GMan has removed area "Canteen Zone Kilo".
+[18:54:22]	James Sinclair has taken 20 damage from ix_container.
+[18:54:22]	James Sinclair has taken 10 damage from ix_container.
+[18:54:22]	James Sinclair has taken 5 damage from ix_container.
+[18:54:28]	James Sinclair has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[18:54:32]	Jake Esposito has taken 5 damage from ix_container.
+[18:54:37]	Jake Esposito has taken 500 damage from ix_container.
+[18:54:37]	ix_container has killed Jake Esposito.
+[18:54:40]	GMan has added area "Canteen Zone Kilo".
+[18:55:01]	GMan has removed area "Courtyard".
+[18:55:02]	James Sinclair has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[18:55:07]	GMan has removed area "The Wall".
+[18:55:32]	GMan has added area "The Courtyard".
+[18:55:37]	James Sinclair has taken 500 damage from ix_container.
+[18:55:37]	ix_container has killed James Sinclair.
+[18:55:52]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:55:54]	James Sinclair has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[18:55:58]	Jake Esposito has taken 5 damage from ix_container.
+[18:56:04]	James Sinclair has spawned 'models/props_trainstation/BenchOutdoor01a.mdl'.
+[18:56:08]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:56:10]	Jake Esposito has taken 100 damage from ix_container.
+[18:56:10]	ix_container has killed Jake Esposito.
+[18:56:16]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:56:18]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:56:27]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:56:29]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:56:31]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:56:34]	GMan has added area "U".
+[18:56:35]	Jake Esposito has taken 100 damage from ix_container.
+[18:56:35]	ix_container has killed Jake Esposito.
+[18:56:42]	GMan has removed area "U".
+[18:57:07]	James Sinclair has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[18:57:13]	GMan has added area "Cargo Management Zone".
+[18:57:16]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:18]	Jake Esposito has taken 500 damage from ix_container.
+[18:57:18]	ix_container has killed Jake Esposito.
+[18:57:30]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:31]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:32]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:32]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:33]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:34]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:35]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:36]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:37]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:38]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:39]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:40]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:41]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:42]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:42]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:42]	James Sinclair has taken 5 damage from ix_container.
+[18:57:42]	James Sinclair has taken 5 damage from ix_container.
+[18:57:43]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:44]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:45]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:46]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:47]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:57:49]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:51]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:52]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:57:53]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:57:57]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:57:58]	James Sinclair has spawned 'models/props_lab/filecabinet02.mdl'.
+[18:58:00]	James Sinclair has spawned 'models/props_lab/kennel_physics.mdl'.
+[18:58:01]	James Sinclair has spawned 'models/props_junk/wood_crate001a.mdl'.
+[18:58:09]	James Sinclair has spawned 'models/props_junk/CinderBlock01a.mdl'.
+[18:58:32]	James Sinclair has spawned 'models/props_junk/CinderBlock01a.mdl'.
+[18:58:36]	James Sinclair has spawned 'models/props_junk/CinderBlock01a.mdl'.
+[18:58:39]	James Sinclair has spawned 'models/props_junk/CinderBlock01a.mdl'.
+[18:58:42]	James Sinclair has taken 5 damage from ix_container.
+[18:58:43]	Jake Esposito has gained 5 Tokens.
+[18:58:52]	GMan has gained 5 Tokens.
+[18:59:01]	James Sinclair has spawned 'models/props_interiors/BathTub01a.mdl'.
+[18:59:09]	James Sinclair has gained 5 Tokens.
+[18:59:10]	James Sinclair has spawned 'models/props_interiors/pot02a.mdl'.
+[18:59:11]	James Sinclair has taken 10 damage from ix_container.
+[18:59:11]	Jake Esposito has taken 500 damage from ix_container.
+[18:59:11]	ix_container has killed Jake Esposito.
+[18:59:20]	GMan has added area "Zone 567v".
+[18:59:35]	GMan opened the 'Crate' #34 container.
+[18:59:37]	GMan closed the 'Crate' #34 container.
+[18:59:46]	James Sinclair opened the 'Crate' #34 container.
+[18:59:46]	James Sinclair closed the 'Crate' #34 container.
+[19:00:24]	GMan has added area "Zone 127g".
+[19:00:45]	adsin15 (STEAM_0:0:35761453) has disconnected.
+[19:00:54]	GMan has added area "Zone 749c".
+[19:01:13]	GMan has removed area "Zone 749c".
+[19:03:43]	Jake Esposito has gained 5 Tokens.
+[19:03:52]	GMan has gained 5 Tokens.
+[19:05:12]	GMan has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[19:05:34]	GMan has taken 118 damage from worldspawn.
+[19:05:34]	worldspawn has killed GMan.
+[19:06:39]	GMan used command '/MapSceneAdd'.
+[19:06:47]	GMan used command '/MapSceneAdd'.
+[19:06:54]	GMan used command '/MapSceneAdd'.
+[19:07:01]	GMan used command '/MapSceneAdd'.
+[19:07:10]	GMan has taken 271 damage from minefield_north_expl1.
+[19:07:10]	minefield_north_expl1 has killed GMan.
+[19:07:33]	GMan used command '/MapSceneAdd'.
+[19:07:52]	GMan used command '/MapSceneAdd'.
+[19:08:04]	GMan used command '/MapSceneAdd'.
+[19:08:22]	GMan used command '/MapSceneAdd'.
+[19:08:35]	GMan used command '/MapSceneAdd'.
+[19:08:43]	Jake Esposito has gained 5 Tokens.
+[19:08:52]	GMan has gained 5 Tokens.
+[19:13:50]	Jake Esposito has gained 5 Tokens.
+[19:13:59]	GMan has gained 5 Tokens.
+[19:14:16]	[OOC] GMan: trollge event
+[19:14:30]	GMan has spawned a 'Weapon [150][weapon_ar2]'.
+[19:15:39]	Squire_c has connected.
+[19:16:55]	Jake Esposito opened the 'Crate' #34 container.
+[19:16:55]	Jake Esposito closed the 'Crate' #34 container.
+[19:16:57]	Jake Esposito opened the 'Crate' #34 container.
+[19:16:57]	Jake Esposito closed the 'Crate' #34 container.
+[19:17:40]	Jake Esposito has taken 54 damage from worldspawn.
+[19:17:55]	Jake Esposito has taken 110 damage from GMan.
+[19:17:55]	GMan has killed Jake Esposito with weapon_rpg.
+[19:18:07]	Jake Esposito opened the 'Crate' #34 container.
+[19:18:09]	Jake Esposito closed the 'Crate' #34 container.
+[19:18:10]	Jake Esposito opened the 'Crate' #34 container.
+[19:18:11]	Jake Esposito closed the 'Crate' #34 container.
+[19:18:24]	Jake Esposito opened the 'Crate' #34 container.
+[19:18:24]	Jake Esposito closed the 'Crate' #34 container.
+[19:18:33]	GMan opened the 'Crate' #34 container.
+[19:18:37]	GMan closed the 'Crate' #34 container.
+[19:18:49]	Jake Esposito opened the 'Crate' #34 container.
+[19:18:51]	Jake Esposito has gained 5 Tokens.
+[19:18:51]	Jake Esposito closed the 'Crate' #34 container.
+[19:18:59]	GMan has gained 5 Tokens.
+[19:18:59]	[OOC] Jake Esposito: TZAR HELP
+[19:19:18]	Jake Esposito opened the 'Crate' #34 container.
+[19:19:18]	Jake Esposito closed the 'Crate' #34 container.
+[19:19:25]	Jake Esposito entered observer.
+[19:19:35]	Jake Esposito exited observer.
+[19:19:36]	Jake Esposito entered observer.
+[19:19:39]	GMan has taken 11 damage from Jake Esposito.
+[19:19:44]	Squire_c created the character 'Joey Jonderson'
+[19:19:44]	Joey Jonderson has gained a 'Suitcase' #71.
+[19:19:44]	Joey Jonderson has gained a 'Flashlight' #72.
+[19:19:44]	Joey Jonderson has gained a 'Citizen ID' #73.
+[19:19:44]	Squire_c loaded the character 'Joey Jonderson'
+[19:19:45]	GMan has taken 3 damage from Jake Esposito.
+[19:19:45]	GMan has taken 3 damage from Jake Esposito.
+[19:19:48]	Joey Jonderson opened the 'Crate' #34 container.
+[19:19:51]	Joey Jonderson opened the 'Crate' #34 container.
+[19:19:53]	Joey Jonderson opened the 'Crate' #34 container.
+[19:19:57]	Joey Jonderson opened the 'Crate' #34 container.
+[19:20:09]	Jake Esposito exited observer.
+[19:20:10]	Joey Jonderson opened the 'Crate' #34 container.
+[19:20:12]	Joey Jonderson opened the 'Crate' #34 container.
+[19:20:13]	Joey Jonderson opened the 'Crate' #34 container.
+[19:20:15]	Joey Jonderson opened the 'Crate' #34 container.
+[19:20:16]	Joey Jonderson opened the 'Crate' #34 container.
+[19:20:18]	Joey Jonderson opened the 'File Cabinet' #34 container.
+[19:20:25]	GMan used command '/CharSetModel joey models/player/heavy.mdl'.
+[19:20:32]	Jake Esposito entered observer.
+[19:20:40]	Jake Esposito exited observer.
+[19:20:41]	Jake Esposito entered observer.
+[19:20:46]	Jake Esposito exited observer.
+[19:20:47]	Joey Jonderson opened the 'Crate' #34 container.
+[19:21:01]	GMan has spawned a 'Weapon [482][weapon_shotgun]'.
+[19:21:01]	GMan has spawned a 'Weapon [858][weapon_shotgun]'.
+[19:21:01]	GMan has spawned a 'Weapon [873][weapon_shotgun]'.
+[19:21:01]	GMan has spawned a 'Weapon [1923][weapon_shotgun]'.
+[19:21:01]	GMan has spawned a 'Weapon [1925][weapon_shotgun]'.
+[19:21:04]	Joey Jonderson opened the 'Crate' #34 container.
+[19:21:27]	Optical has connected.
+[19:21:47]	Optical loaded the character 'James Williams'
+[19:21:48]	James Williams entered observer.
+[19:21:49]	James Williams exited observer at their location.
+[19:21:49]	James Williams entered observer.
+[19:22:01]	James Williams exited observer at their location.
+[19:22:04]	James Williams entered observer.
+[19:22:05]	James Williams exited observer at their location.
+[19:22:08]	GMan used command '/CharSetModel jake models/player/heavy.mdl'.
+[19:22:38]	GMan has spawned a 'Entity [151][item_ammo_357_large]'.
+[19:22:40]	GMan has spawned a 'Entity [151][item_box_buckshot]'.
+[19:22:42]	James Williams has taken 24 damage from GMan.
+[19:22:43]	James Williams has taken 40 damage from GMan.
+[19:22:43]	GMan has killed James Williams with weapon_shotgun.
+[19:22:56]	GMan has spawned a 'Weapon [239][weapon_shotgun]'.
+[19:22:56]	GMan has spawned a 'Weapon [468][weapon_shotgun]'.
+[19:22:56]	GMan has spawned a 'Weapon [482][weapon_shotgun]'.
+[19:22:56]	GMan has spawned a 'Weapon [633][weapon_shotgun]'.
+[19:22:59]	James Williams has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[19:23:02]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:23:02]	Joey Jonderson opened the 'Metal Cabinet' #36 container.
+[19:23:03]	Joey Jonderson closed the 'Metal Cabinet' #36 container.
+[19:23:04]	GMan has taken 50 damage from ix_container.
+[19:23:04]	Jake Esposito opened the 'Metal Cabinet' #36 container.
+[19:23:05]	Jake Esposito closed the 'Metal Cabinet' #36 container.
+[19:23:05]	James Williams has taken 5 damage from ix_container.
+[19:23:05]	James Williams has taken 5 damage from ix_container.
+[19:23:10]	Jake Esposito has taken 500 damage from ix_container.
+[19:23:10]	ix_container has killed Jake Esposito.
+[19:23:14]	GMan has taken 500 damage from ix_container.
+[19:23:14]	ix_container has killed GMan.
+[19:23:14]	James Williams has taken 500 damage from ix_container.
+[19:23:14]	ix_container has killed James Williams.
+[19:23:28]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:23:29]	GMan has taken 24 damage from Jake Esposito.
+[19:23:29]	GMan has taken 12 damage from Jake Esposito.
+[19:23:30]	GMan has taken 36 damage from Jake Esposito.
+[19:23:31]	GMan has taken 12 damage from Jake Esposito.
+[19:23:32]	James Williams entered observer.
+[19:23:32]	GMan has taken 29 damage from Jake Esposito.
+[19:23:32]	Jake Esposito has killed GMan with weapon_shotgun.
+[19:23:33]	James Williams exited observer at their location.
+[19:23:38]	GMan has taken 12 damage from Jake Esposito.
+[19:23:44]	James Williams has taken 51 damage from GMan.
+[19:23:44]	Jake Esposito has taken 150 damage from GMan.
+[19:23:44]	GMan has killed Jake Esposito with weapon_rpg.
+[19:23:48]	James Williams has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[19:23:49]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:23:50]	James Williams has taken 76 damage from GMan.
+[19:23:50]	GMan has killed James Williams with weapon_rpg.
+[19:23:51]	Jake Esposito has gained 5 Tokens.
+[19:23:53]	GMan has taken 8 damage from GMan.
+[19:23:59]	GMan has gained 5 Tokens.
+[19:24:02]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:24:04]	James Williams has taken 19 damage from Jake Esposito.
+[19:24:07]	Jake Esposito has taken 500 damage from ix_container.
+[19:24:07]	ix_container has killed Jake Esposito.
+[19:24:12]	James Williams has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[19:24:14]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:24:18]	James Williams has taken 10 damage from ix_container.
+[19:24:18]	James Williams has taken 20 damage from ix_container.
+[19:24:18]	Jake Esposito entered observer.
+[19:24:20]	Jake Esposito exited observer.
+[19:24:39]	Jake Esposito has taken 54 damage from worldspawn.
+[19:24:41]	James Williams has taken 54 damage from worldspawn.
+[19:24:41]	worldspawn has killed James Williams.
+[19:24:43]	GMan used command '/SpawnAdd citizen'.
+[19:24:44]	Joey Jonderson has gained 5 Tokens.
+[19:24:48]	GMan used command '/SpawnAdd citizen'.
+[19:24:53]	GMan used command '/SpawnAdd citizen'.
+[19:25:20]	Joey Jonderson has killed Joey Jonderson.
+[19:25:33]	Joey Jonderson has taken 100 damage from ix_container.
+[19:25:33]	ix_container has killed Joey Jonderson.
+[19:25:37]	James Williams entered observer.
+[19:25:41]	James Williams exited observer at their location.
+[19:25:50]	GMan used command '/CharSetModel joey models/props_halloween/halloween_demoeye.mdl'.
+[19:25:53]	Jake Esposito entered observer.
+[19:25:53]	James Williams entered observer.
+[19:25:57]	Jake Esposito exited observer.
+[19:26:06]	James Williams exited observer at their location.
+[19:26:08]	James Williams entered observer.
+[19:26:11]	James Williams exited observer at their location.
+[19:26:13]	James Williams entered observer.
+[19:26:21]	Jake Esposito entered observer.
+[19:26:34]	Joey Jonderson has taken 175 damage from worldspawn.
+[19:26:34]	worldspawn has killed Joey Jonderson.
+[19:26:44]	Jake Esposito exited observer.
+[19:26:46]	Jake Esposito has taken 122 damage from worldspawn.
+[19:26:46]	worldspawn has killed Jake Esposito.
+[19:26:47]	James Williams has gained 5 Tokens.
+[19:26:54]	James Williams exited observer at their location.
+[19:27:02]	GMan used command '/CharSetModel joey models/player/zelpa/male_07.mdl'.
+[19:27:10]	James Williams entered observer.
+[19:27:10]	James Williams exited observer at their location.
+[19:27:12]	Joey Jonderson has taken 109 damage from worldspawn.
+[19:27:12]	worldspawn has killed Joey Jonderson.
+[19:27:13]	GMan used command '/CharSetModel jake models/player/zelpa/male_05.mdl'.
+[19:27:21]	GMan used command '/CharGiveFlag jake p'.
+[19:27:30]	Jake Esposito entered observer.
+[19:27:31]	Jake Esposito exited observer.
+[19:27:32]	GMan used command '/CharGiveFlag jake t'.
+[19:27:33]	James Williams entered observer.
+[19:27:33]	James Williams exited observer at their location.
+[19:27:38]	Squire_c (STEAM_0:0:107695957) has disconnected.
+[19:27:38]	James Williams entered observer.
+[19:27:40]	James Williams exited observer at their location.
+[19:27:40]	James Williams has taken 295 damage from worldspawn.
+[19:27:40]	worldspawn has killed James Williams.
+[19:27:47]	James Williams entered observer.
+[19:27:50]	James Williams exited observer at their location.
+[19:28:04]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[19:28:05]	Jake Esposito opened the 'Crate' #36 container.
+[19:28:07]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:28:07]	Jake Esposito closed the 'Crate' #36 container.
+[19:28:09]	Jake Esposito has taken 500 damage from ix_container.
+[19:28:09]	ix_container has killed Jake Esposito.
+[19:28:14]	Squire_c has connected.
+[19:28:15]	James Williams entered observer.
+[19:28:16]	James Williams exited observer at their location.
+[19:28:16]	GMan has taken 13 damage from worldspawn.
+[19:28:17]	James Williams entered observer.
+[19:28:21]	James Williams exited observer at their location.
+[19:28:28]	James Williams entered observer.
+[19:28:30]	James Williams exited observer at their location.
+[19:28:40]	James Williams entered observer.
+[19:28:46]	James Williams exited observer at their location.
+[19:28:49]	James Williams entered observer.
+[19:28:51]	Jake Esposito has gained 5 Tokens.
+[19:28:51]	Jake Esposito entered observer.
+[19:28:51]	James Williams exited observer at their location.
+[19:28:52]	Jake Esposito exited observer.
+[19:28:53]	James Williams entered observer.
+[19:28:55]	James Williams exited observer at their location.
+[19:28:58]	James Williams entered observer.
+[19:28:59]	GMan has gained 5 Tokens.
+[19:29:00]	James Williams exited observer at their location.
+[19:29:00]	Squire_c loaded the character 'Joey Jonderson'
+[19:29:31]	Toorusty has connected.
+[19:29:37]	Tzar has connected.
+[19:29:41]	Optical has connected.
+[19:29:43]	Toorusty loaded the character 'Jake Esposito'
+[19:29:46]	Jake Esposito entered observer.
+[19:29:48]	Jake Esposito exited observer.
+[19:29:54]	Squire_c has connected.
+[19:29:56]	Tzar loaded the character 'GMan'
+[19:29:59]	Optical loaded the character 'James Williams'
+[19:30:00]	James Williams entered observer.
+[19:30:10]	James Williams exited observer at their location.
+[19:30:11]	James Williams entered observer.
+[19:30:13]	James Williams exited observer at their location.
+[19:30:14]	James Williams entered observer.
+[19:30:15]	GMan used command '/AreaEdit'.
+[19:30:19]	Squire_c loaded the character 'Joey Jonderson'
+[19:30:25]	James Williams exited observer at their location.
+[19:30:27]	Squire_c (STEAM_0:0:107695957) has disconnected.
+[19:30:34]	James Williams entered observer.
+[19:30:36]	James Williams exited observer at their location.
+[19:30:37]	GMan has added area "The Platforms".
+[19:30:37]	James Williams entered observer.
+[19:30:42]	GMan has taken 50 damage from trigger_hurt.
+[19:30:43]	GMan has taken 50 damage from trigger_hurt.
+[19:30:43]	trigger_hurt has killed GMan.
+[19:30:45]	James Williams exited observer at their location.
+[19:30:51]	James Williams entered observer.
+[19:30:54]	Squire_c has connected.
+[19:31:08]	James Williams exited observer at their location.
+[19:31:10]	James Williams entered observer.
+[19:31:11]	Squire_c loaded the character 'Joey Jonderson'
+[19:31:11]	James Williams exited observer at their location.
+[19:31:12]	James Williams entered observer.
+[19:31:20]	James Williams exited observer at their location.
+[19:31:21]	James Williams entered observer.
+[19:31:28]	Squire_c (STEAM_0:0:107695957) has disconnected.
+[19:31:47]	GMan has added area "A1".
+[19:31:51]	James Williams exited observer at their location.
+[19:31:51]	James Williams entered observer.
+[19:32:15]	James Williams exited observer at their location.
+[19:32:17]	James Williams entered observer.
+[19:32:23]	Peppermint has connected.
+[19:32:42]	GMan has added area "Security Station 1A".
+[19:33:13]	GMan has added area "City 2".
+[19:33:24]	James Williams exited observer at their location.
+[19:33:26]	James Williams entered observer.
+[19:33:27]	James Williams exited observer at their location.
+[19:33:32]	GMan used command '/AreaEdit'.
+[19:34:11]	James Williams entered observer.
+[19:34:12]	James Williams exited observer at their location.
+[19:34:12]	GMan has added area "City 2 Central Trainstation".
+[19:34:13]	James Williams entered observer.
+[19:34:18]	James Williams exited observer at their location.
+[19:34:43]	Jake Esposito has gained 5 Tokens.
+[19:34:47]	GMan used command '/AreaEdit'.
+[19:34:52]	GMan used command '/AreaEdit'.
+[19:34:55]	GMan has removed area "City 2 Central Trainstation".
+[19:34:56]	James Williams entered observer.
+[19:34:56]	GMan has gained 5 Tokens.
+[19:34:59]	James Williams has gained 5 Tokens.
+[19:35:00]	James Williams exited observer at their location.
+[19:35:12]	James Williams entered observer.
+[19:35:18]	GMan has added area "City 2 Central Station".
+[19:35:20]	James Williams exited observer at their location.
+[19:35:21]	James Williams entered observer.
+[19:35:21]	Squire_c has connected.
+[19:35:21]	James Williams exited observer at their location.
+[19:35:22]	James Williams has taken 289 damage from worldspawn.
+[19:35:22]	worldspawn has killed James Williams.
+[19:35:28]	James Williams entered observer.
+[19:35:35]	James Williams exited observer at their location.
+[19:35:37]	James Williams has taken 104 damage from worldspawn.
+[19:35:37]	worldspawn has killed James Williams.
+[19:35:43]	James Williams entered observer.
+[19:35:50]	Jake Esposito entered observer.
+[19:35:51]	Jake Esposito exited observer.
+[19:35:59]	James Williams exited observer at their location.
+[19:36:01]	James Williams entered observer.
+[19:36:03]	James Williams exited observer at their location.
+[19:36:10]	James Williams entered observer.
+[19:36:23]	Jake Esposito has taken 75 damage from GMan.
+[19:36:28]	Jake Esposito has taken 75 damage from GMan.
+[19:36:28]	GMan has killed Jake Esposito with weapon_357.
+[19:36:33]	GMan has spawned a 'Weapon [338][weapon_357]'.
+[19:36:37]	Squire_c created the character 'Joey Jonderson'
+[19:36:37]	Joey Jonderson has gained a 'Suitcase' #71.
+[19:36:37]	Joey Jonderson has gained a 'Flashlight' #72.
+[19:36:37]	Joey Jonderson has gained a 'Citizen ID' #73.
+[19:36:38]	Squire_c loaded the character 'Joey Jonderson'
+[19:36:45]	James Williams exited observer at their location.
+[19:36:47]	James Williams entered observer.
+[19:36:50]	James Williams exited observer at their location.
+[19:36:53]	James Williams entered observer.
+[19:36:59]	James Williams exited observer at their location.
+[19:37:00]	James Williams entered observer.
+[19:37:20]	GMan used command '/CharSetModel jonder models/Humans/Group01/Male_Cheaple.mdl'.
+[19:37:24]	James Williams exited observer at their location.
+[19:37:26]	James Williams entered observer.
+[19:37:32]	James Williams exited observer at their location.
+[19:37:33]	James Williams entered observer.
+[19:37:35]	James Williams exited observer at their location.
+[19:37:36]	James Williams entered observer.
+[19:37:43]	GMan has spawned a 'Weapon [118][weapon_rpg]'.
+[19:37:43]	GMan has spawned a 'Weapon [338][weapon_rpg]'.
+[19:37:45]	BigSimpBryan has connected.
+[19:38:03]	Peppermint created the character 'Temporary name for a temporary pleb'
+[19:38:03]	Temporary name for a temporary pleb has gained a 'Suitcase' #74.
+[19:38:03]	Temporary name for a temporary pleb has gained a 'Flashlight' #75.
+[19:38:03]	Temporary name for a temporary pleb has gained a 'Citizen ID' #76.
+[19:38:03]	Peppermint loaded the character 'Temporary name for a temporary pleb'
+[19:38:15]	[OOC] Temporary name for a temporary pleb: Can I get the content?
+[19:38:23]	James Williams exited observer at their location.
+[19:38:36]	James Williams entered observer.
+[19:38:39]	BigSimpBryan created the character 'hoe ass bitch'
+[19:38:39]	hoe ass bitch has gained a 'Suitcase' #77.
+[19:38:39]	hoe ass bitch has gained a 'Flashlight' #78.
+[19:38:39]	hoe ass bitch has gained a 'Citizen ID' #79.
+[19:38:39]	BigSimpBryan loaded the character 'hoe ass bitch'
+[19:38:44]	GMan used command '/CharSetModel pleb models/Humans/Group01/Male_Cheaple.mdl'.
+[19:38:46]	James Williams exited observer at their location.
+[19:38:48]	James Williams entered observer.
+[19:38:51]	James Williams exited observer at their location.
+[19:38:56]	GMan used command '/CharSetModel hoe models/Humans/Group01/Male_Cheaple.mdl'.
+[19:39:01]	James Williams entered observer.
+[19:39:16]	James Williams exited observer at their location.
+[19:39:28]	[OOC] Temporary name for a temporary pleb: uh hello?
+[19:39:31]	James Williams entered observer.
+[19:39:32]	James Williams exited observer at their location.
+[19:39:33]	James Williams entered observer.
+[19:39:34]	[OOC] hoe ass bitch: shut up
+[19:39:43]	Jake Esposito has gained 5 Tokens.
+[19:39:48]	[OOC] Joey Jonderson: poop fart
+[19:39:52]	[OOC] hoe ass bitch: ;)
+[19:39:54]	Peppermint (STEAM_0:1:115933392) has disconnected.
+[19:39:56]	GMan used command '/CharSetModel gman models/player/heavy.mdl'.
+[19:39:56]	GMan has gained 5 Tokens.
+[19:39:59]	James Williams has gained 5 Tokens.
+[19:40:09]	James Williams exited observer at their location.
+[19:40:10]	James Williams entered observer.
+[19:40:11]	Heavy used command '/CharSetName gman Heavy'.
+[19:40:17]	Heavy has spawned a 'Weapon [111][weapon_shotgun]'.
+[19:40:17]	Heavy has spawned a 'Weapon [120][weapon_shotgun]'.
+[19:40:17]	Heavy has spawned a 'Weapon [144][weapon_shotgun]'.
+[19:40:25]	James Williams exited observer at their location.
+[19:40:29]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[19:40:31]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:40:33]	hoe ass bitch opened the 'Crate' #42 container.
+[19:40:37]	hoe ass bitch has taken 500 damage from ix_container.
+[19:40:37]	ix_container has killed hoe ass bitch.
+[19:40:38]	hoe ass bitch closed the 'Crate' #42 container.
+[19:40:45]	James Williams entered observer.
+[19:40:48]	James Williams exited observer at their location.
+[19:40:51]	Joey Jonderson has taken 28 damage from Heavy.
+[19:40:55]	James Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[19:41:00]	[ME] James Williams: Kills
+[19:41:01]	James Williams rolled 26 out of 100.
+[19:41:01]	James Williams used command '/Roll'.
+[19:41:03]	Joey Jonderson has taken 28 damage from Heavy.
+[19:41:09]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:41:16]	James Williams has taken 20 damage from ix_container.
+[19:41:16]	James Williams has taken 100 damage from ix_container.
+[19:41:16]	ix_container has killed James Williams.
+[19:41:27]	James Williams has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[19:41:29]	Heavy has spawned 'models/props_c17/FurnitureCupboard001a.mdl'.
+[19:41:30]	James Williams has taken 10 damage from ix_container.
+[19:41:30]	James Williams has taken 10 damage from ix_container.
+[19:41:30]	James Williams has taken 10 damage from ix_container.
+[19:41:30]	James Williams has taken 100 damage from ix_container.
+[19:41:30]	ix_container has killed James Williams.
+[19:41:38]	Joey Jonderson has gained 5 Tokens.
+[19:41:45]	Joey Jonderson has taken 75 damage from Heavy.
+[19:41:45]	Heavy has killed Joey Jonderson with weapon_357.
+[19:41:45]	James Williams entered observer.
+[19:41:51]	James Williams exited observer at their location.
+[19:41:53]	James Williams has taken 150 damage from Heavy.
+[19:41:53]	Heavy has killed James Williams with weapon_357.
+[19:42:00]	James Williams entered observer.
+[19:42:01]	James Williams exited observer at their location.
+[19:42:14]	James Williams entered observer.
+[19:42:20]	James Williams exited observer at their location.
+[19:42:52]	Joey Jonderson has taken 48 damage from Heavy.
+[19:42:53]	Joey Jonderson has taken 48 damage from Heavy.
+[19:42:59]	Joey Jonderson has taken 48 damage from Heavy.
+[19:42:59]	Heavy has killed Joey Jonderson with weapon_shotgun.
+[19:43:01]	Jake Esposito entered observer.
+[19:43:02]	Jake Esposito exited observer.
+[19:43:15]	Heavy has spawned a 'Entity [118][item_ammo_smg1_grenade]'.
+[19:43:16]	Heavy has spawned a 'Entity [394][item_ammo_smg1_grenade]'.
+[19:43:16]	Heavy has spawned a 'Entity [397][item_ammo_smg1_grenade]'.
+[19:43:16]	Heavy has spawned a 'Entity [398][item_ammo_smg1_grenade]'.
+[19:43:19]	hoe ass bitch has taken 98 damage from Heavy.
+[19:43:19]	Jake Esposito has taken 18 damage from Heavy.
+[19:43:20]	hoe ass bitch has taken 57 damage from Heavy.
+[19:43:20]	Heavy has killed hoe ass bitch with weapon_smg1.
+[19:43:20]	Jake Esposito has taken 68 damage from Heavy.
+[19:43:24]	Joey Jonderson has taken 98 damage from Heavy.
+[19:43:24]	Jake Esposito has taken 8 damage from Heavy.
+[19:43:25]	Joey Jonderson has taken 16 damage from Heavy.
+[19:43:25]	Heavy has killed Joey Jonderson with weapon_smg1.
+[19:43:25]	Jake Esposito has taken 47 damage from Heavy.
+[19:43:25]	Heavy has killed Jake Esposito with weapon_smg1.
+[19:43:27]	Heavy has spawned a 'Entity [111][item_ammo_smg1_grenade]'.
+[19:43:27]	Heavy has spawned a 'Entity [115][item_ammo_smg1_grenade]'.
+[19:43:28]	Heavy has spawned a 'Entity [116][item_ammo_smg1_grenade]'.
+[19:43:28]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:43:28]	Heavy has spawned a 'Entity [310][item_ammo_smg1_grenade]'.
+[19:43:28]	Heavy has spawned a 'Entity [111][item_ammo_smg1_grenade]'.
+[19:43:28]	Heavy has spawned a 'Entity [313][item_ammo_smg1_grenade]'.
+[19:43:29]	Heavy has spawned a 'Entity [115][item_ammo_smg1_grenade]'.
+[19:43:29]	Heavy has spawned a 'Entity [116][item_ammo_smg1_grenade]'.
+[19:43:29]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:43:29]	Heavy has spawned a 'Entity [339][item_ammo_smg1_grenade]'.
+[19:43:30]	hoe ass bitch has taken 98 damage from Heavy.
+[19:43:32]	hoe ass bitch has taken 98 damage from Heavy.
+[19:43:32]	Heavy has killed hoe ass bitch with weapon_smg1.
+[19:43:33]	Joey Jonderson opened the 'Crate' #42 container.
+[19:43:34]	Joey Jonderson has taken 42 damage from Heavy.
+[19:43:35]	Jake Esposito has taken 81 damage from Heavy.
+[19:43:36]	Jake Esposito has taken 98 damage from Heavy.
+[19:43:36]	Heavy has killed Jake Esposito with weapon_smg1.
+[19:43:37]	Joey Jonderson closed the 'Crate' #42 container.
+[19:43:38]	Joey Jonderson has taken 98 damage from Heavy.
+[19:43:38]	Heavy has killed Joey Jonderson with weapon_smg1.
+[19:43:39]	hoe ass bitch has gained 5 Tokens.
+[19:43:40]	hoe ass bitch has taken 47 damage from Heavy.
+[19:43:41]	hoe ass bitch has taken 99 damage from Heavy.
+[19:43:41]	Heavy has killed hoe ass bitch with weapon_smg1.
+[19:44:26]	James Williams entered observer.
+[19:44:30]	James Williams exited observer at their location.
+[19:44:31]	James Williams entered observer.
+[19:44:34]	James Williams exited observer at their location.
+[19:44:36]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[19:44:39]	James Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[19:44:40]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[19:44:41]	Joey Jonderson has taken 500 damage from ix_container.
+[19:44:41]	ix_container has killed Joey Jonderson.
+[19:44:43]	Jake Esposito has gained 5 Tokens.
+[19:44:46]	James Williams entered observer.
+[19:44:46]	James Williams exited observer at their location.
+[19:44:46]	hoe ass bitch has taken 110 damage from worldspawn.
+[19:44:46]	worldspawn has killed hoe ass bitch.
+[19:44:56]	hoe ass bitch has taken 5 damage from ix_container.
+[19:44:56]	Heavy has gained 5 Tokens.
+[19:44:59]	James Williams has gained 5 Tokens.
+[19:45:13]	Heavy has spawned 'models/props_c17/display_cooler01a.mdl'.
+[19:45:16]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[19:45:17]	Heavy has spawned 'models/props_c17/fence01a.mdl'.
+[19:45:20]	Joey Jonderson has taken 113 damage from worldspawn.
+[19:45:20]	worldspawn has killed Joey Jonderson.
+[19:45:21]	Jake Esposito has taken 119 damage from worldspawn.
+[19:45:21]	worldspawn has killed Jake Esposito.
+[19:45:22]	hoe ass bitch has taken 119 damage from worldspawn.
+[19:45:22]	worldspawn has killed hoe ass bitch.
+[19:45:23]	James Williams has taken 119 damage from worldspawn.
+[19:45:23]	worldspawn has killed James Williams.
+[19:45:23]	Heavy has spawned 'models/props_c17/fence01a.mdl'.
+[19:45:40]	Joey Jonderson opened the 'Crate' #42 container.
+[19:45:41]	Joey Jonderson closed the 'Crate' #42 container.
+[19:45:42]	James Williams entered observer.
+[19:45:42]	Joey Jonderson opened the 'Crate' #42 container.
+[19:45:43]	James Williams exited observer at their location.
+[19:45:45]	Joey Jonderson closed the 'Crate' #42 container.
+[19:45:45]	James Williams has taken 122 damage from worldspawn.
+[19:45:45]	worldspawn has killed James Williams.
+[19:45:52]	James Williams entered observer.
+[19:45:55]	James Williams exited observer at their location.
+[19:45:58]	Jake Esposito opened the 'Crate' #42 container.
+[19:45:58]	Jake Esposito closed the 'Crate' #42 container.
+[19:46:07]	James Williams has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[19:46:08]	James Williams has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[19:46:09]	hoe ass bitch has taken 5 damage from ix_container.
+[19:46:09]	hoe ass bitch has taken 10 damage from ix_container.
+[19:46:14]	James Williams has spawned 'models/props_junk/metalgascan.mdl'.
+[19:46:14]	hoe ass bitch has taken 10 damage from ix_container.
+[19:46:15]	Jake Esposito has taken 5 damage from ix_container.
+[19:46:17]	Jake Esposito has taken 10 damage from ix_container.
+[19:46:17]	Jake Esposito has taken 5 damage from ix_container.
+[19:46:17]	hoe ass bitch has taken 100 damage from ix_container.
+[19:46:17]	ix_container has killed hoe ass bitch.
+[19:46:19]	Jake Esposito has taken 500 damage from ix_container.
+[19:46:19]	ix_container has killed Jake Esposito.
+[19:46:21]	James Williams has taken 150 damage from Heavy.
+[19:46:21]	Heavy has killed James Williams with weapon_357.
+[19:46:27]	Joey Jonderson has taken 75 damage from Heavy.
+[19:46:38]	Joey Jonderson has gained 5 Tokens.
+[19:46:45]	James Williams entered observer.
+[19:46:49]	James Williams exited observer at their location.
+[19:46:51]	Joey Jonderson has taken 75 damage from Heavy.
+[19:46:51]	Heavy has killed Joey Jonderson with weapon_357.
+[19:46:53]	James Williams entered observer.
+[19:46:57]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:46:57]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:46:58]	Heavy has spawned a 'Entity [428][item_ammo_smg1_grenade]'.
+[19:46:58]	Heavy has spawned a 'Entity [446][item_ammo_smg1_grenade]'.
+[19:46:58]	Heavy has spawned a 'Entity [447][item_ammo_smg1_grenade]'.
+[19:46:58]	Heavy has spawned a 'Entity [448][item_ammo_smg1_grenade]'.
+[19:46:58]	Heavy has spawned a 'Entity [450][item_ammo_smg1_grenade]'.
+[19:46:58]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:46:59]	James Williams exited observer at their location.
+[19:46:59]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:46:59]	Heavy has spawned a 'Entity [428][item_ammo_smg1_grenade]'.
+[19:46:59]	Heavy has spawned a 'Entity [446][item_ammo_smg1_grenade]'.
+[19:46:59]	Heavy has spawned a 'Entity [447][item_ammo_smg1_grenade]'.
+[19:46:59]	James Williams entered observer.
+[19:46:59]	Heavy has spawned a 'Entity [448][item_ammo_smg1_grenade]'.
+[19:46:59]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:47:00]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:47:00]	Heavy has spawned a 'Entity [428][item_ammo_smg1_grenade]'.
+[19:47:00]	Heavy has spawned a 'Entity [446][item_ammo_smg1_grenade]'.
+[19:47:00]	Heavy has spawned a 'Entity [447][item_ammo_smg1_grenade]'.
+[19:47:01]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:47:01]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:47:01]	Heavy has spawned a 'Entity [448][item_ammo_smg1_grenade]'.
+[19:47:01]	Heavy has spawned a 'Entity [428][item_ammo_smg1_grenade]'.
+[19:47:01]	Heavy has spawned a 'Entity [446][item_ammo_smg1_grenade]'.
+[19:47:01]	Heavy has spawned a 'Entity [450][item_ammo_smg1_grenade]'.
+[19:47:02]	Heavy has spawned a 'Entity [447][item_ammo_smg1_grenade]'.
+[19:47:02]	Jake Esposito has taken 1 damage from worldspawn.
+[19:47:02]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:47:02]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:47:02]	Heavy has spawned a 'Entity [448][item_ammo_smg1_grenade]'.
+[19:47:02]	Heavy has spawned a 'Entity [428][item_ammo_smg1_grenade]'.
+[19:47:02]	Heavy has spawned a 'Entity [429][item_ammo_smg1_grenade]'.
+[19:47:03]	Heavy has spawned a 'Entity [440][item_ammo_smg1_grenade]'.
+[19:47:03]	Heavy has spawned a 'Entity [446][item_ammo_smg1_grenade]'.
+[19:47:03]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:47:03]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:47:03]	Heavy has spawned a 'Entity [106][item_ammo_smg1_grenade]'.
+[19:47:03]	Heavy has spawned a 'Entity [290][item_ammo_smg1_grenade]'.
+[19:47:04]	Heavy has spawned a 'Entity [299][item_ammo_smg1_grenade]'.
+[19:47:04]	Heavy has spawned a 'Entity [428][item_ammo_smg1_grenade]'.
+[19:47:04]	Heavy has spawned a 'Entity [119][item_ammo_smg1_grenade]'.
+[19:47:04]	Heavy has spawned a 'Entity [415][item_ammo_smg1_grenade]'.
+[19:47:09]	James Williams exited observer at their location.
+[19:47:12]	James Williams has taken 159 damage from worldspawn.
+[19:47:12]	worldspawn has killed James Williams.
+[19:47:12]	Demoman used command '/CharSetName heavy Demoman'.
+[19:47:13]	Joey Jonderson has taken 5 damage from prop_physics.
+[19:47:18]	James Williams entered observer.
+[19:47:24]	James Williams exited observer at their location.
+[19:47:25]	James Williams has taken 283 damage from worldspawn.
+[19:47:25]	worldspawn has killed James Williams.
+[19:47:27]	Demoman used command '/CharSetModel demo models/player/demo.mdl'.
+[19:47:28]	Joey Jonderson has taken 19 damage from worldspawn.
+[19:47:32]	James Williams entered observer.
+[19:47:34]	hoe ass bitch has taken 19 damage from worldspawn.
+[19:47:45]	James Williams exited observer at their location.
+[19:47:46]	James Williams entered observer.
+[19:47:54]	James Williams exited observer at their location.
+[19:47:56]	James Williams entered observer.
+[19:47:58]	James Williams exited observer at their location.
+[19:48:00]	James Williams entered observer.
+[19:48:05]	James Williams exited observer at their location.
+[19:48:06]	James Williams entered observer.
+[19:48:30]	hoe ass bitch has taken 99 damage from Demoman.
+[19:48:30]	Demoman has killed hoe ass bitch with weapon_smg1.
+[19:48:36]	Joey Jonderson has taken 98 damage from Demoman.
+[19:48:36]	Demoman has killed Joey Jonderson with weapon_smg1.
+[19:48:39]	hoe ass bitch has gained 5 Tokens.
+[19:48:41]	Demoman has spawned a 'Weapon [106][weapon_frag]'.
+[19:48:41]	Demoman has spawned a 'Weapon [111][weapon_frag]'.
+[19:48:42]	Demoman has spawned a 'Weapon [427][weapon_frag]'.
+[19:48:51]	Jake Esposito has taken 110 damage from Demoman.
+[19:48:51]	Demoman has killed Jake Esposito with weapon_frag.
+[19:48:55]	James Williams exited observer at their location.
+[19:48:56]	James Williams entered observer.
+[19:48:59]	James Williams exited observer at their location.
+[19:49:00]	James Williams entered observer.
+[19:49:04]	James Williams exited observer at their location.
+[19:49:04]	James Williams entered observer.
+[19:49:04]	James Williams exited observer at their location.
+[19:49:05]	James Williams entered observer.
+[19:49:22]	Demoman has spawned a 'Weapon [401][weapon_frag]'.
+[19:49:22]	Demoman has spawned a 'Weapon [116][weapon_frag]'.
+[19:49:22]	Demoman has spawned a 'Weapon [339][weapon_frag]'.
+[19:49:23]	Demoman has spawned a 'Weapon [398][weapon_frag]'.
+[19:49:23]	Demoman has spawned a 'Weapon [427][weapon_frag]'.
+[19:49:23]	Demoman has spawned a 'Weapon [428][weapon_frag]'.
+[19:49:23]	Demoman has spawned a 'Weapon [440][weapon_frag]'.
+[19:49:23]	Demoman has spawned a 'Weapon [446][weapon_frag]'.
+[19:49:23]	Demoman has spawned a 'Weapon [447][weapon_frag]'.
+[19:49:37]	James Williams exited observer at their location.
+[19:49:40]	James Williams entered observer.
+[19:49:41]	Jake Esposito entered observer.
+[19:49:43]	Jake Esposito has gained 5 Tokens.
+[19:49:43]	Jake Esposito exited observer.
+[19:49:51]	Joey Jonderson has taken 115 damage from Demoman.
+[19:49:51]	Demoman has killed Joey Jonderson with weapon_frag.
+[19:49:56]	Demoman has gained 5 Tokens.
+[19:49:57]	James Williams exited observer at their location.
+[19:49:58]	Jake Esposito entered observer.
+[19:49:58]	Jake Esposito exited observer.
+[19:49:59]	James Williams has gained 5 Tokens.
+[19:50:03]	hoe ass bitch has taken 98 damage from Demoman.
+[19:50:04]	hoe ass bitch has taken 99 damage from Demoman.
+[19:50:04]	Demoman has killed hoe ass bitch with weapon_smg1.
+[19:50:09]	James Williams entered observer.
+[19:50:16]	James Williams exited observer at their location.
+[19:50:17]	James Williams entered observer.
+[19:50:36]	hoe ass bitch has taken 35 damage from Demoman.
+[19:50:41]	Joey Jonderson has taken 98 damage from Demoman.
+[19:50:47]	Joey Jonderson opened the 'Dumpster' #42 container.
+[19:50:49]	Joey Jonderson closed the 'Dumpster' #42 container.
+[19:50:52]	James Williams exited observer at their location.
+[19:50:55]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[19:50:57]	Demoman has spawned a 'Weapon [115][weapon_frag]'.
+[19:50:58]	James Williams has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[19:51:11]	James Williams has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[19:51:13]	James Williams has spawned 'models/props_wasteland/kitchen_counter001a.mdl'.
+[19:51:14]	Joey Jonderson has taken 20 damage from ix_container.
+[19:51:14]	ix_container has killed Joey Jonderson.
+[19:51:16]	James Williams entered observer.
+[19:51:18]	Counterfox Gaming has connected.
+[19:51:38]	Joey Jonderson has gained 5 Tokens.
+[19:51:55]	James Williams exited observer at their location.
+[19:52:04]	James Williams entered observer.
+[19:52:22]	Counterfox Gaming created the character 'Jerry Fox'
+[19:52:22]	Jerry Fox has gained a 'Suitcase' #80.
+[19:52:22]	Jerry Fox has gained a 'Flashlight' #81.
+[19:52:22]	Jerry Fox has gained a 'Citizen ID' #82.
+[19:52:22]	Counterfox Gaming loaded the character 'Jerry Fox'
+[19:52:39]	James Williams exited observer at their location.
+[19:52:44]	[OOC] Demoman: do /chargiveflag FLAGCHARACTER (example p, t, e, c
+[19:52:46]	James Williams entered observer.
+[19:52:49]	James Williams exited observer at their location.
+[19:52:49]	James Williams entered observer.
+[19:53:37]	[OOC] Jerry Fox: die lol
+[19:53:38]	Joey Jonderson used command '/CharFallOver'.
+[19:53:39]	hoe ass bitch has gained 5 Tokens.
+[19:53:44]	James Williams used command '/CharGiveFlag Williams p'.
+[19:53:46]	Joey Jonderson used command '/CharGetUp'.
+[19:53:47]	Jerry Fox used command '/CharFallOver'.
+[19:53:58]	Jerry Fox used command '/CharGetUp'.
+[19:54:19]	[OOC] Jerry Fox: do this "/charfallover"
+[19:54:24]	Demoman used command '/CharFallOver'.
+[19:54:26]	Demoman used command '/CharGetUp'.
+[19:54:29]	James Williams used command '/CharGiveFlag Joey p'.
+[19:54:29]	Demoman used command '/CharGetUp'.
+[19:54:33]	Demoman used command '/CharGetUp'.
+[19:54:41]	James Williams used command '/CharGiveFlag Jerry p'.
+[19:54:43]	Jake Esposito has gained 5 Tokens.
+[19:54:56]	Demoman has gained 5 Tokens.
+[19:54:59]	James Williams has gained 5 Tokens.
+[19:55:06]	Jake Esposito has taken 49 damage from Demoman.
+[19:55:11]	hoe ass bitch has taken 12 damage from Demoman.
+[19:55:11]	hoe ass bitch has taken 12 damage from Demoman.
+[19:55:12]	hoe ass bitch has taken 12 damage from Demoman.
+[19:55:12]	hoe ass bitch has taken 12 damage from Demoman.
+[19:55:12]	hoe ass bitch has taken 12 damage from Demoman.
+[19:55:12]	hoe ass bitch has taken 12 damage from Demoman.
+[19:55:12]	Demoman has killed hoe ass bitch with weapon_smg1.
+[19:55:13]	BigSimpBryan (STEAM_0:1:180941085) has disconnected.
+[19:55:19]	James Williams exited observer at their location.
+[19:55:20]	James Williams entered observer.
+[19:55:23]	Jake Esposito has taken 2 damage from Demoman.
+[19:55:26]	Demoman has taken 86 damage from Demoman.
+[19:55:26]	Jerry Fox has taken 98 damage from Demoman.
+[19:55:27]	Demoman has taken 45 damage from Demoman.
+[19:55:27]	Demoman has killed Demoman.
+[19:55:27]	Jerry Fox has taken 98 damage from Demoman.
+[19:55:27]	Demoman has killed Jerry Fox with weapon_357.
+[19:55:30]	James Williams exited observer at their location.
+[19:55:32]	James Williams entered observer.
+[19:55:40]	Joey Jonderson opened the 'Crate' #42 container.
+[19:55:41]	Jerry Fox has taken 100 damage from Demoman.
+[19:55:41]	Demoman has killed Jerry Fox with weapon_crossbow.
+[19:55:42]	Joey Jonderson opened the 'Crate' #42 container.
+[19:55:43]	Joey Jonderson opened the 'Crate' #42 container.
+[19:55:55]	Jerry Fox has taken 100 damage from Demoman.
+[19:55:55]	Demoman has killed Jerry Fox with weapon_crossbow.
+[19:56:10]	Jake Esposito has taken 100 damage from Demoman.
+[19:56:10]	Demoman has killed Jake Esposito with weapon_crossbow.
+[19:56:16]	Joey Jonderson has taken 100 damage from Demoman.
+[19:56:16]	Demoman has killed Joey Jonderson with weapon_crossbow.
+[19:56:23]	Jerry Fox has taken 100 damage from Demoman.
+[19:56:23]	Demoman has killed Jerry Fox with weapon_crossbow.
+[19:56:32]	Joey Jonderson opened the 'Crate' #42 container.
+[19:56:38]	Joey Jonderson has gained 5 Tokens.
+[19:56:39]	Jerry Fox opened the 'Crate' #42 container.
+[19:56:45]	Demoman has taken 107 damage from worldspawn.
+[19:56:45]	worldspawn has killed Demoman.
+[19:57:04]	Joey Jonderson opened the 'Crate' #42 container.
+[19:57:22]	Jerry Fox has gained 5 Tokens.
+[19:57:28]	Jerry Fox has taken 31 damage from worldspawn.
+[19:57:54]	Joey Jonderson opened the 'Crate' #42 container.
+[19:58:58]	James Williams exited observer at their location.
+[19:59:00]	James Williams entered observer.
+[19:59:10]	Jerry Fox used command '/Radio die lol'.
+[19:59:14]	Joey Jonderson opened the 'Crate' #42 container.
+[19:59:22]	Joey Jonderson opened the 'Crate' #42 container.
+[19:59:23]	James Williams exited observer at their location.
+[19:59:24]	Joey Jonderson opened the 'Metal Cabinet' #42 container.
+[19:59:25]	Joey Jonderson opened the 'Dumpster' #42 container.
+[19:59:27]	Joey Jonderson opened the 'Dumpster' #42 container.
+[19:59:27]	James Williams entered observer.
+[19:59:31]	Joey Jonderson opened the 'Dumpster' #42 container.
+[19:59:35]	Demoman has spawned a 'Weapon [113][weapon_rpg]'.
+[19:59:35]	Demoman has spawned a 'Weapon [341][weapon_rpg]'.
+[19:59:36]	Demoman has spawned a 'Weapon [113][weapon_rpg]'.
+[19:59:38]	James Williams exited observer at their location.
+[19:59:39]	Joey Jonderson has taken 5 damage from ix_container.
+[19:59:39]	Joey Jonderson has taken 5 damage from ix_container.
+[19:59:43]	Jake Esposito has gained 5 Tokens.
+[19:59:45]	Joey Jonderson has taken 5 damage from ix_container.
+[19:59:48]	James Williams has taken 147 damage from Demoman.
+[19:59:48]	Demoman has killed James Williams with weapon_rpg.
+[19:59:48]	Demoman has taken 114 damage from Demoman.
+[19:59:48]	Demoman has killed Demoman.
+[19:59:48]	Jake Esposito has taken 57 damage from Demoman.
+[19:59:56]	Demoman has gained 5 Tokens.
+[19:59:58]	Demoman has spawned a 'Weapon [110][weapon_rpg]'.
+[19:59:58]	Demoman has spawned a 'Weapon [114][weapon_rpg]'.
+[19:59:58]	James Williams entered observer.
+[19:59:59]	Demoman has spawned a 'Weapon [122][weapon_rpg]'.
+[19:59:59]	James Williams exited observer at their location.
+[19:59:59]	James Williams has gained 5 Tokens.
+[20:00:07]	James Williams entered observer.
+[20:00:15]	James Williams exited observer at their location.
+[20:00:17]	Jake Esposito has taken 98 damage from Demoman.
+[20:00:17]	Demoman has killed Jake Esposito with weapon_rpg.
+[20:00:17]	James Williams entered observer.
+[20:00:22]	Demoman has spawned a 'Entity [122][item_rpg_round]'.
+[20:00:22]	Demoman has spawned a 'Entity [144][item_rpg_round]'.
+[20:00:22]	Demoman has spawned a 'Entity [485][item_rpg_round]'.
+[20:00:22]	Demoman has spawned a 'Entity [486][item_rpg_round]'.
+[20:00:23]	Demoman has spawned a 'Entity [487][item_rpg_round]'.
+[20:00:23]	Demoman has spawned a 'Entity [488][item_rpg_round]'.
+[20:00:23]	Demoman has spawned a 'Entity [122][item_rpg_round]'.
+[20:00:23]	Demoman has spawned a 'Entity [144][item_rpg_round]'.
+[20:00:23]	Demoman has spawned a 'Entity [111][item_rpg_round]'.
+[20:00:24]	Demoman has spawned a 'Entity [341][item_rpg_round]'.
+[20:00:24]	Demoman has spawned a 'Entity [481][item_rpg_round]'.
+[20:00:24]	Demoman has spawned a 'Entity [485][item_rpg_round]'.
+[20:00:24]	Demoman has spawned a 'Entity [122][item_rpg_round]'.
+[20:00:24]	Demoman has spawned a 'Entity [144][item_rpg_round]'.
+[20:00:24]	Demoman has spawned a 'Entity [111][item_rpg_round]'.
+[20:00:25]	Demoman has spawned a 'Entity [486][item_rpg_round]'.
+[20:00:25]	Demoman has spawned a 'Entity [341][item_rpg_round]'.
+[20:00:25]	Demoman has spawned a 'Entity [481][item_rpg_round]'.
+[20:00:25]	Demoman has spawned a 'Entity [485][item_rpg_round]'.
+[20:00:25]	Demoman has spawned a 'Entity [122][item_rpg_round]'.
+[20:00:25]	Demoman has spawned a 'Entity [111][item_rpg_round]'.
+[20:00:26]	Demoman has spawned a 'Entity [144][item_rpg_round]'.
+[20:00:26]	Demoman has spawned a 'Entity [341][item_rpg_round]'.
+[20:00:26]	Demoman has spawned a 'Entity [481][item_rpg_round]'.
+[20:00:26]	Demoman has spawned a 'Entity [485][item_rpg_round]'.
+[20:00:26]	Demoman has spawned a 'Entity [122][item_rpg_round]'.
+[20:00:27]	Demoman has spawned a 'Entity [111][item_rpg_round]'.
+[20:00:27]	Demoman has spawned a 'Entity [144][item_rpg_round]'.
+[20:00:27]	Demoman has spawned a 'Entity [341][item_rpg_round]'.
+[20:00:27]	Demoman has spawned a 'Entity [481][item_rpg_round]'.
+[20:00:27]	James Williams exited observer at their location.
+[20:00:28]	Demoman has spawned a 'Entity [122][item_rpg_round]'.
+[20:00:28]	Demoman has spawned a 'Entity [485][item_rpg_round]'.
+[20:00:28]	James Williams entered observer.
+[20:00:29]	James Williams exited observer at their location.
+[20:00:29]	Demoman has spawned a 'Entity [111][combine_mine]'.
+[20:00:29]	Demoman has spawned a 'Entity [144][combine_mine]'.
+[20:00:29]	Demoman has spawned a 'Entity [481][combine_mine]'.
+[20:00:30]	James Williams entered observer.
+[20:00:37]	Jake Esposito has taken 150 damage from Demoman.
+[20:00:37]	Demoman has killed Jake Esposito with weapon_rpg.
+[20:00:39]	James Williams exited observer at their location.
+[20:00:41]	James Williams entered observer.
+[20:00:47]	Optical (STEAM_0:0:460042086) has disconnected.
+[20:01:16]	Demoman used command '/CharGiveFlag JOEY e'.
+[20:01:38]	Joey Jonderson has gained 5 Tokens.
+[20:01:43]	Demoman used command '/CharGiveFlag joey t'.
+[20:01:44]	Optical has connected.
+[20:02:22]	Jerry Fox has gained 5 Tokens.
+[20:02:34]	Jerry Fox has taken 100 damage from Demoman.
+[20:02:34]	Demoman has killed Jerry Fox with weapon_rpg.
+[20:02:34]	Joey Jonderson has taken 68 damage from Demoman.
+[20:02:34]	Jake Esposito has taken 35 damage from Demoman.
+[20:02:34]	Optical loaded the character 'James Williams'
+[20:02:35]	James Williams entered observer.
+[20:02:42]	James Williams exited observer at their location.
+[20:02:43]	Demoman has spawned a 'Entity [448][item_healthkit]'.
+[20:02:43]	Demoman has spawned a 'Entity [482][item_healthkit]'.
+[20:02:44]	Demoman has spawned a 'Entity [487][item_healthkit]'.
+[20:02:44]	Demoman has spawned a 'Entity [488][item_healthkit]'.
+[20:02:44]	Demoman has spawned a 'Entity [110][item_healthkit]'.
+[20:02:44]	Demoman has spawned a 'Entity [491][item_healthkit]'.
+[20:02:44]	Demoman has spawned a 'Entity [506][item_healthkit]'.
+[20:02:44]	Demoman has spawned a 'Entity [507][item_healthkit]'.
+[20:02:45]	Demoman has spawned a 'Entity [526][item_healthkit]'.
+[20:02:45]	Demoman has spawned a 'Entity [602][item_healthkit]'.
+[20:02:45]	Demoman has spawned a 'Entity [603][item_healthkit]'.
+[20:02:45]	Demoman has spawned a 'Entity [604][item_healthkit]'.
+[20:02:45]	Demoman has spawned a 'Entity [605][item_healthkit]'.
+[20:02:46]	Demoman has spawned a 'Entity [526][item_healthkit]'.
+[20:02:46]	Demoman has spawned a 'Entity [602][item_healthkit]'.
+[20:02:46]	Demoman has spawned a 'Entity [604][item_healthkit]'.
+[20:02:47]	Demoman has spawned a 'Entity [605][item_healthkit]'.
+[20:02:47]	Demoman has spawned a 'Entity [620][item_healthkit]'.
+[20:03:00]	James Williams entered observer.
+[20:03:00]	James Williams exited observer at their location.
+[20:03:31]	James Williams entered observer.
+[20:03:33]	James Williams exited observer at their location.
+[20:03:33]	James Williams has taken 272 damage from worldspawn.
+[20:03:33]	worldspawn has killed James Williams.
+[20:03:40]	James Williams entered observer.
+[20:03:43]	James Williams exited observer at their location.
+[20:04:04]	[OOC] Demoman: RPGs for events yeah
+[20:04:05]	James Williams has spawned 'models/props_junk/plasticbucket001a.mdl'.
+[20:04:08]	Jerry Fox has taken 100 damage from gmod_wire_wheel.
+[20:04:08]	gmod_wire_wheel has killed Jerry Fox.
+[20:04:42]	Demoman has spawned a 'Weapon [115][weapon_frag]'.
+[20:04:43]	Jake Esposito has gained 5 Tokens.
+[20:04:52]	Demoman used command '/CharGiveFlag jerry t'.
+[20:04:55]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[20:04:56]	Demoman has gained 5 Tokens.
+[20:05:03]	Demoman has spawned a 'Weapon [624][weapon_frag]'.
+[20:05:04]	Demoman has spawned a 'Weapon [625][weapon_frag]'.
+[20:05:04]	Demoman has spawned a 'Weapon [632][weapon_frag]'.
+[20:05:04]	Demoman has spawned a 'Weapon [633][weapon_frag]'.
+[20:05:04]	Demoman has spawned a 'Weapon [635][weapon_frag]'.
+[20:05:05]	Demoman has spawned a 'Weapon [637][weapon_frag]'.
+[20:05:05]	Demoman has spawned a 'Weapon [624][weapon_frag]'.
+[20:05:05]	Demoman has spawned a 'Weapon [625][weapon_frag]'.
+[20:05:05]	Demoman has spawned a 'Weapon [632][weapon_frag]'.
+[20:05:05]	Demoman has spawned a 'Weapon [633][weapon_frag]'.
+[20:05:05]	Demoman has spawned a 'Weapon [645][weapon_frag]'.
+[20:05:06]	Demoman has spawned a 'Weapon [635][weapon_frag]'.
+[20:05:06]	Demoman has spawned a 'Weapon [637][weapon_frag]'.
+[20:05:06]	Demoman has spawned a 'Weapon [624][weapon_frag]'.
+[20:05:06]	Demoman has spawned a 'Weapon [625][weapon_frag]'.
+[20:05:06]	Demoman has spawned a 'Weapon [632][weapon_frag]'.
+[20:05:07]	Demoman has spawned a 'Weapon [633][weapon_frag]'.
+[20:05:07]	Demoman has spawned a 'Weapon [635][weapon_frag]'.
+[20:05:07]	Demoman has spawned a 'Weapon [637][weapon_frag]'.
+[20:05:07]	Demoman has spawned a 'Weapon [624][weapon_frag]'.
+[20:05:07]	Demoman has spawned a 'Weapon [625][weapon_frag]'.
+[20:05:08]	Demoman has spawned a 'Weapon [632][weapon_frag]'.
+[20:05:08]	Demoman has spawned a 'Weapon [633][weapon_frag]'.
+[20:05:08]	Demoman has spawned a 'Weapon [645][weapon_frag]'.
+[20:05:08]	Demoman has spawned a 'Weapon [635][weapon_frag]'.
+[20:05:08]	Demoman has spawned a 'Weapon [624][weapon_frag]'.
+[20:05:08]	Demoman has spawned a 'Weapon [625][weapon_frag]'.
+[20:05:09]	Demoman has spawned a 'Weapon [632][weapon_frag]'.
+[20:05:09]	Demoman has spawned a 'Weapon [633][weapon_frag]'.
+[20:05:09]	Demoman has spawned a 'Weapon [637][weapon_frag]'.
+[20:05:09]	Demoman has spawned a 'Weapon [635][weapon_frag]'.
+[20:05:09]	Demoman has spawned a 'Weapon [645][weapon_frag]'.
+[20:05:10]	Demoman has spawned a 'Weapon [624][weapon_frag]'.
+[20:05:10]	Demoman has spawned a 'Weapon [625][weapon_frag]'.
+[20:05:12]	James Williams has taken 50 damage from gmod_wire_wheel.
+[20:05:12]	James Williams has taken 50 damage from gmod_wire_wheel.
+[20:05:12]	gmod_wire_wheel has killed James Williams.
+[20:05:19]	James Williams entered observer.
+[20:05:19]	Joey Jonderson has taken 2 damage from Demoman.
+[20:05:19]	Jake Esposito has taken 69 damage from Demoman.
+[20:05:22]	James Williams exited observer at their location.
+[20:05:23]	James Williams has taken 200 damage from worldspawn.
+[20:05:23]	worldspawn has killed James Williams.
+[20:05:25]	Jerry Fox has taken 54 damage from Demoman.
+[20:05:30]	James Williams entered observer.
+[20:05:33]	James Williams exited observer at their location.
+[20:05:37]	Jerry Fox has taken 68 damage from Demoman.
+[20:05:37]	Demoman has killed Jerry Fox with weapon_frag.
+[20:05:46]	Jerry Fox has taken 139 damage from combine_mine.
+[20:05:46]	combine_mine has killed Jerry Fox.
+[20:05:53]	[OOC] Jerry Fox: fuc
+[20:05:57]	Demoman used command '/CharSetModel jerry models/bots/demo/bot_demo.mdl'.
+[20:06:22]	Demoman has spawned a 'Entity [115][npc_grenade_frag]'.
+[20:06:32]	Joey Jonderson has spawned 'models/props_combine/breenchair.mdl'.
+[20:06:33]	Joey Jonderson has taken 55 damage from Demoman.
+[20:06:33]	Jerry Fox has taken 12 damage from Demoman.
+[20:06:33]	James Williams has taken 53 damage from Demoman.
+[20:06:33]	Jake Esposito has taken 3 damage from Demoman.
+[20:06:38]	Joey Jonderson has gained 5 Tokens.
+[20:06:44]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[20:06:48]	Joey Jonderson has taken 10 damage from Demoman.
+[20:06:49]	Joey Jonderson has taken 10 damage from Demoman.
+[20:06:51]	Joey Jonderson has taken 10 damage from Demoman.
+[20:06:51]	Joey Jonderson has taken 10 damage from Demoman.
+[20:07:00]	James Williams has spawned 'models/props_c17/shelfunit01a.mdl'.
+[20:07:01]	James Williams has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[20:07:02]	Joey Jonderson has taken 500 damage from prop_physics.
+[20:07:02]	prop_physics has killed Joey Jonderson.
+[20:07:16]	James Williams entered observer.
+[20:07:19]	James Williams exited observer at their location.
+[20:07:19]	James Williams has taken 230 damage from worldspawn.
+[20:07:19]	worldspawn has killed James Williams.
+[20:07:22]	Jerry Fox has gained 5 Tokens.
+[20:07:25]	James Williams entered observer.
+[20:07:32]	James Williams exited observer at their location.
+[20:07:34]	James Williams has gained 5 Tokens.
+[20:07:43]	Demoman used command '/CharSetModel jerry models/dpfilms/metropolice/playermodels/pm_tf2_metrocop_red.mdl'.
+[20:07:57]	Demoman used command '/CharSetModel demoman models/dpfilms/metropolice/playermodels/pm_tf2_metrocop_blu.mdl'.
+[20:07:58]	James Williams entered observer.
+[20:07:59]	James Williams exited observer at their location.
+[20:08:12]	[ME] Demoman: nice
+[20:08:17]	Joey Jonderson has spawned 'models/props_c17/Lockers001a.mdl'.
+[20:08:19]	James Williams entered observer.
+[20:08:21]	Joey Jonderson opened the 'Locker' #44 container.
+[20:08:23]	James Williams exited observer at their location.
+[20:08:23]	Joey Jonderson closed the 'Locker' #44 container.
+[20:08:23]	James Williams has taken 295 damage from worldspawn.
+[20:08:23]	worldspawn has killed James Williams.
+[20:08:25]	Czar Maxim used command '/CharSetName demoman Czar Maxim'.
+[20:08:30]	James Williams entered observer.
+[20:08:36]	James Williams exited observer at their location.
+[20:08:36]	James Williams has taken 223 damage from worldspawn.
+[20:08:36]	worldspawn has killed James Williams.
+[20:08:42]	James Williams entered observer.
+[20:08:43]	Joey Jonderson has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[20:08:46]	James Williams exited observer at their location.
+[20:08:47]	Joey Jonderson has spawned 'models/props_junk/wood_crate002a.mdl'.
+[20:08:50]	Joey Jonderson has spawned 'models/props_junk/wood_crate001a.mdl'.
+[20:08:50]	Joey Jonderson opened the 'Crate' #44 container.
+[20:08:52]	James Williams entered observer.
+[20:08:52]	Joey Jonderson closed the 'Crate' #44 container.
+[20:08:53]	James Williams exited observer at their location.
+[20:08:55]	Joey Jonderson has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[20:09:00]	James Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[20:09:01]	James Williams opened the 'Dumpster' #44 container.
+[20:09:04]	[ME] Czar Maxim: vomits
+[20:09:07]	James Williams closed the 'Dumpster' #44 container.
+[20:09:11]	Joey Jonderson opened the 'Dumpster' #44 container.
+[20:09:11]	James Williams has spawned 'models/props_c17/gravestone004a.mdl'.
+[20:09:14]	Joey Jonderson has gained a 'Citizen ID' #10.
+[20:09:14]	Joey Jonderson has taken 5 damage from ix_container.
+[20:09:17]	Joey Jonderson closed the 'Dumpster' #44 container.
+[20:09:24]	James Williams has taken 75 damage from Czar Maxim.
+[20:09:25]	James Williams has taken 150 damage from Czar Maxim.
+[20:09:25]	Czar Maxim has killed James Williams with weapon_357.
+[20:09:31]	James Williams entered observer.
+[20:09:38]	James Williams exited observer at their location.
+[20:09:43]	Jake Esposito has gained 5 Tokens.
+[20:09:56]	Czar Maxim has gained 5 Tokens.
+[20:09:59]	Joey Jonderson ran 'drop' on item 'Citizen ID' (#10)
+[20:09:59]	Joey Jonderson has lost a 'Citizen ID' #10.
+[20:10:02]	Joey Jonderson ran 'take' on item 'Citizen ID' (#10)
+[20:10:02]	Joey Jonderson has gained a 'Citizen ID' #10.
+[20:10:04]	Jerry Fox has taken 33 damage from Czar Maxim.
+[20:10:04]	James Williams has taken 131 damage from Czar Maxim.
+[20:10:04]	Czar Maxim has killed James Williams with weapon_frag.
+[20:10:11]	James Williams entered observer.
+[20:10:15]	James Williams exited observer at their location.
+[20:10:22]	Joey Jonderson has spawned 'models/props_c17/gate_door02a.mdl'.
+[20:10:29]	James Williams entered observer.
+[20:10:30]	Joey Jonderson has spawned 'models/props_c17/lampShade001a.mdl'.
+[20:10:32]	James Williams exited observer at their location.
+[20:10:32]	James Williams has taken 254 damage from worldspawn.
+[20:10:32]	worldspawn has killed James Williams.
+[20:10:33]	James Williams entered observer.
+[20:10:36]	Optical (STEAM_0:0:460042086) has disconnected.
+[20:11:12]	Joey Jonderson has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:14]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:17]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:19]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	Jerry Fox has taken 3 damage from npc_fastzombie.
+[20:11:20]	npc_fastzombie has killed Jerry Fox.
+[20:11:20]	Joey Jonderson has spawned 'models/props_debris/metal_panel01a.mdl'.
+[20:11:24]	Joey Jonderson has spawned 'models/props_debris/metal_panel02a.mdl'.
+[20:11:30]	Joey Jonderson has spawned 'models/props_debris/metal_panel02a.mdl'.
+[20:11:38]	Joey Jonderson has gained 5 Tokens.
+[20:12:09]	Joey Jonderson has spawned 'models/props_debris/metal_panel02a.mdl'.
+[20:12:19]	Joey Jonderson has spawned 'models/props_debris/metal_panel01a.mdl'.
+[20:12:22]	Jerry Fox has gained 5 Tokens.
+[20:12:23]	Joey Jonderson has spawned 'models/props_doors/door03_slotted_left.mdl'.
+[20:12:30]	Joey Jonderson has spawned 'models/props_interiors/ElevatorShaft_Door01a.mdl'.
+[20:12:34]	Jerry Fox has taken 100 damage from Czar Maxim.
+[20:12:34]	Czar Maxim has killed Jerry Fox with weapon_crossbow.
+[20:12:37]	Joey Jonderson has spawned 'models/props_c17/Lockers001a.mdl'.
+[20:12:41]	Joey Jonderson has spawned 'models/props_c17/FurnitureDrawer003a.mdl'.
+[20:12:49]	Czar Maxim used command '/CharSetModel jonder models/romka/rtb_elite.mdl'.
+[20:12:50]	Joey Jonderson opened the 'Locker' #44 container.
+[20:12:52]	Joey Jonderson closed the 'Locker' #44 container.
+[20:12:56]	Joey Jonderson has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[20:13:00]	Joey Jonderson has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[20:13:58]	Czar Maxim used command '/CharSetModel jonder models/Zombie/Poison.mdl'.
+[20:14:33]	Joey Jonderson has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[20:14:41]	Czar Maxim has spawned a 'Weapon [539][weapon_rpg]'.
+[20:14:43]	Jake Esposito has gained 5 Tokens.
+[20:14:48]	Czar Maxim has spawned a 'Entity [605][ix_vendingmachine]'.
+[20:14:56]	Czar Maxim has gained 5 Tokens.
+[20:15:14]	Czar Maxim has spawned a 'Entity [510][ix_combinelock]'.
+[20:15:48]	Czar Maxim has spawned a 'Entity [115][ix_vendor]'.
+[20:15:51]	Czar Maxim used the 'John Doe' vendor.
+[20:15:51]	Joey Jonderson used the 'John Doe' vendor.
+[20:16:08]	Joey Jonderson has spawned 'models/props_c17/furniturebed001a.mdl'.
+[20:16:18]	Czar Maxim used the 'John Doe' vendor.
+[20:16:20]	Joey Jonderson used the 'John Doe' vendor.
+[20:16:32]	Joey Jonderson has spawned 'models/props_docks/dock01_pole01a_128.mdl'.
+[20:16:36]	Joey Jonderson has spawned 'models/props_junk/ravenholmsign.mdl'.
+[20:16:38]	Joey Jonderson has gained 5 Tokens.
+[20:16:45]	Joey Jonderson has spawned 'models/props_c17/oildrum001.mdl'.
+[20:16:50]	Joey Jonderson has spawned 'models/props_c17/oildrum001.mdl'.
+[20:16:53]	Joey Jonderson has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[20:16:59]	Joey Jonderson has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[20:17:00]	Joey Jonderson has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[20:17:16]	Joey Jonderson has spawned 'models/props_junk/wood_crate002a.mdl'.
+[20:17:18]	Czar Maxim used command '/PanelAdd https://cdn.discordapp.com/attachments/524266009214058497/878796670219984896/The_Madagascar_recap_cartoon_by_Cas_van_de_Pol-Cut_mort_scene_and_music_Trim.mp4 30 30 1'.
+[20:17:22]	Jerry Fox has gained 5 Tokens.
+[20:17:29]	Czar Maxim used command '/PanelRemove'.
+[20:17:52]	Jerry Fox used command '/CharDesc'.
+[20:18:44]	Czar Maxim used command '/PanelAdd https://images-ext-1.discordapp.net/external/uxHGydbcPH1MK5N3ICmepmEUHTaTexS2kSh9JdDY5po/https/media.discordapp.net/attachments/764447332288561152/800561621176418314/caption-1-3.gif 300 300 1'.
+[20:19:06]	Jerry Fox has taken 44 damage from Czar Maxim.
+[20:19:08]	Joey Jonderson has spawned 'models/weapons/w_alyx_gun.mdl'.
+[20:19:18]	Cabbage9341™ has connected.
+[20:19:20]	Czar Maxim has spawned a 'Weapon [645][weapon_ar2]'.
+[20:19:20]	Czar Maxim has spawned a 'Weapon [491][weapon_ar2]'.
+[20:19:21]	Czar Maxim has spawned a 'Weapon [648][weapon_ar2]'.
+[20:19:21]	Czar Maxim has spawned a 'Weapon [649][weapon_ar2]'.
+[20:19:35]	Jerry Fox has taken 150 damage from Czar Maxim.
+[20:19:35]	Czar Maxim has killed Jerry Fox with weapon_rpg.
+[20:19:43]	Jake Esposito has gained 5 Tokens.
+[20:19:50]	Cabbage9341™ (STEAM_0:0:227773634) has disconnected.
+[20:19:51]	Joey Jonderson has spawned 'models/props_junk/wood_crate002a.mdl'.
+[20:19:56]	Czar Maxim has gained 5 Tokens.
+[20:20:15]	Jerry Fox has taken 194 damage from Czar Maxim.
+[20:20:15]	Czar Maxim has killed Jerry Fox with weapon_physgun.
+[20:20:24]	Joey Jonderson has spawned 'models/weapons/w_smg1.mdl'.
+[20:20:44]	Joey Jonderson has spawned 'models/weapons/w_pistol.mdl'.
+[20:21:07]	Jerry Fox has taken 139 damage from Czar Maxim.
+[20:21:07]	Czar Maxim has killed Jerry Fox with weapon_physgun.
+[20:21:08]	Joey Jonderson has spawned 'models/weapons/w_rocket_launcher.mdl'.
+[20:21:20]	Czar Maxim has spawned a 'Weapon [624][weapon_frag]'.
+[20:21:20]	Czar Maxim has spawned a 'Weapon [637][weapon_frag]'.
+[20:21:21]	Czar Maxim has spawned a 'Weapon [648][weapon_frag]'.
+[20:21:21]	Czar Maxim has spawned a 'Weapon [488][weapon_frag]'.
+[20:21:21]	Czar Maxim has spawned a 'Weapon [649][weapon_frag]'.
+[20:21:22]	Czar Maxim has spawned a 'Weapon [650][weapon_frag]'.
+[20:21:22]	Czar Maxim has spawned a 'Weapon [653][weapon_frag]'.
+[20:21:22]	Czar Maxim has spawned a 'Weapon [657][weapon_frag]'.
+[20:21:23]	Czar Maxim has spawned a 'Weapon [659][weapon_frag]'.
+[20:21:27]	Czar Maxim has spawned a 'Weapon [389][weapon_357]'.
+[20:21:28]	Czar Maxim has spawned a 'Weapon [661][weapon_357]'.
+[20:21:29]	Czar Maxim has spawned a 'Weapon [665][weapon_357]'.
+[20:21:38]	Joey Jonderson has gained 5 Tokens.
+[20:21:41]	Jerry Fox has taken 87 damage from worldspawn.
+[20:21:43]	Jerry Fox has taken 2 damage from worldspawn.
+[20:21:45]	Jerry Fox has taken 40 damage from worldspawn.
+[20:21:45]	worldspawn has killed Jerry Fox.
+[20:21:58]	Czar Maxim used command '/DoorSetOwnable'.
+[20:22:07]	Czar Maxim used command '/DoorSetOwnable'.
+[20:22:10]	Jerry Fox has lost 20 Tokens.
+[20:22:10]	Jerry Fox has purchased a door.
+[20:22:10]	Jerry Fox used command '/DoorBuy'.
+[20:22:15]	Joey Jonderson has lost 20 Tokens.
+[20:22:15]	Joey Jonderson has purchased a door.
+[20:22:15]	Joey Jonderson used command '/DoorBuy'.
+[20:22:15]	Jerry Fox has gained 14 Tokens.
+[20:22:15]	Jerry Fox has sold a door.
+[20:22:15]	Jerry Fox used command '/DoorSell'.
+[20:22:18]	Jerry Fox (STEAM_0:0:541150892) has disconnected.
+[20:22:21]	Joey Jonderson has lost 20 Tokens.
+[20:22:21]	Joey Jonderson has purchased a door.
+[20:22:21]	Joey Jonderson used command '/DoorBuy'.
+[20:23:00]	Czar Maxim has spawned a 'Weapon [415][weapon_ar2]'.
+[20:23:00]	Czar Maxim has spawned a 'Weapon [425][weapon_ar2]'.
+[20:23:00]	Czar Maxim has spawned a 'Weapon [428][weapon_ar2]'.
+[20:23:01]	Czar Maxim has spawned a 'Weapon [491][weapon_ar2]'.
+[20:23:01]	Czar Maxim has spawned a 'Weapon [526][weapon_ar2]'.
+[20:23:14]	Czar Maxim used command '/CharSetTokens czar 100000'.
+[20:23:24]	Czar Maxim has lost 20000 Tokens.
+[20:23:24]	Czar Maxim used command '/DropTokens 20000'.
+[20:23:31]	Joey Jonderson has gained 20000 Tokens.
+[20:23:57]	Cabbage9341™ has connected.
+[20:24:07]	Czar Maxim has spawned a 'Entity [526][npc_grenade_frag]'.
+[20:24:07]	Czar Maxim has spawned a 'Entity [527][npc_grenade_frag]'.
+[20:24:07]	Czar Maxim has spawned a 'Entity [633][npc_grenade_frag]'.
+[20:24:07]	Czar Maxim has spawned a 'Entity [635][npc_grenade_frag]'.
+[20:24:07]	Czar Maxim has spawned a 'Entity [637][npc_grenade_frag]'.
+[20:24:07]	Czar Maxim has spawned a 'Entity [648][npc_grenade_frag]'.
+[20:24:08]	Czar Maxim has spawned a 'Entity [649][npc_grenade_frag]'.
+[20:24:08]	Czar Maxim has spawned a 'Entity [650][npc_grenade_frag]'.
+[20:24:08]	Czar Maxim has spawned a 'Entity [653][npc_grenade_frag]'.
+[20:24:08]	Czar Maxim has spawned a 'Entity [654][npc_grenade_frag]'.
+[20:24:08]	Czar Maxim has spawned a 'Entity [655][npc_grenade_frag]'.
+[20:24:09]	Czar Maxim has spawned a 'Entity [657][npc_grenade_frag]'.
+[20:24:09]	Czar Maxim has spawned a 'Entity [659][npc_grenade_frag]'.
+[20:24:09]	Czar Maxim has spawned a 'Entity [660][npc_grenade_frag]'.
+[20:24:09]	Czar Maxim has spawned a 'Entity [661][npc_grenade_frag]'.
+[20:24:09]	Czar Maxim has spawned a 'Entity [664][npc_grenade_frag]'.
+[20:24:10]	Czar Maxim has spawned a 'Entity [665][npc_grenade_frag]'.
+[20:24:10]	Czar Maxim has spawned a 'Entity [667][npc_grenade_frag]'.
+[20:24:10]	Czar Maxim has spawned a 'Entity [668][npc_grenade_frag]'.
+[20:24:10]	Czar Maxim has spawned a 'Entity [669][npc_grenade_frag]'.
+[20:24:10]	Czar Maxim has spawned a 'Entity [670][npc_grenade_frag]'.
+[20:24:10]	Czar Maxim has spawned a 'Entity [672][npc_grenade_frag]'.
+[20:24:11]	Czar Maxim has spawned a 'Entity [673][npc_grenade_frag]'.
+[20:24:11]	Czar Maxim has spawned a 'Entity [674][npc_grenade_frag]'.
+[20:24:11]	Czar Maxim has spawned a 'Entity [675][npc_grenade_frag]'.
+[20:24:11]	Czar Maxim has spawned a 'Entity [677][npc_grenade_frag]'.
+[20:24:11]	Czar Maxim has spawned a 'Entity [678][npc_grenade_frag]'.
+[20:24:11]	Czar Maxim has spawned a 'Entity [679][npc_grenade_frag]'.
+[20:24:12]	Czar Maxim has spawned a 'Entity [683][npc_grenade_frag]'.
+[20:24:12]	Czar Maxim has spawned a 'Entity [686][npc_grenade_frag]'.
+[20:24:12]	Czar Maxim has spawned a 'Entity [688][npc_grenade_frag]'.
+[20:24:12]	Czar Maxim has spawned a 'Entity [689][npc_grenade_frag]'.
+[20:24:12]	Czar Maxim has spawned a 'Entity [692][npc_grenade_frag]'.
+[20:24:12]	Czar Maxim has spawned a 'Entity [705][npc_grenade_frag]'.
+[20:24:13]	Czar Maxim has spawned a 'Entity [726][npc_grenade_frag]'.
+[20:24:13]	Czar Maxim has spawned a 'Entity [736][npc_grenade_frag]'.
+[20:24:13]	Czar Maxim has spawned a 'Entity [737][npc_grenade_frag]'.
+[20:24:13]	Czar Maxim has spawned a 'Entity [738][npc_grenade_frag]'.
+[20:24:13]	Czar Maxim has spawned a 'Entity [743][npc_grenade_frag]'.
+[20:24:13]	Czar Maxim has spawned a 'Entity [744][npc_grenade_frag]'.
+[20:24:14]	Czar Maxim has spawned a 'Entity [745][npc_grenade_frag]'.
+[20:24:14]	Czar Maxim has spawned a 'Entity [759][npc_grenade_frag]'.
+[20:24:14]	Czar Maxim has spawned a 'Entity [760][npc_grenade_frag]'.
+[20:24:14]	Czar Maxim has spawned a 'Entity [761][npc_grenade_frag]'.
+[20:24:14]	Czar Maxim has spawned a 'Entity [775][npc_grenade_frag]'.
+[20:24:14]	Czar Maxim has spawned a 'Entity [776][npc_grenade_frag]'.
+[20:24:15]	Czar Maxim has spawned a 'Entity [777][npc_grenade_frag]'.
+[20:24:15]	Czar Maxim has spawned a 'Entity [778][npc_grenade_frag]'.
+[20:24:15]	Czar Maxim has spawned a 'Entity [780][npc_grenade_frag]'.
+[20:24:15]	Czar Maxim has spawned a 'Entity [781][npc_grenade_frag]'.
+[20:24:15]	Czar Maxim has spawned a 'Entity [782][npc_grenade_frag]'.
+[20:24:15]	Czar Maxim has spawned a 'Entity [783][npc_grenade_frag]'.
+[20:24:16]	Czar Maxim has spawned a 'Entity [789][npc_grenade_frag]'.
+[20:24:16]	Czar Maxim has spawned a 'Entity [790][npc_grenade_frag]'.
+[20:24:16]	Czar Maxim has spawned a 'Entity [818][npc_grenade_frag]'.
+[20:24:16]	Czar Maxim has spawned a 'Entity [819][npc_grenade_frag]'.
+[20:24:17]	Czar Maxim has spawned a 'Entity [820][npc_grenade_frag]'.
+[20:24:17]	Czar Maxim has spawned a 'Entity [821][npc_grenade_frag]'.
+[20:24:17]	Czar Maxim has spawned a 'Entity [823][npc_grenade_frag]'.
+[20:24:17]	Czar Maxim has spawned a 'Entity [867][npc_grenade_frag]'.
+[20:24:17]	Czar Maxim has spawned a 'Entity [868][npc_grenade_frag]'.
+[20:24:19]	Czar Maxim has spawned a 'Entity [869][npc_grenade_frag]'.
+[20:24:34]	Czar Maxim has spawned a 'Weapon [415][weapon_physcannon]'.
+[20:24:34]	Czar Maxim has spawned a 'Weapon [526][weapon_physcannon]'.
+[20:24:35]	Czar Maxim has spawned a 'Weapon [527][weapon_physcannon]'.
+[20:24:35]	Czar Maxim has spawned a 'Weapon [623][weapon_physcannon]'.
+[20:24:36]	Cabbage9341™ (STEAM_0:0:227773634) has disconnected.
+[20:24:43]	Jake Esposito has gained 5 Tokens.
+[20:24:56]	Czar Maxim has gained 5 Tokens.
+[20:25:05]	Jake Esposito has taken 11 damage from Joey Jonderson.
+[20:25:05]	Jake Esposito has taken 11 damage from Joey Jonderson.
+[20:25:05]	Jake Esposito has taken 11 damage from Joey Jonderson.
+[20:25:05]	Jake Esposito has taken 11 damage from Joey Jonderson.
+[20:25:06]	Jake Esposito has taken 150 damage from Czar Maxim.
+[20:25:06]	Czar Maxim has killed Jake Esposito with weapon_rpg.
+[20:25:35]	Joey Jonderson has spawned 'models/props_phx/rocket1.mdl'.
+[20:25:35]	Czar Maxim has spawned 'models/props_vehicles/trailer001a.mdl'.
+[20:25:44]	Joey Jonderson has spawned 'models/items/ammocrate_rockets.mdl'.
+[20:25:45]	Czar Maxim has spawned 'models/props_vehicles/truck001a.mdl'.
+[20:25:55]	Czar Maxim has spawned 'models/props_combine/combine_train02a.mdl'.
+[20:26:00]	Czar Maxim has spawned 'models/props_vehicles/trailer002a.mdl'.
+[20:26:01]	Czar Maxim has spawned 'models/props_vehicles/trailer001a.mdl'.
+[20:26:03]	Czar Maxim has spawned 'models/airboat.mdl'.
+[20:26:03]	Joey Jonderson opened the 'Locker' #44 container.
+[20:26:04]	Joey Jonderson closed the 'Locker' #44 container.
+[20:26:04]	Czar Maxim has spawned 'models/props_vehicles/car002a_physics.mdl'.
+[20:26:05]	Czar Maxim has spawned 'models/props_vehicles/car002a_physics.mdl'.
+[20:26:12]	Czar Maxim has spawned 'models/props_combine/CombineTrain01a.mdl'.
+[20:26:13]	Czar Maxim has spawned 'models/props_combine/CombineTrain01a.mdl'.
+[20:26:24]	Czar Maxim used command '/CharGiveFlag joey C'.
+[20:26:33]	Czar Maxim used command '/CharGiveFlag joey c'.
+[20:26:33]	Joey Jonderson has spawned a 'Vehicle [118][prop_vehicle_prisoner_pod]'.
+[20:26:38]	Joey Jonderson has gained 5 Tokens.
+[20:26:46]	Czar Maxim has spawned a 'NPC [338][npc_monk]'.
+[20:26:53]	Joey Jonderson has spawned a 'Vehicle [301][prop_vehicle_airboat]'.
+[20:26:54]	Joey Jonderson has spawned a 'Vehicle [486][prop_vehicle_prisoner_pod]'.
+[20:26:54]	Joey Jonderson has spawned a 'Vehicle [605][prop_vehicle_jeep_old]'.
+[20:26:55]	Joey Jonderson has spawned a 'Vehicle [301][prop_vehicle_jeep_old]'.
+[20:27:02]	Cabbage9341™ has connected.
+[20:27:45]	Czar Maxim used command '/CharGiveFlag joey r'.
+[20:28:05]	Joey Jonderson has spawned 'models/gman_high.mdl'.
+[20:28:25]	Cabbage9341™ created the character 'Jack William'
+[20:28:25]	Jack William has gained a 'Suitcase' #80.
+[20:28:25]	Jack William has gained a 'Flashlight' #81.
+[20:28:25]	Jack William has gained a 'Citizen ID' #82.
+[20:28:25]	Cabbage9341™ loaded the character 'Jack William'
+[20:28:31]	Czar Maxim used command '/CharSetModel joey models/gman_high.mdl'.
+[20:28:53]	Czar Maxim has killed Czar Maxim.
+[20:28:53]	[OOC] Jack William: dudes whats the model for the citizens i only see them as errors
+[20:29:07]	Jack William opened the 'Locker' #44 container.
+[20:29:15]	[OOC] Jack William: tell me
+[20:29:19]	Czar Maxim used command '/CharSetName joey Joey GMan Jonderson'.
+[20:29:43]	Jake Esposito has gained 5 Tokens.
+[20:29:48]	Joey GMan Jonderson has spawned 'models/gman_high.mdl'.
+[20:29:56]	Czar Maxim has gained 5 Tokens.
+[20:30:12]	Czar Maxim used command '/CharSetModel jack models/breen.mdl'.
+[20:30:21]	Czar Maxim has taken 10 damage from prop_physics.
+[20:30:30]	Czar Maxim has spawned a 'Entity [116][npc_grenade_frag]'.
+[20:30:30]	Czar Maxim has spawned a 'Entity [298][npc_grenade_frag]'.
+[20:30:31]	Czar Maxim has spawned a 'Entity [339][npc_grenade_frag]'.
+[20:30:31]	Czar Maxim has spawned a 'Entity [394][npc_grenade_frag]'.
+[20:30:31]	Czar Maxim has spawned a 'Entity [400][npc_grenade_frag]'.
+[20:30:31]	Czar Maxim has spawned a 'Entity [414][npc_grenade_frag]'.
+[20:30:31]	Czar Maxim has spawned a 'Entity [447][npc_grenade_frag]'.
+[20:30:32]	Czar Maxim has spawned a 'Entity [491][npc_grenade_frag]'.
+[20:30:32]	Czar Maxim has spawned a 'Entity [509][npc_grenade_frag]'.
+[20:30:32]	Czar Maxim has spawned a 'Entity [527][npc_grenade_frag]'.
+[20:30:32]	Czar Maxim has spawned a 'Entity [602][npc_grenade_frag]'.
+[20:30:32]	Czar Maxim has spawned a 'Entity [603][npc_grenade_frag]'.
+[20:30:32]	Czar Maxim has spawned a 'Entity [605][npc_grenade_frag]'.
+[20:30:33]	Czar Maxim has spawned a 'Entity [623][npc_grenade_frag]'.
+[20:30:33]	Czar Maxim has spawned a 'Entity [635][npc_grenade_frag]'.
+[20:30:33]	Czar Maxim has spawned a 'Entity [637][npc_grenade_frag]'.
+[20:30:33]	Czar Maxim has spawned a 'Entity [648][npc_grenade_frag]'.
+[20:30:33]	Czar Maxim has spawned a 'Entity [649][npc_grenade_frag]'.
+[20:30:33]	Czar Maxim has spawned a 'Entity [650][npc_grenade_frag]'.
+[20:30:34]	Czar Maxim has spawned a 'Entity [652][npc_grenade_frag]'.
+[20:30:34]	Czar Maxim has spawned a 'Entity [653][npc_grenade_frag]'.
+[20:30:34]	Czar Maxim has spawned a 'Entity [654][npc_grenade_frag]'.
+[20:30:34]	Czar Maxim has spawned a 'Entity [655][npc_grenade_frag]'.
+[20:30:34]	Czar Maxim has spawned a 'Entity [657][npc_grenade_frag]'.
+[20:30:34]	Czar Maxim has taken 0 damage from npc_grenade_frag.
+[20:30:34]	Czar Maxim has spawned a 'Entity [659][npc_grenade_frag]'.
+[20:30:35]	Czar Maxim has spawned a 'Entity [660][npc_grenade_frag]'.
+[20:30:35]	Czar Maxim has spawned a 'Entity [661][npc_grenade_frag]'.
+[20:30:35]	Czar Maxim has spawned a 'Entity [664][npc_grenade_frag]'.
+[20:30:35]	Czar Maxim has spawned a 'Entity [665][npc_grenade_frag]'.
+[20:30:36]	Czar Maxim has spawned a 'Entity [387][grenade_helicopter]'.
+[20:30:36]	Czar Maxim has taken 23 damage from grenade_helicopter.
+[20:30:36]	Czar Maxim has taken 49 damage from npc_grenade_frag.
+[20:30:36]	Czar Maxim has taken 55 damage from npc_grenade_frag.
+[20:30:36]	npc_grenade_frag has killed Czar Maxim.
+[20:30:36]	Jake Esposito has taken 29 damage from npc_grenade_frag.
+[20:30:36]	Jake Esposito has taken 16 damage from npc_grenade_frag.
+[20:30:36]	Jake Esposito has taken 21 damage from npc_grenade_frag.
+[20:30:36]	Jake Esposito has taken 25 damage from npc_grenade_frag.
+[20:30:36]	Jake Esposito has taken 16 damage from npc_grenade_frag.
+[20:30:36]	npc_grenade_frag has killed Jake Esposito.
+[20:30:36]	Jack William has taken 44 damage from npc_grenade_frag.
+[20:30:36]	Jack William has taken 75 damage from npc_grenade_frag.
+[20:30:36]	npc_grenade_frag has killed Jack William.
+[20:30:38]	[ME] Jack William: starts beating him to death
+[20:31:09]	Czar Maxim has spawned a 'Entity [387][grenade_helicopter]'.
+[20:31:09]	Czar Maxim has spawned a 'Entity [425][grenade_helicopter]'.
+[20:31:09]	Czar Maxim has spawned a 'Entity [488][grenade_helicopter]'.
+[20:31:09]	Czar Maxim has spawned a 'Entity [491][grenade_helicopter]'.
+[20:31:10]	Czar Maxim has spawned a 'Entity [509][grenade_helicopter]'.
+[20:31:16]	Jack William has taken 11 damage from Joey GMan Jonderson.
+[20:31:16]	Jack William has taken 11 damage from Joey GMan Jonderson.
+[20:31:16]	Jack William has taken 3 damage from Joey GMan Jonderson.
+[20:31:17]	Jack William has taken 11 damage from Joey GMan Jonderson.
+[20:31:17]	Jack William has taken 3 damage from Joey GMan Jonderson.
+[20:31:17]	Jack William has taken 3 damage from Joey GMan Jonderson.
+[20:31:22]	Jack William has taken 75 damage from Joey GMan Jonderson.
+[20:31:22]	Joey GMan Jonderson has killed Jack William with weapon_357.
+[20:31:31]	Czar Maxim has spawned a 'Entity [114][npc_grenade_frag]'.
+[20:31:38]	Joey GMan Jonderson has gained 5 Tokens.
+[20:31:39]	[OOC] Jack William: this is why i wanted you to change me back from breen ffs
+[20:31:45]	Czar Maxim has spawned a 'Entity [491][npc_grenade_frag]'.
+[20:31:53]	Czar Maxim has spawned a 'Entity [114][npc_grenade_frag]'.
+[20:31:53]	Czar Maxim has spawned a 'Entity [299][npc_grenade_frag]'.
+[20:31:53]	Czar Maxim has spawned a 'Entity [425][npc_grenade_frag]'.
+[20:31:53]	Czar Maxim has spawned a 'Entity [491][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [509][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [527][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [602][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [603][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [605][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [633][npc_grenade_frag]'.
+[20:31:54]	Czar Maxim has spawned a 'Entity [635][npc_grenade_frag]'.
+[20:31:55]	Czar Maxim has spawned a 'Entity [637][npc_grenade_frag]'.
+[20:31:55]	Czar Maxim has spawned a 'Entity [648][npc_grenade_frag]'.
+[20:31:55]	Czar Maxim has spawned a 'Entity [649][npc_grenade_frag]'.
+[20:31:55]	Czar Maxim has spawned a 'Entity [650][npc_grenade_frag]'.
+[20:31:55]	Czar Maxim has spawned a 'Entity [652][npc_grenade_frag]'.
+[20:31:55]	Czar Maxim has spawned a 'Entity [653][npc_grenade_frag]'.
+[20:31:56]	Czar Maxim has spawned a 'Entity [654][npc_grenade_frag]'.
+[20:31:56]	Czar Maxim has spawned a 'Entity [659][npc_grenade_frag]'.
+[20:31:56]	Czar Maxim has spawned a 'Entity [660][npc_grenade_frag]'.
+[20:31:56]	Czar Maxim has spawned a 'Entity [661][npc_grenade_frag]'.
+[20:31:56]	Czar Maxim has spawned a 'Entity [664][npc_grenade_frag]'.
+[20:31:56]	Czar Maxim has spawned a 'Entity [665][npc_grenade_frag]'.
+[20:31:57]	Czar Maxim has spawned a 'Entity [668][npc_grenade_frag]'.
+[20:31:57]	Czar Maxim has spawned a 'Entity [669][npc_grenade_frag]'.
+[20:31:57]	Czar Maxim has spawned a 'Entity [670][npc_grenade_frag]'.
+[20:31:57]	Czar Maxim has spawned a 'Entity [672][npc_grenade_frag]'.
+[20:32:05]	Czar Maxim has spawned a 'Entity [655][npc_grenade_frag]'.
+[20:32:05]	Czar Maxim has spawned a 'Entity [657][npc_grenade_frag]'.
+[20:32:05]	Czar Maxim has spawned a 'Entity [673][npc_grenade_frag]'.
+[20:32:05]	Czar Maxim has spawned a 'Entity [674][npc_grenade_frag]'.
+[20:32:05]	Czar Maxim has spawned a 'Entity [106][npc_grenade_frag]'.
+[20:32:05]	Czar Maxim has spawned a 'Entity [677][npc_grenade_frag]'.
+[20:32:06]	Czar Maxim has spawned a 'Entity [678][npc_grenade_frag]'.
+[20:32:06]	Czar Maxim has spawned a 'Entity [679][npc_grenade_frag]'.
+[20:32:06]	Czar Maxim has spawned a 'Entity [683][npc_grenade_frag]'.
+[20:32:06]	Czar Maxim has spawned a 'Entity [686][npc_grenade_frag]'.
+[20:32:06]	Czar Maxim has spawned a 'Entity [688][npc_grenade_frag]'.
+[20:32:06]	Czar Maxim has spawned a 'Entity [689][npc_grenade_frag]'.
+[20:32:07]	Czar Maxim has spawned a 'Entity [488][npc_grenade_frag]'.
+[20:32:07]	Czar Maxim has spawned a 'Entity [623][npc_grenade_frag]'.
+[20:32:07]	Czar Maxim has spawned a 'Entity [726][npc_grenade_frag]'.
+[20:32:07]	Czar Maxim has spawned a 'Entity [736][npc_grenade_frag]'.
+[20:32:07]	Czar Maxim has spawned a 'Entity [737][npc_grenade_frag]'.
+[20:32:07]	Czar Maxim has spawned a 'Entity [738][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [743][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [744][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [483][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [675][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [760][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [761][npc_grenade_frag]'.
+[20:32:08]	Czar Maxim has spawned a 'Entity [775][npc_grenade_frag]'.
+[20:32:09]	Czar Maxim has spawned a 'Entity [776][npc_grenade_frag]'.
+[20:32:09]	Czar Maxim has spawned a 'Entity [777][npc_grenade_frag]'.
+[20:32:09]	Czar Maxim has spawned a 'Entity [778][npc_grenade_frag]'.
+[20:32:09]	Czar Maxim has spawned a 'Entity [692][npc_grenade_frag]'.
+[20:32:09]	Czar Maxim has spawned a 'Entity [705][npc_grenade_frag]'.
+[20:32:09]	Czar Maxim has spawned a 'Entity [780][npc_grenade_frag]'.
+[20:32:10]	Czar Maxim has spawned a 'Entity [783][npc_grenade_frag]'.
+[20:32:10]	Czar Maxim has spawned a 'Entity [789][npc_grenade_frag]'.
+[20:32:10]	Czar Maxim has spawned a 'Entity [790][npc_grenade_frag]'.
+[20:32:10]	Czar Maxim has spawned a 'Entity [818][npc_grenade_frag]'.
+[20:32:10]	Czar Maxim has spawned a 'Entity [819][npc_grenade_frag]'.
+[20:32:10]	Czar Maxim has spawned a 'Entity [820][npc_grenade_frag]'.
+[20:32:11]	Czar Maxim has spawned a 'Entity [745][npc_grenade_frag]'.
+[20:32:11]	Czar Maxim has spawned a 'Entity [823][npc_grenade_frag]'.
+[20:32:11]	Czar Maxim has spawned a 'Entity [867][npc_grenade_frag]'.
+[20:32:11]	Czar Maxim has spawned a 'Entity [868][npc_grenade_frag]'.
+[20:32:11]	Czar Maxim has spawned a 'Entity [869][npc_grenade_frag]'.
+[20:32:11]	Czar Maxim has spawned a 'Entity [870][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [871][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [781][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [782][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [872][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [883][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [884][npc_grenade_frag]'.
+[20:32:12]	Czar Maxim has spawned a 'Entity [885][npc_grenade_frag]'.
+[20:32:13]	Czar Maxim has spawned a 'Entity [886][npc_grenade_frag]'.
+[20:32:13]	Czar Maxim has spawned a 'Entity [887][npc_grenade_frag]'.
+[20:32:13]	Czar Maxim has spawned a 'Entity [888][npc_grenade_frag]'.
+[20:32:13]	Czar Maxim has spawned a 'Entity [759][npc_grenade_frag]'.
+[20:32:13]	Czar Maxim has spawned a 'Entity [821][npc_grenade_frag]'.
+[20:32:13]	Czar Maxim has spawned a 'Entity [891][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [892][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [893][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [894][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [895][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [902][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [911][npc_grenade_frag]'.
+[20:32:14]	Czar Maxim has spawned a 'Entity [874][npc_grenade_frag]'.
+[20:32:15]	Czar Maxim has spawned a 'Entity [875][npc_grenade_frag]'.
+[20:32:15]	Czar Maxim has spawned a 'Entity [912][npc_grenade_frag]'.
+[20:32:15]	Czar Maxim has spawned a 'Entity [913][npc_grenade_frag]'.
+[20:32:15]	Jake Esposito has taken 59 damage from Joey GMan Jonderson.
+[20:32:15]	Czar Maxim has spawned a 'Entity [914][npc_grenade_frag]'.
+[20:32:15]	Czar Maxim has spawned a 'Entity [915][npc_grenade_frag]'.
+[20:32:15]	Czar Maxim has spawned a 'Entity [922][npc_grenade_frag]'.
+[20:32:16]	Czar Maxim has spawned a 'Entity [923][npc_grenade_frag]'.
+[20:32:16]	Czar Maxim has spawned a 'Entity [924][npc_grenade_frag]'.
+[20:32:16]	Czar Maxim has spawned a 'Entity [925][npc_grenade_frag]'.
+[20:32:16]	Czar Maxim has spawned a 'Entity [114][npc_grenade_frag]'.
+[20:32:16]	Czar Maxim has spawned a 'Entity [889][npc_grenade_frag]'.
+[20:32:16]	Czar Maxim has spawned a 'Entity [890][npc_grenade_frag]'.
+[20:32:17]	Czar Maxim has spawned a 'Entity [926][npc_grenade_frag]'.
+[20:32:17]	Czar Maxim has spawned a 'Entity [927][npc_grenade_frag]'.
+[20:32:17]	Czar Maxim has spawned a 'Entity [928][npc_grenade_frag]'.
+[20:32:17]	Czar Maxim has spawned a 'Entity [929][npc_grenade_frag]'.
+[20:32:17]	Czar Maxim has spawned a 'Entity [930][npc_grenade_frag]'.
+[20:32:17]	[OOC] Jack William: give me toolgun and physics gun perms bro :)
+[20:32:17]	Czar Maxim has spawned a 'Entity [931][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [932][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [933][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [934][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [952][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [953][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [954][npc_grenade_frag]'.
+[20:32:18]	Czar Maxim has spawned a 'Entity [955][npc_grenade_frag]'.
+[20:32:19]	Czar Maxim has spawned a 'Entity [956][npc_grenade_frag]'.
+[20:32:19]	Czar Maxim has spawned a 'Entity [965][npc_grenade_frag]'.
+[20:32:19]	Czar Maxim has spawned a 'Entity [966][npc_grenade_frag]'.
+[20:32:19]	Czar Maxim has spawned a 'Entity [989][npc_grenade_frag]'.
+[20:32:19]	Czar Maxim has spawned a 'Entity [990][npc_grenade_frag]'.
+[20:32:19]	Czar Maxim has spawned a 'Entity [991][npc_grenade_frag]'.
+[20:32:20]	Czar Maxim has spawned a 'Entity [992][npc_grenade_frag]'.
+[20:32:20]	Czar Maxim has spawned a 'Entity [993][npc_grenade_frag]'.
+[20:32:20]	Czar Maxim has spawned a 'Entity [994][npc_grenade_frag]'.
+[20:32:20]	Czar Maxim has spawned a 'Entity [995][npc_grenade_frag]'.
+[20:32:20]	Czar Maxim has spawned a 'Entity [998][npc_grenade_frag]'.
+[20:32:20]	Czar Maxim has spawned a 'Entity [999][npc_grenade_frag]'.
+[20:32:21]	Czar Maxim has spawned a 'Entity [1000][npc_grenade_frag]'.
+[20:32:21]	Czar Maxim has spawned a 'Entity [1005][npc_grenade_frag]'.
+[20:32:21]	Czar Maxim has spawned a 'Entity [1006][npc_grenade_frag]'.
+[20:32:21]	Czar Maxim has spawned a 'Entity [1007][npc_grenade_frag]'.
+[20:32:21]	Czar Maxim has spawned a 'Entity [1008][npc_grenade_frag]'.
+[20:32:21]	Czar Maxim has spawned a 'Entity [1009][npc_grenade_frag]'.
+[20:32:22]	Czar Maxim has spawned a 'Entity [1019][npc_grenade_frag]'.
+[20:32:22]	Czar Maxim has spawned a 'Entity [1020][npc_grenade_frag]'.
+[20:32:22]	Czar Maxim has spawned a 'Entity [1021][npc_grenade_frag]'.
+[20:32:22]	Czar Maxim has spawned a 'Entity [1022][npc_grenade_frag]'.
+[20:32:22]	Czar Maxim has spawned a 'Entity [1023][npc_grenade_frag]'.
+[20:32:22]	Czar Maxim has spawned a 'Entity [1024][npc_grenade_frag]'.
+[20:32:23]	Czar Maxim has spawned a 'Entity [996][npc_grenade_frag]'.
+[20:32:23]	Czar Maxim has spawned a 'Entity [997][npc_grenade_frag]'.
+[20:32:23]	Czar Maxim has spawned a 'Entity [1027][npc_grenade_frag]'.
+[20:32:23]	Czar Maxim has spawned a 'Entity [1028][npc_grenade_frag]'.
+[20:32:23]	Czar Maxim has spawned a 'Entity [1029][npc_grenade_frag]'.
+[20:32:23]	Czar Maxim has spawned a 'Entity [1031][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has spawned a 'Entity [1032][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has spawned a 'Entity [1041][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has spawned a 'Entity [1017][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has spawned a 'Entity [1018][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has spawned a 'Entity [1042][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has spawned a 'Entity [1043][npc_grenade_frag]'.
+[20:32:24]	Czar Maxim has taken 18 damage from npc_grenade_frag.
+[20:32:24]	Czar Maxim has taken 31 damage from npc_grenade_frag.
+[20:32:24]	Czar Maxim has taken 17 damage from npc_grenade_frag.
+[20:32:24]	Czar Maxim has taken 20 damage from npc_grenade_frag.
+[20:32:24]	Czar Maxim has taken 26 damage from npc_grenade_frag.
+[20:32:24]	npc_grenade_frag has killed Czar Maxim.
+[20:32:24]	Jake Esposito has taken 14 damage from npc_grenade_frag.
+[20:32:24]	Jake Esposito has taken 10 damage from npc_grenade_frag.
+[20:32:24]	Jake Esposito has taken 23 damage from npc_grenade_frag.
+[20:32:24]	npc_grenade_frag has killed Jake Esposito.
+[20:32:38]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:39]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:40]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:43]	Czar Maxim has spawned a 'Entity [109][npc_grenade_frag]'.
+[20:32:43]	Czar Maxim has spawned a 'Entity [111][npc_grenade_frag]'.
+[20:32:43]	Czar Maxim has spawned a 'Entity [119][npc_grenade_frag]'.
+[20:32:43]	Czar Maxim has spawned a 'Entity [301][npc_grenade_frag]'.
+[20:32:43]	Czar Maxim has spawned a 'Entity [414][npc_grenade_frag]'.
+[20:32:44]	Czar Maxim has spawned a 'Entity [489][npc_grenade_frag]'.
+[20:32:44]	Czar Maxim has spawned a 'Entity [481][npc_grenade_frag]'.
+[20:32:44]	Czar Maxim has spawned a 'Entity [115][npc_grenade_frag]'.
+[20:32:44]	Czar Maxim has spawned a 'Entity [490][npc_grenade_frag]'.
+[20:32:44]	Czar Maxim has spawned a 'Entity [113][npc_grenade_frag]'.
+[20:32:44]	Czar Maxim has spawned a 'Entity [310][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [112][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [491][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [506][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [342][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [300][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [110][npc_grenade_frag]'.
+[20:32:45]	Czar Maxim has spawned a 'Entity [505][npc_grenade_frag]'.
+[20:32:46]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:46]	Czar Maxim has spawned a 'Entity [509][npc_grenade_frag]'.
+[20:32:46]	Czar Maxim has spawned a 'Entity [526][npc_grenade_frag]'.
+[20:32:46]	Czar Maxim has spawned a 'Entity [527][npc_grenade_frag]'.
+[20:32:46]	Czar Maxim has spawned a 'Entity [602][npc_grenade_frag]'.
+[20:32:46]	Czar Maxim has spawned a 'Entity [603][npc_grenade_frag]'.
+[20:32:46]	Czar Maxim has spawned a 'Entity [604][npc_grenade_frag]'.
+[20:32:47]	Czar Maxim has spawned a 'Entity [605][npc_grenade_frag]'.
+[20:32:47]	Czar Maxim has spawned a 'Entity [620][npc_grenade_frag]'.
+[20:32:48]	Czar Maxim has spawned a 'Entity [622][npc_grenade_frag]'.
+[20:32:48]	Czar Maxim has spawned a 'Entity [623][npc_grenade_frag]'.
+[20:32:48]	Czar Maxim has spawned a 'Entity [625][npc_grenade_frag]'.
+[20:32:48]	Czar Maxim has spawned a 'Entity [632][npc_grenade_frag]'.
+[20:32:48]	Czar Maxim has spawned a 'Entity [633][npc_grenade_frag]'.
+[20:32:48]	Czar Maxim has spawned a 'Entity [507][npc_grenade_frag]'.
+[20:32:49]	Czar Maxim has spawned a 'Entity [635][npc_grenade_frag]'.
+[20:32:49]	Czar Maxim has spawned a 'Entity [637][npc_grenade_frag]'.
+[20:32:49]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:49]	Czar Maxim has spawned a 'Entity [483][npc_grenade_frag]'.
+[20:32:49]	Czar Maxim has spawned a 'Entity [488][npc_grenade_frag]'.
+[20:32:49]	Czar Maxim has spawned a 'Entity [649][npc_grenade_frag]'.
+[20:32:49]	Czar Maxim has spawned a 'Entity [650][npc_grenade_frag]'.
+[20:32:50]	Czar Maxim has spawned a 'Entity [652][npc_grenade_frag]'.
+[20:32:50]	Czar Maxim has spawned a 'Entity [653][npc_grenade_frag]'.
+[20:32:50]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:50]	Czar Maxim has spawned a 'Entity [655][npc_grenade_frag]'.
+[20:32:50]	Czar Maxim has spawned a 'Entity [657][npc_grenade_frag]'.
+[20:32:50]	Czar Maxim has spawned a 'Entity [658][npc_grenade_frag]'.
+[20:32:50]	Czar Maxim has spawned a 'Entity [659][npc_grenade_frag]'.
+[20:32:51]	Czar Maxim has spawned a 'Entity [660][npc_grenade_frag]'.
+[20:32:51]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:52]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:53]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:54]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:54]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:55]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:56]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:57]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:58]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:32:59]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:00]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:01]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:02]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:25]	Jack William has gained 5 Tokens.
+[20:33:31]	[OOC] Joey GMan Jonderson: i cant join that vc
+[20:33:36]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:37]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:38]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:39]	Joey GMan Jonderson has spawned 'models/Humans/Group01/Male_Cheaple.mdl'.
+[20:33:46]	Joey GMan Jonderson has spawned 'models/Kleiner.mdl'.
+[20:34:07]	Jake Esposito entered observer.
+[20:34:08]	Jake Esposito exited observer.
+[20:34:20]	Jake Esposito entered observer.
+[20:34:22]	Jake Esposito exited observer.
+[20:34:43]	Jake Esposito has gained 5 Tokens.
+[20:34:43]	Czar Maxim has taken 134 damage from Czar Maxim.
+[20:34:43]	Czar Maxim has killed Czar Maxim.
+[20:34:56]	Czar Maxim has gained 5 Tokens.
+[20:35:19]	Czar Maxim has spawned a 'NPC [113][npc_strider]'.
+[20:35:21]	Czar Maxim has taken 5 damage from npc_strider.
+[20:35:22]	Czar Maxim has taken 5 damage from npc_strider.
+[20:35:45]	Czar Maxim has spawned a 'Weapon [428][weapon_rpg]'.
+[20:35:56]	Czar Maxim has taken 1 damage from npc_strider.
+[20:36:01]	Czar Maxim has spawned a 'Weapon [485][weapon_rpg]'.
+[20:36:38]	Joey GMan Jonderson has gained 5 Tokens.
+[20:37:26]	Tzar (STEAM_0:0:140210729) has disconnected.

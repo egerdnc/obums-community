@@ -1,0 +1,54 @@
+// Choreo version 1
+actor "Fisherman"
+{
+  channel "Audio"
+  {
+  }
+  channel "Look at"
+  {
+  }
+  channel "face to"
+  {
+  }
+  channel "move to"
+  {
+    event moveto "!player"
+    {
+      time 0.000000 0.200000
+      param "!player"
+      distancetotarget 200.00
+    }
+  }
+  channel "Postures"
+  {
+  }
+  channel "Gestures"
+  {
+  }
+  channel "body gesture"
+  {
+  }
+  channel "Head flex"
+  {
+  }
+  channel "Flex Facial"
+  {
+  }
+  channel "Trigger"
+  {
+  }
+  channel "Interrupt"
+  {
+  }
+}
+mapname "maps\d2_lostcoast.bsp"
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

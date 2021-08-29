@@ -1,0 +1,1615 @@
+[13:19:26] New map: rp_depot_interior
+
+
+
+[13:20:40] New map: rp_depot_interior
+[13:21:20] Client "Tzar" connected.
+[13:21:59] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 39 seconds).
+[13:22:32] Dropped "Tzar" from server<STEAM_0:0:140210729>
+
+
+
+[13:23:12] New map: rp_depot_interior
+[13:23:18] Client "Tzar" connected.
+[13:24:55] Client "Tzar" connected.
+[13:24:55] Client "Tzar" connected.
+[13:24:55] Client "Tzar" connected.
+[13:24:55] Client "Tzar" connected.
+[13:24:55] Client "Tzar" connected.
+[13:25:15] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 20 seconds).
+[13:25:31] Tzar<STEAM_0:0:140210729> changed their name to Czar Maxim
+[13:25:51] Czar Maxim: /chargiveitem czar mp7 1
+[13:26:07] Czar Maxim<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[13:26:10] Czar Maxim<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+[13:27:01] Czar Maxim<STEAM_0:0:140210729> spawned model models/weapons/w_pistol.mdl
+[13:27:59] Client "The Apex Typhon" connected.
+[13:29:31] Client "The Apex Typhon" spawned in server <STEAM_0:1:74180635> (took 92 seconds).
+[13:30:08] The Apex Typhon<STEAM_0:1:74180635> changed their name to Based Man
+[13:30:41] Dropped "Based Man" from server<STEAM_0:1:74180635>
+[13:31:54] Dropped "Czar Maxim" from server<STEAM_0:0:140210729>
+
+
+
+[13:32:18] New map: rp_depot_interior
+
+
+
+[13:35:11] New map: rp_depot_interior
+
+
+
+[13:36:56] New map: rp_depot_interior
+[13:37:54] Client "Tzar" connected.
+[13:39:16] Client "Tzar" connected.
+[13:39:34] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 18 seconds).
+[13:40:14] Tzar<STEAM_0:0:140210729> changed their name to Czar Maxim
+[13:41:23] Client "The Apex Typhon" connected.
+[13:41:41] Client "Two idiots" connected.
+[13:41:50] Client "The Apex Typhon" spawned in server <STEAM_0:1:74180635> (took 27 seconds).
+[13:42:08] The Apex Typhon<STEAM_0:1:74180635> changed their name to Based Man
+[13:42:36] Client "Bilack" connected.
+[13:43:00] Based Man killed Czar Maxim using player
+[13:43:24] Based Man killed Czar Maxim using player
+[13:43:51] Client "Fawful™" connected.
+[13:44:01] Client "Two idiots" spawned in server <STEAM_0:0:189813992> (took 140 seconds).
+
+
+
+[13:50:42] New map: rp_city2_v4_finalb
+[13:50:45] Client "Minty" connected.
+[13:50:50] Client "Azio" connected.
+[13:51:35] Client "Tzar" connected.
+[13:51:41] Client "Minty" spawned in server <STEAM_0:1:513516857> (took 56 seconds).
+[13:51:42] Client "Two idiots" connected.
+[13:51:45] Client "Fawful™" connected.
+[13:51:55] Client "Revectane" connected.
+[13:52:01] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 26 seconds).
+[13:52:07] Client "Bilack" connected.
+[13:52:11] Client "The Apex Typhon" connected.
+[13:52:25] Client "Azio" spawned in server <STEAM_0:1:89342027> (took 95 seconds).
+[13:52:25] Tzar<STEAM_0:0:140210729> changed their name to Czar Maxim
+[13:52:29] Client "Two idiots" spawned in server <STEAM_0:0:189813992> (took 47 seconds).
+[13:52:30] Client "The Apex Typhon" spawned in server <STEAM_0:1:74180635> (took 19 seconds).
+[13:52:33] Client "Fawful™" spawned in server <STEAM_0:0:226903802> (took 48 seconds).
+[13:52:38] Client "Toorusty" connected.
+[13:52:47] The Apex Typhon<STEAM_0:1:74180635> changed their name to Based Man
+[13:52:54] Client "Pepsiman (Engaged)" connected.
+[13:52:59] Czar Maxim killed Based Man using player
+[13:53:01] Two idiots<STEAM_0:0:189813992> changed their name to Henry
+[13:53:05] Dropped "Minty" from server<STEAM_0:1:513516857>
+[13:53:16] Client "Bilack" spawned in server <STEAM_0:0:12479815> (took 69 seconds).
+[13:53:25] Czar Maxim killed Henry using sent_bp_rpgpiercing
+[13:53:25] Czar Maxim killed Based Man using sent_bp_rpgpiercing
+[13:53:43] Client "DrSouls" connected.
+[13:53:43] Client "DOOM ETERNAL is a good game" connected.
+[13:53:50] Azio<STEAM_0:1:89342027> changed their name to 天安门大屠杀
+[13:53:54] Czar Maxim was killed by entityflame
+[13:54:00] Bilack<STEAM_0:0:12479815> changed their name to boseph jurgerson
+[13:54:01] Client "man" connected.
+[13:54:03] 天安门大屠杀: // Herro!
+[13:54:08] Client "Pepsiman (Engaged)" spawned in server <STEAM_0:1:63799470> (took 74 seconds).
+[13:54:10] Henry: /ooc Hey can you give us all Flags?
+[13:54:21] boseph jurgerson: HOW DO I USE GUNS
+[13:54:24] boseph jurgerson: /ooc how do i use guns
+[13:54:39] Henry was killed by entityflame
+[13:54:40] boseph jurgerson: cock
+[13:54:45] 天安门大屠杀: That is gay
+[13:54:50] boseph jurgerson: is this semi serious or serious i cant tell
+[13:54:50] Based Man was killed by entityflame
+[13:54:52] Czar Maxim suicided!
+[13:54:54] Fawful™<STEAM_0:0:226903802> changed their name to Ethereal Obums
+[13:54:55] Henry: /ooc Can you give us Flags?!
+[13:55:03] Czar Maxim killed 天安门大屠杀 using player
+[13:55:06] Czar Maxim killed Based Man using player
+[13:55:12] Client "Toast" connected.
+[13:55:15] Czar Maxim suicided!
+[13:55:15] Czar Maxim killed 天安门大屠杀 using sent_bp_molotov
+[13:55:19] boseph jurgerson: /OOC WHERE DO I GET GUNS
+[13:55:23] Client "DrSouls" spawned in server <STEAM_0:0:83876580> (took 100 seconds).
+[13:55:25] Client "Toorusty" spawned in server <STEAM_0:0:67125359> (took 167 seconds).
+[13:55:40] Client "man" spawned in server <STEAM_0:0:483057931> (took 99 seconds).
+[13:56:21] 天安门大屠杀 was killed by env_explosion
+[13:56:21] Ethereal Obums was killed by env_explosion
+[13:56:21] Based Man was killed by env_explosion
+[13:56:30] Toorusty<STEAM_0:0:67125359> changed their name to Jake Esposito
+[13:56:36] Czar Maxim killed boseph jurgerson using weapon_bp_flamethrower
+[13:56:45] Based Man was killed by env_explosion
+[13:56:45] Czar Maxim was killed by env_explosion
+[13:56:46] Pepsiman (Engaged)<STEAM_0:1:63799470> changed their name to your mom
+[13:56:58] Client "DOOM ETERNAL is a good game" spawned in server <STEAM_0:1:175760128> (took 195 seconds).
+[13:57:02] Client "Toast" spawned in server <STEAM_0:1:91153138> (took 110 seconds).
+[13:57:02] Henry was killed by env_explosion
+[13:57:02] Based Man was killed by env_explosion
+[13:57:02] Czar Maxim killed Ethereal Obums using sent_bp_rpgpiercing
+[13:57:07] man<STEAM_0:0:483057931> changed their name to Brock Obums
+[13:57:08] Jake Esposito was killed by env_explosion
+[13:57:12] Czar Maxim killed boseph jurgerson using sent_bp_molotov
+[13:57:12] Czar Maxim killed 天安门大屠杀 using sent_bp_molotov
+[13:57:12] Czar Maxim suicided!
+[13:57:12] boseph jurgerson: cock
+[13:57:13] your mom was killed by env_explosion
+[13:57:13] 天安门大屠杀: // ching chang chong i eat your dog
+[13:57:18] Brock Obums: /ooc i am
+[13:57:25] boseph jurgerson: cock
+[13:57:34] boseph jurgerson: /me MRDMs
+[13:57:34] Czar Maxim killed boseph jurgerson using player
+[13:57:34] Client "Revectane" spawned in server <STEAM_0:0:199691641> (took 339 seconds).
+[13:57:34] DrSouls<STEAM_0:0:83876580> changed their name to Dr Xander Sex
+[13:57:37] Ethereal Obums: ok so
+[13:57:47] Ethereal Obums: sooo
+[13:57:52] Ethereal Obums: COMBINE TIME
+[13:57:53] 天安门大屠杀: I'ma make a new character that is not such
+[13:57:57] 天安门大屠杀: no english
+[13:57:59] 天安门大屠杀: but yeah combine
+[13:58:12] your mom was killed by entityflame
+[13:58:17] Czar Maxim killed boseph jurgerson using weapon_bp_flamethrower
+[13:58:25] 天安门大屠杀<STEAM_0:1:89342027> changed their name to Azio
+[13:58:34] your mom: /me erp
+[13:58:40] Toast<STEAM_0:1:91153138> changed their name to Walter White
+[13:58:45] Walter White: deez nuts
+[13:58:54] DOOM ETERNAL is a good game<STEAM_0:1:175760128> changed their name to Sir Poopenfarten
+[13:58:56] boseph jurgerson: /ooc larson mcfarten
+[13:58:57] Walter White: /ooc my balls
+[13:58:59] Azio<STEAM_0:1:89342027> changed their name to Kyran Lance
+[13:59:03] Henry: Give
+[13:59:04] Dr Xander Sex: /ooc sex
+[13:59:05] Czar Maxim killed Jake Esposito using grenade_ar2
+[13:59:07] Client "TadeusSlovak" connected.
+[13:59:12] Walter White: /ooc brock give me my OICW
+[13:59:13] Ethereal Obums: brock
+[13:59:17] Henry was killed by env_explosion
+[13:59:18] Ethereal Obums: how
+[13:59:27] Ethereal Obums: do i open the char select screen?
+[13:59:32] Kyran Lance: Hey
+[13:59:38] Dr Xander Sex: /looc sex
+[13:59:39] Kyran Lance: Tab > Characters
+[13:59:42] Based Man: S
+[13:59:46] boseph jurgerson: cock
+[13:59:48] Czar Maxim added Sir Poopenfarten to group superadmin
+[13:59:48] boseph jurgerson: brock the cock
+[13:59:53] Dr Xander Sex: I like balls
+[13:59:56] Kyran Lance: !menu
+[13:59:57] Czar Maxim brought Sir Poopenfarten
+[13:59:57] Czar Maxim: !bring poopen
+[14:00:00] Kyran Lance: !menu
+[14:00:03] your mom: /ooc give me admin
+[14:00:04] Jake Esposito teleported to Sir Poopenfarten
+[14:00:04] Jake Esposito: !goto sir
+[14:00:10] Czar Maxim<STEAM_0:0:140210729> spawned sent grenade_helicopter
+[14:00:11] Walter White: im toaster give me oicw
+[14:00:12] Kyran Lance to Sir Poopenfarten: sus
+[14:00:12] Kyran Lance to Sir Poopenfarten: sus
+[14:00:12] Kyran Lance to Sir Poopenfarten: sus
+[14:00:13] Kyran Lance to Sir Poopenfarten: sus
+[14:00:13] Kyran Lance to Sir Poopenfarten: sus
+[14:00:14] Kyran Lance to Sir Poopenfarten: sus
+[14:00:14] Kyran Lance to Sir Poopenfarten: sus
+[14:00:14] Kyran Lance to Sir Poopenfarten: sus
+[14:00:15] Kyran Lance to Sir Poopenfarten: sus
+[14:00:15] Kyran Lance to Sir Poopenfarten: sus
+[14:00:15] Kyran Lance to Sir Poopenfarten: sus
+[14:00:16] Kyran Lance to Sir Poopenfarten: sus
+[14:00:16] Kyran Lance to Sir Poopenfarten: sus
+[14:00:17] Kyran Lance to Sir Poopenfarten: sus
+[14:00:17] Kyran Lance to Sir Poopenfarten: sus
+[14:00:17] Kyran Lance to Sir Poopenfarten: sus
+[14:00:17] Kyran Lance to Sir Poopenfarten: sus
+[14:00:18] Kyran Lance to Sir Poopenfarten: sus
+[14:00:18] Kyran Lance to Sir Poopenfarten: sus
+[14:00:18] Kyran Lance to Sir Poopenfarten: sus
+[14:00:18] Kyran Lance to Sir Poopenfarten: sus
+[14:00:19] Kyran Lance to Sir Poopenfarten: sus
+[14:00:21] Brock Obums: /ooc can i be racist on this server?
+[14:00:23] Revectane<STEAM_0:0:199691641> changed their name to Thomas Wilson
+[14:00:25] boseph jurgerson: /ooc yes
+[14:00:25] Czar Maxim<STEAM_0:0:140210729> spawned sent combine_mine
+[14:00:26] Dr Xander Sex: /ActCheer
+[14:00:27] Jake Esposito: !menu
+[14:00:28] your mom: /ooc yes
+[14:00:29] Brock Obums: /ooc cool
+[14:00:29] Thomas Wilson: // hello
+[14:00:29] Ethereal Obums: // GIVE ME AND AZIO COBINE
+[14:00:30] Thomas Wilson: // i have errors
+[14:00:32] your mom: /ooc give admin
+[14:00:36] your mom: /ooc give admin
+[14:00:37] Ethereal Obums: // HI REV
+[14:00:37] Kyran Lance: // cumbine
+[14:00:37] Thomas Wilson: // NO GIMME COMBINE 
+[14:00:39] Walter White: /ooc give me my OICW now
+[14:00:39] boseph jurgerson: /ooc im burgerson give me OICW
+[14:00:40] your mom: /ooc give admin
+[14:00:42] Thomas Wilson: // NO GIVE REV COMBINE
+[14:00:43] Jake Esposito teleported to boseph jurgerson
+[14:00:47] Walter White: /oooc im toaster give oicw
+[14:00:48] Brock Obums: /ooc i am the leader of the MSC
+[14:00:49] Client "Squire_c" connected.
+[14:00:51] Czar Maxim: /charsetmodel czar models/bots/soldier/bot_soldier.mdl
+[14:00:51] Walter White: /ooc im toaster give oicw
+[14:00:55] Czar Maxim: /charsetname czar Soldier
+[14:00:55] Czar Maxim<STEAM_0:0:140210729> changed their name to Soldier
+[14:01:08] Kyran Lance: // As ex-chairman of the msc I shall bring it back along with the IRA
+[14:01:09] Walter White: /ooc me im toaster
+[14:01:18] Client "TadeusSlovak" spawned in server <STEAM_0:1:84322488> (took 131 seconds).
+[14:01:19] Brock Obums: /ooc i am sex himself 
+[14:01:23] Walter White was killed by sent_bp_rpgpiercing
+[14:01:23] Soldier killed Jake Esposito using sent_bp_rpgpiercing
+[14:01:23] Soldier killed boseph jurgerson using sent_bp_rpgpiercing
+[14:01:28] boseph jurgerson: /ooc i got kileld
+[14:01:30] boseph jurgerson: /ooc killed
+[14:01:31] Henry: /ooc What the fuck
+[14:01:36] your mom: /ooc I had OICW
+[14:01:38] Ethereal Obums: /looc who are u
+[14:01:45] Brock Obums: i am racist
+[14:01:45] your mom: /looc pepsiman
+[14:01:51] TadeusSlovak<STEAM_0:1:84322488> changed their name to Vixie Cubic
+[14:01:52] Kyran Lance: /looc omg gay
+[14:01:54] Vixie Cubic: // NAHSIDFGJKOLMB
+[14:02:00] Brock Obums: /ooc hi vixie 
+[14:02:03] your mom: /ooc Pepsiman has OICW
+[14:02:05] Vixie Cubic: // HELLO
+[14:02:11] boseph jurgerson: /ooc oh no
+[14:02:13] Dr Xander Sex: /ooc AYO
+[14:02:13] Client "william_g" connected.
+[14:02:15] boseph jurgerson: /ooc are you here to molest me
+[14:02:21] Thomas Wilson: // wait for rev
+[14:02:22] Brock Obums suicided!
+[14:02:22] Brock Obums killed Jake Esposito using sent_bp_rpgpiercing
+[14:02:22] Brock Obums killed Vixie Cubic using sent_bp_rpgpiercing
+[14:02:22] Brock Obums killed boseph jurgerson using sent_bp_rpgpiercing
+[14:02:22] Brock Obums killed Walter White using sent_bp_rpgpiercing
+[14:02:33] Kyran Lance: Sup fawful
+[14:02:38] Henry: /ooc who the fuck did that
+[14:02:40] Ethereal Obums: /looc AZIO?
+[14:02:45] Kyran Lance: /looc OF COURSE
+[14:02:53] Ethereal Obums: i want combine
+[14:02:55] Walter White: /looc are you obums
+[14:02:56] Vixie Cubic: // sd
+[14:02:57] Kyran Lance: Indeed.
+[14:03:03] Kyran Lance: Hopefully this is this.
+[14:03:10] Soldier brought Based Man,Brock Obums,Dr Xander Sex,Ethereal Obums,Henry,Jake Esposito,Kyran Lance,Sir Poopenfarten,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,your mom
+[14:03:10] Soldier: !bring *
+[14:03:12] Kyran Lance: When this spastic whore leaves at lease.
+[14:03:13] Vixie Cubic: asd
+[14:03:14] Vixie Cubic: y
+[14:03:14] Vixie Cubic: x
+[14:03:20] Thomas Wilson: // hello i got teleported
+[14:03:21] Dr Xander Sex: hi like minors
+[14:03:27] Ethereal Obums: ffs
+[14:03:31] Brock Obums: /ooc i need f3 i was rdm 
+[14:03:33] Kyran Lance: This is going ot hell.
+[14:03:38] Ethereal Obums: /looc who are u
+[14:03:38] your mom: /ooc I need OICW I got access
+[14:03:46] Henry: /looc Henry or Blood Henry
+[14:03:47] Kyran Lance: /looc who dis
+[14:03:47] Client "Grimmy" connected.
+[14:03:51] Brock Obums: hi i am msc
+[14:03:52] Soldier: /charsetmodel soldier models/breen.mdl
+[14:03:57] Soldier: /charsetname soldier Czar
+[14:03:57] Soldier<STEAM_0:0:140210729> changed their name to Czar
+[14:04:01] Based Man: No
+[14:04:02] your mom: /looc penisman
+[14:04:20] Henry: Sup
+[14:04:23] Ethereal Obums: who are ya
+[14:04:23] boseph jurgerson: cunt
+[14:04:27] Walter White: deez nuts
+[14:04:30] your mom: /me gropes you
+[14:04:32] boseph jurgerson: dietz nuts
+[14:04:35] Jake Esposito: funniest shit I have ever seen
+[14:04:36] Walter White: n word
+[14:04:36] Kyran Lance: /it ya'll fuckin gay
+[14:04:39] Vixie Cubic: x3
+[14:04:41] boseph jurgerson: f word
+[14:04:42] Thomas Wilson: // i see missing textures everywhere
+[14:04:42] Henry: /ooc Oh no
+[14:04:45] Client "Stan The Logical Man" connected.
+[14:04:47] Dr Xander Sex: /ooc cope
+[14:04:48] Kyran Lance: // Time to commit iraq.
+[14:04:49] Henry: /looc Don't fucking Ironsight
+[14:04:54] Client "william_g" spawned in server <STEAM_0:0:193471001> (took 161 seconds).
+[14:05:01] Based Man: // I've taken damage
+[14:05:10] Based Man: // From the fucking rocket
+[14:05:11] Czar: use beta shotguns
+[14:05:12] Based Man: // From the fucking rocket
+[14:05:13] Ethereal Obums: beta shotty?
+[14:05:16] Henry: They're better
+[14:05:17] Ethereal Obums: also need health
+[14:05:24] Henry: Oh yeah me too
+[14:05:25] Jake Esposito: /ooc *Trolled(
+[14:05:25] Czar: press f3 
+[14:05:27] Client "Stan The Logical Man" spawned in server <STEAM_0:0:29370040> (took 42 seconds).
+[14:05:27] Thomas Wilson: // ™ i can't see anything cause i didnt download city 2
+[14:05:32] Brock Obums: /ooc i am impules 
+[14:05:33] Client "Grimmy" spawned in server <STEAM_0:0:39779823> (took 106 seconds).
+[14:05:44] Walter White: neat
+[14:05:46] Czar: /looc press f3 so I can see your names
+[14:05:55] Czar set the hp for Henry to 100
+[14:05:55] Czar: !hp henry 100
+[14:06:01] william_g<STEAM_0:0:193471001> changed their name to william
+[14:06:02] Walter White: /ooc brock give me ammo
+[14:06:02] Thomas Wilson: // gimme the content pack
+[14:06:04] Czar: !hp etheral 100
+[14:06:05] boseph jurgerson: i only have one
+[14:06:06] william: // I LOVE SEX
+[14:06:10] Czar set the hp for Ethereal Obums to 100
+[14:06:10] Czar: !hp eth 100
+[14:06:10] Vixie Cubic: Sex
+[14:06:10] Vixie Cubic: Sex
+[14:06:11] Vixie Cubic: Sex
+[14:06:12] your mom: /ooc I LOVE SEX
+[14:06:12] Vixie Cubic: Sex
+[14:06:13] Vixie Cubic: Sex
+[14:06:15] your mom: SEX
+[14:06:18] your mom: /Y SEX
+[14:06:18] Henry: Let's do this boi.
+[14:06:20] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:20] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:20] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:20] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:20] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:21] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:22] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:22] Walter White: what
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:23] Ethereal Obums: i cant recognize
+[14:06:24] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:24] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:24] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:24] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:25] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:25] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:25] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:25] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:25] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:25] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:26] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:26] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:26] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:26] william: im a fucking sucker
+[14:06:26] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:26] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:26] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:27] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:27] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:27] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:28] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:28] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:29] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:29] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:29] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:29] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:29] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:29] Client "Squire_c" connected.
+[14:06:29] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:30] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:30] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:30] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:30] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:30] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:31] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:06:31] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:31] Brock Obums: /ooc i am sex
+[14:06:31] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:06:31] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:32] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:32] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:32] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:06:33] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:33] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:33] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_357_large
+[14:06:34] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:34] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:34] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:34] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:34] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:34] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:35] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:35] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:35] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:35] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:35] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:36] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:36] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:36] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:36] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:36] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:36] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:37] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:37] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:37] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:37] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:37] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:38] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:06:43] william: i didnt get a gun
+[14:06:45] Walter White: /ooc brock i have no ammo
+[14:06:46] your mom: kill dr brian
+[14:06:47] william: // i didnt get a gun
+[14:06:49] Czar: /event Lets fucking go lads
+[14:06:50] Thomas Wilson: // brock
+[14:06:53] your mom: /dropmoney 5
+[14:07:01] Czar: SHOTGUNS
+[14:07:02] Thomas Wilson: // I CAN'T SEE ANYTHING
+[14:07:02] Czar: GET IN
+[14:07:05] william: // i dont have a gun
+[14:07:07] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 38 seconds).
+[14:07:08] Based Man: // I lost health from the rocket
+[14:07:12] Based Man: // I have no ammo
+[14:07:15] Henry: /Y COME ON
+[14:07:16] Grimmy<STEAM_0:0:39779823> changed their name to Fletcher Mays
+[14:07:19] Stan The Logical Man<STEAM_0:0:29370040> changed their name to Gordon Mill
+[14:07:20] Czar brought Ethereal Obums
+[14:07:20] Czar: !bring eth
+[14:07:26] Brock Obums: /ooc who are you?
+[14:07:27] boseph jurgerson killed Jake Esposito using player
+[14:07:33] Squire_c<STEAM_0:0:107695957> changed their name to Joey GMan Jonderson
+[14:07:36] Kyran Lance killed Fletcher Mays using player
+[14:07:41] Based Man: // Great, no more ammo!
+[14:07:45] Vixie Cubic killed Thomas Wilson using player
+[14:07:45] Czar: /event the shotgunners have gone defensive and barricaded their shop
+[14:07:46] Ethereal Obums: wtf is going on
+[14:08:03] boseph jurgerson killed Brock Obums using player
+[14:08:13] Ethereal Obums: /Looc I HAVE 0 HEALTH
+[14:08:15] Kyran Lance killed your mom using player
+[14:08:17] Ethereal Obums: /Looc I HAVE 0 HEALTH
+[14:08:21] Czar set the hp for Ethereal Obums to 100
+[14:08:21] Czar: !hp eth 100
+[14:08:26] Kyran Lance killed Vixie Cubic using player
+[14:08:27] Walter White: /ooc brock give ammo
+[14:08:31] Czar: /ooc !bring *
+[14:08:34] Vixie Cubic: // vixie cubic
+[14:08:35] your mom: /ooc give me OCIW
+[14:08:36] william: run
+[14:08:38] william: RUN
+[14:08:40] Thomas Wilson: dude
+[14:08:42] Thomas Wilson: i can't see anything
+[14:08:44] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:08:44] Sir Poopenfarten: !bring *
+[14:08:45] Czar killed boseph jurgerson using player
+[14:08:46] Kyran Lance killed Thomas Wilson using player
+[14:08:46] Thomas Wilson: missing textures
+[14:08:47] Kyran Lance killed Jake Esposito using player
+[14:08:49] Ethereal Obums killed Joey GMan Jonderson using player
+[14:08:52] Dr Xander Sex killed william using player
+[14:08:55] Ethereal Obums killed Dr Xander Sex using player
+[14:08:56] Czar brought Henry
+[14:08:56] Czar: !bring henry
+[14:08:57] Joey GMan Jonderson: /y E
+[14:08:57] Czar brought Ethereal Obums
+[14:08:57] Czar: !bring eth
+[14:08:59] Thomas Wilson: // WHOEVER FUCKING KILLED ME I WILL BLAST IN THE FACE IRL
+[14:09:06] Kyran Lance killed Walter White using player
+[14:09:09] Gordon Mill: // sexually?
+[14:09:10] Based Man: // I have no ammo
+[14:09:12] Henry: WHAT.
+[14:09:13] Brock Obums: /ooc anyone wanna mass erp?
+[14:09:16] Joey GMan Jonderson: /broadcast rise and shine mother fucker
+[14:09:18] william: // 
+[14:09:23] your mom: /ooC ME I WILL DO ERP
+[14:09:24] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/ravenholmsign.mdl
+[14:09:26] Based Man: // Someone injured me with a rocket launcher
+[14:09:39] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001b.mdl
+[14:09:41] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001c.mdl
+[14:09:43] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001c.mdl
+[14:09:45] Henry killed Gordon Mill using player
+[14:09:45] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_junk/pushcart01a.mdl
+[14:09:45] william: // how do i open my inventory?
+[14:09:46] Ethereal Obums killed Fletcher Mays using player
+[14:09:47] Henry: YES.
+[14:09:49] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/furniturecouch001a.mdl
+[14:09:49] Czar killed boseph jurgerson using player
+[14:09:50] Based Man: // Can I atleast have some ammo?
+[14:09:51] boseph jurgerson: /OOC I DONT HAVE A GUN
+[14:09:53] Henry killed Kyran Lance using player
+[14:09:57] Czar killed your mom using sent_bp_molotov
+[14:09:57] Czar killed Thomas Wilson using sent_bp_molotov
+[14:09:57] Czar killed Joey GMan Jonderson using sent_bp_molotov
+[14:09:57] Czar killed Sir Poopenfarten using sent_bp_molotov
+[14:09:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:09:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:09:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:09:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:10:00] boseph jurgerson: /ooc I NEED A GUN
+[14:10:02] Kyran Lance suicided!
+[14:10:05] william: // how do u even get the physgun and tool gun?
+[14:10:06] boseph jurgerson: /ooc I NEED A GUN
+[14:10:10] Ethereal Obums killed Fletcher Mays using player
+[14:10:22] Ethereal Obums killed boseph jurgerson using player
+[14:10:28] Thomas Wilson: // not me because i can't see anything
+[14:10:29] your mom: give weapon
+[14:10:30] Czar killed your mom using player
+[14:10:32] Czar killed Vixie Cubic using player
+[14:10:35] Based Man: // Check logs
+[14:10:37] Henry killed Czar using player
+[14:10:37] william: // how do i fucking open my inveotyr
+[14:10:41] Henry: Oh fuck
+[14:10:41] Ethereal Obums killed Kyran Lance using player
+[14:10:43] Based Man: // Just check logs
+[14:10:46] Henry killed Gordon Mill using player
+[14:10:46] Based Man: // Just check logs
+[14:10:51] Client "Kilszot" connected.
+[14:10:52] william: // wdym
+[14:10:53] Ethereal Obums killed Fletcher Mays using player
+[14:11:04] Fletcher Mays: /apply
+[14:11:22] Czar brought Based Man,Brock Obums,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Gordon Mill,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Sir Poopenfarten,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:11:22] Czar: !bring *
+[14:11:30] Henry: What the fuck
+[14:11:34] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Gordon Mill,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:11:34] Sir Poopenfarten: !bring *
+[14:11:37] Czar: /event Everyone commit die
+[14:11:39] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001b.mdl
+[14:11:39] Henry: waht
+[14:11:42] Henry: Oh no
+[14:11:44] Gordon Mill: /me dies
+[14:11:46] Gordon Mill: /roll
+[14:11:48] Gordon Mill: FUCK
+[14:11:50] Czar killed william using player
+[14:11:54] Vixie Cubic: /y i like furries :3 
+[14:11:56] william: // brock can i have a physgun and toolgun? 
+[14:11:56] Client "Minty" connected.
+[14:11:56] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Gordon Mill,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:11:56] Sir Poopenfarten: !bring *
+[14:11:57] Vixie Cubic: /y i like furries :3 
+[14:11:58] Vixie Cubic: /y i like furries :3 
+[14:11:59] Vixie Cubic: /y i like furries :3 
+[14:11:59] Vixie Cubic: /y i like furries :3 
+[14:12:00] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001b.mdl
+[14:12:02] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Gordon Mill,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:12:02] Sir Poopenfarten: !bring *
+[14:12:03] your mom: CUM CUM CUM CUN
+[14:12:07] your mom: CUM CUM CUM
+[14:12:08] Gordon Mill: // admin abuse wtf??
+[14:12:09] Brock Obums suicided!
+[14:12:09] Fletcher Mays suicided!
+[14:12:09] Vixie Cubic suicided!
+[14:12:09] Thomas Wilson suicided!
+[14:12:09] william suicided!
+[14:12:09] Based Man suicided!
+[14:12:14] Brock Obums: /ooc i need f3
+[14:12:14] william suicided!
+[14:12:14] Fletcher Mays suicided!
+[14:12:16] Dr Xander Sex: /ooc ticket
+[14:12:18] Czar granted god mode upon Joey GMan Jonderson
+[14:12:18] Czar: !god joey
+[14:12:22] Vixie Cubic to admins: fuckw
+[14:12:22] your mom: /ooc SEX SEX SEX SEX SEX SEX
+[14:12:23] Vixie Cubic to admins: fuckw
+[14:12:24] Vixie Cubic to admins: fuckw
+[14:12:25] Vixie Cubic to admins: fuckw
+[14:12:26] Vixie Cubic to admins: fuckw
+[14:12:34] william: /unstuck
+[14:12:36] william: fuck
+[14:12:40] Vixie Cubic: // MINGE HOURS!!!!!!!!!
+[14:12:45] Vixie Cubic: // :DDDDDDD
+[14:12:45] william: // i hate the british
+[14:12:46] william: // i hate the british
+[14:12:47] william: // i hate the british
+[14:12:50] Czar set the hp for Joey GMan Jonderson to 1000
+[14:12:50] Czar: !hp joey 1000
+[14:12:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:54] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:55] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:55] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:55] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:55] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:55] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:12:55] Gordon Mill<STEAM_0:0:29370040> changed their name to Gordon Freeman
+[14:12:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:12:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:13:00] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:13:00] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_pistol_large
+[14:13:00] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:00] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:00] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:01] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:01] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:01] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:01] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:01] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:01] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:02] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:02] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:02] Client "Minty" spawned in server <STEAM_0:1:513516857> (took 66 seconds).
+[14:13:02] Dr Xander Sex suicided!
+[14:13:02] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:03] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:03] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:03] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:03] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:03] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:03] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:04] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:04] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:04] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:04] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:04] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:05] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:05] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:05] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:05] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:05] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:05] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:06] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_box_buckshot
+[14:13:06] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:06] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:06] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:07] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:07] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:07] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:07] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_smg1_large
+[14:13:22] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Thomas Wilson,Vixie Cubic,Walter White,boseph jurgerson,william
+[14:13:22] Sir Poopenfarten: !bring *
+[14:13:31] Czar killed Brock Obums using player
+[14:13:37] Gordon Freeman killed Thomas Wilson using player
+[14:13:38] Gordon Freeman killed Jake Esposito using player
+[14:13:40] Kyran Lance killed Vixie Cubic using player
+[14:13:48] Thomas Wilson: // IM GOING TO REJOIN
+[14:13:50] Dropped "Thomas Wilson" from server<STEAM_0:0:199691641>
+[14:13:51] Czar set the hp for Sir Poopenfarten to 1000
+[14:13:51] Czar: !hp poopen 1000
+[14:13:51] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:51] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:51] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:52] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:53] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:55] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:56] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:57] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:58] Kyran Lance killed Ethereal Obums using player
+[14:13:59] Client "Revectane" connected.
+[14:13:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:13:59] Sir Poopenfarten<STEAM_0:1:175760128> spawned sent item_ammo_ar2_large
+[14:14:00] Walter White killed Kyran Lance using player
+[14:14:03] Czar killed Gordon Freeman using grenade_ar2
+[14:14:06] Walter White killed boseph jurgerson using player
+[14:14:10] boseph jurgerson: fuck you
+[14:14:19] Joey GMan Jonderson killed william using player
+[14:14:26] william: // ffs
+[14:14:31] your mom: /ooc give weapon
+[14:14:31] Minty<STEAM_0:1:513516857> changed their name to Fetor
+[14:14:34] Gordon Freeman: // i hate combin
+[14:14:37] Vixie Cubic: // RDM
+[14:14:40] Vixie Cubic: // MINGE HOURS
+[14:14:40] Sir Poopenfarten killed your mom using player
+[14:14:41] Vixie Cubic: // !!
+[14:14:42] Fetor: // hi
+[14:14:43] Vixie Cubic: // MINGE HOURS
+[14:14:46] your mom: /OOC RDM RDM RDM RDM RDM
+[14:14:49] Walter White: hi
+[14:14:50] Brock Obums: /ooc i love sex and farting
+[14:14:50] Vixie Cubic: // FETOR
+[14:14:50] Walter White killed Dr Xander Sex using player
+[14:14:59] boseph jurgerson: /ooc brock no one can test the weapons if they dont get them
+[14:15:01] Joey GMan Jonderson killed Fletcher Mays using player
+[14:15:04] Fetor: // yo vix 
+[14:15:06] william: // how do i get the physgun tho?
+[14:15:07] Vixie Cubic: /rpname Marshy
+[14:15:08] Vixie Cubic: // YO
+[14:15:11] Gordon Freeman: /content
+[14:15:15] Gordon Freeman: // where do i download content
+[14:15:17] your mom: /ooc hey vix I'm at plaza I'm a minor
+[14:15:17] Ethereal Obums: /looc minty
+[14:15:17] Joey GMan Jonderson killed Czar using grenade_ar2
+[14:15:17] Walter White killed Henry using player
+[14:15:17] Brock Obums: /ooc i am the sex and fart master
+[14:15:21] Gordon Freeman: // where do i download content
+[14:15:22] Gordon Freeman: // where do i download content
+[14:15:22] Ethereal Obums: /looc make me and azio combine
+[14:15:24] Gordon Freeman: // where do i download content
+[14:15:24] Brock Obums: /ooc glory to the MSC
+[14:15:26] Gordon Freeman: // where do i download content
+[14:15:28] Brock Obums: /ooc glory to the MSC
+[14:15:39] Joey GMan Jonderson killed Walter White using player
+[14:15:47] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:15:47] Sir Poopenfarten: !bring *
+[14:15:49] Client "Kilszot" connected.
+[14:15:52] Czar killed Fetor using sent_bp_molotov
+[14:15:52] Czar killed boseph jurgerson using sent_bp_molotov
+[14:15:52] Czar killed your mom using sent_bp_molotov
+[14:15:52] Czar killed Jake Esposito using sent_bp_molotov
+[14:15:57] Jake Esposito suicided!
+[14:15:59] Joey GMan Jonderson killed Walter White using player
+[14:16:03] Client "Revectane" spawned in server <STEAM_0:0:199691641> (took 124 seconds).
+[14:16:11] Walter White: /ooc brock can we do an actual seriosu weapons test
+[14:16:18] Fetor: // amog
+[14:16:20] Client "Kilszot" spawned in server <STEAM_0:1:148774529> (took 31 seconds).
+[14:16:21] Brock Obums: /ooc stop MINGING!
+[14:16:25] your mom: /ooc no
+[14:16:25] Gordon Freeman: // where is seriouys rp
+[14:16:32] Gordon Freeman: noob
+[14:16:35] Gordon Freeman: noob
+[14:16:35] Gordon Freeman: noob
+[14:16:37] Joey GMan Jonderson killed Gordon Freeman using player
+[14:16:37] Gordon Freeman: noob
+[14:16:39] Henry: Yo.
+[14:16:57] Sir Poopenfarten killed Dr Xander Sex using rpg_missile
+[14:17:00] Fetor: // This server is serious rp kid i will ban you
+[14:17:20] Gordon Freeman: twtach
+[14:17:22] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:17:22] Sir Poopenfarten: !bring *
+[14:17:22] Gordon Freeman: watch
+[14:17:24] Based Man killed Fletcher Mays using sent_bp_rpgpiercing
+[14:17:24] Based Man killed Vixie Cubic using sent_bp_rpgpiercing
+[14:17:24] Based Man killed your mom using sent_bp_rpgpiercing
+[14:17:24] Based Man killed Dr Xander Sex using sent_bp_rpgpiercing
+[14:17:24] Based Man suicided!
+[14:17:24] Based Man killed Kyran Lance using sent_bp_rpgpiercing
+[14:17:24] Based Man killed boseph jurgerson using sent_bp_rpgpiercing
+[14:17:24] Based Man killed Ethereal Obums using sent_bp_rpgpiercing
+[14:17:24] Based Man killed Walter White using sent_bp_rpgpiercing
+[14:17:24] Based Man killed Jake Esposito using sent_bp_rpgpiercing
+[14:17:28] Sir Poopenfarten killed Brock Obums using player
+[14:17:29] your mom suicided!
+[14:17:29] Ethereal Obums suicided!
+[14:17:45] Czar killed william using sent_bp_rpgpiercing
+[14:17:45] Czar killed Fetor using sent_bp_rpgpiercing
+[14:17:48] Czar killed Gordon Freeman using sent_bp_rpgpiercing
+[14:17:50] Based Man suicided!
+[14:17:50] Walter White suicided!
+[14:17:50] Joey GMan Jonderson killed Czar using sent_bp_rpgpiercing
+[14:18:04] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:18:04] Sir Poopenfarten: !bring *
+[14:18:08] william: /Y I EAT DICK
+[14:18:12] Vixie Cubic suicided!
+[14:18:12] Kyran Lance suicided!
+[14:18:12] Based Man suicided!
+[14:18:12] Ethereal Obums suicided!
+[14:18:12] Dr Xander Sex suicided!
+[14:18:12] Brock Obums suicided!
+[14:18:13] Jake Esposito suicided!
+[14:18:13] Walter White suicided!
+[14:18:17] boseph jurgerson suicided!
+[14:18:17] Kyran Lance suicided!
+[14:18:18] Vixie Cubic suicided!
+[14:18:20] Dr Xander Sex: /ooc this is not funny
+[14:18:20] Gordon Freeman: // me when the rp is serious
+[14:18:24] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:18:24] Sir Poopenfarten: !bring *
+[14:18:26] Kilszot<STEAM_0:1:148774529> changed their name to Dimitri Makarovicz
+[14:18:31] Joey GMan Jonderson killed your mom using sent_bp_rpgpiercing
+[14:18:31] Joey GMan Jonderson killed Walter White using sent_bp_rpgpiercing
+[14:18:31] Joey GMan Jonderson killed Vixie Cubic using sent_bp_rpgpiercing
+[14:18:31] Joey GMan Jonderson killed Dr Xander Sex using sent_bp_rpgpiercing
+[14:18:32] boseph jurgerson killed Kyran Lance using sent_bp_rpgpiercing
+[14:18:32] boseph jurgerson killed william using sent_bp_rpgpiercing
+[14:18:32] boseph jurgerson killed Fletcher Mays using sent_bp_rpgpiercing
+[14:18:32] boseph jurgerson suicided!
+[14:18:33] Client "Optical" connected.
+[14:18:37] Dr Xander Sex suicided!
+[14:18:39] Joey GMan Jonderson killed Fetor using sent_bp_rpgpiercing
+[14:18:39] Joey GMan Jonderson killed Gordon Freeman using sent_bp_rpgpiercing
+[14:18:43] Dimitri Makarovicz: // so no rp only sandbox trolling ?
+[14:18:45] boseph jurgerson was killed by sent_bp_rpgpiercing
+[14:18:45] Walter White was killed by sent_bp_rpgpiercing
+[14:18:45] Henry killed Kyran Lance using sent_bp_rpgpiercing
+[14:18:48] Gordon Freeman: // this is rp
+[14:18:49] Sir Poopenfarten: !bring *
+[14:18:52] Ethereal Obums killed william using sent_bp_rpgpiercing
+[14:18:54] Sir Poopenfarten: !bring *
+[14:18:55] Dr Xander Sex: /ooc this is rp
+[14:18:56] Fetor: // No if you troll I will perma ban you
+[14:18:56] william: // how
+[14:18:58] your mom: /ooc true rp
+[14:18:59] Revectane: // dude
+[14:19:10] Fetor was killed by sent_bp_rpgpiercing
+[14:19:10] Revectane: // i still see a massive missing texture 
+[14:19:10] your mom was killed by sent_bp_rpgpiercing
+[14:19:12] Ethereal Obums was killed by sent_bp_rpgpiercing
+[14:19:16] Revectane: // gimme the content pack
+[14:19:17] Revectane: // gimme the content pack
+[14:19:17] Walter White was killed by sent_bp_rpgpiercing
+[14:19:18] Revectane: // gimme the content pack
+[14:19:18] Henry killed william using sent_bp_rpgpiercing
+[14:19:19] Revectane: // gimme the content pack
+[14:19:19] Revectane: // gimme the content pack
+[14:19:20] Revectane: // gimme the content pack
+[14:19:20] Revectane: // gimme the content pack
+[14:19:21] Revectane: // gimme the content pack
+[14:19:21] Revectane: // gimme the content pack
+[14:19:22] Dimitri Makarovicz was killed by sent_bp_rpgpiercing
+[14:19:27] Dimitri Makarovicz: // can we slay all
+[14:19:28] Dr Xander Sex killed boseph jurgerson using sent_bp_rpgpiercing
+[14:19:30] Dimitri Makarovicz: // i wnted to join CP
+[14:19:32] Gordon Freeman killed Fletcher Mays using sent_bp_rpgpiercing
+[14:19:32] Fletcher Mays killed Vixie Cubic using sent_bp_rpgpiercing
+[14:19:33] Dimitri Makarovicz: // i wnted to join CP
+[14:19:33] Czar brought Based Man,Brock Obums,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Revectane,Sir Poopenfarten,Walter White,boseph jurgerson,william,your mom
+[14:19:33] Czar: !bring *
+[14:19:35] Henry was killed by sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed Walter White using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed Ethereal Obums using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed william using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed Dimitri Makarovicz using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed boseph jurgerson using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed Kyran Lance using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed Revectane using sent_bp_rpgpiercing
+[14:19:35] Brock Obums killed Based Man using sent_bp_rpgpiercing
+[14:19:37] Dimitri Makarovicz: // i wnted to join CP
+[14:19:39] Dimitri Makarovicz: // i wnted to join CP
+[14:19:40] Dr Xander Sex killed Brock Obums using sent_bp_rpgpiercing
+[14:19:40] Ethereal Obums suicided!
+[14:19:40] Henry suicided!
+[14:19:44] william: // I GET INSTANTLY DEATH
+[14:19:45] Revectane suicided!
+[14:19:45] william suicided!
+[14:19:47] Dr Xander Sex was killed by entityflame
+[14:19:48] Walter White: /ooc for fucks sake, can we do an actual test
+[14:19:50] Brock Obums suicided!
+[14:19:52] Brock Obums: /request help
+[14:19:55] Revectane suicided!
+[14:19:56] Dr Xander Sex suicided!
+[14:19:56] Kyran Lance suicided!
+[14:19:56] Czar suicided!
+[14:19:56] Henry suicided!
+[14:19:56] Ethereal Obums suicided!
+[14:19:56] boseph jurgerson suicided!
+[14:19:56] Based Man suicided!
+[14:19:56] Jake Esposito suicided!
+[14:19:56] your mom suicided!
+[14:19:56] Sir Poopenfarten suicided!
+[14:19:56] Brock Obums suicided!
+[14:19:56] Walter White suicided!
+[14:19:56] Vixie Cubic suicided!
+[14:19:56] Fletcher Mays suicided!
+[14:19:56] william suicided!
+[14:19:56] Gordon Freeman suicided!
+[14:19:56] Joey GMan Jonderson suicided!
+[14:19:56] Dimitri Makarovicz suicided!
+[14:19:56] Fetor suicided!
+[14:19:56] Czar slayed Themself,Based Man,Brock Obums,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Sir Poopenfarten,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:19:56] Czar: !slay *
+[14:20:00] Dimitri Makarovicz: // Can i Join MPF ?
+[14:20:01] Walter White suicided!
+[14:20:01] Henry suicided!
+[14:20:01] Czar suicided!
+[14:20:01] Dr Xander Sex suicided!
+[14:20:01] william suicided!
+[14:20:01] Revectane suicided!
+[14:20:01] Dimitri Makarovicz suicided!
+[14:20:01] Fetor suicided!
+[14:20:01] Vixie Cubic suicided!
+[14:20:01] Brock Obums suicided!
+[14:20:01] Gordon Freeman suicided!
+[14:20:01] your mom suicided!
+[14:20:04] Henry: /ooc what the fuck?!
+[14:20:06] Ethereal Obums suicided!
+[14:20:06] Jake Esposito suicided!
+[14:20:06] Joey GMan Jonderson suicided!
+[14:20:06] Kyran Lance suicided!
+[14:20:06] Vixie Cubic suicided!
+[14:20:06] Revectane suicided!
+[14:20:06] Czar suicided!
+[14:20:06] Fetor suicided!
+[14:20:06] Dr Xander Sex suicided!
+[14:20:06] your mom: /ooc can I join ota
+[14:20:06] Sir Poopenfarten brought Based Man,Brock Obums,Dimitri Makarovicz,Fletcher Mays,Gordon Freeman,Henry,Walter White,boseph jurgerson,william,your mom
+[14:20:06] Sir Poopenfarten: !bring *
+[14:20:07] Czar: /event Wait for me to teleport you all
+[14:20:09] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 96 seconds).
+[14:20:11] Joey GMan Jonderson suicided!
+[14:20:11] Ethereal Obums suicided!
+[14:20:11] Vixie Cubic suicided!
+[14:20:14] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Kyran Lance,Revectane,Walter White,boseph jurgerson,william,your mom
+[14:20:14] Sir Poopenfarten: !bring *
+[14:20:17] Dimitri Makarovicz: // ok Can the admin chill ?
+[14:20:20] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Henry,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,boseph jurgerson,william
+[14:20:20] Sir Poopenfarten: !bring *
+[14:20:20] Gordon Freeman: // no
+[14:20:21] Dimitri Makarovicz: // we wanna RP
+[14:20:23] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,your mom
+[14:20:23] Sir Poopenfarten: !bring *
+[14:20:26] your mom was killed by trigger_hurt
+[14:20:26] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Fletcher Mays,Henry,Jake Esposito,Kyran Lance,Revectane,Vixie Cubic,boseph jurgerson
+[14:20:26] Sir Poopenfarten: !bring *
+[14:20:30] Walter White suicided!
+[14:20:32] boseph jurgerson suicided!
+[14:20:33] your mom: /ooc do it
+[14:20:34] Sir Poopenfarten brought Brock Obums,Dimitri Makarovicz,Fetor,Fletcher Mays,Gordon Freeman,Jake Esposito,Joey GMan Jonderson,Vixie Cubic,william,your mom
+[14:20:34] Sir Poopenfarten: !bring *
+[14:20:35] Gordon Freeman: // only the strong survive
+[14:20:36] Dimitri Makarovicz was killed by trigger_hurt
+[14:20:36] Fetor was killed by trigger_hurt
+[14:20:36] Gordon Freeman was killed by trigger_hurt
+[14:20:36] Joey GMan Jonderson was killed by trigger_hurt
+[14:20:36] Jake Esposito was killed by trigger_hurt
+[14:20:36] Fletcher Mays was killed by trigger_hurt
+[14:20:36] william was killed by trigger_hurt
+[14:20:36] Vixie Cubic was killed by trigger_hurt
+[14:20:36] Brock Obums was killed by trigger_hurt
+[14:20:36] your mom was killed by trigger_hurt
+[14:20:37] Czar brought Based Man,Dr Xander Sex,Ethereal Obums,Henry,Kyran Lance,Revectane,Sir Poopenfarten,Walter White
+[14:20:37] Czar: !bring *
+[14:20:41] your mom suicided!
+[14:20:41] william suicided!
+[14:20:42] Fetor: // men
+[14:20:44] Dimitri Makarovicz: // imagine wanting to RP but staff member said no
+[14:20:48] Based Man was killed by entityflame
+[14:20:50] your mom: /ooc only true men survive
+[14:20:51] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[14:20:52] Jake Esposito teleported to Czar
+[14:20:52] Jake Esposito: !goto czar
+[14:20:55] Based Man: // Ok
+[14:21:00] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:21:00] Sir Poopenfarten: !bring *
+[14:21:00] Based Man: // You do know
+[14:21:02] Gordon Freeman killed Ethereal Obums using grenade_ar2
+[14:21:03] Fletcher Mays killed Sir Poopenfarten using player
+[14:21:04] Gordon Freeman killed Revectane using grenade_ar2
+[14:21:05] Gordon Freeman killed Fetor using grenade_ar2
+[14:21:05] Gordon Freeman killed Fletcher Mays using grenade_ar2
+[14:21:06] Revectane: // stop
+[14:21:10] Vixie Cubic was killed by entityflame
+[14:21:15] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,boseph jurgerson,william,your mom
+[14:21:15] Sir Poopenfarten: !bring *
+[14:21:15] Jake Esposito killed your mom using weapon_bp_flamethrower
+[14:21:16] Gordon Freeman killed Dr Xander Sex using grenade_ar2
+[14:21:16] Gordon Freeman killed Jake Esposito using grenade_ar2
+[14:21:16] boseph jurgerson killed Dimitri Makarovicz using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Sir Poopenfarten using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Fetor using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Fletcher Mays using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed James Williams using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Kyran Lance using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Joey GMan Jonderson using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed william using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Gordon Freeman using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Revectane using sent_bp_rpgpiercing
+[14:21:16] boseph jurgerson killed Ethereal Obums using sent_bp_rpgpiercing
+[14:21:21] Jake Esposito suicided!
+[14:21:21] Gordon Freeman suicided!
+[14:21:21] Revectane suicided!
+[14:21:21] Walter White suicided!
+[14:21:21] Ethereal Obums suicided!
+[14:21:21] Walter White: /ooc ffs
+[14:21:21] James Williams suicided!
+[14:21:21] Kyran Lance suicided!
+[14:21:22] your mom was killed by sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Vixie Cubic using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Dimitri Makarovicz using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Sir Poopenfarten using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed william using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Joey GMan Jonderson using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Fetor using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Fletcher Mays using sent_bp_rpgpiercing
+[14:21:22] boseph jurgerson killed Dr Xander Sex using sent_bp_rpgpiercing
+[14:21:23] Dimitri Makarovicz: // Staff member please stop
+[14:21:24] Sir Poopenfarten: !bring *
+[14:21:24] Brock Obums killed Based Man using player
+[14:21:24] Czar killed boseph jurgerson using player
+[14:21:24] william: // when i have a chance to get a gun i go boom
+[14:21:26] James Williams suicided!
+[14:21:27] Walter White suicided!
+[14:21:27] Dimitri Makarovicz: // we want to RP
+[14:21:27] Kyran Lance suicided!
+[14:21:27] Jake Esposito suicided!
+[14:21:27] Sir Poopenfarten suicided!
+[14:21:27] your mom suicided!
+[14:21:29] Joey GMan Jonderson suicided!
+[14:21:29] Ethereal Obums suicided!
+[14:21:29] Brock Obums killed Henry using grenade_ar2
+[14:21:30] Dr Xander Sex: /ooc not funy
+[14:21:31] Brock Obums was killed by entityflame
+[14:21:32] Walter White suicided!
+[14:21:32] Fetor: // die
+[14:21:33] James Williams: // best playtest
+[14:21:34] boseph jurgerson suicided!
+[14:21:34] Kyran Lance suicided!
+[14:21:34] Sir Poopenfarten: !bring *
+[14:21:36] Vixie Cubic: // dimitri, this is a fucking test server
+[14:21:38] Dimitri Makarovicz killed Dr Xander Sex using player
+[14:21:39] Fletcher Mays killed Dimitri Makarovicz using player
+[14:21:40] Gordon Freeman killed Based Man using weapon_bp_flamethrower
+[14:21:41] Ethereal Obums: // can we actually play test the weapons
+[14:21:42] Gordon Freeman killed Brock Obums using weapon_bp_flamethrower
+[14:21:43] Vixie Cubic: // no a actual server
+[14:21:44] Joey GMan Jonderson killed Revectane using player
+[14:21:44] Revectane: // IM BODYBLOCKING EVERYONE LET'S GOO
+[14:21:45] Sir Poopenfarten: !bring *
+[14:21:45] Fetor killed Kyran Lance using player
+[14:21:46] boseph jurgerson killed Vixie Cubic using player
+[14:21:47] Fetor killed Ethereal Obums using player
+[14:21:47] boseph jurgerson killed Fletcher Mays using player
+[14:21:48] Walter White killed boseph jurgerson using player
+[14:21:51] Fetor killed Revectane using player
+[14:21:51] Joey GMan Jonderson killed william using player
+[14:21:52] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Vixie Cubic,Walter White,your mom
+[14:21:52] Sir Poopenfarten: !bring *
+[14:21:54] your mom killed Joey GMan Jonderson using player
+[14:21:54] william: // FUCK
+[14:21:59] Brock Obums killed Kyran Lance using player
+[14:21:59] Dr Xander Sex suicided!
+[14:21:59] Based Man suicided!
+[14:21:59] Brock Obums killed Ethereal Obums using player
+[14:21:59] Fetor suicided!
+[14:21:59] Joey GMan Jonderson suicided!
+[14:22:01] Sir Poopenfarten brought Brock Obums,Czar,Dimitri Makarovicz,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:22:01] Sir Poopenfarten: !bring *
+[14:22:03] Brock Obums killed Vixie Cubic using player
+[14:22:04] your mom: /ooc WORSE PLAYTEST EVER
+[14:22:08] Czar: !ungod all
+[14:22:08] boseph jurgerson suicided!
+[14:22:08] Revectane suicided!
+[14:22:08] Fletcher Mays suicided!
+[14:22:10] Fetor: // Brock TP i have funny idea
+[14:22:11] Czar revoked god mode from Everyone
+[14:22:11] Czar: !ungod *
+[14:22:12] Brock Obums: /ooc reporting
+[14:22:13] Kyran Lance suicided!
+[14:22:15] Czar set the hp for Everyone to 100
+[14:22:15] Czar: !hp * 100
+[14:22:16] Henry: /ooc WORST AND BEST PLAYTEST EVER
+[14:22:18] Dr Xander Sex killed Revectane using player
+[14:22:20] Sir Poopenfarten: !bring *
+[14:22:21] James Williams: /pm Czar could you give me admin perms?
+[14:22:21] Dimitri Makarovicz: // well u have players
+[14:22:22] Gordon Freeman: // most serious server on hl2rp
+[14:22:25] Revectane: // BRUH
+[14:22:25] Czar stripped weapons from Everyone
+[14:22:25] Czar: !strip *
+[14:22:26] Dimitri Makarovicz: // so u could try to keep them
+[14:22:28] Czar brought Based Man,Brock Obums,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Sir Poopenfarten,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:22:28] Czar: !bring *
+[14:22:28] Dimitri Makarovicz: // so u could try to keep them
+[14:22:29] Fetor: // Lemon Punch Grand opening
+[14:22:37] Czar stripped weapons from Everyone
+[14:22:37] Czar: !strip *
+[14:22:44] Vixie Cubic: // dimitri, the players are play-testers, not actual players
+[14:22:50] Sir Poopenfarten brought Dimitri Makarovicz,Fetor,Fletcher Mays,Gordon Freeman,James Williams,Joey GMan Jonderson,Vixie Cubic,william
+[14:22:50] Sir Poopenfarten: !bring *
+[14:22:51] Vixie Cubic: // no idea why the server is not locked
+[14:22:52] william was killed by trigger_hurt
+[14:22:52] Vixie Cubic was killed by trigger_hurt
+[14:22:52] Fletcher Mays was killed by trigger_hurt
+[14:22:52] Joey GMan Jonderson was killed by trigger_hurt
+[14:22:52] Fetor was killed by trigger_hurt
+[14:22:52] Dimitri Makarovicz was killed by trigger_hurt
+[14:22:52] Gordon Freeman was killed by trigger_hurt
+[14:23:02] Jake Esposito: !goto hey
+[14:23:03] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:23:03] Sir Poopenfarten: !bring *
+[14:23:04] Gordon Freeman: /charfallover 0
+[14:23:09] Dr Xander Sex killed Walter White using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Brock Obums using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Dimitri Makarovicz using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Fetor using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Revectane using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Vixie Cubic using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Fletcher Mays using sent_bp_rpgpiercing
+[14:23:09] Dr Xander Sex killed Kyran Lance using sent_bp_rpgpiercing
+[14:23:10] Brock Obums: /ooc dimitri do you like servr
+[14:23:14] Sir Poopenfarten brought Based Man,Czar,Dr Xander Sex,Ethereal Obums,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,boseph jurgerson,william,your mom
+[14:23:14] Sir Poopenfarten: !bring *
+[14:23:14] Revectane suicided!
+[14:23:18] Czar: !give * weapon_bp_guardgun
+[14:23:18] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:23:18] Sir Poopenfarten: !bring *
+[14:23:19] Henry killed Ethereal Obums using grenade_ar2
+[14:23:19] Dimitri Makarovicz: // well u never know who just joined like that and thought he will see something else then on eveyr other server
+[14:23:19] your mom killed Jake Esposito using grenade_ar2
+[14:23:20] Gordon Freeman suicided!
+[14:23:21] Fetor: // Brock obums is a crazy man
+[14:23:22] Sir Poopenfarten: !bring *
+[14:23:25] Brock Obums suicided!
+[14:23:25] william suicided!
+[14:23:25] Joey GMan Jonderson suicided!
+[14:23:25] boseph jurgerson suicided!
+[14:23:25] Ethereal Obums suicided!
+[14:23:25] Jake Esposito suicided!
+[14:23:25] Fetor: // Mass propganda
+[14:23:26] Dimitri Makarovicz suicided!
+[14:23:29] your mom: /ooc playtest is the besrt
+[14:23:30] Sir Poopenfarten brought Based Man,Czar,Dr Xander Sex,Fetor,Fletcher Mays,Gordon Freeman,Henry,James Williams,Kyran Lance,Revectane,Vixie Cubic,Walter White,your mom
+[14:23:30] Sir Poopenfarten: !bring *
+[14:23:30] boseph jurgerson suicided!
+[14:23:32] Gordon Freeman: // set movement to 1000
+[14:23:37] boseph jurgerson suicided!
+[14:23:37] your mom suicided!
+[14:23:37] Fetor suicided!
+[14:23:37] Ethereal Obums suicided!
+[14:23:37] Vixie Cubic suicided!
+[14:23:40] Fetor: // A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, hero
+[14:23:40] Henry: /ooc what the fuck is going on
+[14:23:42] Kyran Lance suicided!
+[14:23:42] Gordon Freeman suicided!
+[14:23:42] Ethereal Obums suicided!
+[14:23:42] Fletcher Mays suicided!
+[14:23:42] william: // 
+[14:23:42] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:23:45] william: JOEYA
+[14:23:47] Kyran Lance suicided!
+[14:23:47] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:23:51] Gordon Freeman: // set movement to 1000
+[14:23:52] your mom: /ooc america
+[14:23:53] Dimitri Makarovicz: // ok a little bit of RP now ?
+[14:23:55] Brock Obums: /ooc give admin suck dicker
+[14:23:57] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:23:57] william: joey question
+[14:23:58] Fetor: // A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, hero
+[14:23:59] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:24:00] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:24:00] Sir Poopenfarten: !bring *
+[14:24:03] your mom: /ooc combat playtest no rp
+[14:24:03] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:04] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:05] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:05] william: how do u get a tool gun and physgun
+[14:24:06] Vixie Cubic: // dimitri, are you stupid?
+[14:24:06] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:06] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:07] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:24:07] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001b.mdl
+[14:24:07] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:08] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:08] Vixie Cubic: // its a play test
+[14:24:09] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:10] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:10] Vixie Cubic: // its a play test
+[14:24:11] Vixie Cubic: // its a play test
+[14:24:12] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:24:13] william: hi joey
+[14:24:13] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:14] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:15] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence03a.mdl
+[14:24:15] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:16] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:17] Gordon Freeman killed Dr Xander Sex using grenade_ar2
+[14:24:17] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:18] Gordon Freeman killed Fetor using grenade_ar2
+[14:24:18] Gordon Freeman killed Revectane using grenade_ar2
+[14:24:18] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:19] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:19] Gordon Freeman killed Sir Poopenfarten using grenade_ar2
+[14:24:19] Czar<STEAM_0:0:140210729> spawned model models/props_c17/furnituredrawer001a.mdl
+[14:24:19] Fetor: A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, heroic,
+[14:24:20] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001b.mdl
+[14:24:20] Czar<STEAM_0:0:140210729> spawned model models/props_c17/fence01b.mdl
+[14:24:21] Fetor: // A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, hero
+[14:24:22] william: tell me how u get the physgun and tool gun
+[14:24:22] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_lab/blastdoor001b.mdl
+[14:24:26] Czar brought Based Man,Brock Obums,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Sir Poopenfarten,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:24:26] Czar: !bring *
+[14:24:27] Gordon Freeman killed Kyran Lance using grenade_ar2
+[14:24:27] Gordon Freeman killed Jake Esposito using grenade_ar2
+[14:24:27] Gordon Freeman killed Walter White using grenade_ar2
+[14:24:27] Gordon Freeman killed Vixie Cubic using grenade_ar2
+[14:24:27] Gordon Freeman killed Fletcher Mays using grenade_ar2
+[14:24:27] your mom killed Joey GMan Jonderson using grenade_ar2
+[14:24:27] your mom killed Brock Obums using grenade_ar2
+[14:24:27] your mom suicided!
+[14:24:28] Gordon Freeman suicided!
+[14:24:28] Gordon Freeman killed Ethereal Obums using grenade_ar2
+[14:24:28] Gordon Freeman killed william using grenade_ar2
+[14:24:28] Gordon Freeman killed Revectane using grenade_ar2
+[14:24:28] Gordon Freeman killed Dimitri Makarovicz using grenade_ar2
+[14:24:28] boseph jurgerson killed Based Man using player
+[14:24:32] your mom suicided!
+[14:24:32] Vixie Cubic suicided!
+[14:24:32] Fetor: // A cult of personality, or cult of the leader,[1] arises when a country's regime uses the techniques of mass media, propaganda, the big lie, spectacle, the arts, patriotism, and government-organized demonstrations and rallies to create an idealized, hero
+[14:24:33] boseph jurgerson killed Sir Poopenfarten using player
+[14:24:33] william: // ffs
+[14:24:33] Jake Esposito suicided!
+[14:24:33] Kyran Lance suicided!
+[14:24:33] Joey GMan Jonderson suicided!
+[14:24:33] Revectane suicided!
+[14:24:33] Czar stripped weapons from Everyone
+[14:24:33] Czar: !strip *
+[14:24:33] Brock Obums suicided!
+[14:24:33] Fletcher Mays suicided!
+[14:24:34] Czar brought Based Man,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Gordon Freeman,Henry,James Williams,Walter White,boseph jurgerson,william
+[14:24:34] Czar: !bring *
+[14:24:36] Sir Poopenfarten: !kill *
+[14:24:37] Vixie Cubic: // oh my god
+[14:24:37] your mom: /ooc best game
+[14:24:38] Joey GMan Jonderson suicided!
+[14:24:38] Kyran Lance suicided!
+[14:24:38] your mom suicided!
+[14:24:39] Gordon Freeman: /y GOD 
+[14:24:41] Sir Poopenfarten: !kill *
+[14:24:44] Brock Obums: /ooc BEST SERVER!!!
+[14:24:50] Sir Poopenfarten: !reset *
+[14:24:52] Henry: /LOOC ARE WE GOOD
+[14:24:54] Gordon Freeman: no
+[14:24:55] boseph jurgerson: /y sussus amogus
+[14:24:56] your mom: /ooc I feel bad for dimitri
+[14:24:58] Dr Xander Sex: Not a happy man
+[14:25:10] Sir Poopenfarten: // This is a botched playtest.
+[14:25:15] Gordon Freeman: //  no it aint
+[14:25:17] Sir Poopenfarten: // This is a DEV SERVER.
+[14:25:21] Revectane: fuck you
+[14:25:22] Czar: /ooc its a dev server
+[14:25:23] your mom: /ooc dumbass
+[14:25:23] Sir Poopenfarten: // Leave if you believe it's real.
+[14:25:25] Czar: /ooc for fucking around
+[14:25:26] Gordon Freeman: // this is actual sver
+[14:25:34] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dimitri Makarovicz,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:25:34] Sir Poopenfarten: !bring *
+[14:25:36] Ethereal Obums: // THIS IS A DEV SERVER GET OUT
+[14:25:43] Czar stripped weapons from Everyone
+[14:25:43] Czar: !strip *
+[14:25:44] Joey GMan Jonderson: /ooc im one of the testers for all of the people who are here for RP this is a beta test server
+[14:25:49] Based Man: // Stop being so hostile
+[14:25:52] Czar: !give * weapon_fists
+[14:25:56] Dr Xander Sex suicided!
+[14:25:56] Kyran Lance suicided!
+[14:25:56] Czar suicided!
+[14:25:56] Henry suicided!
+[14:25:56] Ethereal Obums suicided!
+[14:25:56] Revectane suicided!
+[14:25:56] boseph jurgerson suicided!
+[14:25:56] Based Man suicided!
+[14:25:56] Jake Esposito suicided!
+[14:25:56] your mom suicided!
+[14:25:56] Sir Poopenfarten suicided!
+[14:25:56] Brock Obums suicided!
+[14:25:56] Walter White suicided!
+[14:25:56] Vixie Cubic suicided!
+[14:25:56] Fletcher Mays suicided!
+[14:25:56] william suicided!
+[14:25:56] Gordon Freeman suicided!
+[14:25:56] Joey GMan Jonderson suicided!
+[14:25:56] Dimitri Makarovicz suicided!
+[14:25:56] Fetor suicided!
+[14:25:56] James Williams suicided!
+[14:25:56] Sir Poopenfarten slayed Everyone
+[14:25:56] Sir Poopenfarten: !slay *
+[14:25:56] your mom: /ooc slay everybody
+[14:26:01] Czar suicided!
+[14:26:01] Vixie Cubic suicided!
+[14:26:01] James Williams suicided!
+[14:26:01] Kyran Lance suicided!
+[14:26:01] Fletcher Mays suicided!
+[14:26:01] Fetor suicided!
+[14:26:01] Walter White suicided!
+[14:26:01] Dr Xander Sex suicided!
+[14:26:01] Joey GMan Jonderson suicided!
+[14:26:01] william suicided!
+[14:26:01] Ethereal Obums suicided!
+[14:26:01] Henry suicided!
+[14:26:01] Gordon Freeman suicided!
+[14:26:01] Based Man suicided!
+[14:26:02] your mom suicided!
+[14:26:04] william: /pm squire how do u get a toolgun and physgun?
+[14:26:06] Vixie Cubic suicided!
+[14:26:06] Henry suicided!
+[14:26:06] Ethereal Obums suicided!
+[14:26:06] Based Man suicided!
+[14:26:06] James Williams suicided!
+[14:26:06] Gordon Freeman suicided!
+[14:26:06] Walter White suicided!
+[14:26:06] Revectane suicided!
+[14:26:11] william: /pm squire_C how do u get a toolgun and physgun?
+[14:26:11] Dr Xander Sex suicided!
+[14:26:11] your mom suicided!
+[14:26:11] Dimitri Makarovicz suicided!
+[14:26:11] Henry suicided!
+[14:26:11] william suicided!
+[14:26:11] Fletcher Mays suicided!
+[14:26:11] Ethereal Obums suicided!
+[14:26:11] James Williams suicided!
+[14:26:14] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Fetor,Gordon Freeman,Jake Esposito,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson
+[14:26:14] Sir Poopenfarten: !bring *
+[14:26:17] Dr Xander Sex suicided!
+[14:26:21] Dropped "Dimitri Makarovicz" from server<STEAM_0:1:148774529>
+[14:26:28] william: /pm squire_C how do u get a toolgun and physgun?
+[14:26:33] Henry: Help
+[14:26:34] william: /pm squire_c how do u get a toolgun and physgun?
+[14:26:34] Henry: PLease?
+[14:26:38] Fetor: // NOOOOOOOOO
+[14:26:38] Czar: /spawnadd citizen
+[14:26:39] Walter White: TADEUS I WILL STRANGLE YOU
+[14:26:40] Czar: /spawnadd citizen
+[14:26:42] Sir Poopenfarten brought Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Joey GMan Jonderson,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:26:42] Sir Poopenfarten: !bring *
+[14:26:50] Czar: /spawnadd citizen
+[14:26:51] Czar: /spawnadd citizen
+[14:26:52] Czar: /spawnadd citizen
+[14:26:53] william: LEMME IN
+[14:26:53] Czar: /spawnadd citizen
+[14:26:55] Czar: /spawnadd citizen
+[14:26:55] william: /Y LEMME IN
+[14:26:56] Czar: /spawnadd citizen
+[14:27:00] Fetor: // GUYS FUCK THE ENEMY OF THE STATE NEBLOUS GLORY TO BROCK
+[14:27:00] Czar: /spawnadd citizen
+[14:27:01] Czar: /spawnadd citizen
+[14:27:04] Czar: /spawnadd citizen
+[14:27:05] Czar: /spawnadd citizen
+[14:27:07] Czar: /spawnadd citizen
+[14:27:08] Czar: /spawnadd citizen
+[14:27:09] Brock Obums: /ooc GLORY TO THE MSC!
+[14:27:10] william: IST ME GORDON
+[14:27:10] Client "Kilszot" connected.
+[14:27:11] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[14:27:14] Czar: /spawnadd citizen
+[14:27:16] your mom: /ooc glory to your mom
+[14:27:17] william: LEMME FUCKING LIVE
+[14:27:19] boseph jurgerson: no
+[14:27:19] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[14:27:21] boseph jurgerson: i wont use it
+[14:27:24] boseph jurgerson: let me have it
+[14:27:28] Czar: /event fixed your spawns you fucking idiots
+[14:27:29] Dropped "Joey GMan Jonderson" from server<STEAM_0:0:107695957>
+[14:27:31] Revectane: // gimme the content pack i can only see a massive missing texture
+[14:27:31] boseph jurgerson: /ooc brock i will literally
+[14:27:32] Dropped "Kyran Lance" from server<STEAM_0:1:89342027>
+[14:27:32] Client "Squire_c" connected.
+[14:27:34] Gordon Freeman killed Henry using grenade_ar2
+[14:27:35] Gordon Freeman killed Walter White using grenade_ar2
+[14:27:35] Client "Azio" connected.
+[14:27:36] Gordon Freeman killed Brock Obums using grenade_ar2
+[14:27:36] william: // im stuck
+[14:27:41] Client "anti-vax and neet" connected.
+[14:27:42] Gordon Freeman killed Fetor using grenade_ar2
+[14:27:42] Dr Xander Sex suicided!
+[14:27:42] Czar suicided!
+[14:27:42] Henry suicided!
+[14:27:42] Ethereal Obums suicided!
+[14:27:42] Revectane suicided!
+[14:27:42] boseph jurgerson suicided!
+[14:27:42] Based Man suicided!
+[14:27:42] Jake Esposito suicided!
+[14:27:42] your mom suicided!
+[14:27:42] Sir Poopenfarten suicided!
+[14:27:42] Brock Obums suicided!
+[14:27:42] Walter White suicided!
+[14:27:42] Vixie Cubic suicided!
+[14:27:42] Fletcher Mays suicided!
+[14:27:42] william suicided!
+[14:27:42] Gordon Freeman suicided!
+[14:27:42] James Williams suicided!
+[14:27:42] Sir Poopenfarten slayed Themself,Based Man,Brock Obums,Czar,Dr Xander Sex,Ethereal Obums,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:27:42] Sir Poopenfarten: !slay *
+[14:27:43] Dropped "Brock Obums" from server<STEAM_0:0:483057931>
+[14:27:50] Fetor: // coep
+[14:27:51] Client "Azio" spawned in server <STEAM_0:1:89342027> (took 16 seconds).
+[14:27:52] Client "Squire_c" spawned in server <STEAM_0:0:107695957> (took 20 seconds).
+[14:28:03] Client "Kilszot" spawned in server <STEAM_0:1:148774529> (took 53 seconds).
+[14:28:05] Czar: /spawnadd citizen
+[14:28:05] Azio<STEAM_0:1:89342027> changed their name to Kyran Lance
+[14:28:06] Czar: /spawnadd citizen
+[14:28:09] Czar: /spawnadd citizen
+[14:28:14] Walter White: /ooc im stuck
+[14:28:18] your mom: /ooc 1939
+[14:28:27] Based Man: // Wait
+[14:28:30] your mom: /ooc give mod
+[14:28:30] Sir Poopenfarten brought Based Man,Czar,Dr Xander Sex,Ethereal Obums,Fetor,Fletcher Mays,Gordon Freeman,Henry,Jake Esposito,James Williams,Kyran Lance,Revectane,Vixie Cubic,Walter White,boseph jurgerson,william,your mom
+[14:28:30] Sir Poopenfarten: !bring *
+[14:28:33] Based Man: // I'm Apex, do I count?
+[14:28:34] Client "anti-vax and neet" spawned in server <STEAM_0:0:597257058> (took 53 seconds).
+[14:28:41] Squire_c<STEAM_0:0:107695957> changed their name to Joey GMan Jonderson
+[14:28:41] william<STEAM_0:0:193471001> changed their name to william gordon
+[14:28:42] Based Man: // I'm Apex, do I count, can I get mod perms?
+[14:28:43] Fetor: // Glory to the MSC *procceds to murder a entire family*
+[14:28:45] your mom: /me erp's you
+[14:28:49] Kyran Lance: Suck your mum
+[14:28:50] Joey GMan Jonderson: /name JMan
+[14:28:51] william gordon: // sex
+[14:28:51] Gordon Freeman: /y 1984
+[14:28:52] Gordon Freeman: /y 1984
+[14:28:52] Gordon Freeman: /y 1984
+[14:28:54] Fetor: // same bro
+[14:28:55] Client "man" connected.
+[14:29:05] Czar: /event If you are a staff member, dm Czar your ingame name so he can mod you
+[14:29:13] Fetor: /pm czar I am minty
+[14:29:16] Gordon Freeman: /pm Czar Gordon Freeman
+[14:29:17] Vixie Cubic: /pm tzar give mod
+[14:29:18] Fetor: /pm Czar pls
+[14:29:21] william gordon: /pm Czar im mod give me mod :)
+[14:29:22] Ethereal Obums: Brock
+[14:29:22] Client "man" spawned in server <STEAM_0:0:483057931> (took 27 seconds).
+[14:29:22] Kilszot<STEAM_0:1:148774529> changed their name to Dimitri Makarovicz
+[14:29:22] James Williams: /pm czar James Williams
+[14:29:24] Vixie Cubic: /pm czar give mod
+[14:29:28] Fetor: /event
+[14:29:28] Dimitri Makarovicz: // now a little bit of RP ?
+[14:29:28] Ethereal Obums: /Y brock
+[14:29:30] Vixie Cubic: /pm czar im tadeus
+[14:29:33] Dimitri Makarovicz: MR gman ?
+[14:29:35] Fetor: /pm czar I need admin perms I am mitny
+[14:29:36] Kyran Lance: // What the fuck is RP
+[14:29:37] william gordon: /pm Czar heres proof: im mod
+[14:29:37] your mom: cum
+[14:29:37] Dr Xander Sex: /ooc erp
+[14:29:37] Vixie Cubic: // THIS IS A PLAY TEST SERVER.
+[14:29:40] Ethereal Obums: /Y can ya give azio and me OTA and CP?
+[14:29:45] anti-vax and neet<STEAM_0:0:597257058> changed their name to Bradley Read
+[14:29:47] Vixie Cubic: // this is literally just only a play test server
+[14:29:50] Vixie Cubic: // this is literally just only a play test server
+[14:29:50] Revectane: /y no
+[14:29:50] Dimitri Makarovicz: // Well play test dosent mean rdm
+[14:29:51] Kyran Lance: // LISTEN VIXIE YOU CHILD TOUCHING PRICK
+[14:29:51] Kyran Lance: // STFU
+[14:29:52] Revectane: /y give me perms
+[14:29:55] Dimitri Makarovicz: // play test is play test rp
+[14:29:58] Dimitri Makarovicz: give me mpf
+[14:29:59] Henry: /dispatch hello?
+[14:29:59] Dimitri Makarovicz: mr gman
+[14:30:03] Vixie Cubic: // YES I DO, NOW SHUT!
+[14:30:06] Kyran Lance: // STFU
+[14:30:07] william gordon: // how will we build without a physgun and tool gun tho?
+[14:30:13] Dimitri Makarovicz: // play test is play test rp
+[14:30:17] Based Man: /looc Can I get my mod perms?
+[14:30:22] Sir Poopenfarten: // What.
+[14:30:25] Gordon Freeman: // test deez nuts
+[14:30:41] your mom: /ooc give mod
+[14:30:41] Dimitri Makarovicz: -duck in console
+[14:30:42] Bradley Read: // this seems so shit lmfao
+[14:30:48] man<STEAM_0:0:483057931> changed their name to Brock Obums
+[14:30:49] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/trashdumpster01a.mdl
+[14:30:49] Dimitri Makarovicz: -duck in console
+[14:30:51] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/metalgascan.mdl
+[14:30:51] Vixie Cubic: // its because its a play test
+[14:30:52] Walter White: /ooc tzar make the server private
+[14:30:53] Revectane was killed by ix_container
+[14:30:53] Sir Poopenfarten was killed by ix_container
+[14:30:53] Fletcher Mays was killed by ix_container
+[14:30:54] Bradley Read: // why are you testing a fucking gmod server big yikes
+[14:30:56] Dr Xander Sex: /ooc bruh it's literally a test
+[14:30:57] Czar: !adduserid STEAM_0:0:460042086 Moderator
+[14:31:01] Dimitri Makarovicz: CTRL Shift alt
+[14:31:07] Ethereal Obums: 1939
+[14:31:10] Ethereal Obums: are u mod yet
+[14:31:19] Dropped "Bradley Read" from server<STEAM_0:0:597257058>
+[14:31:20] Czar added James Williams to group Moderator
+[14:31:20] Brock Obums: /ooc i HATE the URC!
+[14:31:27] your mom: /ooc give me mod
+[14:31:37] william gordon: /pm optical give me physgun :)
+[14:31:47] your mom: fuck be in the air tonight
+[14:31:51] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:31:51] Fetor: /me becomes gaming
+[14:31:52] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:31:53] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:31:54] your mom: fuck me in the air tonight
+[14:31:54] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:31:56] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:31:57] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:31:58] Dr Xander Sex: /ooc the briefcase is safe with me
+[14:32:00] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:32:00] Gordon Freeman killed Fetor using grenade_ar2
+[14:32:01] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:32:02] Czar: /event by the way this is a dev server and its not roleplay we are just shitting around 
+[14:32:08] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_debris/metal_panel01a.mdl
+[14:32:09] Joey GMan Jonderson<STEAM_0:0:107695957> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[14:32:11] Gordon Freeman killed Walter White using grenade_ar2
+[14:32:12] Kyran Lance: // yes we know now stfu
+
+
+
+[14:37:21] New map: rp_city2_v4_finalb
+[14:37:30] Client "Tzar" connected.
+[14:37:47] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 17 seconds).
+[14:38:09] Tzar<STEAM_0:0:140210729> changed their name to Czar
+[14:43:20] Client "TadeusSlovak" connected.
+[14:43:40] Client "TadeusSlovak" spawned in server <STEAM_0:1:84322488> (took 20 seconds).
+[14:44:41] TadeusSlovak<STEAM_0:1:84322488> changed their name to Martin Dalox
+[14:44:49] Martin Dalox: // mod please
+[14:45:31] Czar added Martin Dalox to group admin
+[14:45:39] Czar added James Williams to group admin
+[14:45:39] Martin Dalox: // flags too
+[14:45:40] Czar added Toorusty to group admin
+[14:45:56] Czar granted access "helix - chargiveitem" to group admin
+[14:45:57] Czar granted access "helix - charsetmodel" to group admin
+[14:45:58] Czar granted access "helix - charsettokens" to group admin
+[14:45:59] Czar granted access "helix - event" to group admin
+[14:46:08] Czar: You can give yourself flags
+[14:46:09] Martin Dalox suicided!
+[14:46:09] Martin Dalox slayed Themself
+[14:46:09] Martin Dalox: !slay mar
+[14:46:28] Client "The Apex Typhon" connected.
+[14:46:46] Client "The Apex Typhon" spawned in server <STEAM_0:1:74180635> (took 18 seconds).
+[14:47:05] The Apex Typhon<STEAM_0:1:74180635> changed their name to Based Man
+[14:48:26] Czar: /ooc /chargiveflag
+[14:48:27] Martin Dalox: /cargiveflag
+[14:48:30] Martin Dalox: /chargiveflag
+[14:48:32] Martin Dalox: /chargiveflag a
+[14:48:42] Client "Optical" connected.
+[14:48:46] Martin Dalox: /chargiveflag martin
+[14:48:49] Based Man: // Can I have perms?
+[14:49:04] Czar added Based Man to group admin
+[14:49:05] Client "Toorusty" connected.
+[14:49:12] Martin Dalox teleported to Based Man
+[14:49:12] Martin Dalox: !goto based
+[14:49:18] Client "Optical" spawned in server <STEAM_0:0:460042086> (took 36 seconds).
+[14:49:18] Based Man: /charsetname Based John Butler
+[14:49:19] Based Man<STEAM_0:1:74180635> changed their name to John Butler
+[14:49:22] Client "Toorusty" spawned in server <STEAM_0:0:67125359> (took 17 seconds).
+[14:49:40] John Butler: // Right
+[14:49:54] Optical<STEAM_0:0:460042086> changed their name to James Williams
+[14:49:55] Toorusty<STEAM_0:0:67125359> changed their name to Jake Esposito
+[14:50:11] Jake Esposito: !menu
+[14:50:18] Martin Dalox killed Czar using sent_bp_rpgpiercing
+[14:50:39] Czar: !give * weapon_bp_rlauncher
+[14:51:01] John Butler<STEAM_0:1:74180635> spawned sent item_ammo_smg1_large
+[14:51:01] John Butler<STEAM_0:1:74180635> spawned sent item_ammo_smg1_large
+[14:51:14] James Williams<STEAM_0:0:460042086> spawned sent ix_forcefield
+[14:51:20] James Williams<STEAM_0:0:460042086> spawned sent item_ammo_smg1
+[14:51:20] James Williams<STEAM_0:0:460042086> spawned sent item_ammo_smg1
+[14:51:20] James Williams<STEAM_0:0:460042086> spawned sent item_ammo_smg1
+[14:51:20] James Williams<STEAM_0:0:460042086> spawned sent item_ammo_smg1
+[14:51:20] James Williams<STEAM_0:0:460042086> spawned sent item_ammo_smg1
+[14:51:21] James Williams<STEAM_0:0:460042086> spawned sent item_ammo_smg1
+[14:51:40] Martin Dalox suicided!
+[14:51:40] John Butler slayed Martin Dalox
+[14:51:40] John Butler: !slay mart
+[14:51:51] John Butler<STEAM_0:1:74180635> spawned sent item_healthkit
+[14:52:00] John Butler<STEAM_0:1:74180635> spawned sent item_healthkit
+[14:52:00] John Butler<STEAM_0:1:74180635> spawned sent item_healthkit
+[14:52:00] John Butler<STEAM_0:1:74180635> spawned sent item_healthkit
+[14:52:00] John Butler<STEAM_0:1:74180635> spawned sent item_healthkit
+[14:52:00] John Butler<STEAM_0:1:74180635> spawned sent item_healthkit
+[14:52:52] John Butler<STEAM_0:1:74180635> spawned sent item_ammo_ar2_large
+[14:52:53] John Butler<STEAM_0:1:74180635> spawned sent item_ammo_ar2_large
+[14:54:06] Server is shutting down/changing levels.
+
+
+
+[14:58:34] New map: rp_city2_v4_finalb
+[14:58:55] Client "Tzar" connected.
+[15:01:07] Client "Tzar" spawned in server <STEAM_0:0:140210729> (took 132 seconds).
+[15:01:22] Tzar<STEAM_0:0:140210729> changed their name to Czar
+[15:02:43] Client "Optical" connected.
+[15:03:13] Server is shutting down/changing levels.

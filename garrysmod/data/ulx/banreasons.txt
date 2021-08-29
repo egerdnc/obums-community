@@ -1,0 +1,4 @@
+; This file is used to store default reasons for kicking and banning users.
+; These reasons show up in console autocomplete and in XGUI dropdowns.
+Minge
+Spammer

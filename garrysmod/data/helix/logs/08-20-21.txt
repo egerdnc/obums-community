@@ -1,0 +1,1919 @@
+[00:31:20]	Tzar has connected.
+[00:34:17]	Tzar (STEAM_0:0:140210729) has disconnected.
+[00:38:56]	Tzar has connected.
+[00:40:37]	Tzar created the character 'M007'
+[00:40:37]	M007 has gained a 'Suitcase' #1.
+[00:40:37]	M007 has gained a 'Citizen ID' #2.
+[00:40:37]	Tzar loaded the character 'M007'
+[00:42:00]	M007 used command '/Radio yes'.
+[00:45:12]	M007 used command '/ViewData M007'.
+[00:53:17]	Tzar (STEAM_0:0:140210729) has disconnected.
+[03:09:11]	Tzar has connected.
+[03:09:11]	Tzar (STEAM_0:0:140210729) has disconnected.
+[03:19:17]	Tzar has connected.
+[03:19:40]	Tzar loaded the character 'M007'
+[03:25:38]	M007 used command '/CharSetTokens M007 100000'.
+[03:26:05]	M007 used command '/CharSetAttribute M007 Strength 100'.
+[03:26:23]	M007 used command '/CharSetAttribute m007 stamina 100'.
+[03:26:39]	M007 used command '/CharSetAttribute m007 endurance 100'.
+[03:27:06]	M007 entered observer.
+[03:27:13]	M007 exited observer.
+[03:27:15]	M007 entered observer.
+[03:27:16]	M007 exited observer.
+[03:27:49]	M007 used command '/CharGiveFlag m007 p'.
+[03:30:19]	M007 used command '/CharGiveFlag m007'.
+[03:30:26]	M007 used command '/CharGiveFlag m007 t'.
+[03:30:30]	M007 used command '/CharGiveFlag m007 v'.
+[03:30:33]	M007 used command '/CharGiveFlag m007 r'.
+[03:30:36]	M007 used command '/CharGiveFlag m007 n'.
+[03:30:38]	M007 used command '/CharGiveFlag m007 e'.
+[03:30:40]	M007 used command '/CharGiveFlag m007 c'.
+[03:30:42]	M007 used command '/CharGiveFlag m007 v'.
+[03:30:51]	M007 used command '/CharGiveFlag m007 FV'.
+[03:30:54]	M007 used command '/CharGiveFlag m007 V'.
+[03:31:01]	M007 used command '/CharGiveFlag m007 C'.
+[03:31:11]	M007 entered observer.
+[03:31:12]	M007 exited observer.
+[03:33:20]	M007 set year to '1992'.
+[03:33:25]	M007 set year to '2013'.
+[03:33:41]	M007 set rationTokens to '30'.
+[03:33:46]	M007 set doorCost to '20'.
+[03:33:53]	M007 set doorSellRatio to '0.2'.
+[03:33:56]	M007 set doorSellRatio to '0.7'.
+[03:34:10]	M007 set allowVoice to '[true]'.
+[03:34:11]	M007 set thirdperson to '[true]'.
+[03:34:23]	M007 set weaponRaiseTime to '0.1'.
+[03:34:31]	M007 set voiceDistance to '304.6'.
+[03:34:35]	M007 set strengthMultiplier to '0.2'.
+[03:34:42]	M007 set day to '4'.
+[03:34:43]	M007 set month to '2'.
+[03:34:56]	M007 set containerSave to '[false]'.
+[03:35:06]	M007 set chatColor to '[110, 183, 191]'.
+[03:35:21]	M007 set staminaDrain to '0.51'.
+[03:35:36]	M007 set punchStamina to '15'.
+[03:35:43]	M007 set minNameLength to '5'.
+[03:35:49]	M007 set minDescriptionLength to '0'.
+[03:35:57]	M007 set maxCharacters to '10'.
+[03:36:06]	M007 set maxAttributes to '100'.
+[03:36:15]	M007 set defaultMoney to '50'.
+[03:36:24]	M007 set vignette to '[false]'.
+[03:36:24]	M007 set vignette to '[true]'.
+[03:38:13]	M007 set communityText to '"@Brock our beloved"'.
+[03:38:30]	M007 set communityURL to '"https://discord.gg/HExBxmVjqk"'.
+[03:39:06]	M007 set communityText to '"@Discord"'.
+[03:47:41]	M007 has spawned a 'Entity [162][ix_rationdispenser]'.
+[03:49:05]	Tzar (STEAM_0:0:140210729) has disconnected.
+[03:52:38]	Tzar has connected.
+[03:52:52]	Tzar loaded the character 'M007'
+[03:53:11]	M007 has spawned a 'Entity [160][ix_vendingmachine]'.
+[03:55:14]	M007 entered observer.
+[03:55:18]	M007 exited observer.
+[03:55:41]	M007 ran 'Open' on item 'Ration' (#3)
+[03:55:41]	M007 has gained a 'Supplements' #4.
+[03:55:41]	M007 has gained a 'Breen's Water' #5.
+[03:55:41]	M007 has gained 30 tokens.
+[03:55:52]	M007 ran 'Eat' on item 'Supplements' (#4)
+[03:55:53]	M007 ran 'Drink' on item 'Breen's Water' (#5)
+[03:55:56]	M007 entered observer.
+[03:55:57]	M007 exited observer.
+[03:56:04]	M007 has spawned a 'Weapon [157][ix_stunstick]'.
+[04:03:02]	Tzar (STEAM_0:0:140210729) has disconnected.
+[04:08:52]	Tzar has connected.
+[04:09:13]	Tzar loaded the character 'M007'
+[04:09:25]	M007 has spawned a 'Weapon [160][weapon_smg1]'.
+[04:09:39]	AuraKille has connected.
+[04:10:48]	AuraKille created the character 'Vasili Sukinov'
+[04:10:48]	Vasili Sukinov has gained a 'Suitcase' #4.
+[04:10:48]	Vasili Sukinov has gained a 'Citizen ID' #5.
+[04:10:48]	AuraKille loaded the character 'Vasili Sukinov'
+[04:12:07]	Vasili Sukinov ran 'Open' on item 'Ration' (#6)
+[04:12:07]	Vasili Sukinov has gained a 'Supplements' #7.
+[04:12:07]	Vasili Sukinov has gained a 'Breen's Water' #8.
+[04:12:07]	Vasili Sukinov has gained 30 tokens.
+[04:12:11]	Vasili Sukinov ran 'Eat' on item 'Supplements' (#7)
+[04:12:12]	Vasili Sukinov ran 'Drink' on item 'Breen's Water' (#8)
+[04:12:13]	M007 has lost 15 tokens.
+[04:12:16]	Optical has connected.
+[04:12:16]	M007 ran 'Drink' on item 'Breen's Water' (#7)
+[04:12:21]	Vasili Sukinov has lost 15 tokens.
+[04:12:23]	Vasili Sukinov ran 'take' on item 'Breen's Water' (#8)
+[04:12:23]	Vasili Sukinov has gained a 'Breen's Water' #8.
+[04:12:28]	M007 has spawned a 'Weapon [165][weapon_rpg]'.
+[04:13:00]	M007 has spawned a 'Weapon [240][weapon_ar2]'.
+[04:13:31]	Optical created the character 'James Williams'
+[04:13:31]	James Williams has gained a 'Suitcase' #9.
+[04:13:31]	James Williams has gained a 'Citizen ID' #10.
+[04:13:31]	Optical loaded the character 'James Williams'
+[04:13:45]	Vasili Sukinov has taken 3 damage from M007.
+[04:13:46]	M007 has taken 3 damage from Vasili Sukinov.
+[04:13:46]	M007 has taken 3 damage from Vasili Sukinov.
+[04:13:47]	Vasili Sukinov has taken 3 damage from M007.
+[04:13:48]	M007 has taken 3 damage from Vasili Sukinov.
+[04:13:48]	Vasili Sukinov has taken 3 damage from M007.
+[04:13:48]	M007 has taken 3 damage from Vasili Sukinov.
+[04:13:49]	Vasili Sukinov has taken 3 damage from M007.
+[04:13:49]	Vasili Sukinov has taken 3 damage from M007.
+[04:13:50]	Vasili Sukinov has taken 3 damage from M007.
+[04:13:56]	M007 has spawned a 'Entity [164][item_ammo_smg1_large]'.
+[04:13:57]	M007 has spawned a 'Entity [241][item_ammo_smg1_large]'.
+[04:13:57]	M007 has spawned a 'Entity [242][item_ammo_smg1_large]'.
+[04:14:02]	M007 has spawned a 'Entity [247][item_ammo_ar2_large]'.
+[04:14:02]	M007 has spawned a 'Entity [248][item_ammo_ar2_large]'.
+[04:14:03]	M007 has spawned a 'Entity [249][item_ammo_ar2_large]'.
+[04:14:09]	Vasili Sukinov has taken 3 damage from M007.
+[04:14:09]	M007 has taken 3 damage from Vasili Sukinov.
+[04:14:09]	M007 has taken 22 damage from Vasili Sukinov.
+[04:14:10]	Vasili Sukinov has taken 3 damage from M007.
+[04:14:10]	M007 has taken 3 damage from Vasili Sukinov.
+[04:14:10]	M007 has taken 22 damage from Vasili Sukinov.
+[04:14:10]	Vasili Sukinov has taken 12 damage from M007.
+[04:14:11]	M007 has taken 22 damage from Vasili Sukinov.
+[04:14:13]	Vasili Sukinov has taken 3 damage from M007.
+[04:14:13]	Vasili Sukinov has taken 3 damage from M007.
+[04:14:14]	M007 has taken 11 damage from Vasili Sukinov.
+[04:14:14]	M007 has taken 3 damage from Vasili Sukinov.
+[04:14:14]	M007 has taken 11 damage from Vasili Sukinov.
+[04:14:14]	Vasili Sukinov has killed M007 with weapon_ar2.
+[04:14:19]	[OOC] M007: nice
+[04:14:24]	[OOC] Vasili Sukinov: Smg sucks long range lol
+[04:14:33]	[ME] Vasili Sukinov: sneezes
+[04:14:45]	[IT] Vasili Sukinov: an invisible hand appears out of nowhere
+[04:14:54]	M007 has spawned 'models/props_c17/shelfunit01a.mdl'.
+[04:15:04]	M007 has spawned 'models/props_c17/Lockers001a.mdl'.
+[04:15:20]	Vasili Sukinov opened the 'Locker' #7 container.
+[04:15:21]	Vasili Sukinov closed the 'Locker' #7 container.
+[04:15:22]	Vasili Sukinov opened the 'Locker' #7 container.
+[04:15:25]	Vasili Sukinov closed the 'Locker' #7 container.
+[04:15:36]	Vasili Sukinov opened the 'Locker' #7 container.
+[04:15:41]	Vasili Sukinov closed the 'Locker' #7 container.
+[04:15:50]	M007 has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+[04:15:54]	M007 opened the 'Refrigerator' #7 container.
+[04:15:56]	M007 closed the 'Refrigerator' #7 container.
+[04:16:51]	M007 used command '/CharGiveFlag james e'.
+[04:17:04]	Vasili Sukinov opened the 'Refrigerator' #7 container.
+[04:17:06]	Vasili Sukinov closed the 'Refrigerator' #7 container.
+[04:17:16]	M007 has spawned a 'Weapon [164][weapon_357]'.
+[04:17:16]	M007 has spawned a 'Weapon [166][weapon_357]'.
+[04:17:17]	M007 has spawned a 'Weapon [246][weapon_357]'.
+[04:17:17]	M007 has spawned a 'Weapon [247][weapon_357]'.
+[04:17:17]	M007 has spawned a 'Weapon [248][weapon_357]'.
+[04:17:32]	M007 has taken 150 damage from James Williams.
+[04:17:32]	James Williams has killed M007 with weapon_357.
+[04:17:40]	Vasili Sukinov has taken 150 damage from James Williams.
+[04:17:40]	James Williams has killed Vasili Sukinov with weapon_357.
+[04:17:50]	M007 has spawned a 'Weapon [225][weapon_pistol]'.
+[04:17:51]	M007 has spawned a 'Weapon [237][weapon_pistol]'.
+[04:17:52]	M007 has spawned a 'Weapon [240][weapon_pistol]'.
+[04:18:27]	M007 used command '/CharGiveFlag vasili e'.
+[04:18:33]	M007 has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[04:18:34]	James Williams has spawned 'models/props_c17/FurnitureShelf001a.mdl'.
+[04:18:34]	Wakeful has connected.
+[04:18:38]	James Williams has spawned 'models/props_c17/FurnitureFireplace001a.mdl'.
+[04:18:39]	James Williams has spawned 'models/props_c17/FurnitureShelf001a.mdl'.
+[04:18:44]	Vasili Sukinov has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[04:18:48]	Vasili Sukinov has spawned 'models/props_junk/wood_crate002a.mdl'.
+[04:18:48]	M007 used command '/CharGiveFlag james p'.
+[04:18:51]	M007 used command '/CharGiveFlag vasili p'.
+[04:18:51]	James Williams has spawned 'models/props_combine/breenchair.mdl'.
+[04:19:15]	M007 used command '/CharGiveFlag vasili V'.
+[04:19:20]	M007 used command '/CharGiveFlag james V'.
+[04:19:23]	M007 used command '/CharGiveFlag james v'.
+[04:19:23]	James Williams has taken 150 damage from Vasili Sukinov.
+[04:19:23]	Vasili Sukinov has killed James Williams with weapon_357.
+[04:19:27]	M007 used command '/CharGiveFlag vasili v'.
+[04:19:41]	Wakeful created the character 'Samuel Hubaka the second'
+[04:19:41]	Samuel Hubaka the second has gained a 'Suitcase' #11.
+[04:19:41]	Samuel Hubaka the second has gained a 'Citizen ID' #12.
+[04:19:41]	Wakeful loaded the character 'Samuel Hubaka the second'
+[04:19:44]	Vasili Sukinov has taken 174 damage from worldspawn.
+[04:19:44]	worldspawn has killed Vasili Sukinov.
+[04:19:44]	James Williams has taken 175 damage from worldspawn.
+[04:19:44]	worldspawn has killed James Williams.
+[04:19:52]	M007 has spawned a 'Weapon [160][lightning_gun]'.
+[04:20:47]	M007 has spawned a 'Weapon [237][weapon_flechettegun]'.
+[04:21:06]	M007 used command '/CharGiveFlag vasili t'.
+[04:21:09]	M007 used command '/CharGiveFlag james t'.
+[04:21:13]	M007 used command '/CharGiveFlag sam t'.
+[04:21:16]	M007 used command '/CharGiveFlag sam p'.
+[04:21:18]	M007 used command '/CharGiveFlag sam e'.
+[04:21:22]	M007 used command '/CharGiveFlag sam v'.
+[04:21:24]	M007 used command '/CharGiveFlag sam V'.
+[04:21:47]	Vasili Sukinov has spawned 'models/props_c17/oildrum001.mdl'.
+[04:21:48]	Vasili Sukinov has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[04:21:53]	M007 used command '/CharGiveFlag vasili C'.
+[04:21:56]	M007 used command '/CharGiveFlag james C'.
+[04:21:56]	Vasili Sukinov has lost 25 tokens.
+[04:21:59]	Vasili Sukinov ran 'Drink' on item 'Sparkling Breen's Water' (#13)
+[04:22:00]	Vasili Sukinov has lost 35 tokens.
+[04:22:03]	Vasili Sukinov ran 'Drink' on item 'Special Breen's Water' (#15)
+[04:22:04]	M007 has spawned a 'Vehicle [261][prop_vehicle_jeep_old]'.
+[04:22:11]	M007 has taken 10 damage from M007.
+[04:22:16]	James Williams has spawned a 'Vehicle [255][prop_vehicle_jeep_old]'.
+[04:22:17]	Vasili Sukinov ran 'drop' on item 'Suitcase' (#4)
+[04:22:17]	Vasili Sukinov has lost a 'Suitcase' #4.
+[04:22:19]	Vasili Sukinov ran 'take' on item 'Suitcase' (#4)
+[04:22:19]	Vasili Sukinov has gained a 'Suitcase' #4.
+[04:22:32]	Vasili Sukinov ran 'Open' on item 'Ration' (#14)
+[04:22:32]	Vasili Sukinov has gained a 'Supplements' #17.
+[04:22:32]	Vasili Sukinov has gained a 'Breen's Water' #18.
+[04:22:32]	Vasili Sukinov has gained 30 tokens.
+[04:22:34]	Samuel Hubaka the second ran 'Open' on item 'Ration' (#16)
+[04:22:34]	Samuel Hubaka the second has gained a 'Supplements' #19.
+[04:22:34]	Samuel Hubaka the second has gained a 'Breen's Water' #20.
+[04:22:34]	Samuel Hubaka the second has gained 30 tokens.
+[04:22:35]	M007 has spawned a 'Weapon [255][weapon_shotgun]'.
+[04:22:42]	Vasili Sukinov ran 'Eat' on item 'Supplements' (#17)
+[04:22:43]	Vasili Sukinov ran 'Drink' on item 'Breen's Water' (#18)
+[04:22:53]	Vasili Sukinov ran 'Open' on item 'Ration' (#21)
+[04:22:53]	Vasili Sukinov has gained a 'Supplements' #22.
+[04:22:53]	Vasili Sukinov has gained a 'Breen's Water' #23.
+[04:22:53]	Vasili Sukinov has gained 30 tokens.
+[04:23:28]	Cabbage9341™ has connected.
+[04:24:10]	James Williams ran 'drop' on item 'Suitcase' (#9)
+[04:24:10]	James Williams has lost a 'Suitcase' #9.
+[04:24:13]	James Williams ran 'take' on item 'Suitcase' (#9)
+[04:24:13]	James Williams has gained a 'Suitcase' #9.
+[04:24:13]	Samuel Hubaka the second ran 'Eat' on item 'Supplements' (#19)
+[04:24:19]	M007 has lost 100 tokens.
+[04:24:19]	M007 used command '/DropTokens 100'.
+[04:24:29]	James Williams has gained 100 tokens.
+[04:24:33]	M007 has lost 100 tokens.
+[04:24:33]	M007 used command '/DropTokens 100'.
+[04:24:37]	M007 has lost 1000 tokens.
+[04:24:37]	M007 used command '/DropTokens 1000'.
+[04:24:38]	M007 entered observer.
+[04:24:39]	M007 has lost 1000 tokens.
+[04:24:39]	M007 used command '/DropTokens 1000'.
+[04:24:40]	M007 exited observer.
+[04:24:40]	Vasili Sukinov has gained 1000 tokens.
+[04:24:41]	Samuel Hubaka the second has gained 100 tokens.
+[04:24:42]	M007 has lost 1000 tokens.
+[04:24:42]	M007 used command '/DropTokens 1000'.
+[04:24:43]	M007 has lost 1000 tokens.
+[04:24:43]	M007 used command '/DropTokens 1000'.
+[04:24:44]	M007 has lost 1000 tokens.
+[04:24:44]	M007 used command '/DropTokens 1000'.
+[04:24:44]	Vasili Sukinov has gained 1000 tokens.
+[04:24:44]	Samuel Hubaka the second has gained 1000 tokens.
+[04:24:45]	M007 has lost 1000 tokens.
+[04:24:45]	M007 used command '/DropTokens 1000'.
+[04:24:45]	Cabbage9341™ created the character 'Jack Williams'
+[04:24:45]	Jack Williams has gained a 'Suitcase' #24.
+[04:24:45]	Jack Williams has gained a 'Citizen ID' #25.
+[04:24:45]	Cabbage9341™ loaded the character 'Jack Williams'
+[04:24:46]	M007 has lost 1000 tokens.
+[04:24:46]	M007 used command '/DropTokens 1000'.
+[04:24:46]	Vasili Sukinov has gained 1000 tokens.
+[04:24:46]	Samuel Hubaka the second has gained 1000 tokens.
+[04:24:47]	Vasili Sukinov has gained 1000 tokens.
+[04:24:49]	Samuel Hubaka the second has gained 1000 tokens.
+[04:24:54]	[OOC] Jack Williams: your mother is powered by ulx
+[04:25:04]	Samuel Hubaka the second used command '/ActLean'.
+[04:25:13]	Samuel Hubaka the second used command '/ActPant'.
+[04:25:14]	M007 has spawned a 'Entity [261][ix_forcefield]'.
+[04:25:20]	[OOC] Jack Williams: give me perms to do everything ima make a rebel hq
+[04:25:22]	Samuel Hubaka the second used command '/ExitAct'.
+[04:25:24]	M007 has spawned a 'Entity [261][ix_forcefield]'.
+[04:25:26]	M007 entered observer.
+[04:25:26]	Vasili Sukinov used command '/BecomeClass'.
+[04:25:26]	M007 exited observer.
+[04:25:28]	M007 has spawned a 'Entity [265][ix_forcefield]'.
+[04:25:30]	M007 has spawned a 'Entity [261][ix_forcefield]'.
+[04:25:30]	Vasili Sukinov used command '/BecomeClass Combine'.
+[04:25:32]	M007 has spawned a 'Entity [265][ix_forcefield]'.
+[04:25:35]	Vasili Sukinov used command '/BecomeClass vortigaunt'.
+[04:25:44]	M007 has spawned a 'Entity [265][ix_forcefield]'.
+[04:25:48]	M007 has spawned a 'Entity [265][ix_forcefield]'.
+[04:25:50]	M007 has spawned a 'Entity [265][ix_forcefield]'.
+[04:25:58]	M007 has spawned a 'Entity [265][ix_forcefield]'.
+[04:26:00]	M007 has spawned a 'Entity [256][ix_forcefield]'.
+[04:26:06]	M007 has spawned a 'Entity [256][ix_forcefield]'.
+[04:26:07]	M007 entered observer.
+[04:26:11]	M007 has spawned a 'Entity [256][ix_forcefield]'.
+[04:26:13]	M007 exited observer.
+[04:26:15]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[04:26:19]	Samuel Hubaka the second opened the 'File Cabinet' #11 container.
+[04:26:19]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[04:26:20]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[04:26:20]	[OOC] Jack Williams: lets gooooo im getting my ration
+[04:26:21]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[04:26:22]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[04:26:23]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[04:26:25]	Samuel Hubaka the second closed the 'File Cabinet' #11 container.
+[04:26:27]	Jack Williams ran 'Open' on item 'Ration' (#26)
+[04:26:27]	Jack Williams has gained a 'Supplements' #27.
+[04:26:27]	Jack Williams has gained a 'Breen's Water' #28.
+[04:26:27]	Jack Williams has gained 30 tokens.
+[04:26:30]	M007 has spawned a 'Entity [256][ix_rationdispenser]'.
+[04:26:31]	Vasili Sukinov opened the 'Metal Cabinet' #11 container.
+[04:26:31]	Vasili Sukinov closed the 'Metal Cabinet' #11 container.
+[04:26:32]	Vasili Sukinov opened the 'Metal Cabinet' #11 container.
+[04:26:34]	Vasili Sukinov closed the 'Metal Cabinet' #11 container.
+[04:26:38]	Jack Williams opened the 'Refrigerator' #7 container.
+[04:26:40]	Jack Williams opened the 'Refrigerator' #7 container.
+[04:26:48]	[OOC] Jack Williams: give me admin perms
+[04:26:56]	[OOC] Vasili Sukinov: Admin perms dont do anything
+[04:27:08]	[OOC] Vasili Sukinov: except maybe spawn objects
+[04:27:10]	[OOC] Jack Williams: give physgun perms bruv
+[04:27:17]	M007 used command '/ActStand'.
+[04:27:19]	M007 used command '/ExitAct'.
+[04:27:22]	M007 entered observer.
+[04:27:22]	Vasili Sukinov opened the 'File Cabinet' #11 container.
+[04:27:23]	M007 exited observer.
+[04:27:24]	M007 entered observer.
+[04:27:24]	Vasili Sukinov closed the 'File Cabinet' #11 container.
+[04:27:29]	Vasili Sukinov has spawned 'models/props_junk/wood_crate001a.mdl'.
+[04:27:30]	Vasili Sukinov opened the 'Crate' #11 container.
+[04:27:32]	Vasili Sukinov closed the 'Crate' #11 container.
+[04:27:37]	James Williams has taken 12 damage from M007.
+[04:27:38]	Vasili Sukinov has spawned 'models/props_c17/shelfunit01a.mdl'.
+[04:27:43]	Vasili Sukinov has spawned 'models/props_junk/wood_crate002a.mdl'.
+[04:27:43]	James Williams has taken 182 damage from worldspawn.
+[04:27:43]	worldspawn has killed James Williams.
+[04:27:43]	Samuel Hubaka the second has taken 162 damage from worldspawn.
+[04:27:43]	worldspawn has killed Samuel Hubaka the second.
+[04:27:47]	M007 exited observer.
+[04:27:52]	Vasili Sukinov has spawned 'models/props_c17/FurnitureDresser001a.mdl'.
+[04:27:52]	Jack Williams ran 'Open' on item 'Ration' (#29)
+[04:27:52]	Jack Williams has gained a 'Supplements' #31.
+[04:27:52]	Jack Williams has gained a 'Breen's Water' #32.
+[04:27:52]	Jack Williams has gained 30 tokens.
+[04:27:53]	Jack Williams ran 'Open' on item 'Ration' (#30)
+[04:27:53]	Jack Williams has gained a 'Supplements' #33.
+[04:27:53]	Jack Williams has gained a 'Breen's Water' #34.
+[04:27:53]	Jack Williams has gained 30 tokens.
+[04:28:00]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[04:28:01]	[OOC] Jack Williams: my russians bitch
+[04:28:03]	James Williams opened the 'Crate' #11 container.
+[04:28:05]	James Williams closed the 'Crate' #11 container.
+[04:28:09]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[04:28:10]	[OOC] Vasili Sukinov: no my russians
+[04:28:10]	[OOC] M007: I can start a fucking storm
+[04:28:13]	M007 has taken 5 damage from Vasili Sukinov.
+[04:28:18]	[OOC] Jack Williams: make the zombies and give us diamond swords
+[04:28:24]	James Williams has spawned 'models/props_combine/breendesk.mdl'.
+[04:28:36]	[OOC] Jack Williams: give us guns
+[04:28:42]	[OOC] Vasili Sukinov: This server has like no addons
+[04:28:44]	M007 has taken 157 damage from worldspawn.
+[04:28:44]	worldspawn has killed M007.
+[04:28:53]	[OOC] Vasili Sukinov: Honestly fucking Helix is so much better than Impulse's apex
+[04:28:57]	Vasili Sukinov has spawned 'models/props_lab/blastdoor001c.mdl'.
+[04:29:01]	Jack Williams has taken 5 damage from ix_container.
+[04:29:05]	[OOC] M007: honestly?
+[04:29:08]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:10]	[OOC] Vasili Sukinov: Yes
+[04:29:13]	[OOC] Samuel Hubaka the second: penis
+[04:29:18]	[OOC] Jack Williams: gives us perms to spawn stuff innit
+[04:29:21]	[OOC] Vasili Sukinov: There are some aspects of Impulse I like more than Helix
+[04:29:24]	Samuel Hubaka the second opened the 'Crate' #11 container.
+[04:29:27]	Samuel Hubaka the second closed the 'Crate' #11 container.
+[04:29:37]	M007 has spawned 'models/props_junk/ibeam01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel02a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/wood_fence02a_board01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_rooftop/gutter_pipe_128.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_rooftop/gutter_pipe_128.mdl'.
+[04:29:37]	M007 has spawned 'models/props_rooftop/gutter_pipe_128.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/garbage_newspaper001a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_c17/furnituremattress001a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/ibeam01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/trashdumpster02b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/trashdumpster02b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/ibeam01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_rooftop/gutter_pipe_128.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/ibeam01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/cinderblock01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/metal_panel01a.mdl'.
+[04:29:37]	M007 has spawned 'models/props_junk/trashdumpster02b.mdl'.
+[04:29:37]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_debris/metal_panel02a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/garbage_milkcarton002a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/glassbottle01a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/garbage_coffeemug001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_c17/oildrum001.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/garbage_metalcan001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/garbage_metalcan001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/cinderblock01a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/cinderblock01a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/cinderblock01a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_c17/furnituredrawer001a_chunk02.mdl'.
+[04:29:38]	M007 has spawned 'models/props_c17/furnituremattress001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/cinderblock01a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_lab/cactus.mdl'.
+[04:29:38]	M007 has spawned 'models/props_c17/furnituremattress001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_interiors/pot02a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_rooftop/gutter_pipe_128.mdl'.
+[04:29:38]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/garbage_carboard002a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_c17/furniturecouch001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_wasteland/cafeteria_bench001a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_debris/metal_panel02a.mdl'.
+[04:29:38]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:38]	M007 has spawned 'models/props_junk/trashdumpster02b.mdl'.
+[04:29:38]	M007 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[04:29:38]	M007 has spawned 'models/props_debris/wood_board05a.mdl'.
+[04:29:47]	[OOC] Jack Williams: mfw cant even use toolgun
+[04:30:03]	[OOC] Vasili Sukinov: Toolgun no worky at all
+[04:30:41]	Jack Williams has taken 6 damage from Samuel Hubaka the second.
+[04:30:42]	Jack Williams has taken 6 damage from Samuel Hubaka the second.
+[04:30:42]	Jack Williams has taken 6 damage from Samuel Hubaka the second.
+[04:30:45]	M007 used command '/CharGiveFlag jack e'.
+[04:30:50]	Jack Williams has spawned 'models/props_c17/Lockers001a.mdl'.
+[04:30:51]	M007 used command '/CharGiveFlag jack p'.
+[04:31:01]	Jack Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[04:31:06]	[ME] Vasili Sukinov: breathes
+[04:31:06]	[ME] James Williams: Breaths
+[04:31:08]	[ME] Samuel Hubaka the second: raises fists
+[04:31:09]	James Williams rolled 0 out of 100.
+[04:31:09]	James Williams used command '/Roll'.
+[04:31:11]	[ME] Jack Williams: breaths
+[04:31:14]	[ME] Vasili Sukinov: raises arm
+[04:31:14]	Samuel Hubaka the second rolled 0 out of 100.
+[04:31:14]	Samuel Hubaka the second used command '/Roll'.
+[04:31:14]	Jack Williams rolled 16 out of 100.
+[04:31:14]	Jack Williams used command '/Roll'.
+[04:31:14]	[ME] M007: dies of insomnia
+[04:31:16]	Vasili Sukinov rolled 74 out of 100.
+[04:31:16]	Vasili Sukinov used command '/Roll'.
+[04:31:27]	Vasili Sukinov opened the 'Dumpster' #11 container.
+[04:31:27]	M007 rolled 28 out of 100.
+[04:31:27]	M007 used command '/Roll'.
+[04:31:27]	Vasili Sukinov closed the 'Dumpster' #11 container.
+[04:31:28]	M007 has taken 159 damage from worldspawn.
+[04:31:28]	worldspawn has killed M007.
+[04:31:29]	Vasili Sukinov opened the 'Dumpster' #11 container.
+[04:31:31]	Vasili Sukinov closed the 'Dumpster' #11 container.
+[04:31:34]	[ME] Jack Williams: knocks the shit out of the guy infront of him
+[04:31:35]	Jack Williams rolled 34 out of 100.
+[04:31:35]	Jack Williams used command '/Roll'.
+[04:31:35]	[ME] Samuel Hubaka the second: Samuel uses puch it does mild damage
+[04:31:37]	[ME] Vasili Sukinov: kills everyone
+[04:31:37]	Jack Williams has taken 6 damage from Samuel Hubaka the second.
+[04:31:38]	Vasili Sukinov rolled 85 out of 100.
+[04:31:38]	Vasili Sukinov used command '/Roll'.
+[04:31:39]	Samuel Hubaka the second has taken 6 damage from Jack Williams.
+[04:31:48]	Samuel Hubaka the second rolled 95 out of 100.
+[04:31:48]	Samuel Hubaka the second used command '/Roll'.
+[04:31:50]	[ME] Jack Williams: punch
+[04:31:50]	Jack Williams has taken 6 damage from Samuel Hubaka the second.
+[04:31:51]	Jack Williams has taken 6 damage from Vasili Sukinov.
+[04:31:54]	James Williams has taken 38 damage from M007.
+[04:31:54]	James Williams has taken 150 damage from M007.
+[04:31:54]	M007 has killed James Williams with weapon_flechettegun.
+[04:32:00]	Jack Williams has taken 150 damage from M007.
+[04:32:00]	M007 has killed Jack Williams with weapon_flechettegun.
+[04:32:01]	Vasili Sukinov has taken 150 damage from M007.
+[04:32:01]	M007 has killed Vasili Sukinov with weapon_flechettegun.
+[04:32:15]	James Williams has taken 38 damage from M007.
+[04:32:16]	James Williams has taken 27 damage from worldspawn.
+[04:32:22]	James Williams opened the 'Locker' #11 container.
+[04:32:22]	James Williams closed the 'Locker' #11 container.
+[04:32:23]	James Williams opened the 'Locker' #11 container.
+[04:32:25]	James Williams closed the 'Locker' #11 container.
+[04:32:27]	Jack Williams has taken 150 damage from M007.
+[04:32:27]	M007 has killed Jack Williams with weapon_rpg.
+[04:32:30]	M007 has taken 53 damage from M007.
+[04:32:30]	Vasili Sukinov has taken 126 damage from M007.
+[04:32:30]	M007 has killed Vasili Sukinov with weapon_rpg.
+[04:32:31]	M007 has taken 17 damage from worldspawn.
+[04:33:17]	Cabbage9341™ has connected.
+[04:33:18]	Tzar has connected.
+[04:33:26]	AuraKille has connected.
+[04:33:30]	Wakeful has connected.
+[04:33:30]	Optical has connected.
+[04:33:41]	Tzar loaded the character 'M007'
+[04:33:50]	AuraKille loaded the character 'Vasili Sukinov'
+[04:33:52]	Wakeful loaded the character 'Samuel Hubaka the second'
+[04:33:53]	M007 has taken 136 damage from M007.
+[04:33:53]	M007 has killed M007.
+[04:33:53]	Samuel Hubaka the second has taken 73 damage from M007.
+[04:33:53]	Optical loaded the character 'James Williams'
+[04:34:01]	Cabbage9341™ loaded the character 'Jack Williams'
+[04:34:14]	[Y] Jack Williams: FUCK YOU .
+[04:34:17]	M007 entered observer.
+[04:34:19]	M007 exited observer.
+[04:34:26]	M007 has taken 106 damage from M007.
+[04:34:26]	M007 has killed M007.
+[04:34:33]	Samuel Hubaka the second has taken 1 damage from door_comb_1_4.
+[04:34:33]	Samuel Hubaka the second has taken 1 damage from door_comb_1_4.
+[04:34:33]	Samuel Hubaka the second has taken 1 damage from door_comb_1_5.
+[04:35:00]	M007 exited observer.
+[04:35:12]	Jack Williams has taken 1 damage from door_comb_1_10.
+[04:35:29]	Vasili Sukinov used command '/Broadcast Hello citizens of I17'.
+[04:35:46]	James Williams has taken 125 damage from M007.
+[04:35:46]	M007 has killed James Williams with weapon_rpg.
+[04:35:46]	M007 has taken 22 damage from M007.
+[04:35:50]	M007 has taken 44 damage from M007.
+[04:35:53]	Samuel Hubaka the second has taken 107 damage from M007.
+[04:35:53]	M007 has taken 4 damage from M007.
+[04:36:19]	[OOC] Jack Williams: it's unique :tf:
+[04:36:51]	M007 set walkSpeed to '500'.
+[04:36:59]	M007 exited observer.
+[04:37:07]	Wakeful created the character 'Samuel Hubaka the third'
+[04:37:09]	M007 set staminaDrain to '0'.
+[04:37:12]	M007 set walkRatio to '1'.
+[04:37:17]	James Williams has taken 6 damage from Jack Williams.
+[04:37:18]	M007 set runSpeed to '500'.
+[04:37:18]	James Williams has taken 6 damage from Jack Williams.
+[04:37:19]	James Williams has taken 6 damage from Jack Williams.
+[04:37:20]	James Williams has taken 6 damage from Jack Williams.
+[04:37:24]	James Williams has taken 6 damage from Jack Williams.
+[04:37:24]	M007 set walkSpeed to '308'.
+[04:37:25]	James Williams has taken 6 damage from Jack Williams.
+[04:37:26]	James Williams has taken 6 damage from Jack Williams.
+[04:37:30]	Jack Williams has taken 16 damage from M007.
+[04:37:31]	Jack Williams has taken 28 damage from M007.
+[04:37:35]	Wakeful (STEAM_0:0:237114985) has disconnected.
+[04:37:50]	M007 has taken 6 damage from Jack Williams.
+[04:37:51]	M007 has taken 6 damage from Jack Williams.
+[04:37:54]	M007 has taken 6 damage from Jack Williams.
+[04:37:55]	M007 has taken 6 damage from Jack Williams.
+[04:37:56]	M007 has taken 6 damage from Jack Williams.
+[04:37:57]	M007 has taken 6 damage from Jack Williams.
+[04:37:57]	Jack Williams has killed M007 with ix_hands.
+[04:38:12]	M007 entered observer.
+[04:38:14]	M007 exited observer.
+[04:38:19]	M007 entered observer.
+[04:38:21]	M007 exited observer.
+[04:38:27]	[OOC] Jack Williams: SHITTY SCANNERS??
+[04:38:41]	M007 exited observer.
+[04:39:26]	M007 entered observer.
+[04:39:27]	M007 exited observer.
+[04:39:29]	M007 entered observer.
+[04:39:29]	M007 exited observer.
+[04:39:57]	M007 entered observer.
+[04:40:03]	M007 exited observer.
+[04:40:17]	Wakeful has connected.
+[04:40:19]	M007 has taken 6 damage from Jack Williams.
+[04:40:20]	M007 has taken 6 damage from Jack Williams.
+[04:40:22]	Jack Williams has taken 10 damage from M007.
+[04:40:26]	Jack Williams has taken 10 damage from M007.
+[04:40:29]	Jack Williams has taken 10 damage from M007.
+[04:40:33]	Jack Williams has taken 10 damage from M007.
+[04:40:33]	Jack Williams has taken 10 damage from M007.
+[04:40:36]	Wakeful loaded the character 'Samuel Hubaka the third'
+[04:40:36]	Jack Williams has taken 10 damage from M007.
+[04:40:36]	M007 has killed Jack Williams with weapon_crowbar.
+[04:40:50]	M007 entered observer.
+[04:40:51]	M007 exited observer.
+[04:40:51]	M007 entered observer.
+[04:40:52]	M007 exited observer.
+[04:40:53]	M007 entered observer.
+[04:40:53]	M007 exited observer.
+[04:41:04]	James Williams has spawned a 'Vehicle [633][prop_vehicle_jeep_old]'.
+[04:41:10]	M007 has taken 6 damage from Jack Williams.
+[04:41:11]	M007 has taken 6 damage from Jack Williams.
+[04:41:11]	M007 has taken 6 damage from Jack Williams.
+[04:41:12]	M007 has taken 6 damage from Jack Williams.
+[04:41:13]	M007 has taken 6 damage from Jack Williams.
+[04:41:15]	[OOC] Vasili Sukinov: Sad
+[04:41:17]	Jack Williams has taken 10 damage from M007.
+[04:41:17]	Jack Williams has taken 10 damage from M007.
+[04:41:18]	Jack Williams has taken 10 damage from M007.
+[04:41:26]	Jack Williams has taken 10 damage from M007.
+[04:43:18]	M007 has taken 133 damage from M007.
+[04:43:18]	M007 has killed M007.
+[04:44:17]	M007 entered observer.
+[04:44:18]	M007 exited observer.
+[04:44:22]	M007 entered observer.
+[04:44:22]	M007 exited observer.
+[04:44:30]	M007 entered observer.
+[04:44:31]	M007 exited observer.
+[04:44:46]	M007 has taken 126 damage from M007.
+[04:44:46]	M007 has killed M007.
+[04:45:14]	Optical (STEAM_0:0:460042086) has disconnected.
+[04:45:31]	[OOC] Samuel Hubaka the third: pp
+[04:46:31]	Samuel Hubaka the third has taken 2 damage from worldspawn.
+[04:46:45]	[OOC] Samuel Hubaka the third: joined during AJ omg cant believe this
+[04:47:09]	M007 set music to '"music/hl2_song2.mp3"'.
+[04:47:09]	[OOC] Vasili Sukinov: Yup 
+[04:47:20]	[OOC] Vasili Sukinov: I activated it because of all the bebels
+[04:47:51]	M007 used command '/CharSetModel m007 models/player/combine_soldier.mdl'.
+[04:48:04]	M007 has taken 130 damage from M007.
+[04:48:04]	M007 has killed M007.
+[04:48:25]	M007 used command '/CharSetModel m007 models/player/police.mdl'.
+[04:48:29]	M007 has spawned a 'Weapon [372][weapon_smg1]'.
+[04:48:30]	M007 has spawned a 'Weapon [383][weapon_smg1]'.
+[04:48:41]	[OOC] M007: auto judgement time
+[04:48:46]	[OOC] Vasili Sukinov: lol
+[04:48:51]	[OOC] M007: where yall at
+[04:48:57]	[OOC] Vasili Sukinov: Let me turn it off right quick, all those bebels got annihiliated from OTA
+[04:49:24]	[OOC] Vasili Sukinov: M007 TP to me
+[04:49:49]	Simpsons Vice City TF2EASY.COM has connected.
+[04:49:53]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:53]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 24 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	Vasili Sukinov has taken 12 damage from M007.
+[04:49:54]	M007 has killed Vasili Sukinov with weapon_smg1.
+[04:49:59]	[OOC] Vasili Sukinov: Sad
+[04:50:24]	M007 used command '/CharSetModel jack models/player/soldier_stripped.mdl'.
+[04:50:51]	Simpsons Vice City TF2EASY.COM created the character 'Anthonnia Redwood'
+[04:50:51]	Anthonnia Redwood has gained a 'Suitcase' #35.
+[04:50:51]	Anthonnia Redwood has gained a 'Citizen ID' #36.
+[04:50:52]	Simpsons Vice City TF2EASY.COM loaded the character 'Anthonnia Redwood'
+[04:50:52]	M007 used command '/AreaEdit'.
+[04:51:08]	M007 has added area "Gay zone".
+[04:51:13]	M007 used command '/AreaEdit'.
+[04:51:20]	[OOC] Vasili Sukinov: It should of been cum zone
+[04:51:28]	M007 used command '/AreaEdit'.
+[04:51:35]	M007 used command '/AreaEdit'.
+[04:51:36]	Vasili Sukinov has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[04:51:42]	[OOC] Samuel Hubaka the third: pls can i hav cp
+[04:51:49]	Vasili Sukinov has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[04:51:49]	[OOC] Anthonnia Redwood: gimme cp
+[04:51:52]	Vasili Sukinov opened the 'Metal Cabinet' #14 container.
+[04:51:54]	Vasili Sukinov closed the 'Metal Cabinet' #14 container.
+[04:51:57]	[OOC] Samuel Hubaka the third: ples
+[04:51:58]	Vasili Sukinov ran 'Eat' on item 'Supplements' (#22)
+[04:51:59]	Vasili Sukinov ran 'Drink' on item 'Breen's Water' (#23)
+[04:52:03]	[OOC] Anthonnia Redwood: actually gimme smg
+[04:52:08]	[OOC] Vasili Sukinov: No
+[04:52:11]	Samuel Hubaka the third opened the 'Metal Cabinet' #14 container.
+[04:52:11]	Samuel Hubaka the third closed the 'Metal Cabinet' #14 container.
+[04:52:12]	Vasili Sukinov has spawned 'models/Combine_Helicopter/helicopter_bomb01.mdl'.
+[04:52:13]	Samuel Hubaka the third opened the 'Metal Cabinet' #14 container.
+[04:52:15]	Anthonnia Redwood has taken 1 damage from door_comb_1_1.
+[04:52:15]	Samuel Hubaka the third closed the 'Metal Cabinet' #14 container.
+[04:52:22]	M007 has spawned a 'Entity [669][npc_grenade_frag]'.
+[04:52:31]	Jack Williams has taken 23 damage from M007.
+[04:52:31]	Vasili Sukinov has taken 46 damage from M007.
+[04:52:39]	Jack Williams has taken 69 damage from M007.
+[04:52:39]	Samuel Hubaka the third has taken 134 damage from M007.
+[04:52:51]	Samuel Hubaka the third has taken 32 damage from M007.
+[04:52:57]	Samuel Hubaka the third has taken 33 damage from M007.
+[04:53:09]	M007 has spawned a 'Weapon [729][weapon_smg1]'.
+[04:53:09]	M007 has spawned a 'Weapon [759][weapon_smg1]'.
+[04:53:09]	M007 has spawned a 'Weapon [760][weapon_smg1]'.
+[04:53:09]	M007 has spawned a 'Weapon [762][weapon_smg1]'.
+[04:53:09]	M007 has spawned a 'Weapon [763][weapon_smg1]'.
+[04:53:10]	M007 has spawned a 'Weapon [764][weapon_smg1]'.
+[04:53:10]	M007 has spawned a 'Weapon [765][weapon_smg1]'.
+[04:53:10]	M007 has spawned a 'Weapon [766][weapon_smg1]'.
+[04:53:10]	M007 has spawned a 'Weapon [767][weapon_smg1]'.
+[04:53:10]	M007 has spawned a 'Weapon [768][weapon_smg1]'.
+[04:53:10]	M007 has spawned a 'Weapon [769][weapon_smg1]'.
+[04:53:11]	M007 has spawned a 'Weapon [770][weapon_smg1]'.
+[04:53:11]	M007 has spawned a 'Weapon [771][weapon_smg1]'.
+[04:53:11]	M007 has spawned a 'Weapon [795][weapon_smg1]'.
+[04:53:11]	M007 has spawned a 'Weapon [797][weapon_smg1]'.
+[04:53:11]	M007 has spawned a 'Weapon [882][weapon_smg1]'.
+[04:53:11]	M007 has spawned a 'Weapon [910][weapon_smg1]'.
+[04:53:12]	M007 has spawned a 'Weapon [534][weapon_smg1]'.
+[04:53:12]	M007 has spawned a 'Weapon [760][weapon_smg1]'.
+[04:53:12]	M007 has spawned a 'Weapon [911][weapon_smg1]'.
+[04:53:12]	M007 has spawned a 'Weapon [912][weapon_smg1]'.
+[04:53:12]	M007 has spawned a 'Weapon [931][weapon_smg1]'.
+[04:53:12]	M007 has spawned a 'Weapon [932][weapon_smg1]'.
+[04:53:13]	M007 has spawned a 'Weapon [934][weapon_smg1]'.
+[04:53:18]	M007 has spawned a 'Weapon [760][weapon_smg1]'.
+[04:53:18]	M007 has spawned a 'Weapon [767][weapon_smg1]'.
+[04:53:18]	M007 has spawned a 'Weapon [769][weapon_smg1]'.
+[04:53:19]	M007 has spawned a 'Weapon [770][weapon_smg1]'.
+[04:53:19]	M007 has spawned a 'Weapon [771][weapon_smg1]'.
+[04:53:19]	M007 has spawned a 'Weapon [795][weapon_smg1]'.
+[04:53:19]	M007 has spawned a 'Weapon [882][weapon_smg1]'.
+[04:53:19]	M007 has spawned a 'Weapon [910][weapon_smg1]'.
+[04:53:19]	M007 has spawned a 'Weapon [931][weapon_smg1]'.
+[04:53:20]	M007 has spawned a 'Weapon [950][weapon_smg1]'.
+[04:53:24]	M007 has taken 24 damage from Jack Williams.
+[04:53:25]	M007 has taken 24 damage from Jack Williams.
+[04:53:25]	M007 has taken 24 damage from Jack Williams.
+[04:53:26]	M007 has taken 3 damage from Jack Williams.
+[04:53:26]	M007 has taken 3 damage from Jack Williams.
+[04:53:26]	M007 has taken 24 damage from Jack Williams.
+[04:53:27]	M007 has taken 24 damage from Jack Williams.
+[04:53:27]	M007 has taken 3 damage from Jack Williams.
+[04:53:27]	M007 has taken 3 damage from Jack Williams.
+[04:53:27]	M007 has taken 12 damage from Jack Williams.
+[04:53:27]	M007 has taken 12 damage from Jack Williams.
+[04:53:27]	M007 has taken 12 damage from Jack Williams.
+[04:53:27]	M007 has taken 3 damage from Jack Williams.
+[04:53:27]	M007 has taken 24 damage from Jack Williams.
+[04:53:27]	Jack Williams has taken 3 damage from M007.
+[04:53:27]	M007 has taken 24 damage from Jack Williams.
+[04:53:27]	M007 has taken 24 damage from Jack Williams.
+[04:53:27]	Jack Williams has killed M007 with weapon_smg1.
+[04:53:30]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:30]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:30]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:31]	Vasili Sukinov has taken 3 damage from Jack Williams.
+[04:53:31]	Jack Williams has taken 3 damage from Vasili Sukinov.
+[04:53:31]	Vasili Sukinov has taken 24 damage from Jack Williams.
+[04:53:32]	Vasili Sukinov has taken 36 damage from Jack Williams.
+[04:53:32]	Jack Williams has taken 3 damage from Vasili Sukinov.
+[04:53:34]	Vasili Sukinov has taken 12 damage from Jack Williams.
+[04:53:34]	Vasili Sukinov has taken 3 damage from Jack Williams.
+[04:53:34]	Vasili Sukinov has taken 24 damage from Jack Williams.
+[04:53:34]	Vasili Sukinov has taken 12 damage from Jack Williams.
+[04:53:34]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 3 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 3 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 24 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 24 damage from Vasili Sukinov.
+[04:53:35]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:36]	Jack Williams has taken 3 damage from Vasili Sukinov.
+[04:53:37]	Vasili Sukinov has taken 12 damage from Jack Williams.
+[04:53:38]	Vasili Sukinov has taken 12 damage from Jack Williams.
+[04:53:39]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:39]	Jack Williams has taken 3 damage from Vasili Sukinov.
+[04:53:39]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:40]	Jack Williams has taken 27 damage from Vasili Sukinov.
+[04:53:41]	Jack Williams has taken 12 damage from Vasili Sukinov.
+[04:53:41]	Vasili Sukinov has killed Jack Williams with weapon_smg1.
+[04:53:42]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:42]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:42]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:42]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:42]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:42]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:42]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:42]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:42]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:43]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:43]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:43]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:43]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:43]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:43]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:43]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:43]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:43]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:44]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:44]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:44]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:44]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:44]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:44]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:44]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:44]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:44]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:44]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:44]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:45]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:45]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:45]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:45]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:45]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:45]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:45]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:45]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:45]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:46]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:46]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:46]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:46]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:46]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:46]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:46]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:46]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:46]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:46]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:46]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:47]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:47]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:47]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:47]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:47]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:47]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:47]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:47]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:47]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:47]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:47]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:48]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:48]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:48]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:48]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:48]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:48]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:48]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:48]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:49]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:49]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:49]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:49]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:49]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:49]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:49]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:49]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:49]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:49]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:49]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:50]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:50]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:50]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:50]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:50]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:50]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:50]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:50]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:50]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:51]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:51]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:51]	Vasili Sukinov has taken 1 damage from entityflame.
+[04:53:51]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:51]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:51]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:51]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:51]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:51]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:53:51]	Samuel Hubaka the third has taken 1 damage from entityflame.
+[04:53:51]	Anthonnia Redwood has taken 1 damage from entityflame.
+[04:54:01]	M007 used command '/BecomeClass yes'.
+[04:54:40]	Anthonnia Redwood has taken 6 damage from Vasili Sukinov.
+[04:54:44]	Samuel Hubaka the third has taken 25 damage from M007.
+[04:54:44]	M007 has killed Samuel Hubaka the third with ix_hands.
+[04:55:05]	Jack Williams opened the 'Metal Cabinet' #14 container.
+[04:55:08]	Jack Williams closed the 'Metal Cabinet' #14 container.
+[04:56:01]	[ME] Anthonnia Redwood: does the whip nae nae
+[04:56:44]	[OOC] Jack Williams: brb
+[04:56:46]	Cabbage9341™ (STEAM_0:0:227773634) has disconnected.
+[04:56:54]	M007 used command '/Dispatch Gay'.
+[04:57:02]	M007 entered observer.
+[04:57:04]	M007 exited observer.
+[04:57:05]	M007 entered observer.
+[04:57:05]	M007 exited observer.
+[04:57:06]	M007 entered observer.
+[04:57:06]	M007 exited observer.
+[04:57:06]	M007 entered observer.
+[04:57:06]	M007 exited observer.
+[04:57:06]	M007 entered observer.
+[04:57:07]	M007 exited observer.
+[04:57:07]	M007 entered observer.
+[04:57:07]	M007 exited observer.
+[04:58:20]	[OOC] Anthonnia Redwood: tzar take me to nexus
+[04:58:31]	[OOC] Samuel Hubaka the third: gun pls
+[04:58:56]	[OOC] M007: bouuta pull a shadty
+[04:58:59]	M007 has spawned a 'Weapon [244][weapon_rpg]'.
+[04:58:59]	M007 has spawned a 'Weapon [247][weapon_rpg]'.
+[04:58:59]	M007 has spawned a 'Weapon [297][weapon_rpg]'.
+[04:58:59]	M007 has spawned a 'Weapon [299][weapon_rpg]'.
+[04:59:00]	M007 has spawned a 'Weapon [402][weapon_rpg]'.
+[04:59:00]	M007 has spawned a 'Weapon [436][weapon_rpg]'.
+[04:59:00]	M007 has spawned a 'Weapon [534][weapon_rpg]'.
+[04:59:00]	M007 has spawned a 'Weapon [576][weapon_rpg]'.
+[04:59:00]	M007 has spawned a 'Weapon [579][weapon_rpg]'.
+[04:59:01]	M007 has spawned a 'Weapon [581][weapon_rpg]'.
+[04:59:01]	M007 has spawned a 'Weapon [668][weapon_rpg]'.
+[04:59:01]	M007 has spawned a 'Weapon [687][weapon_rpg]'.
+[04:59:01]	M007 has spawned a 'Weapon [693][weapon_rpg]'.
+[04:59:01]	M007 has spawned a 'Weapon [729][weapon_rpg]'.
+[04:59:01]	M007 has spawned a 'Weapon [763][weapon_rpg]'.
+[04:59:02]	M007 has spawned a 'Weapon [766][weapon_rpg]'.
+[04:59:02]	M007 has spawned a 'Weapon [767][weapon_rpg]'.
+[04:59:02]	M007 has spawned a 'Weapon [768][weapon_rpg]'.
+[04:59:02]	M007 has spawned a 'Weapon [769][weapon_rpg]'.
+[04:59:02]	M007 has spawned a 'Weapon [770][weapon_rpg]'.
+[04:59:02]	M007 has spawned a 'Weapon [771][weapon_rpg]'.
+[04:59:03]	M007 has spawned a 'Weapon [795][weapon_rpg]'.
+[04:59:03]	M007 has spawned a 'Weapon [797][weapon_rpg]'.
+[04:59:03]	M007 has spawned a 'Weapon [882][weapon_rpg]'.
+[04:59:05]	M007 has spawned a 'Weapon [910][weapon_shotgun]'.
+[04:59:05]	M007 has spawned a 'Weapon [912][weapon_shotgun]'.
+[04:59:05]	M007 has spawned a 'Weapon [931][weapon_shotgun]'.
+[04:59:05]	M007 has spawned a 'Weapon [932][weapon_shotgun]'.
+[04:59:06]	M007 has spawned a 'Weapon [934][weapon_shotgun]'.
+[04:59:06]	M007 has spawned a 'Weapon [950][weapon_shotgun]'.
+[04:59:06]	M007 has spawned a 'Weapon [977][weapon_shotgun]'.
+[04:59:06]	M007 has spawned a 'Weapon [978][weapon_shotgun]'.
+[04:59:06]	M007 has spawned a 'Weapon [990][weapon_shotgun]'.
+[04:59:06]	M007 has spawned a 'Weapon [991][weapon_shotgun]'.
+[04:59:07]	M007 has spawned a 'Weapon [992][weapon_shotgun]'.
+[04:59:07]	M007 has spawned a 'Weapon [993][weapon_shotgun]'.
+[04:59:07]	M007 has spawned a 'Weapon [994][weapon_shotgun]'.
+[04:59:07]	M007 has spawned a 'Weapon [995][weapon_shotgun]'.
+[04:59:07]	M007 has spawned a 'Weapon [996][weapon_shotgun]'.
+[04:59:09]	M007 has spawned a 'Weapon [997][weapon_ar2]'.
+[04:59:09]	M007 has spawned a 'Weapon [999][weapon_ar2]'.
+[04:59:09]	M007 has spawned a 'Weapon [1000][weapon_ar2]'.
+[04:59:09]	M007 has spawned a 'Weapon [1001][weapon_ar2]'.
+[04:59:10]	M007 has spawned a 'Weapon [1009][weapon_ar2]'.
+[04:59:10]	M007 has spawned a 'Weapon [1013][weapon_ar2]'.
+[04:59:10]	M007 has spawned a 'Weapon [1014][weapon_ar2]'.
+[04:59:10]	M007 has spawned a 'Weapon [1015][weapon_ar2]'.
+[04:59:10]	M007 has spawned a 'Weapon [1016][weapon_ar2]'.
+[04:59:11]	M007 has spawned a 'Weapon [1026][weapon_ar2]'.
+[04:59:25]	Vasili Sukinov has taken 9 damage from Anthonnia Redwood.
+[04:59:48]	Samuel Hubaka the third has taken 154 damage from worldspawn.
+[04:59:48]	worldspawn has killed Samuel Hubaka the third.
+[04:59:56]	Optical has connected.
+[04:59:59]	Vasili Sukinov has taken 22 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 22 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[04:59:59]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:00]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 22 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Vasili Sukinov has taken 11 damage from Anthonnia Redwood.
+[05:00:01]	Anthonnia Redwood has killed Vasili Sukinov with weapon_ar2.
+[05:00:09]	M007 has taken 57 damage from Anthonnia Redwood.
+[05:00:12]	Anthonnia Redwood has taken 3 damage from Samuel Hubaka the third.
+[05:00:12]	Samuel Hubaka the third has taken 24 damage from Anthonnia Redwood.
+[05:00:14]	Anthonnia Redwood has taken 11 damage from Samuel Hubaka the third.
+[05:00:18]	Optical loaded the character 'James Williams'
+[05:00:22]	Optical (STEAM_0:0:460042086) has disconnected.
+[05:00:26]	Samuel Hubaka the third has taken 139 damage from worldspawn.
+[05:00:26]	worldspawn has killed Samuel Hubaka the third.
+[05:00:26]	Anthonnia Redwood has taken 127 damage from worldspawn.
+[05:00:26]	worldspawn has killed Anthonnia Redwood.
+[05:00:34]	[OOC] M007: 2 citizens one bolt
+[05:00:45]	[OOC] Anthonnia Redwood: gimme ota whitelist
+[05:00:47]	M007 has taken 94 damage from worldspawn.
+[05:00:47]	worldspawn has killed M007.
+[05:00:54]	[OOC] M007: I dont know how
+[05:01:16]	M007 used command '/ViewObjectives'.
+[05:01:20]	Tzar (STEAM_0:0:140210729) has disconnected.
+[05:48:09]	Tzar has connected.
+[05:50:17]	Tzar (STEAM_0:0:140210729) has disconnected.
+[13:31:17]	Tzar has connected.
+[13:31:31]	Tzar loaded the character 'M007'
+[13:33:22]	Tzar has connected.
+[13:36:07]	Tzar loaded the character 'M007'
+[13:36:49]	M007 has gained a 'Flashlight' #37.
+[13:36:49]	M007 used command '/CharGiveItem m007 flashlight 1'.
+[13:39:43]	M007 used command '/CharSetClass m007 metropolice'.
+[13:40:27]	M007 used command '/DoorSetFaction Metropolice'.
+[13:41:28]	M007 used command '/MapSceneAdd'.
+[13:41:33]	M007 used command '/MapSceneRemove'.
+[13:41:40]	M007 used command '/MapSceneRemove'.
+[13:41:48]	M007 used command '/MapSceneAdd'.
+[13:42:03]	M007 used command '/MapSceneAdd'.
+[13:42:12]	M007 used command '/MapSceneAdd'.
+[13:42:24]	M007 used command '/MapSceneAdd'.
+[13:42:33]	M007 used command '/MapSceneAdd'.
+[13:42:51]	M007 used command '/MapSceneAdd'.
+[13:43:53]	M007 used command '/MapSceneAdd'.
+[13:44:05]	M007 used command '/MapSceneAdd'.
+[13:45:30]	M007 has disabled the permakill plugin for next restart.
+[13:45:39]	M007 has disabled the spawnsaver plugin for next restart.
+[13:46:03]	M007 used command '/Event cool'.
+[13:46:49]	M007 has spawned a 'Entity [75][ix_rationdispenser]'.
+[13:47:23]	M007 has spawned a 'Entity [80][ix_rationdispenser]'.
+[13:48:57]	M007 used command '/DoorSetFaction Metropolice'.
+[13:49:29]	M007 has spawned a 'Entity [602][ix_forcefield]'.
+[13:49:33]	M007 has spawned a 'Entity [602][ix_forcefield]'.
+[13:49:38]	M007 has spawned a 'Entity [602][ix_forcefield]'.
+[13:49:51]	M007 has spawned a 'Entity [602][ix_forcefield]'.
+[13:49:53]	M007 has spawned a 'Entity [604][ix_forcefield]'.
+[13:49:59]	M007 has spawned a 'Entity [602][ix_forcefield]'.
+[13:50:07]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:18]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:20]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:22]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:25]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:26]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:27]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:29]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:32]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:34]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:34]	M007 has spawned a 'Entity [605][ix_forcefield]'.
+[13:50:36]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:37]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:39]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:40]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:41]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:42]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:43]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:44]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:45]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:47]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:50:48]	M007 has spawned a 'Entity [603][ix_forcefield]'.
+[13:50:48]	M007 has spawned a 'Entity [74][ix_forcefield]'.
+[13:51:04]	M007 used command '/DoorSetFaction Metropolice'.
+[13:51:34]	M007 ran 'Open' on item 'Ration' (#38)
+[13:51:34]	M007 has gained a 'Supplements' #39.
+[13:51:34]	M007 has gained a 'Breen's Water' #40.
+[13:51:34]	M007 has gained 30 Tokens.
+[13:56:15]	M007 used command '/CharDesc'.
+[13:56:35]	M007 used command '/SpawnRemove'.
+[13:56:37]	M007 used command '/SpawnRemove'.
+[13:57:02]	M007 used command '/SpawnAdd Train1'.
+[13:57:16]	M007 used command '/SpawnAdd Train1 Citizen'.
+[13:57:20]	M007 used command '/SpawnAdd Citizen'.
+[13:57:29]	M007 used command '/SpawnAdd citizen'.
+[13:57:37]	M007 used command '/SpawnAdd citizen'.
+[13:57:44]	M007 used command '/SpawnAdd citizen'.
+[13:57:54]	M007 used command '/SpawnAdd citizen'.
+[13:58:06]	M007 used command '/SpawnAdd citizen'.
+[13:58:18]	M007 used command '/SpawnAdd citizen'.
+[13:58:21]	M007 used command '/SpawnAdd citizen'.
+[13:58:52]	M007 has spawned a 'Entity [76][ix_vendingmachine]'.
+[13:59:17]	M007 has spawned a 'Entity [76][ix_vendingmachine]'.
+[13:59:43]	M007 has spawned a 'Entity [76][ix_vendingmachine]'.
+[14:00:08]	M007 has spawned a 'Entity [610][ix_vendingmachine]'.
+[14:00:28]	M007 has spawned a 'Entity [610][ix_vendingmachine]'.
+[14:00:50]	M007 has lost 35 Tokens.
+[14:00:57]	M007 ran 'Drink' on item 'Special Breen's Water' (#41)
+[14:01:08]	M007 has spawned a 'Entity [610][ix_vendingmachine]'.
+[14:02:11]	M007 has spawned a 'Entity [610][ix_combinelock]'.
+[14:02:55]	M007 used command '/DoorSetOwnable true'.
+[14:03:16]	M007 used command '/DoorSetUnownable'.
+[14:03:22]	M007 used command '/DoorSetOwnable'.
+[14:03:29]	M007 used command '/DoorSetTitle'.
+[14:03:42]	M007 used command '/DoorSetTitle Fire Exit'.
+[14:03:56]	M007 used command '/DoorSetOwnable Back Room'.
+[14:04:03]	M007 used command '/DoorSetOwnable Entrance'.
+[14:04:07]	M007 used command '/DoorSetOwnable Entrance'.
+[14:04:17]	M007 used command '/DoorSetOwnable Store #2'.
+[14:04:29]	M007 used command '/DoorSetOwnable Store #1'.
+[14:04:32]	M007 used command '/DoorSetOwnable Store #1'.
+[14:04:44]	M007 has spawned a 'Entity [610][ix_vendingmachine]'.
+[14:05:03]	M007 used command '/DoorSetOwnable Store #3'.
+[14:05:08]	M007 used command '/DoorSetOwnable Back Room'.
+[14:05:29]	M007 used command '/DoorSetOwnable Store #4'.
+[14:05:32]	M007 used command '/DoorSetOwnable Store #4'.
+[14:05:43]	M007 used command '/DoorSetOwnable Entrance'.
+[14:05:45]	M007 used command '/DoorSetOwnable Entrance'.
+[14:06:03]	M007 used command '/DoorSetOwnable Store #5'.
+[14:06:09]	M007 has lost 20 Tokens.
+[14:06:09]	M007 has purchased a door.
+[14:06:09]	M007 used command '/DoorBuy'.
+[14:06:14]	M007 has gained 14 Tokens.
+[14:06:14]	M007 has sold a door.
+[14:06:14]	M007 used command '/DoorSell'.
+[14:06:22]	M007 used command '/DoorSetOwnable'.
+[14:06:24]	M007 has lost 20 Tokens.
+[14:06:24]	M007 has purchased a door.
+[14:06:24]	M007 used command '/DoorBuy'.
+[14:06:26]	M007 has gained 14 Tokens.
+[14:06:26]	M007 has sold a door.
+[14:06:26]	M007 used command '/DoorSell'.
+[14:06:30]	M007 used command '/DoorSetTitle'.
+[14:06:38]	M007 used command '/DoorSetOwnable'.
+[14:06:38]	M007 used command '/DoorSetOwnable'.
+[14:06:48]	M007 used command '/DoorSetOwnable'.
+[14:12:25]	M007 used command '/CharGiveItem m007 comlight 1'.
+[14:12:35]	Tzar (STEAM_0:0:140210729) has disconnected.
+[14:16:03]	Tzar has connected.
+[14:23:58]	BIG BOSS ROSS has connected.
+[14:29:30]	Tzar (STEAM_0:0:140210729) deleted character 'M007'
+[14:34:29]	Tzar created the character 'Czar Petrovich'
+[14:34:29]	Czar Petrovich has gained a 'Suitcase' #42.
+[14:34:29]	Czar Petrovich has gained a 'Flashlight' #43.
+[14:34:29]	Czar Petrovich has gained a 'Citizen ID' #44.
+[14:34:29]	Tzar loaded the character 'Czar Petrovich'
+[14:35:09]	BIG BOSS ROSS (STEAM_0:0:18005170) has disconnected.
+[14:45:01]	Czar Petrovich has gained a 'Comlight' #45.
+[14:45:01]	Czar Petrovich used command '/CharGiveItem czar comlight 1'.
+[14:45:23]	Czar Petrovich has taken 184 damage from worldspawn.
+[14:45:23]	worldspawn has killed Czar Petrovich.
+[14:49:14]	Czar Petrovich has spawned a 'Entity [624][item_ammo_pistol_large]'.
+[14:49:16]	Czar Petrovich has spawned a 'Entity [639][item_box_buckshot]'.
+[14:49:19]	Czar Petrovich has spawned a 'Entity [624][item_ammo_357_large]'.
+[14:49:21]	Czar Petrovich has spawned a 'Entity [624][item_ammo_ar2_large]'.
+[14:51:23]	Czar Petrovich has taken 131 damage from worldspawn.
+[14:51:23]	worldspawn has killed Czar Petrovich.
+[14:57:48]	Czar Petrovich has taken 55 damage from worldspawn.
+[14:57:52]	Czar Petrovich has taken 13 damage from worldspawn.
+[15:01:28]	Czar Petrovich has taken 33 damage from worldspawn.
+[15:01:28]	worldspawn has killed Czar Petrovich.
+[15:02:05]	Czar Petrovich set rationInterval to '347'.
+[15:02:09]	Czar Petrovich set rationInterval to '360'.
+[15:03:00]	Czar Petrovich used command '/CharGiveFlag t'.
+[15:03:12]	Czar Petrovich used command '/CharGiveFlag czar t'.
+[15:03:56]	Czar Petrovich set music to '"music/hl2_song14.mp3"'.
+[15:07:06]	Czar Petrovich set music to '"music/hl2_song7.mp3"'.
+[15:08:14]	Czar Petrovich used command '/CharGiveFlag czar p'.
+[15:09:11]	Czar Petrovich ran 'Open' on item 'Ration' (#46)
+[15:09:11]	Czar Petrovich has gained a 'Supplements' #47.
+[15:09:11]	Czar Petrovich has gained a 'Breen's Water' #48.
+[15:09:11]	Czar Petrovich has gained 30 Tokens.
+[15:09:21]	Czar Petrovich ran 'Eat' on item 'Supplements' (#47)
+[15:09:22]	Czar Petrovich ran 'Drink' on item 'Breen's Water' (#48)
+[15:11:58]	Czar Petrovich has taken 2 damage from worldspawn.
+[15:22:10]	Killa has connected.
+[15:22:34]	Killa created the character 'gfdgfdghtrg'
+[15:22:34]	gfdgfdghtrg has gained a 'Suitcase' #47.
+[15:22:34]	gfdgfdghtrg has gained a 'Flashlight' #48.
+[15:22:34]	gfdgfdghtrg has gained a 'Citizen ID' #49.
+[15:22:35]	Killa loaded the character 'gfdgfdghtrg'
+[15:22:48]	adsin15 has connected.
+[15:25:26]	adsin15 created the character 'James Sinclair'
+[15:25:26]	James Sinclair has gained a 'Suitcase' #50.
+[15:25:26]	James Sinclair has gained a 'Flashlight' #51.
+[15:25:26]	James Sinclair has gained a 'Citizen ID' #52.
+[15:25:26]	adsin15 loaded the character 'James Sinclair'
+[15:25:53]	[OOC] James Sinclair: holy shit
+[15:25:56]	[Y] James Sinclair: I am so fast.
+[15:26:06]	[OOC] gfdgfdghtrg: :D
+[15:26:09]	[OOC] James Sinclair: I am so fast
+[15:26:22]	Tzar has connected.
+[15:26:44]	gfdgfdghtrg has taken 5 damage from prop_physics.
+[15:26:47]	James Sinclair ran 'take' on item 'Ration' (#54)
+[15:26:47]	James Sinclair has gained a 'Ration' #54.
+[15:26:53]	James Sinclair ran 'take' on item 'Ration' (#53)
+[15:26:53]	James Sinclair has gained a 'Ration' #53.
+[15:27:15]	James Sinclair ran 'Open' on item 'Ration' (#53)
+[15:27:15]	James Sinclair has gained a 'Supplements' #55.
+[15:27:15]	James Sinclair has gained a 'Breen's Water' #56.
+[15:27:15]	James Sinclair has gained 30 Tokens.
+[15:27:17]	James Sinclair ran 'Open' on item 'Ration' (#54)
+[15:27:17]	James Sinclair has gained a 'Supplements' #57.
+[15:27:17]	James Sinclair has gained a 'Breen's Water' #58.
+[15:27:17]	James Sinclair has gained 30 Tokens.
+[15:27:19]	James Sinclair ran 'Drink' on item 'Breen's Water' (#56)
+[15:27:20]	James Sinclair ran 'Drink' on item 'Breen's Water' (#58)
+[15:27:21]	James Sinclair ran 'Eat' on item 'Supplements' (#55)
+[15:27:22]	James Sinclair ran 'Eat' on item 'Supplements' (#57)
+[15:28:08]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:13]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:13]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:14]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:14]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:15]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:15]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:16]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:17]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:17]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:18]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:19]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:19]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:20]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:20]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:21]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:22]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:22]	Tzar loaded the character 'Czar Petrovich'
+[15:28:22]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:25]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:26]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:28]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:29]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:30]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:30]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:31]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:32]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:32]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:33]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:34]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:34]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:35]	James Sinclair has taken 5 damage from gfdgfdghtrg.
+[15:28:37]	gfdgfdghtrg has taken 5 damage from James Sinclair.
+[15:28:48]	Czar Petrovich has spawned a 'Entity [749][item_healthkit]'.
+[15:28:49]	Czar Petrovich has spawned a 'Entity [750][item_healthkit]'.
+[15:28:51]	Czar Petrovich has spawned a 'Entity [749][item_healthkit]'.
+[15:28:51]	Czar Petrovich has spawned a 'Entity [750][item_healthkit]'.
+[15:29:04]	[OOC] Czar Petrovich: you can voicechat
+[15:29:06]	[OOC] Czar Petrovich: its enabled
+[15:29:13]	[OOC] James Sinclair: I dont use VC
+[15:29:21]	[OOC] gfdgfdghtrg: yeah me 2 lol
+[15:30:00]	Czar Petrovich has spawned a 'Weapon [755][weapon_shotgun]'.
+[15:30:05]	Czar Petrovich has spawned a 'Weapon [762][weapon_shotgun]'.
+[15:30:11]	Czar Petrovich has spawned a 'Weapon [755][weapon_shotgun]'.
+[15:30:16]	[OOC] Czar Petrovich: fight
+[15:31:59]	[OOC] gfdgfdghtrg: where are u
+[15:32:02]	[W] James Sinclair: Move.
+[15:32:19]	[OOC] James Sinclair: places
+[15:32:54]	gfdgfdghtrg has taken 19 damage from James Sinclair.
+[15:32:54]	James Sinclair has taken 19 damage from gfdgfdghtrg.
+[15:32:55]	James Sinclair has taken 28 damage from gfdgfdghtrg.
+[15:32:56]	gfdgfdghtrg has taken 12 damage from James Sinclair.
+[15:32:56]	James Sinclair has taken 28 damage from gfdgfdghtrg.
+[15:32:56]	gfdgfdghtrg has killed James Sinclair with weapon_shotgun.
+[15:33:02]	[OOC] James Sinclair: dayum
+[15:33:19]	[OOC] Czar Petrovich: lemme restart real quick 
+[15:33:22]	Tzar (STEAM_0:0:140210729) has disconnected.
+[16:16:22]	Tzar has connected.
+[16:16:49]	Tzar loaded the character 'Czar Petrovich'
+[16:17:09]	Czar Petrovich ran 'drop' on item 'Comlight' (#45)
+[16:17:12]	Czar Petrovich ran 'drop' on item 'Comlight' (#45)
+[16:17:13]	Czar Petrovich ran 'drop' on item 'Comlight' (#45)
+[16:17:14]	Czar Petrovich ran 'drop' on item 'Flashlight' (#43)
+[16:17:14]	Czar Petrovich has lost a 'Flashlight' #43.
+[16:17:22]	Czar Petrovich ran 'take' on item 'Flashlight' (#43)
+[16:17:22]	Czar Petrovich has gained a 'Flashlight' #43.
+[16:17:24]	Czar Petrovich ran 'drop' on item 'Comlight' (#45)
+[16:17:26]	Czar Petrovich ran 'drop' on item 'Comlight' (#45)
+[16:18:02]	adsin15 has connected.
+[16:18:24]	adsin15 loaded the character 'James Sinclair'
+[16:18:43]	[OOC] James Sinclair: amogus
+[16:19:50]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:51]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:52]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:53]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:54]	Czar Petrovich has taken 5 damage from James Sinclair.
+[16:19:54]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:55]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:56]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:56]	Czar Petrovich has taken 5 damage from James Sinclair.
+[16:19:57]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:58]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:59]	James Sinclair has taken 6 damage from Czar Petrovich.
+[16:19:59]	Czar Petrovich has taken 5 damage from James Sinclair.
+[16:20:00]	Czar Petrovich has taken 5 damage from James Sinclair.
+[16:20:04]	Czar Petrovich has taken 37 damage from worldspawn.
+[16:20:06]	Czar Petrovich has taken 19 damage from worldspawn.
+[16:20:14]	Czar Petrovich has taken 5 damage from James Sinclair.
+[16:20:19]	Optical has connected.
+[16:20:22]	James Sinclair has taken 10 damage from Czar Petrovich.
+[16:20:27]	James Sinclair has taken 31 damage from worldspawn.
+[16:20:30]	Czar Petrovich has taken 17 damage from worldspawn.
+[16:20:30]	worldspawn has killed Czar Petrovich.
+[16:20:40]	James Sinclair has taken 13 damage from worldspawn.
+[16:20:40]	worldspawn has killed James Sinclair.
+[16:20:47]	Optical (STEAM_0:0:460042086) has disconnected.
+[16:21:00]	Czar Petrovich used command '/CharGiveFlag james p'.
+[16:21:02]	Czar Petrovich has taken 16 damage from worldspawn.
+[16:21:02]	Czar Petrovich used command '/CharGiveFlag james t'.
+[16:21:07]	Czar Petrovich used command '/CharGiveFlag james e'.
+[16:21:32]	James Sinclair has taken 13 damage from worldspawn.
+[16:23:12]	James Sinclair has taken 146 damage from worldspawn.
+[16:23:12]	worldspawn has killed James Sinclair.
+[16:23:23]	Czar Petrovich has spawned a 'Weapon [105][weapon_ar2]'.
+[16:23:24]	Czar Petrovich has spawned a 'Weapon [103][weapon_ar2]'.
+[16:23:25]	Czar Petrovich has spawned a 'Weapon [112][weapon_ar2]'.
+[16:23:25]	Czar Petrovich has spawned a 'Weapon [116][weapon_ar2]'.
+[16:23:50]	James Sinclair has spawned 'models/props_c17/concrete_barrier001a.mdl'.
+[16:23:51]	Optical has connected.
+[16:23:51]	James Sinclair has taken 3 damage from Czar Petrovich.
+[16:24:08]	Optical loaded the character 'James Williams'
+[16:24:10]	Czar Petrovich has taken 50 damage from trigger_hurt.
+[16:24:13]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[16:24:30]	Czar Petrovich has spawned a 'Entity [289][ix_combinelock]'.
+[16:24:48]	James Sinclair has spawned 'models/props_lab/blastdoor001c.mdl'.
+[16:25:01]	Czar Petrovich used command '/DoorSetFaction Metropolice'.
+[16:25:04]	[OOC] James Sinclair: I cant propkill :(((
+[16:25:08]	James Williams has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+[16:25:09]	James Williams has taken 11 damage from James Sinclair.
+[16:25:09]	James Williams has taken 11 damage from James Sinclair.
+[16:25:09]	James Williams has taken 22 damage from James Sinclair.
+[16:25:09]	James Williams has taken 11 damage from James Sinclair.
+[16:25:09]	James Williams has taken 11 damage from James Sinclair.
+[16:25:09]	James Sinclair has killed James Williams with weapon_ar2.
+[16:25:09]	James Sinclair has taken 500 damage from James Williams.
+[16:25:09]	James Williams has killed James Sinclair.
+[16:25:14]	[OOC] James Sinclair: what
+[16:25:35]	James Sinclair has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[16:25:45]	James Sinclair opened the 'File Cabinet' #20 container.
+[16:25:48]	James Sinclair closed the 'File Cabinet' #20 container.
+[16:25:56]	James Williams opened the 'File Cabinet' #20 container.
+[16:25:59]	James Williams closed the 'File Cabinet' #20 container.
+[16:26:09]	Czar Petrovich opened the 'File Cabinet' #20 container.
+[16:26:11]	Czar Petrovich closed the 'File Cabinet' #20 container.
+[16:26:17]	James Williams has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[16:26:19]	James Williams has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[16:26:21]	James Williams has taken 5 damage from James Sinclair.
+[16:26:22]	James Williams has taken 5 damage from James Sinclair.
+[16:26:24]	James Williams has taken 5 damage from James Sinclair.
+[16:26:24]	James Sinclair has taken 11 damage from Czar Petrovich.
+[16:26:25]	James Sinclair has taken 11 damage from Czar Petrovich.
+[16:26:25]	James Sinclair has taken 11 damage from Czar Petrovich.
+[16:26:26]	James Sinclair has taken 3 damage from Czar Petrovich.
+[16:26:26]	James Sinclair has taken 11 damage from Czar Petrovich.
+[16:26:32]	Czar Petrovich has spawned a 'Weapon [103][weapon_frag]'.
+[16:26:40]	James Williams has taken 5 damage from James Sinclair.
+[16:26:41]	James Sinclair has taken 6 damage from James Williams.
+[16:26:42]	James Williams has taken 5 damage from James Sinclair.
+[16:26:42]	James Sinclair has taken 6 damage from James Williams.
+[16:26:43]	James Williams has taken 5 damage from James Sinclair.
+[16:26:44]	James Sinclair has taken 6 damage from James Williams.
+[16:26:46]	James Williams has taken 5 damage from James Sinclair.
+[16:27:04]	James Williams has taken 12 damage from Czar Petrovich.
+[16:27:04]	James Williams has taken 12 damage from Czar Petrovich.
+[16:27:04]	James Williams has taken 12 damage from Czar Petrovich.
+[16:27:04]	James Williams has taken 12 damage from Czar Petrovich.
+[16:27:04]	James Williams has taken 3 damage from Czar Petrovich.
+[16:27:04]	James Williams has taken 12 damage from Czar Petrovich.
+[16:27:04]	Czar Petrovich has killed James Williams with weapon_smg1.
+[16:27:05]	James Sinclair has taken 3 damage from Czar Petrovich.
+[16:27:05]	James Sinclair has taken 3 damage from Czar Petrovich.
+[16:27:05]	James Sinclair has taken 3 damage from Czar Petrovich.
+[16:27:06]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:27:06]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:27:06]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:27:06]	Czar Petrovich has killed James Sinclair with weapon_smg1.
+[16:27:13]	Czar Petrovich has spawned a 'Entity [106][item_ammo_smg1_grenade]'.
+[16:27:13]	Czar Petrovich has spawned a 'Entity [288][item_ammo_smg1_grenade]'.
+[16:27:13]	Czar Petrovich has spawned a 'Entity [290][item_ammo_smg1_grenade]'.
+[16:27:14]	Czar Petrovich has spawned a 'Entity [298][item_ammo_smg1_grenade]'.
+[16:27:14]	Czar Petrovich has spawned a 'Entity [299][item_ammo_smg1_grenade]'.
+[16:27:14]	Czar Petrovich has spawned a 'Entity [300][item_ammo_smg1_grenade]'.
+[16:27:14]	Czar Petrovich has spawned a 'Entity [106][item_ammo_smg1_grenade]'.
+[16:27:14]	Czar Petrovich has spawned a 'Entity [288][item_ammo_smg1_grenade]'.
+[16:27:15]	Czar Petrovich has spawned a 'Entity [290][item_ammo_smg1_grenade]'.
+[16:27:15]	Czar Petrovich has spawned a 'Entity [298][item_ammo_smg1_grenade]'.
+[16:27:15]	Czar Petrovich has spawned a 'Entity [299][item_ammo_smg1_grenade]'.
+[16:27:15]	Czar Petrovich has spawned a 'Entity [300][item_ammo_smg1_grenade]'.
+[16:27:15]	Czar Petrovich has spawned a 'Entity [288][item_ammo_smg1_grenade]'.
+[16:27:16]	Czar Petrovich has spawned a 'Entity [301][item_ammo_smg1_grenade]'.
+[16:27:16]	Czar Petrovich has spawned a 'Entity [290][item_ammo_smg1_grenade]'.
+[16:27:16]	Czar Petrovich has spawned a 'Entity [298][item_ammo_smg1_grenade]'.
+[16:27:16]	Czar Petrovich has spawned a 'Entity [299][item_ammo_smg1_grenade]'.
+[16:27:16]	Czar Petrovich has spawned a 'Entity [300][item_ammo_smg1_grenade]'.
+[16:27:17]	Czar Petrovich has spawned a 'Entity [288][item_ammo_smg1_grenade]'.
+[16:27:17]	Czar Petrovich has spawned a 'Entity [301][item_ammo_smg1_grenade]'.
+[16:27:18]	Czar Petrovich has spawned a 'Entity [106][item_ammo_smg1_large]'.
+[16:27:18]	James Williams has taken 5 damage from James Sinclair.
+[16:27:18]	Czar Petrovich has spawned a 'Entity [288][item_ammo_smg1_large]'.
+[16:27:19]	Czar Petrovich has spawned a 'Entity [290][item_ammo_smg1_large]'.
+[16:27:19]	Czar Petrovich has spawned a 'Entity [298][item_ammo_smg1_large]'.
+[16:27:19]	Czar Petrovich has spawned a 'Entity [299][item_ammo_smg1_large]'.
+[16:27:19]	Czar Petrovich has spawned a 'Entity [300][item_ammo_smg1_large]'.
+[16:27:19]	James Williams has taken 5 damage from James Sinclair.
+[16:27:20]	James Williams has taken 5 damage from James Sinclair.
+[16:27:21]	James Williams has taken 5 damage from James Sinclair.
+[16:27:22]	James Williams has taken 5 damage from James Sinclair.
+[16:27:23]	James Williams has taken 5 damage from James Sinclair.
+[16:27:24]	James Williams has taken 5 damage from James Sinclair.
+[16:27:25]	James Williams has taken 5 damage from James Sinclair.
+[16:27:25]	James Williams has taken 5 damage from James Sinclair.
+[16:27:26]	James Williams has taken 5 damage from James Sinclair.
+[16:27:28]	James Williams has taken 5 damage from James Sinclair.
+[16:27:37]	James Williams has taken 5 damage from James Sinclair.
+[16:27:38]	James Williams has taken 5 damage from James Sinclair.
+[16:27:39]	James Sinclair has taken 6 damage from James Williams.
+[16:27:39]	James Williams has taken 5 damage from James Sinclair.
+[16:27:41]	James Williams has taken 5 damage from James Sinclair.
+[16:27:42]	James Sinclair has taken 6 damage from James Williams.
+[16:27:43]	James Sinclair has taken 6 damage from James Williams.
+[16:27:44]	James Williams has taken 5 damage from James Sinclair.
+[16:27:44]	Czar Petrovich has taken 92 damage from Czar Petrovich.
+[16:27:44]	Czar Petrovich has killed Czar Petrovich.
+[16:27:44]	James Sinclair has taken 6 damage from James Williams.
+[16:27:45]	James Sinclair has taken 6 damage from James Williams.
+[16:27:45]	James Sinclair has taken 6 damage from James Williams.
+[16:27:46]	James Williams has taken 5 damage from James Sinclair.
+[16:27:46]	James Sinclair has taken 6 damage from James Williams.
+[16:27:47]	James Williams has taken 5 damage from James Sinclair.
+[16:27:47]	James Sinclair has taken 6 damage from James Williams.
+[16:27:48]	James Sinclair has taken 6 damage from James Williams.
+[16:27:49]	James Sinclair has taken 6 damage from James Williams.
+[16:27:50]	James Williams has taken 5 damage from James Sinclair.
+[16:27:50]	James Sinclair has killed James Williams with ix_hands.
+[16:27:55]	Czar Petrovich has spawned a 'Entity [283][item_ammo_smg1_grenade]'.
+[16:27:55]	Czar Petrovich has spawned a 'Entity [288][item_ammo_smg1_grenade]'.
+[16:27:55]	Czar Petrovich has spawned a 'Entity [290][item_ammo_smg1_grenade]'.
+[16:27:56]	Czar Petrovich has spawned a 'Entity [298][item_ammo_smg1_grenade]'.
+[16:27:56]	Czar Petrovich has spawned a 'Entity [299][item_ammo_smg1_grenade]'.
+[16:27:56]	Czar Petrovich has spawned a 'Entity [109][item_ammo_smg1_grenade]'.
+[16:27:56]	Czar Petrovich has spawned a 'Entity [112][item_ammo_smg1_grenade]'.
+[16:27:57]	Czar Petrovich has spawned a 'Entity [116][item_ammo_smg1_grenade]'.
+[16:27:57]	Czar Petrovich has spawned a 'Entity [300][item_ammo_smg1_grenade]'.
+[16:28:01]	Czar Petrovich has taken 6 damage from James Williams.
+[16:28:03]	James Williams has taken 24 damage from Czar Petrovich.
+[16:28:03]	James Williams has taken 12 damage from Czar Petrovich.
+[16:28:03]	James Williams has taken 24 damage from Czar Petrovich.
+[16:28:03]	James Williams has taken 3 damage from Czar Petrovich.
+[16:28:03]	James Williams has taken 12 damage from Czar Petrovich.
+[16:28:03]	James Williams has taken 24 damage from Czar Petrovich.
+[16:28:03]	James Williams has taken 3 damage from Czar Petrovich.
+[16:28:03]	Czar Petrovich has killed James Williams with weapon_smg1.
+[16:28:12]	James Williams has taken 99 damage from Czar Petrovich.
+[16:28:14]	Czar Petrovich has taken 34 damage from Czar Petrovich.
+[16:28:14]	James Williams has taken 81 damage from Czar Petrovich.
+[16:28:14]	Czar Petrovich has killed James Williams with weapon_smg1.
+[16:28:38]	James Williams has taken 42 damage from Czar Petrovich.
+[16:28:43]	James Williams has taken 85 damage from Czar Petrovich.
+[16:28:43]	Czar Petrovich has killed James Williams with weapon_smg1.
+[16:29:28]	James Williams has spawned a 'Vehicle [114][prop_vehicle_prisoner_pod]'.
+[16:29:39]	James Williams has spawned a 'Vehicle [114][prop_vehicle_jeep_old]'.
+[16:29:58]	Czar Petrovich has taken 95 damage from worldspawn.
+[16:29:58]	worldspawn has killed Czar Petrovich.
+[16:30:00]	James Williams entered observer.
+[16:30:01]	James Williams exited observer.
+[16:30:01]	James Williams entered observer.
+[16:30:02]	James Sinclair entered observer.
+[16:30:04]	James Sinclair exited observer.
+[16:30:05]	James Sinclair entered observer.
+[16:30:10]	James Sinclair exited observer.
+[16:30:10]	James Sinclair has taken 30 damage from worldspawn.
+[16:30:10]	James Sinclair entered observer.
+[16:30:12]	James Sinclair exited observer.
+[16:30:13]	James Sinclair entered observer.
+[16:30:15]	James Williams exited observer.
+[16:30:15]	James Sinclair exited observer.
+[16:30:16]	James Sinclair entered observer.
+[16:30:18]	James Williams entered observer.
+[16:30:18]	James Williams exited observer.
+[16:30:19]	James Williams entered observer.
+[16:30:20]	James Williams exited observer.
+[16:30:35]	James Williams entered observer.
+[16:30:36]	[OOC] Czar Petrovich: disable in your settings the return to position observation mode thign
+[16:30:41]	James Williams exited observer.
+[16:30:41]	James Sinclair exited observer.
+[16:30:42]	James Sinclair entered observer.
+[16:30:43]	James Sinclair exited observer.
+[16:30:48]	[OOC] James Sinclair: ???
+[16:30:55]	James Williams entered observer.
+[16:30:56]	James Williams exited observer at their location.
+[16:30:56]	[OOC] James Sinclair: how
+[16:30:56]	James Williams entered observer.
+[16:31:04]	James Williams exited observer at their location.
+[16:31:05]	James Sinclair has taken 12 damage from James Williams.
+[16:31:05]	James Sinclair has taken 12 damage from James Williams.
+[16:31:05]	James Williams has killed James Sinclair with weapon_pistol.
+[16:31:08]	[OOC] Czar Petrovich: theres an option in your settings that makes you return to your original position when you disable noclip
+[16:31:12]	[OOC] James Williams: tab
+[16:31:15]	James Williams entered observer.
+[16:31:18]	James Williams exited observer at their location.
+[16:31:23]	James Williams has taken 514 damage from worldspawn.
+[16:31:23]	worldspawn has killed James Williams.
+[16:31:27]	[OOC] James Sinclair: ohh
+[16:31:37]	James Williams has taken 29 damage from James Sinclair.
+[16:31:38]	James Williams has taken 37 damage from James Sinclair.
+[16:31:39]	James Williams has taken 18 damage from James Sinclair.
+[16:31:40]	James Williams has taken 40 damage from James Sinclair.
+[16:31:40]	James Sinclair has killed James Williams with weapon_shotgun.
+[16:31:49]	James Williams entered observer.
+[16:31:49]	Czar Petrovich has taken 100 damage from James Sinclair.
+[16:31:49]	James Sinclair has killed Czar Petrovich with weapon_crossbow.
+[16:31:50]	James Williams exited observer at their location.
+[16:31:50]	James Williams entered observer.
+[16:31:53]	James Sinclair entered observer.
+[16:31:57]	James Sinclair exited observer at their location.
+[16:32:01]	James Sinclair entered observer.
+[16:32:04]	James Sinclair exited observer at their location.
+[16:32:06]	James Sinclair has spawned a 'NPC [113][npc_monk]'.
+[16:32:19]	James Sinclair entered observer.
+[16:32:25]	James Williams exited observer at their location.
+[16:32:26]	James Sinclair has spawned a 'NPC [103][npc_monk]'.
+[16:32:33]	James Sinclair exited observer at their location.
+[16:32:42]	James Sinclair entered observer.
+[16:32:44]	James Sinclair exited observer at their location.
+[16:32:45]	James Sinclair entered observer.
+[16:32:59]	James Williams entered observer.
+[16:33:05]	James Williams exited observer at their location.
+[16:33:08]	James Williams has taken 99 damage from worldspawn.
+[16:33:11]	James Williams has taken 222 damage from worldspawn.
+[16:33:11]	worldspawn has killed James Williams.
+[16:33:12]	James Sinclair entered observer.
+[16:33:15]	James Sinclair exited observer at their location.
+[16:33:15]	James Sinclair entered observer.
+[16:33:15]	James Sinclair exited observer at their location.
+[16:33:16]	James Sinclair entered observer.
+[16:33:18]	James Williams entered observer.
+[16:33:18]	James Sinclair exited observer at their location.
+[16:33:20]	James Sinclair has spawned a 'NPC [103][npc_pigeon]'.
+[16:33:30]	James Sinclair entered observer.
+[16:33:32]	James Williams exited observer at their location.
+[16:33:35]	James Sinclair exited observer at their location.
+[16:33:35]	James Sinclair entered observer.
+[16:33:37]	James Williams entered observer.
+[16:33:38]	James Sinclair has spawned a 'NPC [103][npc_monk]'.
+[16:33:39]	James Sinclair exited observer at their location.
+[16:33:43]	James Sinclair has taken 24 damage from James Williams.
+[16:33:49]	James Williams exited observer at their location.
+[16:34:05]	James Williams entered observer.
+[16:34:18]	James Sinclair has taken 23 damage from James Williams.
+[16:34:20]	James Sinclair entered observer.
+[16:34:23]	James Sinclair exited observer at their location.
+[16:34:24]	Czar Petrovich used command '/CharSetModel czar models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[16:34:24]	James Sinclair entered observer.
+[16:34:24]	James Sinclair exited observer at their location.
+[16:34:25]	James Williams exited observer at their location.
+[16:34:26]	James Williams has taken 75 damage from worldspawn.
+[16:34:27]	James Williams entered observer.
+[16:34:27]	James Sinclair entered observer.
+[16:34:28]	James Williams exited observer at their location.
+[16:34:30]	James Williams has taken 113 damage from worldspawn.
+[16:34:30]	worldspawn has killed James Williams.
+[16:34:31]	James Sinclair exited observer at their location.
+[16:34:32]	Czar Petrovich has spawned a 'Entity [114][item_ammo_357_large]'.
+[16:34:32]	Czar Petrovich has spawned a 'Entity [119][item_ammo_357_large]'.
+[16:34:32]	Czar Petrovich has spawned a 'Entity [290][item_ammo_357_large]'.
+[16:34:37]	James Sinclair has taken 19 damage from Czar Petrovich.
+[16:34:38]	James Sinclair has taken 19 damage from Czar Petrovich.
+[16:34:38]	Czar Petrovich has taken 150 damage from James Sinclair.
+[16:34:38]	James Sinclair has killed Czar Petrovich with weapon_357.
+[16:34:40]	James Williams entered observer.
+[16:34:43]	James Sinclair entered observer.
+[16:34:49]	Czar Petrovich has spawned a 'Weapon [288][weapon_smg1]'.
+[16:34:49]	Czar Petrovich has spawned a 'Weapon [291][weapon_smg1]'.
+[16:34:49]	Czar Petrovich has spawned a 'Weapon [342][weapon_smg1]'.
+[16:34:50]	James Sinclair exited observer at their location.
+[16:34:50]	James Sinclair entered observer.
+[16:34:52]	James Sinclair exited observer at their location.
+[16:34:53]	James Sinclair entered observer.
+[16:34:53]	James Sinclair exited observer at their location.
+[16:34:54]	James Sinclair entered observer.
+[16:34:54]	James Sinclair exited observer at their location.
+[16:35:00]	[OOC] James Sinclair: skill issue
+[16:35:18]	James Sinclair has taken 42 damage from worldspawn.
+[16:35:41]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:35:41]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:35:41]	James Sinclair has taken 3 damage from Czar Petrovich.
+[16:35:41]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:35:41]	James Sinclair has taken 12 damage from Czar Petrovich.
+[16:35:41]	James Sinclair has taken 24 damage from Czar Petrovich.
+[16:35:41]	Czar Petrovich has killed James Sinclair with weapon_smg1.
+[16:35:42]	James Williams exited observer at their location.
+[16:35:43]	James Williams has taken 3 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 24 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 3 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 12 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 12 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 12 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 3 damage from Czar Petrovich.
+[16:35:43]	James Williams has taken 3 damage from Czar Petrovich.
+[16:35:44]	James Williams has taken 12 damage from Czar Petrovich.
+[16:35:44]	James Williams has taken 24 damage from Czar Petrovich.
+[16:35:44]	Czar Petrovich has killed James Williams with weapon_smg1.
+[16:35:54]	James Sinclair has taken 12 damage from James Williams.
+[16:35:54]	James Sinclair has taken 12 damage from James Williams.
+[16:35:54]	James Sinclair has taken 24 damage from James Williams.
+[16:35:54]	James Sinclair has taken 24 damage from James Williams.
+[16:35:54]	James Sinclair has taken 24 damage from James Williams.
+[16:35:54]	James Sinclair has taken 24 damage from James Williams.
+[16:35:54]	James Williams has killed James Sinclair with weapon_smg1.
+[16:35:55]	James Williams entered observer.
+[16:35:59]	Czar Petrovich has spawned a 'Weapon [298][weapon_357]'.
+[16:36:01]	James Williams exited observer at their location.
+[16:36:01]	Czar Petrovich has taken 12 damage from James Williams.
+[16:36:01]	Czar Petrovich has taken 24 damage from James Williams.
+[16:36:01]	Czar Petrovich has taken 3 damage from James Williams.
+[16:36:01]	Czar Petrovich has taken 3 damage from James Williams.
+[16:36:01]	Czar Petrovich has taken 24 damage from James Williams.
+[16:36:01]	Czar Petrovich has taken 24 damage from James Williams.
+[16:36:02]	Czar Petrovich has taken 24 damage from James Williams.
+[16:36:02]	James Williams has killed Czar Petrovich with weapon_smg1.
+[16:36:03]	James Williams entered observer.
+[16:36:07]	James Williams exited observer at their location.
+[16:36:09]	James Williams entered observer.
+[16:36:23]	Czar Petrovich used command '/CharSetModel james models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[16:36:33]	James Williams exited observer at their location.
+[16:36:36]	Czar Petrovich used command '/CharSetModel williams models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[16:36:40]	James Williams entered observer.
+[16:36:42]	James Sinclair has taken 36 damage from Czar Petrovich.
+[16:36:43]	James Sinclair has taken 20 damage from Czar Petrovich.
+[16:36:44]	James Sinclair has taken 36 damage from Czar Petrovich.
+[16:36:45]	James Sinclair has taken 21 damage from Czar Petrovich.
+[16:36:45]	Czar Petrovich has killed James Sinclair with weapon_shotgun.
+[16:36:50]	Czar Petrovich has spawned a 'Weapon [301][weapon_shotgun]'.
+[16:36:50]	Czar Petrovich has spawned a 'Weapon [310][weapon_shotgun]'.
+[16:36:50]	Czar Petrovich has spawned a 'Weapon [313][weapon_shotgun]'.
+[16:36:59]	James Sinclair has taken 40 damage from Czar Petrovich.
+[16:37:00]	James Sinclair has taken 45 damage from Czar Petrovich.
+[16:37:01]	James Sinclair has taken 45 damage from Czar Petrovich.
+[16:37:01]	Czar Petrovich has killed James Sinclair with weapon_shotgun.
+[16:37:01]	James Williams exited observer at their location.
+[16:37:07]	James Sinclair has taken 48 damage from Czar Petrovich.
+[16:37:08]	James Sinclair entered observer.
+[16:37:18]	James Williams has taken 65 damage from Czar Petrovich.
+[16:37:20]	James Williams has taken 26 damage from Czar Petrovich.
+[16:37:20]	James Williams has taken 37 damage from Czar Petrovich.
+[16:37:20]	Czar Petrovich has killed James Williams with weapon_shotgun.
+[16:37:29]	James Sinclair exited observer at their location.
+[16:37:30]	James Williams entered observer.
+[16:37:32]	James Sinclair entered observer.
+[16:37:33]	James Sinclair exited observer at their location.
+[16:37:36]	James Sinclair entered observer.
+[16:37:47]	James Sinclair exited observer at their location.
+[16:38:19]	James Williams exited observer at their location.
+[16:38:28]	James Williams has taken 150 damage from James Williams.
+[16:38:28]	James Williams has killed James Williams.
+[16:38:29]	Czar Petrovich has spawned a 'Weapon [342][weapon_slam]'.
+[16:38:29]	Czar Petrovich has spawned a 'Weapon [343][weapon_slam]'.
+[16:38:29]	Czar Petrovich has spawned a 'Weapon [344][weapon_slam]'.
+[16:38:29]	Czar Petrovich has spawned a 'Weapon [387][weapon_slam]'.
+[16:38:35]	James Williams entered observer.
+[16:38:40]	James Williams exited observer at their location.
+[16:38:47]	A Simple Final Breath has connected.
+[16:38:47]	James Sinclair has taken 5 damage from James Williams.
+[16:38:48]	James Sinclair has taken 5 damage from James Williams.
+[16:38:49]	James Sinclair has taken 5 damage from James Williams.
+[16:38:58]	James Williams has taken 5 damage from James Sinclair.
+[16:39:03]	James Sinclair has taken 5 damage from James Williams.
+[16:39:08]	James Sinclair has taken 5 damage from James Williams.
+[16:39:10]	James Sinclair has taken 5 damage from James Williams.
+[16:39:16]	James Sinclair entered observer.
+[16:39:17]	Czar Petrovich has taken 104 damage from Czar Petrovich.
+[16:39:17]	Czar Petrovich has killed Czar Petrovich.
+[16:39:17]	James Sinclair exited observer at their location.
+[16:39:18]	James Williams entered observer.
+[16:39:21]	James Williams exited observer at their location.
+[16:39:30]	Czar Petrovich has spawned a 'Weapon [283][weapon_slam]'.
+[16:39:30]	Czar Petrovich has spawned a 'Weapon [288][weapon_slam]'.
+[16:39:31]	Czar Petrovich has spawned a 'Weapon [290][weapon_slam]'.
+[16:39:31]	Czar Petrovich has spawned a 'Weapon [297][weapon_slam]'.
+[16:39:31]	Czar Petrovich has spawned a 'Weapon [301][weapon_slam]'.
+[16:39:31]	Czar Petrovich has spawned a 'Weapon [283][weapon_slam]'.
+[16:39:31]	Czar Petrovich has spawned a 'Weapon [288][weapon_slam]'.
+[16:39:38]	James Williams entered observer.
+[16:39:40]	James Williams exited observer at their location.
+[16:39:41]	Czar Petrovich has taken 200 damage from Czar Petrovich.
+[16:39:41]	Czar Petrovich has killed Czar Petrovich.
+[16:39:41]	James Williams entered observer.
+[16:39:42]	James Williams exited observer at their location.
+[16:39:47]	James Williams has taken 148 damage from James Sinclair.
+[16:39:47]	James Sinclair has killed James Williams with weapon_rpg.
+[16:39:47]	James Sinclair has taken 143 damage from James Sinclair.
+[16:39:47]	James Sinclair has killed James Sinclair.
+[16:39:57]	[OOC] James Sinclair: I died
+[16:39:59]	James Sinclair has taken 60 damage from Czar Petrovich.
+[16:39:59]	Czar Petrovich has taken 38 damage from Czar Petrovich.
+[16:39:59]	James Sinclair has taken 64 damage from Czar Petrovich.
+[16:39:59]	Czar Petrovich has killed James Sinclair with weapon_slam.
+[16:39:59]	Czar Petrovich has taken 41 damage from Czar Petrovich.
+[16:40:00]	James Williams entered observer.
+[16:40:05]	James Williams exited observer at their location.
+[16:40:07]	James Williams has taken 130 damage from Czar Petrovich.
+[16:40:07]	Czar Petrovich has killed James Williams with weapon_slam.
+[16:40:13]	James Williams entered observer.
+[16:40:19]	James Williams exited observer at their location.
+[16:40:19]	James Williams entered observer.
+[16:40:20]	James Williams exited observer at their location.
+[16:40:21]	James Williams entered observer.
+[16:40:23]	James Williams exited observer at their location.
+[16:40:23]	Czar Petrovich has taken 94 damage from James Sinclair.
+[16:40:23]	James Sinclair has killed Czar Petrovich with weapon_rpg.
+[16:40:25]	James Williams entered observer.
+[16:40:27]	James Sinclair has taken 120 damage from James Sinclair.
+[16:40:27]	James Sinclair has killed James Sinclair.
+[16:40:30]	James Williams exited observer at their location.
+[16:40:31]	James Williams entered observer.
+[16:40:32]	James Williams exited observer at their location.
+[16:40:36]	James Williams entered observer.
+[16:40:55]	James Williams exited observer at their location.
+[16:40:56]	James Sinclair entered observer.
+[16:40:58]	James Williams entered observer.
+[16:40:58]	James Williams exited observer at their location.
+[16:40:59]	James Sinclair exited observer at their location.
+[16:40:59]	James Williams entered observer.
+[16:41:00]	James Williams exited observer at their location.
+[16:41:39]	James Sinclair has taken 86 damage from Czar Petrovich.
+[16:42:05]	James Sinclair has taken 61 damage from Czar Petrovich.
+[16:42:05]	Czar Petrovich has killed James Sinclair with weapon_slam.
+[16:42:10]	Czar Petrovich has taken 70 damage from Czar Petrovich.
+[16:42:27]	Czar Petrovich has taken 3 damage from James Sinclair.
+[16:42:27]	Czar Petrovich has taken 3 damage from James Sinclair.
+[16:42:28]	Czar Petrovich has taken 24 damage from James Sinclair.
+[16:42:28]	James Sinclair has killed Czar Petrovich with weapon_pistol.
+[16:42:37]	James Sinclair has taken 49 damage from Czar Petrovich.
+[16:42:54]	Czar Petrovich has spawned a 'Weapon [110][weapon_slam]'.
+[16:42:54]	Czar Petrovich has spawned a 'Weapon [117][weapon_slam]'.
+[16:42:54]	Czar Petrovich has spawned a 'Weapon [291][weapon_slam]'.
+[16:42:54]	Czar Petrovich has spawned a 'Weapon [297][weapon_slam]'.
+[16:42:55]	Czar Petrovich has spawned a 'Weapon [300][weapon_slam]'.
+[16:42:55]	Czar Petrovich has spawned a 'Weapon [110][weapon_slam]'.
+[16:42:55]	Czar Petrovich has spawned a 'Weapon [117][weapon_slam]'.
+[16:42:55]	James Sinclair has taken 24 damage from worldspawn.
+[16:42:55]	Czar Petrovich has spawned a 'Weapon [291][weapon_slam]'.
+[16:42:55]	Czar Petrovich has spawned a 'Weapon [297][weapon_slam]'.
+[16:43:45]	Czar Petrovich has taken 125 damage from Czar Petrovich.
+[16:43:45]	Czar Petrovich has killed Czar Petrovich.
+[16:44:16]	James Williams entered observer.
+[16:44:19]	James Williams exited observer at their location.
+[16:44:20]	James Williams entered observer.
+[16:44:20]	James Williams exited observer at their location.
+[16:44:21]	A Simple Final Breath created the character 'James Foller'
+[16:44:21]	James Foller has gained a 'Suitcase' #53.
+[16:44:21]	James Foller has gained a 'Flashlight' #54.
+[16:44:21]	James Foller has gained a 'Citizen ID' #55.
+[16:44:21]	A Simple Final Breath loaded the character 'James Foller'
+[16:44:27]	James Williams entered observer.
+[16:44:28]	James Williams exited observer at their location.
+[16:44:29]	James Williams entered observer.
+[16:44:29]	James Williams exited observer at their location.
+[16:44:35]	[OOC] James Foller: Ah hell yeah 3 james
+[16:44:58]	James Williams entered observer.
+[16:45:02]	James Foller has taken 130 damage from Czar Petrovich.
+[16:45:02]	Czar Petrovich has killed James Foller with ix_hands.
+[16:45:03]	James Williams exited observer at their location.
+[16:45:03]	James Williams entered observer.
+[16:45:04]	[OOC] James Foller: fuck
+[16:45:06]	James Williams exited observer at their location.
+[16:45:07]	James Williams entered observer.
+[16:45:09]	James Williams exited observer at their location.
+[16:45:10]	[OOC] Czar Petrovich: lol
+[16:45:25]	James Sinclair has taken 5 damage from James Foller.
+[16:45:26]	James Sinclair has taken 5 damage from James Foller.
+[16:45:28]	James Sinclair has taken 5 damage from James Foller.
+[16:45:29]	James Sinclair has taken 5 damage from James Foller.
+[16:45:33]	[OOC] James Foller: ??
+[16:45:34]	[OOC] Czar Petrovich: why is everyone called james
+[16:45:35]	[OOC] James Foller: why
+[16:45:42]	James Williams entered observer.
+[16:45:44]	James Foller has taken 3 damage from James Sinclair.
+[16:45:44]	James Foller has taken 12 damage from James Sinclair.
+[16:45:45]	James Foller has taken 3 damage from James Sinclair.
+[16:45:45]	James Foller has taken 3 damage from James Sinclair.
+[16:45:46]	[OOC] Czar Petrovich: also this a test server
+[16:45:47]	James Foller has taken 3 damage from James Sinclair.
+[16:45:47]	James Foller has taken 12 damage from James Sinclair.
+[16:45:50]	James Foller entered observer.
+[16:45:54]	[OOC] Czar Petrovich: I should add that to the title
+[16:45:59]	James Sinclair entered observer.
+[16:46:08]	James Foller exited observer.
+[16:46:11]	James Sinclair exited observer at their location.
+[16:46:12]	James Foller has taken 12 damage from James Sinclair.
+[16:46:13]	James Sinclair has taken 79 damage from James Foller.
+[16:46:13]	James Foller has killed James Sinclair with weapon_rpg.
+[16:46:13]	James Foller has taken 23 damage from James Foller.
+[16:46:16]	[OOC] James Foller: rekted
+[16:46:24]	Czar Petrovich has taken 119 damage from Czar Petrovich.
+[16:46:24]	Czar Petrovich has killed Czar Petrovich.
+[16:46:32]	Millhouse has connected.
+[16:46:36]	[OOC] James Foller: so,  this is a up coming semi serious hl2rp?
+[16:46:40]	[OOC] Czar Petrovich: yeah
+[16:46:56]	[OOC] Czar Petrovich: Partner between Czars Castle Network and Brocks Community
+[16:46:58]	James Foller entered observer.
+[16:47:01]	James Foller exited observer.
+[16:47:05]	[OOC] James Foller: Never heard of them but ok
+[16:47:43]	Millhouse created the character 'Wilhemia House'
+[16:47:43]	Wilhemia House has gained a 'Suitcase' #56.
+[16:47:43]	Wilhemia House has gained a 'Flashlight' #57.
+[16:47:43]	Wilhemia House has gained a 'Citizen ID' #58.
+[16:47:43]	Millhouse loaded the character 'Wilhemia House'
+[16:47:55]	[OOC] Wilhemia House: f3 brock is being abusive
+[16:48:09]	[OOC] James Sinclair: what
+[16:48:17]	A Simple Final Breath (STEAM_0:1:122079986) has disconnected.
+[16:48:28]	[OOC] James Sinclair: I've been demoted :((((
+[16:48:34]	[OOC] Wilhemia House: :(
+[16:48:46]	Czar Petrovich used command '/CharSetModel czar models/props_junk/TrashBin01a.mdl'.
+[16:49:10]	Czar Petrovich used command '/CharSetModel czar models/props_interiors/VendingMachineSoda01a.mdl'.
+[16:49:53]	Czar Petrovich used command '/CharSetModel czar models/gman_high.mdl'.
+[16:50:23]	GMan used command '/CharSetName czar GMan'.
+[16:50:41]	GMan used command '/CharDesc'.
+[16:50:46]	GMan used command '/CharDesc God'.
+[16:50:50]	GMan used command '/CharDesc'.
+[16:50:59]	GMan used command '/CharDesc The business man in the shadows.'.
+[16:51:28]	GMan used command '/CharSetModel sinclair models/player/zelpa/male_07.mdl'.
+[16:52:03]	GMan has taken 5 damage from James Sinclair.
+[16:52:05]	GMan has taken 5 damage from James Sinclair.
+[16:52:10]	James Sinclair has taken 32 damage from GMan.
+[16:52:11]	James Sinclair has taken 26 damage from GMan.
+[16:52:12]	James Sinclair has taken 28 damage from GMan.
+[16:52:31]	James Sinclair has taken 30 damage from worldspawn.
+[16:52:31]	worldspawn has killed James Sinclair.
+[16:52:50]	Wilhemia House has taken 10 damage from GMan.
+[16:52:51]	Wilhemia House has taken 10 damage from GMan.
+[16:52:51]	Wilhemia House has taken 10 damage from GMan.
+[16:52:52]	Wilhemia House has taken 10 damage from GMan.
+[16:52:52]	Wilhemia House has taken 10 damage from GMan.
+[16:52:52]	Wilhemia House has taken 10 damage from GMan.
+[16:52:53]	Wilhemia House has taken 10 damage from GMan.
+[16:52:53]	Wilhemia House has taken 10 damage from GMan.
+[16:52:54]	Wilhemia House has taken 10 damage from GMan.
+[16:52:54]	Wilhemia House has taken 10 damage from GMan.
+[16:52:54]	GMan has killed Wilhemia House with weapon_crowbar.
+[16:54:20]	GMan has spawned a 'Entity [397][item_box_buckshot]'.
+[16:56:04]	Wilhemia House has taken 45 damage from GMan.
+[16:56:05]	Wilhemia House has taken 65 damage from GMan.
+[16:56:05]	GMan has killed Wilhemia House with weapon_shotgun.
+[16:58:12]	GMan used command '/CharSetModel williams models/player/zelpa/male_09.mdl'.
+[16:58:12]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[16:58:23]	James Williams has spawned 'models/props_junk/wood_crate002a.mdl'.
+[16:58:31]	James Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[16:58:33]	James Williams opened the 'Dumpster' #24 container.
+[16:58:36]	James Williams closed the 'Dumpster' #24 container.
+[16:58:36]	James Williams opened the 'Dumpster' #24 container.
+[16:58:38]	James Williams closed the 'Dumpster' #24 container.
+[16:58:41]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[16:58:45]	James Sinclair has taken 5 damage from ix_container.
+[16:58:45]	James Sinclair has taken 5 damage from ix_container.
+[16:58:45]	James Sinclair has taken 5 damage from ix_container.
+[16:58:46]	GMan has taken 50 damage from ix_container.
+[16:58:46]	GMan has taken 5 damage from ix_container.
+[16:58:48]	James Sinclair has taken 24 damage from GMan.
+[16:58:49]	James Sinclair has taken 48 damage from GMan.
+[16:58:54]	GMan has taken 5 damage from ix_container.
+[16:58:54]	James Sinclair has taken 500 damage from ix_container.
+[16:58:54]	ix_container has killed James Sinclair.
+[16:59:14]	James Sinclair has taken 50 damage from ix_container.
+[16:59:17]	James Sinclair has taken 500 damage from ix_container.
+[16:59:17]	ix_container has killed James Sinclair.
+[16:59:34]	James Sinclair has taken 50 damage from ix_container.
+[16:59:34]	James Sinclair has taken 10 damage from ix_container.
+[16:59:34]	James Sinclair has taken 5 damage from ix_container.
+[16:59:34]	James Sinclair has taken 5 damage from ix_container.
+[16:59:35]	James Sinclair has taken 10 damage from ix_container.
+[16:59:35]	James Sinclair has taken 5 damage from ix_container.
+[16:59:35]	James Sinclair has taken 20 damage from ix_container.
+[16:59:35]	ix_container has killed James Sinclair.
+[16:59:46]	James Sinclair has taken 500 damage from ix_container.
+[16:59:46]	ix_container has killed James Sinclair.
+[16:59:53]	James Sinclair has taken 500 damage from ix_container.
+[16:59:53]	ix_container has killed James Sinclair.
+[17:00:04]	James Sinclair has taken 500 damage from ix_container.
+[17:00:04]	ix_container has killed James Sinclair.
+[17:00:22]	James Sinclair has taken 100 damage from ix_container.
+[17:00:22]	ix_container has killed James Sinclair.
+[17:00:30]	James Sinclair has taken 500 damage from ix_container.
+[17:00:30]	ix_container has killed James Sinclair.
+[17:00:40]	James Sinclair opened the 'Crate' #24 container.
+[17:00:40]	James Sinclair closed the 'Crate' #24 container.
+[17:00:41]	James Sinclair has taken 100 damage from ix_container.
+[17:00:41]	ix_container has killed James Sinclair.
+[17:00:50]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:00:52]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:00:57]	James Sinclair has taken 5 damage from GMan.
+[17:01:00]	James Sinclair has taken 10 damage from GMan.
+[17:01:00]	James Sinclair has taken 10 damage from GMan.
+[17:01:00]	James Sinclair has taken 10 damage from GMan.
+[17:01:06]	James Williams has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[17:01:07]	James Sinclair has taken 20 damage from ix_container.
+[17:01:07]	James Sinclair has taken 10 damage from ix_container.
+[17:01:07]	James Sinclair has taken 10 damage from ix_container.
+[17:01:07]	James Sinclair has taken 10 damage from ix_container.
+[17:01:07]	James Sinclair has taken 500 damage from ix_container.
+[17:01:07]	ix_container has killed James Sinclair.
+[17:01:14]	James Sinclair has taken 100 damage from ix_container.
+[17:01:14]	ix_container has killed James Sinclair.
+[17:01:14]	GMan used command '/CharGiveFlag wil p'.
+[17:01:16]	GMan used command '/CharGiveFlag wil t'.
+[17:01:25]	James Sinclair has taken 100 damage from ix_container.
+[17:01:25]	ix_container has killed James Sinclair.
+[17:01:30]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:01:31]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:01:32]	James Sinclair has taken 50 damage from ix_container.
+[17:01:32]	James Sinclair has taken 20 damage from ix_container.
+[17:01:33]	GMan used command '/CharGiveFlag wilh p'.
+[17:01:35]	James Sinclair has taken 500 damage from ix_container.
+[17:01:35]	ix_container has killed James Sinclair.
+[17:01:37]	GMan used command '/CharGiveFlag wilh t'.
+[17:01:48]	James Sinclair has taken 50 damage from ix_container.
+[17:02:03]	James Sinclair has taken 50 damage from ix_container.
+[17:02:03]	ix_container has killed James Sinclair.
+[17:02:14]	James Sinclair has taken 5 damage from ix_container.
+[17:02:14]	James Sinclair has taken 10 damage from ix_container.
+[17:02:14]	James Sinclair has taken 10 damage from ix_container.
+[17:02:19]	James Sinclair has taken 5 damage from ix_container.
+[17:02:19]	James Sinclair has taken 5 damage from ix_container.
+[17:02:31]	James Sinclair has taken 10 damage from ix_container.
+[17:02:31]	James Sinclair has taken 10 damage from ix_container.
+[17:02:31]	James Sinclair has taken 10 damage from ix_container.
+[17:02:39]	James Williams has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:02:41]	James Sinclair has taken 50 damage from ix_container.
+[17:02:41]	ix_container has killed James Sinclair.
+[17:03:15]	[Y] Wilhemia House: Banned.
+[17:03:38]	GMan has spawned a 'Weapon [290][weapon_pistol]'.
+[17:03:38]	GMan has spawned a 'Weapon [397][weapon_pistol]'.
+[17:03:39]	GMan has spawned a 'Weapon [400][weapon_pistol]'.
+[17:03:39]	GMan has spawned a 'Weapon [414][weapon_pistol]'.
+[17:03:40]	James Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[17:03:41]	James Sinclair has taken 500 damage from ix_container.
+[17:03:41]	ix_container has killed James Sinclair.
+[17:04:15]	Wilhemia House has taken 3 damage from worldspawn.
+[17:04:17]	Wilhemia House has taken 55 damage from worldspawn.
+[17:04:21]	GMan opened the 'Crate' #24 container.
+[17:04:23]	GMan ran 'drop' on item 'Flashlight' (#43)
+[17:04:23]	GMan has lost a 'Flashlight' #43.
+[17:04:24]	James Williams has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[17:04:25]	James Sinclair has taken 500 damage from ix_container.
+[17:04:25]	ix_container has killed James Sinclair.
+[17:04:25]	GMan closed the 'Crate' #24 container.
+[17:04:27]	GMan ran 'take' on item 'Flashlight' (#43)
+[17:04:27]	GMan has gained a 'Flashlight' #43.
+[17:04:31]	Optical (STEAM_0:0:460042086) has disconnected.
+[17:04:36]	GMan has spawned a 'Weapon [109][weapon_frag]'.
+[17:04:36]	GMan has spawned a 'Weapon [113][weapon_frag]'.
+[17:04:37]	GMan has spawned a 'Weapon [118][weapon_frag]'.
+[17:04:38]	GMan has spawned a 'Weapon [109][weapon_frag]'.
+[17:05:30]	Tzar (STEAM_0:0:140210729) has disconnected.

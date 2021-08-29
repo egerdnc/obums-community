@@ -1,0 +1,174 @@
+L 08/20/2021 - 04:06:44: Log file started (file "logs\L0820005.log") (game "C:\Users\monst\Desktop\HL2Server\garrysmod") (version "8283")
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_noclip" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxprops" "150"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxragdolls" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxnpcs" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxballoons" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxeffects" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxdynamite" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxlamps" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxthrusters" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxwheels" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxhoverballs" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxvehicles" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxbuttons" "0"
+L 08/20/2021 - 04:06:44: server_cvar: "sbox_maxemitters" "0"
+L 08/20/2021 - 04:06:45: Connection to Steam servers successful.
+L 08/20/2021 - 04:06:45:    Public IP is 75.157.60.132.
+L 08/20/2021 - 04:06:45: Assigned anonymous gameserver Steam ID [A-1:2580605963(18277)].
+L 08/20/2021 - 04:06:45: VAC secure mode is activated.
+L 08/20/2021 - 04:07:45: "Optical<2><STEAM_0:0:460042086><>" connected, address "88.145.70.210:27005"
+L 08/20/2021 - 04:07:45: "Optical<2><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/20/2021 - 04:08:03: "Cabbage9341™<3><STEAM_0:0:227773634><>" connected, address "174.3.22.96:27005"
+L 08/20/2021 - 04:08:03: "Cabbage9341™<3><STEAM_0:0:227773634><>" STEAM USERID validated
+L 08/20/2021 - 04:08:42: "Tzar<4><STEAM_0:0:140210729><>" connected, address "192.168.1.71:27006"
+L 08/20/2021 - 04:08:43: "Tzar<4><STEAM_0:0:140210729><>" STEAM USERID validated
+L 08/20/2021 - 04:08:52: "Tzar<4><STEAM_0:0:140210729><>" entered the game
+L 08/20/2021 - 04:08:58: "AuraKille<5><STEAM_0:0:149527995><>" connected, address "173.175.47.183:27005"
+L 08/20/2021 - 04:08:58: "AuraKille<5><STEAM_0:0:149527995><>" STEAM USERID validated
+L 08/20/2021 - 04:09:31: "Optical<2><STEAM_0:0:460042086><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:09:39: "AuraKille<5><STEAM_0:0:149527995><>" entered the game
+L 08/20/2021 - 04:10:12: "Cabbage9341™<3><STEAM_0:0:227773634><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:11:28: "Optical<6><STEAM_0:0:460042086><>" connected, address "88.145.70.210:27005"
+L 08/20/2021 - 04:11:28: "Optical<6><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/20/2021 - 04:11:51: "Simpsons Vice City TF2EASY.COM<7><STEAM_0:1:518963835><>" connected, address "5.43.76.23:27005"
+L 08/20/2021 - 04:11:51: "Simpsons Vice City TF2EASY.COM<7><STEAM_0:1:518963835><>" STEAM USERID validated
+L 08/20/2021 - 04:12:16: "Optical<6><STEAM_0:0:460042086><>" entered the game
+L 08/20/2021 - 04:13:56: [ULX] M007<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+L 08/20/2021 - 04:13:57: [ULX] M007<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+L 08/20/2021 - 04:13:57: [ULX] M007<STEAM_0:0:140210729> spawned sent item_ammo_smg1_large
+L 08/20/2021 - 04:14:02: [ULX] M007<STEAM_0:0:140210729> spawned sent item_ammo_ar2_large
+L 08/20/2021 - 04:14:02: [ULX] M007<STEAM_0:0:140210729> spawned sent item_ammo_ar2_large
+L 08/20/2021 - 04:14:03: [ULX] M007<STEAM_0:0:140210729> spawned sent item_ammo_ar2_large
+L 08/20/2021 - 04:14:54: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/shelfunit01a.mdl
+L 08/20/2021 - 04:14:55: "Wakeful<8><STEAM_0:0:237114985><>" connected, address "109.180.169.97:27005"
+L 08/20/2021 - 04:14:55: "Wakeful<8><STEAM_0:0:237114985><>" STEAM USERID validated
+L 08/20/2021 - 04:15:04: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/lockers001a.mdl
+L 08/20/2021 - 04:15:13: "Wakeful<8><STEAM_0:0:237114985><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:15:19: "Simpsons Vice City TF2EASY.COM<7><STEAM_0:1:518963835><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:15:39: [ULX] M007 added Vasili Sukinov to group operator
+L 08/20/2021 - 04:15:41: [ULX] M007 added James Williams to group operator
+L 08/20/2021 - 04:15:50: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/furniturefridge001a.mdl
+L 08/20/2021 - 04:16:08: "Simpsons Vice City TF2EASY.COM<9><STEAM_0:1:518963835><>" connected, address "5.43.76.23:27005"
+L 08/20/2021 - 04:16:08: "Simpsons Vice City TF2EASY.COM<9><STEAM_0:1:518963835><>" STEAM USERID validated
+L 08/20/2021 - 04:18:00: "Wakeful<10><STEAM_0:0:237114985><>" connected, address "109.180.169.97:27005"
+L 08/20/2021 - 04:18:00: "Wakeful<10><STEAM_0:0:237114985><>" STEAM USERID validated
+L 08/20/2021 - 04:18:33: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 08/20/2021 - 04:18:34: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/furnitureshelf001a.mdl
+L 08/20/2021 - 04:18:34: "Wakeful<10><STEAM_0:0:237114985><>" entered the game
+L 08/20/2021 - 04:18:38: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/furniturefireplace001a.mdl
+L 08/20/2021 - 04:18:39: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_c17/furnitureshelf001a.mdl
+L 08/20/2021 - 04:18:44: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_c17/furniturecouch001a.mdl
+L 08/20/2021 - 04:18:48: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_junk/wood_crate002a.mdl
+L 08/20/2021 - 04:18:51: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_combine/breenchair.mdl
+L 08/20/2021 - 04:21:47: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_c17/oildrum001.mdl
+L 08/20/2021 - 04:21:48: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_junk/plasticcrate01a.mdl
+L 08/20/2021 - 04:22:04: [ULX] M007<STEAM_0:0:140210729> spawned vehicle models/buggy.mdl
+L 08/20/2021 - 04:22:16: [ULX] James Williams<STEAM_0:0:460042086> spawned vehicle models/buggy.mdl
+L 08/20/2021 - 04:23:09: "Cabbage9341™<11><STEAM_0:0:227773634><>" connected, address "174.3.22.96:27005"
+L 08/20/2021 - 04:23:10: "Cabbage9341™<11><STEAM_0:0:227773634><>" STEAM USERID validated
+L 08/20/2021 - 04:23:28: "Cabbage9341™<11><STEAM_0:0:227773634><>" entered the game
+L 08/20/2021 - 04:23:48: Player [4][AuraKille] is arming a dupe, size: 2943
+L 08/20/2021 - 04:25:14: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:24: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:28: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:30: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:32: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:44: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:48: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:50: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:25:58: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:26:00: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:26:06: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:26:11: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_forcefield
+L 08/20/2021 - 04:26:15: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+L 08/20/2021 - 04:26:19: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+L 08/20/2021 - 04:26:20: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/20/2021 - 04:26:21: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/20/2021 - 04:26:22: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/20/2021 - 04:26:23: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/20/2021 - 04:26:30: [ULX] M007<STEAM_0:0:140210729> spawned sent ix_rationdispenser
+L 08/20/2021 - 04:27:29: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_junk/wood_crate001a.mdl
+L 08/20/2021 - 04:27:38: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_c17/shelfunit01a.mdl
+L 08/20/2021 - 04:27:43: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_junk/wood_crate002a.mdl
+L 08/20/2021 - 04:27:52: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_c17/furnituredresser001a.mdl
+L 08/20/2021 - 04:28:00: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/20/2021 - 04:28:10: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_junk/wood_crate001a.mdl
+L 08/20/2021 - 04:28:24: [ULX] James Williams<STEAM_0:0:460042086> spawned model models/props_combine/breendesk.mdl
+L 08/20/2021 - 04:28:57: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_lab/blastdoor001c.mdl
+L 08/20/2021 - 04:29:08: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:32: Player [3][Tzar] is arming a dupe, size: 5871
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/ibeam01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel02a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/wood_fence02a_board01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_rooftop/gutter_pipe_128.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_rooftop/gutter_pipe_128.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_rooftop/gutter_pipe_128.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/garbage_newspaper001a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/ibeam01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/wood_pallet001a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/wood_pallet001a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/ibeam01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_rooftop/gutter_pipe_128.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/ibeam01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/cinderblock01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel01a.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/20/2021 - 04:29:37: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel02a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/garbage_milkcarton002a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/glassbottle01a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/garbage_coffeemug001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/oildrum001.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/garbage_metalcan001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/garbage_metalcan001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/cinderblock01a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/cinderblock01a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/cinderblock01a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/furnituredrawer001a_chunk02.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/cinderblock01a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_lab/cactus.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_interiors/pot02a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_rooftop/gutter_pipe_128.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/wood_pallet001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/garbage_carboard002a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_c17/furniturecouch001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/metal_panel02a.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_junk/trashdumpster02b.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_wasteland/dockplank01b.mdl
+L 08/20/2021 - 04:29:38: [ULX] M007<STEAM_0:0:140210729> spawned model models/props_debris/wood_board05a.mdl
+L 08/20/2021 - 04:29:51: Player [5][Wakeful] is arming a dupe, size: 1626
+L 08/20/2021 - 04:30:08: Player [1][Optical] is arming a dupe, size: 1817
+L 08/20/2021 - 04:30:50: [ULX] Jack Williams<STEAM_0:0:227773634> spawned model models/props_c17/lockers001a.mdl
+L 08/20/2021 - 04:31:01: [ULX] Jack Williams<STEAM_0:0:227773634> spawned model models/props_junk/trashdumpster01a.mdl
+L 08/20/2021 - 04:32:38: Log file closed.

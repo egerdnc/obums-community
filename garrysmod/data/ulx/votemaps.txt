@@ -1,0 +1,13 @@
+; List of maps that are either included in the votemap command or excluded from it
+; Make sure to set votemapMapmode in config.txt to what you want.
+background01
+background02
+background03
+background04
+background05
+background06
+background07
+credits
+intro
+test_hardware
+test_speakers

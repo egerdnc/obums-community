@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models\bloo_ltcom_zel\citizens\glassesfront_walter"
+    "$bumpmap"     "models\bloo_ltcom_zel\citizens\glass_n"
+	"$envmapmask"  "models\bloo_ltcom_zel\citizens\glassesfrontmask_walter"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$halflambert" 1
+}

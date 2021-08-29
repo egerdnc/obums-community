@@ -1,0 +1,105 @@
+L 08/20/2021 - 04:32:53: Log file started (file "logs\L0820007.log") (game "C:\Users\monst\Desktop\HL2Server\garrysmod") (version "8283")
+L 08/20/2021 - 04:33:17: "Cabbage9341™<11><STEAM_0:0:227773634><>" entered the game
+L 08/20/2021 - 04:33:18: "Tzar<4><STEAM_0:0:140210729><>" entered the game
+L 08/20/2021 - 04:33:26: "AuraKille<5><STEAM_0:0:149527995><>" entered the game
+L 08/20/2021 - 04:33:30: "Wakeful<10><STEAM_0:0:237114985><>" entered the game
+L 08/20/2021 - 04:33:30: "Optical<6><STEAM_0:0:460042086><>" entered the game
+L 08/20/2021 - 04:33:52: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:526
+    3. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:330
+     4. Spawn - [C]:-1
+      5. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:900
+       6. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/20/2021 - 04:33:52: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:541
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:526
+    3. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:275
+     4. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:902
+      5. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/20/2021 - 04:34:43: [ULX] M007 teleported to James Williams
+L 08/20/2021 - 04:35:53: Lua Error: 
+[ULib] gamemodes/helix/gamemode/items/base/sh_weapons.lua:281: attempt to index a number value
+  1. fn - gamemodes/helix/gamemode/items/base/sh_weapons.lua:281
+   2. unknown - lua/ulib/shared/hook.lua:109
+
+
+L 08/20/2021 - 04:37:07: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:572: [mysql] SQL Callback Error!
+gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:572: [mysql] SQL Callback Error!
+gamemodes/helix/gamemode/core/meta/sh_item.lua:158: attempt to index a number value
+
+
+  1. error - [C]:-1
+   2. Execute - gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:572
+    3. Create - gamemodes/helix/gamemode/core/libs/sh_character.lua:88
+     4. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:982
+      5. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/20/2021 - 04:37:14: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840
+   2. Save - gamemodes/helix/gamemode/core/meta/sh_character.lua:68
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:889
+     4. unknown - lua/includes/extensions/net.lua:32
+
+
+L 08/20/2021 - 04:37:35: "Wakeful<10><STEAM_0:0:237114985><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:37:35: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840: attempt to index a number value
+  1. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:840
+   2. Save - gamemodes/helix/gamemode/core/meta/sh_character.lua:68
+    3. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:684
+
+
+L 08/20/2021 - 04:39:41: "Wakeful<12><STEAM_0:0:237114985><>" connected, address "109.180.169.97:27005"
+L 08/20/2021 - 04:39:41: "Wakeful<12><STEAM_0:0:237114985><>" STEAM USERID validated
+L 08/20/2021 - 04:40:17: "Wakeful<12><STEAM_0:0:237114985><>" entered the game
+L 08/20/2021 - 04:41:04: [ULX] James Williams<STEAM_0:0:460042086> spawned vehicle models/buggy.mdl
+L 08/20/2021 - 04:41:10: [ULX] M007 removed all access rights from Optical
+L 08/20/2021 - 04:41:12: [ULX] M007 removed all access rights from AuraKille
+L 08/20/2021 - 04:45:14: "Optical<6><STEAM_0:0:460042086><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:45:18: "Simpsons Vice City TF2EASY.COM<9><STEAM_0:1:518963835><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:45:22: "Simpsons Vice City TF2EASY.COM<13><STEAM_0:1:518963835><>" connected, address "5.43.76.23:27005"
+L 08/20/2021 - 04:45:22: "Simpsons Vice City TF2EASY.COM<13><STEAM_0:1:518963835><>" STEAM USERID validated
+L 08/20/2021 - 04:46:31: server_cvar: "sf_time_speed" "3"
+L 08/20/2021 - 04:46:31: server_cvar: "sf_time_speed" "32"
+L 08/20/2021 - 04:46:35: server_cvar: "sf_time_speed" "3"
+L 08/20/2021 - 04:46:36: server_cvar: "sf_time_speed" "30"
+L 08/20/2021 - 04:46:46: server_cvar: "sf_time_speed" "1"
+L 08/20/2021 - 04:46:46: server_cvar: "sf_time_speed" "15"
+L 08/20/2021 - 04:49:40: [ULX] M007 teleported to Vasili Sukinov
+L 08/20/2021 - 04:49:49: "Simpsons Vice City TF2EASY.COM<13><STEAM_0:1:518963835><>" entered the game
+L 08/20/2021 - 04:50:03: [ULX] M007 brought Vasili Sukinov
+L 08/20/2021 - 04:50:09: [ULX] M007 brought Jack Williams,Samuel Hubaka the third
+L 08/20/2021 - 04:51:36: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_c17/furniturecouch002a.mdl
+L 08/20/2021 - 04:51:49: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 08/20/2021 - 04:52:12: [ULX] Vasili Sukinov<STEAM_0:0:149527995> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+L 08/20/2021 - 04:52:22: [ULX] M007<STEAM_0:0:140210729> spawned sent npc_grenade_frag
+L 08/20/2021 - 04:53:42: [ULX] M007 ignited Anthonnia Redwood,Jack Williams,Samuel Hubaka the third,Vasili Sukinov for 300 seconds
+L 08/20/2021 - 04:53:52: [ULX] M007 extinguished Anthonnia Redwood,Samuel Hubaka the third,Vasili Sukinov
+L 08/20/2021 - 04:54:15: [ULX] M007 teleported to Vasili Sukinov
+L 08/20/2021 - 04:54:20: [ULX] M007 brought Anthonnia Redwood,Jack Williams,Samuel Hubaka the third,Vasili Sukinov
+L 08/20/2021 - 04:56:09: server_cvar: "sv_alltalk" "3"
+L 08/20/2021 - 04:56:10: server_cvar: "sv_alltalk" "2"
+L 08/20/2021 - 04:56:46: "Cabbage9341™<11><STEAM_0:0:227773634><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 04:58:04: [ULX] M007 brought Samuel Hubaka the third
+L 08/20/2021 - 04:59:14: [ULX] M007 brought Anthonnia Redwood,Samuel Hubaka the third,Vasili Sukinov
+L 08/20/2021 - 04:59:40: "Optical<14><STEAM_0:0:460042086><>" connected, address "88.145.70.210:27005"
+L 08/20/2021 - 04:59:41: "Optical<14><STEAM_0:0:460042086><>" STEAM USERID validated
+L 08/20/2021 - 04:59:54: [ULX] M007 brought Anthonnia Redwood,Samuel Hubaka the third,Vasili Sukinov
+L 08/20/2021 - 04:59:56: "Optical<14><STEAM_0:0:460042086><>" entered the game
+L 08/20/2021 - 05:00:22: "Optical<14><STEAM_0:0:460042086><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 05:01:20: "Tzar<4><STEAM_0:0:140210729><>" disconnected (reason "Disconnect by user.")
+L 08/20/2021 - 05:01:28: "Wakeful<12><STEAM_0:0:237114985><>" disconnected (reason "Server shutting down")
+L 08/20/2021 - 05:01:28: "AuraKille<5><STEAM_0:0:149527995><>" disconnected (reason "Server shutting down")
+L 08/20/2021 - 05:01:28: "Simpsons Vice City TF2EASY.COM<13><STEAM_0:1:518963835><>" disconnected (reason "Server shutting down")
+L 08/20/2021 - 05:01:28: server_message: "quit"
+L 08/20/2021 - 05:01:28: Log file closed.

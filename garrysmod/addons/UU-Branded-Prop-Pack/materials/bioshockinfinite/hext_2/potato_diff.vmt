@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BioshockInfinite/Hext_2/Potato_DIFF"
+	"$bumpmap" "BioshockInfinite/Hext_2/Potato_NORM"
+	"$surfaceprop" "Dirt"
+}

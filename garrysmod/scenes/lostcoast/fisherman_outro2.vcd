@@ -1,0 +1,106 @@
+// Choreo version 1
+event stoppoint "stop"
+{
+  time 10.916667 -1.000000
+  param "noaction"
+}
+actor "Fisherman"
+{
+  channel "Audio"
+  {
+    event speak "lostcoast.fish_gettingfuzzy"
+    {
+      time 0.562500 2.699280
+      param "lostcoast.fish_gettingfuzzy"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "ati_2002.fish_otherplaces"
+    {
+      time 3.027779 6.072677
+      param "lostcoast.fish_otherplaces"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "fish_niceknowingya"
+    {
+      time 6.777778 8.594037
+      param "lostcoast.fish_niceknowingya"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "player"
+    {
+      time 0.064238 8.763996
+      param "!player"
+      event_ramp
+      {
+        0.8625 0.7137
+        1.1250 0.8235
+        1.8400 0.8941
+        3.7542 0.8941
+        5.6148 0.8941
+        7.0105 0.8784
+        7.6316 0.8392
+        7.9879 0.7412
+      }
+    }
+  }
+  channel "face to"
+  {
+    event face "player"
+    {
+      time 0.022416 8.785536
+      param "!player"
+      event_ramp
+      {
+        0.6400 0.8431
+        0.8950 0.9686
+        1.1650 1.0000
+        7.1717 1.0000
+        8.7632 1.0000
+      }
+    }
+  }
+  channel "move to"
+  {
+  }
+  channel "Postures"
+  {
+  }
+  channel "Gestures"
+  {
+  }
+  channel "body gesture"
+  {
+  }
+  channel "Head flex"
+  {
+  }
+  channel "Flex Facial"
+  {
+  }
+  channel "Trigger"
+  {
+  }
+  channel "Interrupt"
+  {
+  }
+}
+mapname "maps\d2_lostcoast.bsp"
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off

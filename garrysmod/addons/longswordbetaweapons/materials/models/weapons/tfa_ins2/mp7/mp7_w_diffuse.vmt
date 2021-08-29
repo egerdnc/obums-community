@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+     	"$basetexture" 			"models\weapons\tfa_ins2\mp7\mp7_diffuse.vtf"
+     	"$bumpmap" 			"models\weapons\tfa_ins2\mp7\mp7_bump.vtf"
+	
+	"$nocull" 			"1"
+	
+    	"$normalmapalphaenvmapmask" 	"1"
+	
+	"$envmap" 			"env_cubemap"
+	"$envmaptint" 			"[.007 .007 .007]"
+	
+	"$phongtint" 			"[0.6 0.8 1]"
+	
+	"$phong" 			"1"
+	"$phongexponent"		"20"
+	"$phongboost" 			"1.2"
+	"$phongfresnelranges"		"[0.5 1.5 3.0]"//"[0.1 0.4 .8]"
+	"$halflambert"			"1"
+}

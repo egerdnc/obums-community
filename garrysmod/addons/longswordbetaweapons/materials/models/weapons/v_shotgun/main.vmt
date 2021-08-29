@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/V_shotgun/main"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[0.8 0.8 0.8 ]"	
+	"$bumpmap" "models/weapons/v_shotgun/main_normal"
+	"$envmapsaturation" .1
+	"$envmapcontrast" 1
+
+}
+ 

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\bloo_ltcom_zel\citizens\facemaps\naomi_facemap6"
+    "$bumpmap"     "models\bloo_ltcom_zel\citizens\facemaps\naomi_facemap_n"
+	"$halflambert" 1
+	
+	"$phong" 1
+	"$phongboost" 0.1
+	"$phongexponent" 0.5
+	"$phongtint" "[1 1 1]"
+	"$phongfresnelranges" "[0.2 .85 30]"
+	"$phongalbedotint" "1"
+	
+	"$rimlight" "0"	
+	"$rimlightexponent" "15"
+	"$rimlightboost" "0.2"
+}

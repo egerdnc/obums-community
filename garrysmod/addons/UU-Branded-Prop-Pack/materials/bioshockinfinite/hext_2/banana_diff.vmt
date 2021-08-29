@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "BioshockInfinite/Hext_2/Banana_DIFF"
+	"$bumpmap" "BioshockInfinite/Hext_2/Banana_NORM"
+	"$surfaceprop" "Flesh"
+}
