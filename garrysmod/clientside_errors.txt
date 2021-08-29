@@ -8218,3 +8218,36 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/brewing/sh_plugin.lua:37: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/brewing/sh_plugin.lua:37
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+     4. SetEntity - gamemodes/helix/gamemode/core/derma/cl_tooltip.lua:285
+      5. unknown - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:544
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/brewing/sh_plugin.lua:37: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/brewing/sh_plugin.lua:37
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+     4. SetEntity - gamemodes/helix/gamemode/core/derma/cl_tooltip.lua:285
+      5. unknown - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:544
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/brewing/sh_plugin.lua:37: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/brewing/sh_plugin.lua:37
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:477
+     4. SetEntity - gamemodes/helix/gamemode/core/derma/cl_tooltip.lua:285
+      5. unknown - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:544
+
+
+

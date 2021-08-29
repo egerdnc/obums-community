@@ -3,7 +3,7 @@ AddCSLuaFile()
 ENT.Base = "base_entity"
 ENT.Type = "anim"
 ENT.PrintName = "ATM"
-ENT.Category = "Helix"
+ENT.Category = "Helix";
 ENT.Spawnable = true
 ENT.RenderGroup = RENDERGROUP_BOTH
 

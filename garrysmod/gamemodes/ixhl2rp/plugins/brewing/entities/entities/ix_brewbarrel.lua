@@ -23,7 +23,7 @@ local comboRisk = {
 
 if SERVER then
   function ENT:Initialize()
-    self:SetModel("models/props_c17/oildrum001.mdl");
+    self:SetModel("models/props/de_inferno/wine_barrel.mdl");
     self:SetSolid(SOLID_VPHYSICS);
     self:PhysicsInit(SOLID_VPHYSICS);
 
