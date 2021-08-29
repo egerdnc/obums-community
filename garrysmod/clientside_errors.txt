@@ -7788,3 +7788,15 @@ Hamood|2|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_item.lua:224: unexpected symbol near ','
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+

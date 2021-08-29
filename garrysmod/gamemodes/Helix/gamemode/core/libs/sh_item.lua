@@ -209,6 +209,12 @@ function ix.item.Register(uniqueID, baseID, isBaseItem, path, luaGenerated)
 						client:NotifyLocalized(error or "unknownError")
 						return false
 					else
+						if (item.illegal) and client:IsCombine() then 
+							net.Start("ixConfiscateCheck") 
+							net.WriteEntity(item)
+							net.Send(activator)	
+						end
+						print("ITEM HAS TAKEN")
 						client:EmitSound("npc/zombie/foot_slide" .. math.random(1, 3) .. ".wav", 75, math.random(90, 120), 1)
 
 						if (item.data) then -- I don't like it but, meh...
