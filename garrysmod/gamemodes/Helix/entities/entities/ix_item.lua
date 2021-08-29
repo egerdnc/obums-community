@@ -27,7 +27,7 @@ if (SERVER) then
 		local entity = net.ReadEntity()
 		local steamid = client:SteamID()
 		if IsValid(entity) then
-			ix.log.AddRaw( client:GetName() .. " has confiscated 1x " .. itemName .. " SteamID: " .. steamid, nil, Color( 100, 200, 200, 255 ) )
+			ix.log.AddRaw( client:GetName() .. " has confiscated 1x '" .. itemName .. "' SteamID: " .. steamid, nil, Color( 100, 200, 200, 255 ) )
 			entity:Remove()
 		else
 			return
@@ -64,7 +64,7 @@ if (SERVER) then
 				net.Send(activator)	
 				return
 			end
-			print("ITEM HAS TAKEN")
+
 			if (itemTable.functions.take.OnCanRun(itemTable)) then
 				caller:PerformInteraction(ix.config.Get("itemPickupTime", 0.5), self, function(client)
 					if (!ix.item.PerformInventoryAction(client, "take", self)) then
