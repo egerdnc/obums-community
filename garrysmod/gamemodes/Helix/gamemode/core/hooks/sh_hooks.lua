@@ -433,7 +433,7 @@ function GM:CanPlayerUseCharacter(client, character)
 	local bHasWhitelist = client:HasWhitelist(character:GetFaction())
 
 	if (!bHasWhitelist) then
-		return false, "@noWhitelist"
+		--return false, "@noWhitelist"
 	end
 end
 

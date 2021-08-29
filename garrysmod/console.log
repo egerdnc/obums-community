@@ -119,7 +119,7 @@ KeyValues Error: LoadFromBuffer: missing { in file materials/models/weapons/tfa_
    2. v - addons/serverguard/lua/sg_server.lua:38
     3. unknown - lua/includes/modules/hook.lua:84
 
-[07:23][ServerGuard] [mysql] Connected to the database!
+[08:02][ServerGuard] [mysql] Connected to the database!
 material models/bloo_ltcom_zel/citizens/glassesside_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
 
 material models/bloo_ltcom_zel/citizens/glassesfront_walter has a normal map and an envmapmask.  Must use $normalmapalphaenvmapmask.
@@ -130,13 +130,222 @@ Using map cycle file cfg/mapcycle.txt.
 Attempted to create unknown entity type info_ladder!
 Failed to load .nav file: Cannot access!
 Server logging enabled.
-Server logging data to file logs\L0829007.log
-L 08/29/2021 - 07:23:23: Log file started (file "logs\L0829007.log") (game "C:\brock-community\garrysmod") (version "8283")
+Server logging data to file logs\L0829015.log
+L 08/29/2021 - 08:02:37: Log file started (file "logs\L0829015.log") (game "C:\brock-community\garrysmod") (version "8283")
 'banned_ip.cfg' not present; not executing.
 [mysql] Connected to the database!
 Database Type: sqlite.
-[07:23][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
+[08:02][ServerGuard] Player 'Hamood' [STEAM_0:0:420247449] is attempting to connect.
 Client "Hamood" connected (192.168.1.2:27006).
 [mysql] SQL Query Error!
 Query: ALTER TABLE `serverguard_reports` ADD `member` VARCHAR(255) NOT NULL DEFAULT '0';
 duplicate column name: member
+[LOG] Hamood has connected.
+Loaded (1) for Hamood
+[LOG] Hamood loaded the character 'CP-C20.UNION-i4-1540'
+[LOG] Dex Mcgugget ran 'drop' on item 'MP7' (#12)
+[LOG] Dex Mcgugget has lost a 'MP7' #12.
+
+[ERROR] gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:67: attempt to call method 'AddCombineDisplayMessage' (a nil value)
+  1. OnTransferred - gamemodes/ixhl2rp/schema/factions/sh_metropolice.lua:67
+   2. OnRun - gamemodes/helix/gamemode/core/sh_commands.lua:723
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:497
+     4. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:560
+      5. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:298
+       6. func - gamemodes/helix/plugins/chatbox/sh_plugin.lua:148
+        7. unknown - lua/includes/extensions/net.lua:32
+
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #12.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #12.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #12.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #12.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #12.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #12.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #12.
+[LOG] CP-C20.UNION-i4-9623 ran 'Rotate' on item 'MP7' (#12)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #13.
+[LOG] CP-C20.UNION-i4-9623 ran 'Rotate' on item 'MP7' (#13)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+ITEM HAS TAKEN
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+ITEM HAS TAKEN
+[LOG] CP-C20.UNION-i4-9623 ran 'take' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has gained a 'MP7' #14.
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:986: unexpected symbol near ','
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:96
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+[LOG] CP-C20.UNION-i4-9623 ran 'drop' on item 'MP7' (#14)
+[LOG] CP-C20.UNION-i4-9623 has lost a 'MP7' #14.
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] Trying to remove server entity ix_item#94 on client!
+  1. Func - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:983
+   2. DoClick - lua/derma/derma_utils.lua:142
+    3. unknown - lua/vgui/dlabel.lua:237
+
+
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:25: '=' expected near 'function'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:25: '=' expected near 'function'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:27: unexpected symbol near 'end'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:27: unexpected symbol near 'end'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:27: unexpected symbol near 'end'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:27: unexpected symbol near 'end'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:28: 'then' expected near 'end'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:28: 'then' expected near 'end'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:28: unexpected symbol near ')'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:28: unexpected symbol near ')'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:29: unexpected symbol near ')'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:29: unexpected symbol near ')'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+Unknown command "asd"
+[LOG] CP-C20.UNION-i4-9623 has used the Item Menu to spawn a MP5k (mp5k) at 2104.984375 3893.501953 557.245239
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:29: '<name>' expected near 'if'
+
+Refusing to load ix_item because it is missing Type and Base keys!
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:29: '<name>' expected near 'if'
+
+
+[Hamood|2|STEAM_0:0:420247449] Lua Error:
+Refusing to load ix_item because it is missing Type and Base keys!
+
+[LOG] CP-C20.UNION-i4-9623 has used the Item Menu to spawn a MP7 (mp7) at 2135.247314 3886.668701 557.245239
+[LOG] CP-C20.UNION-i4-9623 has confiscated 1x MP7 SteamID: STEAM_0:0:420247449
+[LOG] Dex Mcgugget used command '/PlyTransfer 9623 citizen'.
+[LOG] Dex Mcgugget has used the Item Menu to spawn a MP7 (mp7) at 2102.613037 3985.142822 557.245239
+ITEM HAS TAKEN
+ITEM HAS TAKEN
+[LOG] Dex Mcgugget ran 'take' on item 'MP7' (#9)
+[LOG] Dex Mcgugget has gained a 'MP7' #9.
+[LOG] Dex Mcgugget ran 'drop' on item 'MP7' (#9)
+[LOG] Dex Mcgugget has lost a 'MP7' #9.
+ITEM HAS TAKEN
+[LOG] Dex Mcgugget ran 'take' on item 'MP7' (#9)
+[LOG] Dex Mcgugget has gained a 'MP7' #9.

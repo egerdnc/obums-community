@@ -54,7 +54,6 @@ function setCharacterCitizen(character, client)
 	local model = character:GetData("citizen-model")
 	local name = character:GetData("citizen-name")
 	local bodygroup = character:GetData("citizen-bodygroup")
-	if model == nil or model == "" then initCitizenData(character) return end
 	
 	character:SetFaction(3)
 	character:SetModel(model)

@@ -974,22 +974,19 @@ hook.Add("player_spawn", "ixPlayerSpawn", function(data)
 end)
 
 net.Receive("ixConfiscateCheck", function()
-	local item = net.ReadEntity()
-
-	if IsValid(item) then
-		local request = Derma_Query("Would you like to confiscate this "..item.HUDName.."?", 
-			"impulse",
-			"Confiscate",
-			function()
-				net.Start("ixDoConfiscate")
+	local entity = net.ReadEntity()
+	local itemName = net.ReadString()
+	
+	if itemName ~= nil or itemName ~= "" then
+		local request = Derma_Query( "Would you like to confiscate this ".. itemName, "Obums Community", "Yes", function()
+			if IsValid(entity) then
+				net.Start("ixConfiscateItem")
+					net.WriteString(itemName)
+					net.WriteEntity(entity)
 				net.SendToServer()
-			end,
-			"Cancel")
-
-		function request:Think()
-			if not item or not IsValid(item) then
-				self:Remove()
+			else
+				return
 			end
-		end
+		end, "No" )
 	end
 end)
