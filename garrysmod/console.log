@@ -1,4 +1,4 @@
-WS: Waiting for Steam to log us in......
+WS: Waiting for Steam to log us in.....
 WS: Fetching collection info...
 Processing collection 2579826545...
    Collection 'Brocks Community' (11 items)
@@ -30,17 +30,41 @@ Processing addon 2: Half-Life 2 Beta Weapons Pack V2 (254077907)...
 Processing addon 1: Ultimate Workshop Downloader (2214712098)...
    Mounted!
 WS: Finished!
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\advanced-duplicator-2'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\aml'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\autoicons'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\combine soldier vests'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\enhanced-citizens-v4'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\longsword'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\longswordbetaweapons'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\new-door-stool'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\precision-tool'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\serverguard'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\serverguard-content'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\sside-content'
-Adding Filesystem Addon 'f:\obums-community\garrysmod\addons\uu-branded-prop-pack'
-Unable to load manifest file 'scripts/game_sounds_manifest.txt'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\advanced-duplicator-2'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\aml'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\autoicons'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\combine soldier vests'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\enhanced-citizens-v4'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longsword'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\longswordbetaweapons'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\new-door-stool'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\precision-tool'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\serverguard-content'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\sside-content'
+Adding Filesystem Addon 'c:\brock-community\garrysmod\addons\uu-branded-prop-pack'
+Changing gamemode to HL2 RP (ixhl2rp)
+Network: IP 192.168.1.2, mode MP, dedicated Yes, ports 27015 SV / 27005 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+Extracting BSP to map.pack in order to mount BSP embedded content...
+PREP OK
+Couldn't write map.pack to mount embedded content!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters006b.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters006b.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters005b.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/decals/decal_posters005b.vmt
+LightmappedGeneric, 
+MDLCache: Failed load of .VTX data for props_c17\Handrail03_Medium.mdl
+MDLCache: Failed load of .VTX data for surgeon/tv01_regular.mdl
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+CStaticProp::Init:  Map error, static_prop with bogus SOLID_ flag (3)! (models/props_c17/light_decklight01_on.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_combine/tpcontrollerscreens.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_downtown/light02_32.mdl)
