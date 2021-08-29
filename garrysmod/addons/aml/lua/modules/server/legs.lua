@@ -15,14 +15,16 @@ function FallLegs(ply, attacker)
 			ply:Notify("You broke your legs!")
 			BrokenLegs[ply] = true
 			
-			if BrokenLegs[ply] == true then
-				timer.Simple(180, function()
-					ply:SetRunSpeed(240)
-					ply:SetWalkSpeed(124)
-					ply:Notify("Your legs are good again!")
-					BrokenLegs[ply] = false
-				end)
-			end
+			timer.Simple(5, function()
+				if BrokenLegs[ply] == true then
+					timer.Simple(180, function()
+						ply:SetRunSpeed(240)
+						ply:SetWalkSpeed(124)
+						ply:Notify("Your legs are good again!")
+						BrokenLegs[ply] = false
+					end)
+				end
+			end)
 		end
 	end
 end
