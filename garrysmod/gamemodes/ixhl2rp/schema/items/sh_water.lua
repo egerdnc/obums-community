@@ -4,6 +4,7 @@ ITEM.weight = 0.1
 ITEM.model = Model("models/props_junk/popcan01a.mdl")
 ITEM.description = "A blue aluminium can of plain water."
 ITEM.category = "Consumables"
+ITEM.illegal = false
 
 ITEM.functions.Drink = {
 	OnRun = function(itemTable)

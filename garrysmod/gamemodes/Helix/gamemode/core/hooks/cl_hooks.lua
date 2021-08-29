@@ -972,3 +972,21 @@ hook.Add("player_spawn", "ixPlayerSpawn", function(data)
 		client:SetupBones()
 	end
 end)
+
+net.Receive("ixConfiscateCheck", function()
+	local entity = net.ReadEntity()
+	local itemName = net.ReadString()
+	
+	if itemName ~= nil or itemName ~= "" then
+		local request = Derma_Query( "Would you like to confiscate this ".. itemName, "Obums Community", "Yes", function()
+			if IsValid(entity) then
+				net.Start("ixConfiscateItem")
+					net.WriteString(itemName)
+					net.WriteEntity(entity)
+				net.SendToServer()
+			else
+				return
+			end
+		end, "No" )
+	end
+end)

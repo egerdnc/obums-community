@@ -6,6 +6,7 @@ ITEM.weaponCategory = "primary"
 ITEM.classes = {CLASS_EOW}
 ITEM.width = 4
 ITEM.height = 2
+ITEM.illegal = true
 ITEM.iconCam = {
 	ang	= Angle(-0.70499622821808, 268.25439453125, 0),
 	fov	= 12.085652091515,

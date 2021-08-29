@@ -7683,3 +7683,433 @@ Hamood|4|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:17: function arguments expected near 'for'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:28: ')' expected (to close '(' at line 22) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:25: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: 'then' expected near 'self'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:15: function arguments expected near ':'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:35: ')' expected (to close '(' at line 14) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:35: ')' expected (to close '(' at line 14) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_item.lua:224: unexpected symbol near ','
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_item.lua:5: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_item.lua:5
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_item.lua:5: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_item.lua:5
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_item.lua:5: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/libs/sh_item.lua:5
+   2. Include - [C]:-1
+    3. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+     4. unknown - gamemodes/helix/gamemode/shared.lua:94
+      5. include - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+[Helix] Something has errored and prevented the framework from loading correctly - check your console for errors!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:345: attempt to index field 'mainButtonList' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:345
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_intro.lua:277: attempt to index global 'Schema' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_intro.lua:277
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:535: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:535
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1112: 'then' expected near 'for'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1119: unexpected symbol near ')'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1119: unexpected symbol near ')'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1119: unexpected symbol near ')'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_character.lua:1065: 'end' expected (to close 'function' at line 865) near 'else'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:94
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980: attempt to concatenate field 'HUDName' (a nil value)
+  1. func - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980: attempt to concatenate field 'HUDName' (a nil value)
+  1. func - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980: attempt to concatenate field 'HUDName' (a nil value)
+  1. func - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980: attempt to concatenate field 'name' (a nil value)
+  1. func - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980: unexpected symbol near 'if'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:96
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:980: unexpected symbol near 'if'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:96
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:50: ')' expected near 'string'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:50: ')' expected near 'string'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:986: ')' expected near 'entity'
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:96
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:986: unexpected symbol near ','
+  1. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+   2. unknown - gamemodes/helix/gamemode/shared.lua:96
+    3. include - [C]:-1
+     4. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+      5. DeriveGamemode - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] Trying to remove server entity ix_item#94 on client!
+  1. Func - gamemodes/helix/gamemode/core/hooks/cl_hooks.lua:983
+   2. DoClick - lua/derma/derma_utils.lua:142
+    3. unknown - lua/vgui/dlabel.lua:237
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:25: '=' expected near 'function'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:27: unexpected symbol near 'end'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:27: unexpected symbol near 'end'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:28: 'then' expected near 'end'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:28: unexpected symbol near ')'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:29: unexpected symbol near ')'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/helix/entities/entities/ix_item.lua:29: '<name>' expected near 'if'
+
+
+
+Hamood|2|STEAM_0:0:420247449
+Refusing to load ix_item because it is missing Type and Base keys!
+
+

@@ -18,7 +18,21 @@ if (SERVER) then
 	local invalidBoundsMin = Vector(-8, -8, -8)
 	local invalidBoundsMax = Vector(8, 8, 8)
 
+	util.AddNetworkString("ixConfiscateCheck")
 	util.AddNetworkString("ixItemEntityAction")
+	util.AddNetworkString("ixConfiscateItem")
+
+	net.Receive("ixConfiscateItem", function(length, client)
+		local itemName = net.ReadString()
+		local entity = net.ReadEntity()
+		local steamid = client:SteamID()
+		if IsValid(entity) then
+			ix.log.AddRaw( client:GetName() .. " has confiscated 1x '" .. itemName .. "' SteamID: " .. steamid, nil, Color( 100, 200, 200, 255 ) )
+			entity:Remove()
+		else
+			return
+		end
+	end)
 
 	function ENT:Initialize()
 		self:SetModel("models/props_junk/watermelon01.mdl")
@@ -43,6 +57,13 @@ if (SERVER) then
 		if (IsValid(caller) and caller:IsPlayer() and caller:GetCharacter() and itemTable) then
 			itemTable.player = caller
 			itemTable.entity = self
+			if (itemTable.illegal == true) and caller:IsCombine() then 
+				net.Start("ixConfiscateCheck") 
+					net.WriteEntity(itemTable.entity)
+					net.WriteString(itemTable.name)
+				net.Send(activator)	
+				return
+			end
 
 			if (itemTable.functions.take.OnCanRun(itemTable)) then
 				caller:PerformInteraction(ix.config.Get("itemPickupTime", 0.5), self, function(client)

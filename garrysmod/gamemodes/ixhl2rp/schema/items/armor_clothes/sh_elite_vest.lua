@@ -6,6 +6,7 @@ ITEM.width = 2
 ITEM.weight = 10
 ITEM.height = 2
 ITEM.maxArmor = 100
+ITEM.illegal = true
 
 if (CLIENT) then
 	function ITEM:PopulateTooltip(tooltip)

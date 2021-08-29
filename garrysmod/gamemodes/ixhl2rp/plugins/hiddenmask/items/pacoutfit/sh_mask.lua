@@ -2,6 +2,7 @@ ITEM.name = "Mask"
 ITEM.description = "A mask hiding your face."
 ITEM.category = "Clothing"
 ITEM.outfitCategory = "face"
+ITEM.illegal = true
 ITEM.model = "models/sal/halloween/ninja.mdl"
 ITEM.width = 1
 ITEM.weight = 0.1

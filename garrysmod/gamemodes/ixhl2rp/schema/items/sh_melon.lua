@@ -4,6 +4,7 @@ ITEM.model = Model("models/props_junk/watermelon01.mdl")
 ITEM.width = 1
 ITEM.weight = 3
 ITEM.height = 1
+ITEM.illegal = false
 ITEM.description = "A green fruit, it has a hard outer shell."
 ITEM.category = "Consumables"
 ITEM.permit = "consumables"

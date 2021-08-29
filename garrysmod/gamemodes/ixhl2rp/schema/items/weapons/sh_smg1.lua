@@ -7,6 +7,7 @@ ITEM.classes = {CLASS_EMP, CLASS_EOW}
 ITEM.flag = "V"
 ITEM.width = 3
 ITEM.height = 2
+ITEM.illegal = true
 ITEM.iconCam = {
 	ang	= Angle(-0.020070368424058, 270.40155029297, 0),
 	fov	= 7.2253324508038,
