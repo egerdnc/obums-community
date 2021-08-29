@@ -7683,3 +7683,48 @@ Hamood|4|STEAM_0:0:420247449
 
 
 
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:17: function arguments expected near 'for'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:28: ')' expected (to close '(' at line 22) near 'end'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+Hamood|2|STEAM_0:0:420247449
+
+[ERROR] gamemodes/ixhl2rp/plugins/ammobox/entities/entities/ix_ammocrate.lua:25: unexpected symbol near ')'
+  1. HandleEntityInclusion - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:174
+   2. LoadEntities - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:210
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:50
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:254
+       6. Call - gamemodes/helix/gamemode/shared.lua:142
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
