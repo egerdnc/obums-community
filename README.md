@@ -18,5 +18,5 @@ Dont make any other origin except master and origin.\
 Dont push the cache files.\
 Before commiting something **don't forget to double check your code / asset**.
 ##
-[Extra files (garrysmod.rar)](https://mega.nz/file/STJCkRRQ#RuCvv3tvISNHfviSqVrmL50a_5xz77cwfVQ65PBpcMA)
+[Extra files (garrysmod.rar)](https://mega.nz/file/STJCkRRQ#RuCvv3tvISNHfviSqVrmL50a_5xz77cwfVQ65PBpcMA)\
 This server is fully for public and before selling or re-releasing it dont forget to take a look at LICENSE file.
